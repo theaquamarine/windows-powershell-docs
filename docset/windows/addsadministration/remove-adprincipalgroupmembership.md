@@ -321,21 +321,22 @@ By default, this cmdlet does not generate any output.
 
 ## RELATED LINKS
 
-[Add-ADGroupMember](./Add-ADGroupMember.md)
+[Add-ADGroupMember](./add-adgroupmember.md)
 
-[Add-ADPrincipalGroupMembership](./Add-ADPrincipalGroupMembership.md)
+[Add-ADPrincipalGroupMembership](./add-adprincipalgroupmembership.md)
 
-[Get-ADComputer](./Get-ADComputer.md)
+[Get-ADComputer](./get-adcomputer.md)
 
-[Get-ADGroup](./Get-ADGroup.md)
+[Get-ADGroup](./get-adgroup.md)
 
-[Get-ADGroupMember](./Get-ADGroupMember.md)
+[Get-ADGroupMember](./get-adgroupmember.md)
 
-[Get-ADPrincipalGroupMembership](./Get-ADPrincipalGroupMembership.md)
+[Get-ADPrincipalGroupMembership](./get-adprincipalgroupmembership.md)
 
-[Get-ADServiceAccount](./Get-ADServiceAccount.md)
+[Get-ADServiceAccount](./get-adserviceaccount.md)
 
-[Get-ADUser](./Get-ADUser.md)
+[Get-ADUser](./get-aduser.md)
 
-[Remove-ADGroupMember](./Remove-ADGroupMember.md)
+[Remove-ADGroupMember](./remove-adgroupmember.md)
+
 

@@ -216,9 +216,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-ClusterVMMonitoredItem](./Add-ClusterVMMonitoredItem.md)
+[Add-ClusterVMMonitoredItem](./add-clustervmmonitoreditem.md)
 
-[Get-ClusterVMMonitoredItem](./Get-ClusterVMMonitoredItem.md)
+[Get-ClusterVMMonitoredItem](./get-clustervmmonitoreditem.md)
 
-[Reset-ClusterVMMonitoredState](./Reset-ClusterVMMonitoredState.md)
+[Reset-ClusterVMMonitoredState](./reset-clustervmmonitoredstate.md)
+
 

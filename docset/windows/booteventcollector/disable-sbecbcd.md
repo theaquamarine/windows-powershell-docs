@@ -217,13 +217,14 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Disable-SbecAutologger](./Disable-SbecAutologger.md)
+[Disable-SbecAutologger](./disable-sbecautologger.md)
 
-[Enable-SbecAutologger](./Enable-SbecAutologger.md)
+[Enable-SbecAutologger](./enable-sbecautologger.md)
 
-[Enable-SbecBcd](./Enable-SbecBcd.md)
+[Enable-SbecBcd](./enable-sbecbcd.md)
 
-[Enable-SbecBootImage](./Enable-SbecBootImage.md)
+[Enable-SbecBootImage](./enable-sbecbootimage.md)
 
-[Enable-SbecWdsBcd](./Enable-SbecWdsBcd.md)
+[Enable-SbecWdsBcd](./enable-sbecwdsbcd.md)
+
 

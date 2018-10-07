@@ -24,13 +24,14 @@ ms.assetid: 29C55F63-4B4F-4E08-919C-E23079F69F7C
 This reference provides cmdlet descriptions and syntax for the following Network Logical Link Discovery Protocol (LLDP) Agent cmdlets:
 
 ## NetLdpAgent Cmdlets
-### [Disable-NetLldpAgent](./Disable-NetLldpAgent.md)
+### [Disable-NetLldpAgent](./disable-netlldpagent.md)
 Disables LLDP on a network interface on a computer.
 
-### [Enable-NetLldpAgent](./Enable-NetLldpAgent.md)
+### [Enable-NetLldpAgent](./enable-netlldpagent.md)
 Enables LLDP on a network interface on a computer.
 
-### [Get-NetLldpAgent](./Get-NetLldpAgent.md)
+### [Get-NetLldpAgent](./get-netlldpagent.md)
 Gets the settings of the LLDP agent on a network interface on a host computer.
+
 
 

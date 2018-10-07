@@ -29,7 +29,7 @@ Set-DisplayResolution [-Width] <Object> [-Height] <Object> [-Force] [<CommonPara
 ```
 
 ## DESCRIPTION
-The **Set-DisplayResolution** cmdlet changes the display resolution for Windows Server® 2012 in Server Core mode.
+The **Set-DisplayResolution** cmdlet changes the display resolution for Windows Server?? 2012 in Server Core mode.
 Specify both the width and the height in pixels.
 Unless you use the *Force* parameter, the cmdlet prompts you before it changes the settings.
 You can use the Get-DisplayResolution cmdlet to view the current resolution.
@@ -123,5 +123,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-DisplayResolution](./Get-DisplayResolution.md)
+[Get-DisplayResolution](./get-displayresolution.md)
+
 

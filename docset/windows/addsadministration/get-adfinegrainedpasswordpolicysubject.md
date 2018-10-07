@@ -180,7 +180,8 @@ Returns principal objects that represent the users and groups to which the fine-
 
 ## RELATED LINKS
 
-[Add-ADFineGrainedPasswordPolicySubject](./Add-ADFineGrainedPasswordPolicySubject.md)
+[Add-ADFineGrainedPasswordPolicySubject](./add-adfinegrainedpasswordpolicysubject.md)
 
-[Remove-ADFineGrainedPasswordPolicySubject](./Remove-ADFineGrainedPasswordPolicySubject.md)
+[Remove-ADFineGrainedPasswordPolicySubject](./remove-adfinegrainedpasswordpolicysubject.md)
+
 

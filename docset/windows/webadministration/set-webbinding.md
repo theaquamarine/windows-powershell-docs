@@ -197,9 +197,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-WebBinding](./Get-WebBinding.md)
+[Get-WebBinding](./get-webbinding.md)
 
-[New-WebBinding](./New-WebBinding.md)
+[New-WebBinding](./new-webbinding.md)
 
-[Remove-WebBinding](./Remove-WebBinding.md)
+[Remove-WebBinding](./remove-webbinding.md)
+
 

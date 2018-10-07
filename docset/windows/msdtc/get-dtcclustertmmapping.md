@@ -102,7 +102,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -132,9 +132,10 @@ If you do not specify a **MappingName**, this cmdlet gets all mappings.
 
 ## RELATED LINKS
 
-[Add-DtcClusterTMMapping](./Add-DtcClusterTMMapping.md)
+[Add-DtcClusterTMMapping](./add-dtcclustertmmapping.md)
 
-[Remove-DtcClusterTMMapping](./Remove-DtcClusterTMMapping.md)
+[Remove-DtcClusterTMMapping](./remove-dtcclustertmmapping.md)
 
-[Set-DtcClusterTMMapping](./Set-DtcClusterTMMapping.md)
+[Set-DtcClusterTMMapping](./set-dtcclustertmmapping.md)
+
 

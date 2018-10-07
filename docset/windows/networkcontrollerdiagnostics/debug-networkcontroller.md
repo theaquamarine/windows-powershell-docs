@@ -203,7 +203,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Debug-NetworkControllerConfigurationState](./Debug-NetworkControllerConfigurationState.md)
+[Debug-NetworkControllerConfigurationState](./debug-networkcontrollerconfigurationstate.md)
 
-[Debug-ServiceFabricNodeStatus](./Debug-ServiceFabricNodeStatus.md)
+[Debug-ServiceFabricNodeStatus](./debug-servicefabricnodestatus.md)
+
 

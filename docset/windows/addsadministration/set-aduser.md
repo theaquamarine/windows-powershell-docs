@@ -1495,11 +1495,12 @@ By default, this cmdlet does not generate any output.
 
 ## RELATED LINKS
 
-[Get-ADUser](./Get-ADUser.md)
+[Get-ADUser](./get-aduser.md)
 
-[New-ADUser](./New-ADUser.md)
+[New-ADUser](./new-aduser.md)
 
-[Remove-ADUser](./Remove-ADUser.md)
+[Remove-ADUser](./remove-aduser.md)
 
-[Set-ADAccountControl](./Set-ADAccountControl.md)
+[Set-ADAccountControl](./set-adaccountcontrol.md)
+
 

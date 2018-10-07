@@ -79,7 +79,7 @@ ForceTunnelingStatus  : Enabled
 ForceTunnelingNrptSuffix  : .
 ```
 
-This example enables Windows® 7 clients to connect to the corporate networking over DA.
+This example enables Windows?? 7 clients to connect to the corporate networking over DA.
 There are multiple steps involved in achieving this configuration.
 By default PKI is disabled during DA installation and it needs to be enabled.
 This is achieved by provisioning an IPsec root certificate on the DA server using the Set-DAServer cmdlet.
@@ -87,8 +87,8 @@ The enterprise needs to have a certification authority (CA) which will provision
 The first two steps list out the certificates present in the root certificate store of the server computer and pick an appropriate one.
 In this case it happens to be the 13th certificate in the list.
 This certificate is then assigned as the IPsec root certificate to enable PKI.
-Once this is done the Down-level parameter in this cmdlet is set to Enabled to enable DA for Windows® 7 clients.
-This causes appropriate policies to be configured on Windows® 7 computer only.
+Once this is done the Down-level parameter in this cmdlet is set to Enabled to enable DA for Windows?? 7 clients.
+This causes appropriate policies to be configured on Windows?? 7 computer only.
 
 ## PARAMETERS
 
@@ -155,7 +155,7 @@ Accept wildcard characters: False
 ```
 
 ### -Downlevel
-Specifies that the appropriate policies should be deployed on down-level clients (firstref_client_7) clients for allowing connection to a Windows Server® 2012 DA server.
+Specifies that the appropriate policies should be deployed on down-level clients (firstref_client_7) clients for allowing connection to a Windows Server?? 2012 DA server.
 The acceptable values for this parameter are: Enabled or Disabled. 
 
 This parameter can be configured only when multi-site is not deployed.
@@ -226,7 +226,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -278,7 +278,7 @@ The DAClientSettings object contains the following properties:
 
  -- The status of the policy to deploy DA only on laptops and notebooks and not on all computers in the domain. 
 
- -- The status of whether appropriate policies should be deployed on down-level clients (Windows® 7) to enable them to connect to the Windows Server 2012 DA server.
+ -- The status of whether appropriate policies should be deployed on down-level clients (Windows?? 7) to enable them to connect to the Windows Server 2012 DA server.
 
 ## NOTES
 
@@ -286,11 +286,12 @@ The DAClientSettings object contains the following properties:
 
 [Get-ChildItem](http://go.microsoft.com/fwlink/p/?LinkId=204557)
 
-[Add-DAClient](./Add-DAClient.md)
+[Add-DAClient](./add-daclient.md)
 
-[Get-DAClient](./Get-DAClient.md)
+[Get-DAClient](./get-daclient.md)
 
-[Remove-DAClient](./Remove-DAClient.md)
+[Remove-DAClient](./remove-daclient.md)
 
-[Set-DAServer](./Set-DAServer.md)
+[Set-DAServer](./set-daserver.md)
+
 

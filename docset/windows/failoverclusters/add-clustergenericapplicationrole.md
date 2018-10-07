@@ -108,7 +108,7 @@ Accept wildcard characters: False
 ```
 
 ### -CommandLine
-Specifies the Windows PowerShell® command line to use for the highly available generic application.
+Specifies the Windows PowerShell?? command line to use for the highly available generic application.
 If the full path is specified, then the current directory is parsed out of the Windows PowerShell command line.
 
 ```yaml
@@ -247,17 +247,18 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-ClusterGenericScriptRole](./Add-ClusterGenericScriptRole.md)
+[Add-ClusterGenericScriptRole](./add-clustergenericscriptrole.md)
 
-[Add-ClusterGenericServiceRole](./Add-ClusterGenericServiceRole.md)
+[Add-ClusterGenericServiceRole](./add-clustergenericservicerole.md)
 
-[Get-ClusterGroup](./Get-ClusterGroup.md)
+[Get-ClusterGroup](./get-clustergroup.md)
 
-[Move-ClusterGroup](./Move-ClusterGroup.md)
+[Move-ClusterGroup](./move-clustergroup.md)
 
-[Remove-ClusterGroup](./Remove-ClusterGroup.md)
+[Remove-ClusterGroup](./remove-clustergroup.md)
 
-[Start-ClusterGroup](./Start-ClusterGroup.md)
+[Start-ClusterGroup](./start-clustergroup.md)
 
-[Stop-ClusterGroup](./Stop-ClusterGroup.md)
+[Stop-ClusterGroup](./stop-clustergroup.md)
+
 

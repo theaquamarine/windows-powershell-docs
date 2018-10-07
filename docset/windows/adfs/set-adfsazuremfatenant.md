@@ -129,5 +129,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[New-AdfsAzureMfaTenantCertificate](./New-AdfsAzureMfaTenantCertificate.md)
+[New-AdfsAzureMfaTenantCertificate](./new-adfsazuremfatenantcertificate.md)
+
 

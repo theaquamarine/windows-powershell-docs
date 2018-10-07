@@ -231,7 +231,7 @@ A string that represents the GUID of a GPT disk.
 - **ClusterResource**.
 A cluster resource object that represents a clustered disk. 
 - **CimInstance#MSFT_Disk**.
-An object returned from Get-Disk, from the Windows PowerShell® storage module.
+An object returned from Get-Disk, from the Windows PowerShell?? storage module.
 
 ```yaml
 Type: Object[]
@@ -409,13 +409,14 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-Cluster](./Get-Cluster.md)
+[Get-Cluster](./get-cluster.md)
 
-[New-Cluster](./New-Cluster.md)
+[New-Cluster](./new-cluster.md)
 
-[Remove-Cluster](./Remove-Cluster.md)
+[Remove-Cluster](./remove-cluster.md)
 
-[Start-Cluster](./Start-Cluster.md)
+[Start-Cluster](./start-cluster.md)
 
-[Stop-Cluster](./Stop-Cluster.md)
+[Stop-Cluster](./stop-cluster.md)
+
 

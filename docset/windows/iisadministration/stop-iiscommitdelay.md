@@ -71,7 +71,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Start-IISCommitDelay](./Start-IISCommitDelay.md)
+[Start-IISCommitDelay](./start-iiscommitdelay.md)
 
 [IIS Administration Cmdlets for Windows PowerShell](./iisadministration.md)
+
 

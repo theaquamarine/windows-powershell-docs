@@ -117,13 +117,14 @@ The cmdlet outputs a class structure that represents the claims provider trusts 
 
 ## RELATED LINKS
 
-[Disable-AdfsClaimsProviderTrust](./Disable-AdfsClaimsProviderTrust.md)
+[Disable-AdfsClaimsProviderTrust](./disable-adfsclaimsprovidertrust.md)
 
-[Enable-AdfsClaimsProviderTrust](./Enable-AdfsClaimsProviderTrust.md)
+[Enable-AdfsClaimsProviderTrust](./enable-adfsclaimsprovidertrust.md)
 
-[Remove-AdfsClaimsProviderTrust](./Remove-AdfsClaimsProviderTrust.md)
+[Remove-AdfsClaimsProviderTrust](./remove-adfsclaimsprovidertrust.md)
 
-[Set-AdfsClaimsProviderTrust](./Set-AdfsClaimsProviderTrust.md)
+[Set-AdfsClaimsProviderTrust](./set-adfsclaimsprovidertrust.md)
 
-[Update-AdfsClaimsProviderTrust](./Update-AdfsClaimsProviderTrust.md)
+[Update-AdfsClaimsProviderTrust](./update-adfsclaimsprovidertrust.md)
+
 

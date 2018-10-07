@@ -204,7 +204,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -236,11 +236,12 @@ This cmdlet returns an object that lists the minimum and maximum size for creati
 
 ## RELATED LINKS
 
-[Get-ResiliencySetting](./Get-ResiliencySetting.md)
+[Get-ResiliencySetting](./get-resiliencysetting.md)
 
-[New-VirtualDisk](./New-VirtualDisk.md)
+[New-VirtualDisk](./new-virtualdisk.md)
 
-[Get-StorageTierSupportedSize](./Get-StorageTierSupportedSize.md)
+[Get-StorageTierSupportedSize](./get-storagetiersupportedsize.md)
 
-[Set-ResiliencySetting](./Set-ResiliencySetting.md)
+[Set-ResiliencySetting](./set-resiliencysetting.md)
+
 

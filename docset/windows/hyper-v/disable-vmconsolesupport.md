@@ -195,7 +195,8 @@ This cmdlet returns a **VirtualMachine** object, if you specify the **Passthru**
 
 ## RELATED LINKS
 
-[Enable-VMConsoleSupport](./Enable-VMConsoleSupport.md)
+[Enable-VMConsoleSupport](./enable-vmconsolesupport.md)
 
-[Get-VM](./Get-VM.md)
+[Get-VM](./get-vm.md)
+
 

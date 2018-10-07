@@ -168,9 +168,10 @@ This cmdlet updates the functional level of this cluster.
 
 ## RELATED LINKS
 
-[Add-ClusterNode](./Add-ClusterNode.md)
+[Add-ClusterNode](./add-clusternode.md)
 
-[Suspend-ClusterNode](./Suspend-ClusterNode.md)
+[Suspend-ClusterNode](./suspend-clusternode.md)
 
-[Remove-ClusterNode](./Remove-ClusterNode.md)
+[Remove-ClusterNode](./remove-clusternode.md)
+
 

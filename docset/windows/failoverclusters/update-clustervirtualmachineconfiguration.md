@@ -133,7 +133,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-ClusterVirtualMachineRole](./Add-ClusterVirtualMachineRole.md)
+[Add-ClusterVirtualMachineRole](./add-clustervirtualmachinerole.md)
 
-[Move-ClusterVirtualMachineRole](./Move-ClusterVirtualMachineRole.md)
+[Move-ClusterVirtualMachineRole](./move-clustervirtualmachinerole.md)
+
 

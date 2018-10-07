@@ -134,7 +134,8 @@ Specifies physical disk properties such as health status, operational status, MP
 
 ## RELATED LINKS
 
-[Get-DiskStorageNodeView](./Get-DiskStorageNodeView.md)
+[Get-DiskStorageNodeView](./get-diskstoragenodeview.md)
 
-[Get-StorageEnclosureStorageNodeView](./Get-StorageEnclosureStorageNodeView.md)
+[Get-StorageEnclosureStorageNodeView](./get-storageenclosurestoragenodeview.md)
+
 

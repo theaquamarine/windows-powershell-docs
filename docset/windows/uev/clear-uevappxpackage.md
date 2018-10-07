@@ -46,7 +46,7 @@ Clear-UevAppxPackage [-CurrentComputerUser] [-All] [-WhatIf] [-Confirm] [<Common
 ```
 
 ## DESCRIPTION
-The **Clear-UevAppxPackage** cmdlet clears a setting in the computer or user sections of the registry that enables or disables the Microsoft User Experience Virtualization (UE-V) synchronization of Windows® 8 apps.
+The **Clear-UevAppxPackage** cmdlet clears a setting in the computer or user sections of the registry that enables or disables the Microsoft User Experience Virtualization (UE-V) synchronization of Windows?? 8 apps.
 If you do not specify the *Computer* or *CurrentComputerUser* parameter, the cmdlet clears the setting for the package families for the current user.
 
 ## EXAMPLES
@@ -163,9 +163,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Disable-UevAppxPackage](./Disable-UevAppxPackage.md)
+[Disable-UevAppxPackage](./disable-uevappxpackage.md)
 
-[Enable-UevAppxPackage](./Enable-UevAppxPackage.md)
+[Enable-UevAppxPackage](./enable-uevappxpackage.md)
 
-[Get-UevAppxPackage](./Get-UevAppxPackage.md)
+[Get-UevAppxPackage](./get-uevappxpackage.md)
+
 

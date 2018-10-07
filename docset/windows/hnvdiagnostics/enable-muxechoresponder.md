@@ -85,5 +85,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Disable-MuxEchoResponder](./Disable-MuxEchoResponder.md)
+[Disable-MuxEchoResponder](./disable-muxechoresponder.md)
+
 

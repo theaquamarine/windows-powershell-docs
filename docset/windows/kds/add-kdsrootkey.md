@@ -171,13 +171,14 @@ This cmdlet accepts no input objects.
 
 ## RELATED LINKS
 
-[Clear-KdsCache](./Clear-KdsCache.md)
+[Clear-KdsCache](./clear-kdscache.md)
 
-[Get-KdsConfiguration](./Get-KdsConfiguration.md)
+[Get-KdsConfiguration](./get-kdsconfiguration.md)
 
-[Get-KdsRootKey](./Get-KdsRootKey.md)
+[Get-KdsRootKey](./get-kdsrootkey.md)
 
-[Set-KdsConfiguration](./Set-KdsConfiguration.md)
+[Set-KdsConfiguration](./set-kdsconfiguration.md)
 
-[Test-KdsRootKey](./Test-KdsRootKey.md)
+[Test-KdsRootKey](./test-kdsrootkey.md)
+
 

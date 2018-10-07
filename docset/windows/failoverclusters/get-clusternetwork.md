@@ -117,5 +117,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-ClusterNetworkInterface](./Get-ClusterNetworkInterface.md)
+[Get-ClusterNetworkInterface](./get-clusternetworkinterface.md)
+
 

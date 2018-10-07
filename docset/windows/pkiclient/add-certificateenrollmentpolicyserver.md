@@ -35,7 +35,7 @@ The **Add-CertificateEnrollmentPolicyServer** cmdlet adds an enrollment policy s
 If an enrollment policy server already exists, then this cmdlet will overwrite it.
 Group Policy can be configured to prevent enrollment policy servers from being added.
 
-Delegation may be required when using this cmdlet with Windows PowerShell® remoting and changing user configuration.
+Delegation may be required when using this cmdlet with Windows PowerShell?? remoting and changing user configuration.
 
 ## EXAMPLES
 
@@ -245,7 +245,8 @@ The **EnrollmentPolicyServer** object contains information about the certificate
 
 [Get-Credential](http://go.microsoft.com/fwlink/p/?LinkId=293936)
 
-[Get-CertificateEnrollmentPolicyServer](./Get-CertificateEnrollmentPolicyServer.md)
+[Get-CertificateEnrollmentPolicyServer](./get-certificateenrollmentpolicyserver.md)
 
-[Remove-CertificateEnrollmentPolicyServer](./Remove-CertificateEnrollmentPolicyServer.md)
+[Remove-CertificateEnrollmentPolicyServer](./remove-certificateenrollmentpolicyserver.md)
+
 

@@ -41,7 +41,7 @@ Set-ADAuthenticationPolicySilo [-WhatIf] [-Confirm] [-AuthType <ADAuthType>] [-C
 ```
 
 ## DESCRIPTION
-The **Set-ADAuthenticationPolicySilo** cmdlet modifies the properties of an Active Directory® Domain Services authentication policy silo.
+The **Set-ADAuthenticationPolicySilo** cmdlet modifies the properties of an Active Directory?? Domain Services authentication policy silo.
 You can modify commonly used property values by using the cmdlet parameters.
 Property values that are not associated with cmdlet parameters can be modified by using the *Add*, *Replace*, *Clear* and *Remove* parameters.
 
@@ -490,11 +490,12 @@ Returns one or more objects.
 
 ## RELATED LINKS
 
-[Get-ADAuthenticationPolicySilo](./Get-ADAuthenticationPolicySilo.md)
+[Get-ADAuthenticationPolicySilo](./get-adauthenticationpolicysilo.md)
 
-[New-ADAuthenticationPolicySilo](./New-ADAuthenticationPolicySilo.md)
+[New-ADAuthenticationPolicySilo](./new-adauthenticationpolicysilo.md)
 
-[Remove-ADAuthenticationPolicySilo](./Remove-ADAuthenticationPolicySilo.md)
+[Remove-ADAuthenticationPolicySilo](./remove-adauthenticationpolicysilo.md)
 
 [AD DS Administration Cmdlets in Windows PowerShell](./activedirectory.md)
+
 

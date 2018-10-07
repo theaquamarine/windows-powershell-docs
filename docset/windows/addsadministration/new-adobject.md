@@ -434,17 +434,18 @@ By default, this cmdlet does not generate any output.
 
 ## RELATED LINKS
 
-[Get-ADObject](./Get-ADObject.md)
+[Get-ADObject](./get-adobject.md)
 
-[Move-ADObject](./Move-ADObject.md)
+[Move-ADObject](./move-adobject.md)
 
-[Remove-ADObject](./Remove-ADObject.md)
+[Remove-ADObject](./remove-adobject.md)
 
-[Rename-ADObject](./Rename-ADObject.md)
+[Rename-ADObject](./rename-adobject.md)
 
-[Restore-ADObject](./Restore-ADObject.md)
+[Restore-ADObject](./restore-adobject.md)
 
-[Set-ADObject](./Set-ADObject.md)
+[Set-ADObject](./set-adobject.md)
 
-[Sync-ADObject](./Sync-ADObject.md)
+[Sync-ADObject](./sync-adobject.md)
+
 

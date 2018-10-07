@@ -308,9 +308,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-VMNetworkAdapterRoutingDomainMapping](./Get-VMNetworkAdapterRoutingDomainMapping.md)
+[Get-VMNetworkAdapterRoutingDomainMapping](./get-vmnetworkadapterroutingdomainmapping.md)
 
-[Add-VmNetworkAdapterRoutingDomainMapping](./Add-VmNetworkAdapterRoutingDomainMapping.md)
+[Add-VmNetworkAdapterRoutingDomainMapping](./add-vmnetworkadapterroutingdomainmapping.md)
 
-[Set-VmNetworkAdapterRoutingDomainMapping](./Set-VmNetworkAdapterRoutingDomainMapping.md)
+[Set-VmNetworkAdapterRoutingDomainMapping](./set-vmnetworkadapterroutingdomainmapping.md)
+
 

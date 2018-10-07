@@ -179,17 +179,18 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-AppvClientConnectionGroup](./Add-AppvClientConnectionGroup.md)
+[Add-AppvClientConnectionGroup](./add-appvclientconnectiongroup.md)
 
-[Enable-AppvClientConnectionGroup](./Enable-AppvClientConnectionGroup.md)
+[Enable-AppvClientConnectionGroup](./enable-appvclientconnectiongroup.md)
 
-[Get-AppvClientConnectionGroup](./Get-AppvClientConnectionGroup.md)
+[Get-AppvClientConnectionGroup](./get-appvclientconnectiongroup.md)
 
-[Mount-AppvClientConnectionGroup](./Mount-AppvClientConnectionGroup.md)
+[Mount-AppvClientConnectionGroup](./mount-appvclientconnectiongroup.md)
 
-[Remove-AppvClientConnectionGroup](./Remove-AppvClientConnectionGroup.md)
+[Remove-AppvClientConnectionGroup](./remove-appvclientconnectiongroup.md)
 
-[Repair-AppvClientConnectionGroup](./Repair-AppvClientConnectionGroup.md)
+[Repair-AppvClientConnectionGroup](./repair-appvclientconnectiongroup.md)
 
-[Stop-AppvClientConnectionGroup](./Stop-AppvClientConnectionGroup.md)
+[Stop-AppvClientConnectionGroup](./stop-appvclientconnectiongroup.md)
+
 

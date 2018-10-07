@@ -407,9 +407,10 @@ A site link bridge object that was retrieved by using the **Get-ADReplicationSit
 
 ## RELATED LINKS
 
-[Get-ADReplicationSiteLinkBridge](./Get-ADReplicationSiteLinkBridge.md)
+[Get-ADReplicationSiteLinkBridge](./get-adreplicationsitelinkbridge.md)
 
-[New-ADReplicationSiteLinkBridge](./New-ADReplicationSiteLinkBridge.md)
+[New-ADReplicationSiteLinkBridge](./new-adreplicationsitelinkbridge.md)
 
-[Remove-ADReplicationSiteLinkBridge](./Remove-ADReplicationSiteLinkBridge.md)
+[Remove-ADReplicationSiteLinkBridge](./remove-adreplicationsitelinkbridge.md)
+
 

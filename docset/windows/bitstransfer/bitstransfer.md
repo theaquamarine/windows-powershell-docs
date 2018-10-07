@@ -24,28 +24,29 @@ ms.assetid: 34F36891-5E50-42FD-B5F1-038BF55946B6
 This reference provides cmdlet descriptions and syntax for all Background Intelligent Transfer Management (BITS)-specific cmdlets. It lists the cmdlets in alphabetical order based on the verb at the beginning of the cmdlet.
 
 ## BitsTransfer Cmdlets
-### [Add-BitsFile](./Add-BitsFile.md)
+### [Add-BitsFile](./add-bitsfile.md)
 Adds one or more files to an existing BITS transfer job.
 
-### [Complete-BitsTransfer](./Complete-BitsTransfer.md)
+### [Complete-BitsTransfer](./complete-bitstransfer.md)
 Completes a BITS transfer job.
 
-### [Get-BitsTransfer](./Get-BitsTransfer.md)
+### [Get-BitsTransfer](./get-bitstransfer.md)
 Gets the associated BitsJob object for an existing BITS transfer job.
 
-### [Remove-BitsTransfer](./Remove-BitsTransfer.md)
+### [Remove-BitsTransfer](./remove-bitstransfer.md)
 Cancels a BITS transfer job.
 
-### [Resume-BitsTransfer](./Resume-BitsTransfer.md)
+### [Resume-BitsTransfer](./resume-bitstransfer.md)
 Resumes a BITS transfer job.
 
-### [Set-BitsTransfer](./Set-BitsTransfer.md)
+### [Set-BitsTransfer](./set-bitstransfer.md)
 Modifies the properties of an existing BITS transfer job.
 
-### [Start-BitsTransfer](./Start-BitsTransfer.md)
+### [Start-BitsTransfer](./start-bitstransfer.md)
 Creates a BITS transfer job.
 
-### [Suspend-BitsTransfer](./Suspend-BitsTransfer.md)
+### [Suspend-BitsTransfer](./suspend-bitstransfer.md)
 Suspends a BITS transfer job.
+
 
 

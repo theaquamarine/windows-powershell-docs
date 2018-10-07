@@ -119,3 +119,4 @@ The cmdlet returns one or more objects that represent the specified capbilities.
 [Get-InsightsCapabilitySchedule](get-insightscapabilityschedule.md)<br>
 [Get-InsightsCapabilityAction](get-insightscapabilityaction.md)<br>
 [Get-InsightsCapabilityResult](get-insightscapabilityresult.md)
+

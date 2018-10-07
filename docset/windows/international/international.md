@@ -26,58 +26,59 @@ You can use the International Settings cmdlets to control the language that is u
 This reference provides cmdlet descriptions and syntax for all International Settings-specific cmdlets. It lists the cmdlets in alphabetical order.
 
 ## International Cmdlets
-### [Get-WinAcceptLanguageFromLanguageListOptOut](./Get-WinAcceptLanguageFromLanguageListOptOut.md)
+### [Get-WinAcceptLanguageFromLanguageListOptOut](./get-winacceptlanguagefromlanguagelistoptout.md)
 Gets the HTTP Accept Language from the Language List opt-out setting for the current user account.
 
-### [Get-WinCultureFromLanguageListOptOut](./Get-WinCultureFromLanguageListOptOut.md)
+### [Get-WinCultureFromLanguageListOptOut](./get-winculturefromlanguagelistoptout.md)
 Gets the Culture from the language list opt-out setting for the current user account.
 
-### [Get-WinDefaultInputMethodOverride](./Get-WinDefaultInputMethodOverride.md)
+### [Get-WinDefaultInputMethodOverride](./get-windefaultinputmethodoverride.md)
 Gets the default input method override setting for the current user account.
 
-### [Get-WinHomeLocation](./Get-WinHomeLocation.md)
+### [Get-WinHomeLocation](./get-winhomelocation.md)
 Gets the Windows GeoID home location setting for the current user account.
 
-### [Get-WinLanguageBarOption](./Get-WinLanguageBarOption.md)
+### [Get-WinLanguageBarOption](./get-winlanguagebaroption.md)
 Gets the language bar mode and language bar type for the current user account.
 
-### [Get-WinSystemLocale](./Get-WinSystemLocale.md)
+### [Get-WinSystemLocale](./get-winsystemlocale.md)
 Gets the System-locale setting for the current computer.
 
-### [Get-WinUILanguageOverride](./Get-WinUILanguageOverride.md)
+### [Get-WinUILanguageOverride](./get-winuilanguageoverride.md)
 Gets the Windows UI language override setting for the current user account.
 
-### [Get-WinUserLanguageList](./Get-WinUserLanguageList.md)
+### [Get-WinUserLanguageList](./get-winuserlanguagelist.md)
 Gets the language list for the current user account.
 
-### [New-WinUserLanguageList](./New-WinUserLanguageList.md)
+### [New-WinUserLanguageList](./new-winuserlanguagelist.md)
 Instantiates a new language list object.
 
-### [Set-Culture](./Set-Culture.md)
+### [Set-Culture](./set-culture.md)
 Sets the user culture for the current user account.
 
-### [Set-WinAcceptLanguageFromLanguageListOptOut](./Set-WinAcceptLanguageFromLanguageListOptOut.md)
+### [Set-WinAcceptLanguageFromLanguageListOptOut](./set-winacceptlanguagefromlanguagelistoptout.md)
 Sets the HTTP Accept Language from the Language List opt-out setting for the current user account.
 
-### [Set-WinCultureFromLanguageListOptOut](./Set-WinCultureFromLanguageListOptOut.md)
+### [Set-WinCultureFromLanguageListOptOut](./set-winculturefromlanguagelistoptout.md)
 Sets the Culture from language list opt out setting for the current user account.
 
-### [Set-WinDefaultInputMethodOverride](./Set-WinDefaultInputMethodOverride.md)
+### [Set-WinDefaultInputMethodOverride](./set-windefaultinputmethodoverride.md)
 Sets the default input method override for the current user account.
 
-### [Set-WinHomeLocation](./Set-WinHomeLocation.md)
+### [Set-WinHomeLocation](./set-winhomelocation.md)
 Sets the home location setting for the current user account.
 
-### [Set-WinLanguageBarOption](./Set-WinLanguageBarOption.md)
+### [Set-WinLanguageBarOption](./set-winlanguagebaroption.md)
 Sets the language bar type and mode for the current user account.
 
-### [Set-WinSystemLocale](./Set-WinSystemLocale.md)
+### [Set-WinSystemLocale](./set-winsystemlocale.md)
 Sets the system locale for the current computer.
 
-### [Set-WinUILanguageOverride](./Set-WinUILanguageOverride.md)
+### [Set-WinUILanguageOverride](./set-winuilanguageoverride.md)
 Sets the Windows UI language override setting for the current user account.
 
-### [Set-WinUserLanguageList](./Set-WinUserLanguageList.md)
+### [Set-WinUserLanguageList](./set-winuserlanguagelist.md)
 Sets the language list and associated properties for the current user account.
+
 
 

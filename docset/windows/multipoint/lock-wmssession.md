@@ -127,11 +127,12 @@ None.
 
 ## RELATED LINKS
 
-[Close-WmsSession](./Close-WmsSession.md)
+[Close-WmsSession](./close-wmssession.md)
 
-[Disconnect-WmsSession](./Disconnect-WmsSession.md)
+[Disconnect-WmsSession](./disconnect-wmssession.md)
 
-[Get-WmsSession](./Get-WmsSession.md)
+[Get-WmsSession](./get-wmssession.md)
 
-[Unlock-WmsSession](./Unlock-WmsSession.md)
+[Unlock-WmsSession](./unlock-wmssession.md)
+
 

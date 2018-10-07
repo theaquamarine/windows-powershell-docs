@@ -775,7 +775,8 @@ None.
 
 ## RELATED LINKS
 
-[Get-NanoServerPackage](./Get-NanoServerPackage.md)
+[Get-NanoServerPackage](./get-nanoserverpackage.md)
 
-[New-NanoServerImage](./New-NanoServerImage.md)
+[New-NanoServerImage](./new-nanoserverimage.md)
+
 

@@ -119,7 +119,7 @@ New-NetQosPolicy [-PolicyStore <String>] [-Name] <String> [-Default] [-NetworkPr
 ## DESCRIPTION
 The **New-NetQosPolicy** cmdlet creates a new network Quality of Service (QoS) policy.
 A QoS policy consists of two main parts: match conditions also known as filters, and actions.
-Match conditions such as the name by which an application is run in Windows Server® 2012 and later or a TCP port number decide to what traffic the policy is relating.
+Match conditions such as the name by which an application is run in Windows Server?? 2012 and later or a TCP port number decide to what traffic the policy is relating.
 Parameters such as *DSCPAction* and *ThrottleRateAction* determine how the policy is to handle the matched traffic.
 Besides match conditions and actions, there are also some general parameters such as *NetworkProfile* and *Precedence* that the users can customize for a QoS policy.
 
@@ -335,7 +335,7 @@ Accept wildcard characters: False
 
 ### -FCOE
 Specifies the Fibre Channel over Ethernet (FCoE), which uses a dedicated EtherType 0x8914.
-If this parameter is specified, then the Windows Server® 2012 and later will instruct the network adapters in the computer that support FCoE to match the FCoE packets and apply the action specified in the policy.
+If this parameter is specified, then the Windows Server?? 2012 and later will instruct the network adapters in the computer that support FCoE to match the FCoE packets and apply the action specified in the policy.
 
 ```yaml
 Type: SwitchParameter
@@ -707,7 +707,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -835,9 +835,10 @@ The **MSFT_NetQosPolicySettingData** object contains a QoS policy.
 
 ## RELATED LINKS
 
-[Get-NetQosPolicy](./Get-NetQosPolicy.md)
+[Get-NetQosPolicy](./get-netqospolicy.md)
 
-[Remove-NetQosPolicy](./Remove-NetQosPolicy.md)
+[Remove-NetQosPolicy](./remove-netqospolicy.md)
 
-[Set-NetQosPolicy](./Set-NetQosPolicy.md)
+[Set-NetQosPolicy](./set-netqospolicy.md)
+
 

@@ -392,7 +392,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -471,21 +471,22 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-NetEventPacketCaptureProvider](./Add-NetEventPacketCaptureProvider.md)
+[Add-NetEventPacketCaptureProvider](./add-neteventpacketcaptureprovider.md)
 
-[Add-NetEventProvider](./Add-NetEventProvider.md)
+[Add-NetEventProvider](./add-neteventprovider.md)
 
-[Get-NetEventPacketCaptureProvider](./Get-NetEventPacketCaptureProvider.md)
+[Get-NetEventPacketCaptureProvider](./get-neteventpacketcaptureprovider.md)
 
-[New-NetEventSession](./New-NetEventSession.md)
+[New-NetEventSession](./new-neteventsession.md)
 
-[Remove-NetEventPacketCaptureProvider](./Remove-NetEventPacketCaptureProvider.md)
+[Remove-NetEventPacketCaptureProvider](./remove-neteventpacketcaptureprovider.md)
 
-[Get-NetEventNetworkAdapter](./Get-NetEventNetworkAdapter.md)
+[Get-NetEventNetworkAdapter](./get-neteventnetworkadapter.md)
 
-[Get-NetEventVmNetworkAdapter](./Get-NetEventVmNetworkAdapter.md)
+[Get-NetEventVmNetworkAdapter](./get-neteventvmnetworkadapter.md)
 
-[Get-NetEventVmSwitch](./Get-NetEventVmSwitch.md)
+[Get-NetEventVmSwitch](./get-neteventvmswitch.md)
 
-[Get-NetEventSession](./Get-NetEventSession.md)
+[Get-NetEventSession](./get-neteventsession.md)
+
 

@@ -136,7 +136,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-RDSessionCollection](./Get-RDSessionCollection.md)
+[Get-RDSessionCollection](./get-rdsessioncollection.md)
 
-[New-RDSessionCollection](./New-RDSessionCollection.md)
+[New-RDSessionCollection](./new-rdsessioncollection.md)
+
 

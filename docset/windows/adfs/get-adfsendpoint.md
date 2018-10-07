@@ -112,9 +112,10 @@ This cmdlet returns class structure that represents the endpoints for the Federa
 
 ## RELATED LINKS
 
-[Disable-AdfsEndpoint](./Disable-AdfsEndpoint.md)
+[Disable-AdfsEndpoint](./disable-adfsendpoint.md)
 
-[Enable-AdfsEndpoint](./Enable-AdfsEndpoint.md)
+[Enable-AdfsEndpoint](./enable-adfsendpoint.md)
 
-[Set-AdfsEndpoint](./Set-AdfsEndpoint.md)
+[Set-AdfsEndpoint](./set-adfsendpoint.md)
+
 

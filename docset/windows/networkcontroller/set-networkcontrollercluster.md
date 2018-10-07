@@ -244,11 +244,12 @@ This cmdlet returns an object that contains the following fields:
 
 ## RELATED LINKS
 
-[Get-NetworkControllerCluster](./Get-NetworkControllerCluster.md)
+[Get-NetworkControllerCluster](./get-networkcontrollercluster.md)
 
-[Install-NetworkControllerCluster](./Install-NetworkControllerCluster.md)
+[Install-NetworkControllerCluster](./install-networkcontrollercluster.md)
 
-[Repair-NetworkControllerCluster](./Repair-NetworkControllerCluster.md)
+[Repair-NetworkControllerCluster](./repair-networkcontrollercluster.md)
 
-[Uninstall-NetworkControllerCluster](./Uninstall-NetworkControllerCluster.md)
+[Uninstall-NetworkControllerCluster](./uninstall-networkcontrollercluster.md)
+
 

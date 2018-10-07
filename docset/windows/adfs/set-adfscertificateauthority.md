@@ -265,7 +265,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Disable-AdfsCertificateAuthority](./Disable-AdfsCertificateAuthority.md)
+[Disable-AdfsCertificateAuthority](./disable-adfscertificateauthority.md)
 
-[Get-AdfsCertificateAuthority](./Get-AdfsCertificateAuthority.md)
+[Get-AdfsCertificateAuthority](./get-adfscertificateauthority.md)
+
 

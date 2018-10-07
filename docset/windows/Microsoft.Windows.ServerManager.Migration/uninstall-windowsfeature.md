@@ -276,11 +276,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-WindowsFeature](./Get-WindowsFeature.md)
+[Get-WindowsFeature](./get-windowsfeature.md)
 
-[Install-WindowsFeature](./Install-WindowsFeature.md)
+[Install-WindowsFeature](./install-windowsfeature.md)
 
-[Enable-ServerManagerStandardUserRemoting](./Enable-ServerManagerStandardUserRemoting.md)
+[Enable-ServerManagerStandardUserRemoting](./enable-servermanagerstandarduserremoting.md)
 
-[Disable-ServerManagerStandardUserRemoting](./Disable-ServerManagerStandardUserRemoting.md)
+[Disable-ServerManagerStandardUserRemoting](./disable-servermanagerstandarduserremoting.md)
+
 

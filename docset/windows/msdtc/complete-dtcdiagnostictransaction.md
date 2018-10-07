@@ -75,11 +75,12 @@ You can use the pipeline operator to pass this parameter value to the cmdlet.
 
 ## RELATED LINKS
 
-[New-DtcDiagnosticTransaction](./New-DtcDiagnosticTransaction.md)
+[New-DtcDiagnosticTransaction](./new-dtcdiagnostictransaction.md)
 
-[Receive-DtcDiagnosticTransaction](./Receive-DtcDiagnosticTransaction.md)
+[Receive-DtcDiagnosticTransaction](./receive-dtcdiagnostictransaction.md)
 
-[Send-DtcDiagnosticTransaction](./Send-DtcDiagnosticTransaction.md)
+[Send-DtcDiagnosticTransaction](./send-dtcdiagnostictransaction.md)
 
-[Undo-DtcDiagnosticTransaction](./Undo-DtcDiagnosticTransaction.md)
+[Undo-DtcDiagnosticTransaction](./undo-dtcdiagnostictransaction.md)
+
 

@@ -480,15 +480,16 @@ To get a list of all the properties of an **ADFineGrainedPasswordPolicy** object
 
 ## RELATED LINKS
 
-[Add-ADFineGrainedPasswordPolicySubject](./Add-ADFineGrainedPasswordPolicySubject.md)
+[Add-ADFineGrainedPasswordPolicySubject](./add-adfinegrainedpasswordpolicysubject.md)
 
-[New-ADFineGrainedPasswordPolicy](./New-ADFineGrainedPasswordPolicy.md)
+[New-ADFineGrainedPasswordPolicy](./new-adfinegrainedpasswordpolicy.md)
 
-[Remove-ADFineGrainedPasswordPolicy](./Remove-ADFineGrainedPasswordPolicy.md)
+[Remove-ADFineGrainedPasswordPolicy](./remove-adfinegrainedpasswordpolicy.md)
 
-[Remove-ADFineGrainedPasswordPolicySubject](./Remove-ADFineGrainedPasswordPolicySubject.md)
+[Remove-ADFineGrainedPasswordPolicySubject](./remove-adfinegrainedpasswordpolicysubject.md)
 
-[Set-ADFineGrainedPasswordPolicy](./Set-ADFineGrainedPasswordPolicy.md)
+[Set-ADFineGrainedPasswordPolicy](./set-adfinegrainedpasswordpolicy.md)
 
 [AD DS Administration Cmdlets in Windows PowerShell](./activedirectory.md)
+
 

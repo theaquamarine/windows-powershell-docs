@@ -189,7 +189,8 @@ This cmdlet returns an object that contains the following fields:
 
 ## RELATED LINKS
 
-[Install-NetworkController](./Install-NetworkController.md)
+[Install-NetworkController](./install-networkcontroller.md)
 
-[Install-NetworkControllerCluster](./Install-NetworkControllerCluster.md)
+[Install-NetworkControllerCluster](./install-networkcontrollercluster.md)
+
 

@@ -186,7 +186,7 @@ This option is useful for connections that must be monitored by network equipmen
 The initial connection is authenticated by IPsec by using AuthIP, but the quick mode SA permits clear-text traffic.
 To use this option, you must also configure an IPsec rule that specifies authentication with encapsulation none as a quick mode security method.
 In the Microsoft Management Console (MMC), authentication and encryption are combined into one set of radio buttons.
-In Windows Management Instrumentation (WMI) or Windows PowerShell®, authentication and encryption are given as two separate options. 
+In Windows Management Instrumentation (WMI) or Windows PowerShell??, authentication and encryption are given as two separate options. 
 The default value is Required. 
 A rule can be queried for this condition, or modified by using the security filter object.
 See the Get-NetFirewallSecurityFilter cmdlet for more information.
@@ -359,7 +359,7 @@ The acceptable values for this parameter are: Block, Allow, DeferToUser, or Defe
 - DeferToApp: Allows each application to determine whether to allow unsolicited traffic from the Internet through a NAT edge device. 
 
 The default value is Block. 
-The DeferToApp and DeferToUser options are only valid for computers running firstref_client_7, firstref_server_7, and Windows Server® 2012.
+The DeferToApp and DeferToUser options are only valid for computers running firstref_client_7, firstref_server_7, and Windows Server?? 2012.
 
 ```yaml
 Type: EdgeTraversal
@@ -425,7 +425,7 @@ Accept wildcard characters: False
 ### -GPOSession
 Specifies the network GPO from which to retrieve the rules to be modified. 
 This parameter is used in the same way as the *PolicyStore* parameter.
-When modifying GPOs in Windows PowerShell®, each change to a GPO requires the entire GPO to be loaded, modified, and saved back.
+When modifying GPOs in Windows PowerShell??, each change to a GPO requires the entire GPO to be loaded, modified, and saved back.
 On a busy Domain Controller (DC), this can be a slow and resource-heavy operation.
 A GPO Session loads a domain GPO onto the local computer and makes all changes in a batch, before saving it back.
 This reduces the load on the DC and speeds up the Windows PowerShell cmdlets.
@@ -708,7 +708,7 @@ If the *Direction* parameter is set to Inbound, then this parameter is valid onl
 Network packets that match this rule and that are successfully authenticated against a computer account specified in the *RemoteUser* parameter and against a user account identified in the *RemoteMachine* parameter are permitted through the firewall. 
 If this parameter is specified, then the *Authentication* parameter cannot be set to NotRequired.
 This parameter is equivalent to the override block rules checkbox in the Windows Firewall with Advanced Security MMC snap-in. 
-For computers that are running Windows® 7 or nextref_server_7, this parameter is permitted on an outbound rule.
+For computers that are running Windows?? 7 or nextref_server_7, this parameter is permitted on an outbound rule.
 Selecting this parameter on an outbound rule causes matching traffic to be permitted through this rule even if other matching rules would block the traffic.
 No accounts are required in the *RemoteMachine* or *RemoteUser* parameter for an outbound bypass rule, however, if authorized or excepted computers are listed in those groups the rules will be enforced. 
 This parameter is not valid on outbound rules on computers that are running firstref_vista or earlier. 
@@ -782,7 +782,7 @@ Accept wildcard characters: False
 ### -Platform
 Specifies which version of Windows the associated rule applies. 
 The acceptable format for this parameter is a number in the Major.Minor format. 
-The version number of 6.0 corresponds to Vista (nextref_vista), 6.1 corresponds to Win7 (Windows® 7 or firstref_longhorn), and 6.2 corresponds to Win8 (Windows® 8 or Windows Server 2012). 
+The version number of 6.0 corresponds to Vista (nextref_vista), 6.1 corresponds to Win7 (Windows?? 7 or firstref_longhorn), and 6.2 corresponds to Win8 (Windows?? 8 or Windows Server 2012). 
 If + is not specified, then only that version is associated. 
 If + is specified, then that version and later versions are associated. 
 Querying for rules with this parameter with the Get-NetFirewallRule cmdlet cannot be performed.
@@ -1021,7 +1021,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -1071,43 +1071,44 @@ The path after the pound sign (`#`) provides the namespace and class name for th
 
 ## RELATED LINKS
 
-[Copy-NetFirewallRule](./Copy-NetFirewallRule.md)
+[Copy-NetFirewallRule](./copy-netfirewallrule.md)
 
-[Disable-NetFirewallRule](./Disable-NetFirewallRule.md)
+[Disable-NetFirewallRule](./disable-netfirewallrule.md)
 
-[Enable-NetFirewallRule](./Enable-NetFirewallRule.md)
+[Enable-NetFirewallRule](./enable-netfirewallrule.md)
 
-[Get-NetFirewallAddressFilter](./Get-NetFirewallAddressFilter.md)
+[Get-NetFirewallAddressFilter](./get-netfirewalladdressfilter.md)
 
-[Get-NetFirewallApplicationFilter](./Get-NetFirewallApplicationFilter.md)
+[Get-NetFirewallApplicationFilter](./get-netfirewallapplicationfilter.md)
 
-[Get-NetFirewallInterfaceFilter](./Get-NetFirewallInterfaceFilter.md)
+[Get-NetFirewallInterfaceFilter](./get-netfirewallinterfacefilter.md)
 
-[Get-NetFirewallInterfaceTypeFilter](./Get-NetFirewallInterfaceTypeFilter.md)
+[Get-NetFirewallInterfaceTypeFilter](./get-netfirewallinterfacetypefilter.md)
 
-[Get-NetFirewallPortFilter](./Get-NetFirewallPortFilter.md)
+[Get-NetFirewallPortFilter](./get-netfirewallportfilter.md)
 
-[Get-NetFirewallRule](./Get-NetFirewallRule.md)
+[Get-NetFirewallRule](./get-netfirewallrule.md)
 
-[Get-NetFirewallSecurityFilter](./Get-NetFirewallSecurityFilter.md)
+[Get-NetFirewallSecurityFilter](./get-netfirewallsecurityfilter.md)
 
-[Get-NetFirewallServiceFilter](./Get-NetFirewallServiceFilter.md)
+[Get-NetFirewallServiceFilter](./get-netfirewallservicefilter.md)
 
-[New-NetFirewallRule](./New-NetFirewallRule.md)
+[New-NetFirewallRule](./new-netfirewallrule.md)
 
-[Open-NetGPO](./Open-NetGPO.md)
+[Open-NetGPO](./open-netgpo.md)
 
-[Remove-NetFirewallRule](./Remove-NetFirewallRule.md)
+[Remove-NetFirewallRule](./remove-netfirewallrule.md)
 
-[Rename-NetFirewallRule](./Rename-NetFirewallRule.md)
+[Rename-NetFirewallRule](./rename-netfirewallrule.md)
 
-[Save-NetGPO](./Save-NetGPO.md)
+[Save-NetGPO](./save-netgpo.md)
 
-[Set-NetIPsecRule](./Set-NetIPsecRule.md)
+[Set-NetIPsecRule](./set-netipsecrule.md)
 
-[Set-NetFirewallRule](./Set-NetFirewallRule.md)
+[Set-NetFirewallRule](./set-netfirewallrule.md)
 
-[Set-NetFirewallSetting](./Set-NetFirewallSetting.md)
+[Set-NetFirewallSetting](./set-netfirewallsetting.md)
 
-[Show-NetFirewallRule](./Show-NetFirewallRule.md)
+[Show-NetFirewallRule](./show-netfirewallrule.md)
+
 

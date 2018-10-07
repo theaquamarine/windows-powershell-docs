@@ -208,7 +208,8 @@ This cmdlet returns a string.
 
 ## RELATED LINKS
 
-[Get-HgsAttestationTpmHost](./Get-HgsAttestationTpmHost.md)
+[Get-HgsAttestationTpmHost](./get-hgsattestationtpmhost.md)
 
-[Remove-HgsAttestationTpmHost](./Remove-HgsAttestationTpmHost.md)
+[Remove-HgsAttestationTpmHost](./remove-hgsattestationtpmhost.md)
+
 

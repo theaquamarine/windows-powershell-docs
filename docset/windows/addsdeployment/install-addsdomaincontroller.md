@@ -641,13 +641,14 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 [AD DS Simplified Administration](http://go.microsoft.com/fwlink/?LinkID=237244)
 
-[Add-ADDSReadOnlyDomainControllerAccount](./Add-ADDSReadOnlyDomainControllerAccount.md)
+[Add-ADDSReadOnlyDomainControllerAccount](./add-addsreadonlydomaincontrolleraccount.md)
 
-[Install-ADDSDomain](./Install-ADDSDomain.md)
+[Install-ADDSDomain](./install-addsdomain.md)
 
-[Install-ADDSForest](./Install-ADDSForest.md)
+[Install-ADDSForest](./install-addsforest.md)
 
 [Get-Credential](http://go.microsoft.com/fwlink/?LinkID=293936)
 
 [ConvertTo-SecureString](http://go.microsoft.com/fwlink/p/?LinkId=113291)
+
 

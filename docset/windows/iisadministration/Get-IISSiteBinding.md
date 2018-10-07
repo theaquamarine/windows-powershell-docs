@@ -106,8 +106,9 @@ Accept wildcard characters: False
 
 ## RELATED LINKS
 
-[New-IISSiteBinding](./New-IISSiteBinding.md)
+[New-IISSiteBinding](./new-iissitebinding.md)
 
-[Remove-IISSiteBinding](./Remove-IISSiteBinding.md)
+[Remove-IISSiteBinding](./remove-iissitebinding.md)
 
 [IIS Administration Cmdlets for Windows PowerShell](./iisadministration.md)
+

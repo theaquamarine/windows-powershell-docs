@@ -100,5 +100,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-AdfsFarmInformation](./Get-AdfsFarmInformation.md)
+[Get-AdfsFarmInformation](./get-adfsfarminformation.md)
+
 

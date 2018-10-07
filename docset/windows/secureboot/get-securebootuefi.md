@@ -39,7 +39,7 @@ If the variable does not exist, this cmdlet displays the following:
 
 `Variable is currently undefined.`
 
-If Windows PowerShell® is not run in administrator mode, this cmdlet displays the following: 
+If Windows PowerShell?? is not run in administrator mode, this cmdlet displays the following: 
 
 `Unable to set proper privileges.
 Access was denied.`
@@ -113,11 +113,12 @@ This cmdlet returns a **UEFIEnvironmentVariable** object that contains the follo
 
 ## RELATED LINKS
 
-[Confirm-SecureBootUEFI](./Confirm-SecureBootUEFI.md)
+[Confirm-SecureBootUEFI](./confirm-securebootuefi.md)
 
-[Format-SecureBootUEFI](./Format-SecureBootUEFI.md)
+[Format-SecureBootUEFI](./format-securebootuefi.md)
 
-[Get-SecureBootPolicy](./Get-SecureBootPolicy.md)
+[Get-SecureBootPolicy](./get-securebootpolicy.md)
 
-[Set-SecureBootUEFI](./Set-SecureBootUEFI.md)
+[Set-SecureBootUEFI](./set-securebootuefi.md)
+
 

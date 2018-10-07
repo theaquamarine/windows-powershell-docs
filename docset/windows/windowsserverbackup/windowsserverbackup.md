@@ -24,145 +24,146 @@ ms.assetid: 0F8EB40C-4481-4DA7-9D60-62847E2BD367
 This reference provides cmdlet descriptions and syntax for all Windows Server Backup cmdlets. It lists the cmdlets in alphabetical order based on the verb at the beginning of the cmdlet.
 
 ## WindowsServerBackup Cmdlets
-### [Add-WBBackupTarget](./Add-WBBackupTarget.md)
+### [Add-WBBackupTarget](./add-wbbackuptarget.md)
 Adds a backup target to a backup policy.
 
-### [Add-WBBareMetalRecovery](./Add-WBBareMetalRecovery.md)
+### [Add-WBBareMetalRecovery](./add-wbbaremetalrecovery.md)
 Adds items to a backup policy so that backups that use the policy can perform bare metal recoveries.
 
-### [Add-WBFileSpec](./Add-WBFileSpec.md)
+### [Add-WBFileSpec](./add-wbfilespec.md)
 Adds a backup file specification to a backup policy.
 
-### [Add-WBSystemState](./Add-WBSystemState.md)
+### [Add-WBSystemState](./add-wbsystemstate.md)
 Adds the system state components to the backup policy.
 
-### [Add-WBVirtualMachine](./Add-WBVirtualMachine.md)
+### [Add-WBVirtualMachine](./add-wbvirtualmachine.md)
 Adds a list of virtual machines to the backup policy.
 
-### [Add-WBVolume](./Add-WBVolume.md)
+### [Add-WBVolume](./add-wbvolume.md)
 Adds the list of source volumes to the backup policy.
 
-### [Get-WBBackupSet](./Get-WBBackupSet.md)
+### [Get-WBBackupSet](./get-wbbackupset.md)
 Gets backups for a server from a location that you specify.
 
-### [Get-WBBackupTarget](./Get-WBBackupTarget.md)
+### [Get-WBBackupTarget](./get-wbbackuptarget.md)
 Gets backup storage locations that you specified as part of a backup policy.
 
-### [Get-WBBackupVolumeBrowsePath](./Get-WBBackupVolumeBrowsePath.md)
+### [Get-WBBackupVolumeBrowsePath](./get-wbbackupvolumebrowsepath.md)
 Mounts a volume inside a backup so that you can browse the files on the volume.
 
-### [Get-WBBareMetalRecovery](./Get-WBBareMetalRecovery.md)
+### [Get-WBBareMetalRecovery](./get-wbbaremetalrecovery.md)
 Gets a Boolean value that indicates whether or not a backup policy can perform bare metal recoveries from backups.
 
-### [Get-WBDisk](./Get-WBDisk.md)
+### [Get-WBDisk](./get-wbdisk.md)
 Gets a list of internal and external disks that are online for the local computer.
 
-### [Get-WBFileSpec](./Get-WBFileSpec.md)
+### [Get-WBFileSpec](./get-wbfilespec.md)
 Gets the list of backup file specifications associated with a backup policy.
 
-### [Get-WBJob](./Get-WBJob.md)
+### [Get-WBJob](./get-wbjob.md)
 Gets the current backup operation.
 
-### [Get-WBPerformanceConfiguration](./Get-WBPerformanceConfiguration.md)
+### [Get-WBPerformanceConfiguration](./get-wbperformanceconfiguration.md)
 Gets the current volume backup performance settings.
 
-### [Get-WBPolicy](./Get-WBPolicy.md)
+### [Get-WBPolicy](./get-wbpolicy.md)
 Gets the current backup policy for the computer.
 
-### [Get-WBSchedule](./Get-WBSchedule.md)
+### [Get-WBSchedule](./get-wbschedule.md)
 Gets the current schedule for backups.
 
-### [Get-WBSummary](./Get-WBSummary.md)
+### [Get-WBSummary](./get-wbsummary.md)
 Gets the history of backup operations on the computer.
 
-### [Get-WBSystemState](./Get-WBSystemState.md)
+### [Get-WBSystemState](./get-wbsystemstate.md)
 Gets a Boolean value that indicates whether system state recovery was added to the backup policy.
 
-### [Get-WBVirtualMachine](./Get-WBVirtualMachine.md)
+### [Get-WBVirtualMachine](./get-wbvirtualmachine.md)
 Gets all virtual machines and components from the backup policy.
 
-### [Get-WBVolume](./Get-WBVolume.md)
+### [Get-WBVolume](./get-wbvolume.md)
 Gets a list of volumes.
 
-### [Get-WBVssBackupOption](./Get-WBVssBackupOption.md)
+### [Get-WBVssBackupOption](./get-wbvssbackupoption.md)
 Gets a VSS setting from the backup policy.
 
-### [New-WBBackupTarget](./New-WBBackupTarget.md)
+### [New-WBBackupTarget](./new-wbbackuptarget.md)
 Creates a backup target object.
 
-### [New-WBFileSpec](./New-WBFileSpec.md)
+### [New-WBFileSpec](./new-wbfilespec.md)
 Creates a backup file specification.
 
-### [New-WBPolicy](./New-WBPolicy.md)
+### [New-WBPolicy](./new-wbpolicy.md)
 Creates a backup policy object.
 
-### [Remove-WBBackupSet](./Remove-WBBackupSet.md)
+### [Remove-WBBackupSet](./remove-wbbackupset.md)
 Removes backups from a target catalog, a system catalog, or both.
 
-### [Remove-WBBackupTarget](./Remove-WBBackupTarget.md)
+### [Remove-WBBackupTarget](./remove-wbbackuptarget.md)
 Removes backup storage locations from a backup policy.
 
-### [Remove-WBBareMetalRecovery](./Remove-WBBareMetalRecovery.md)
+### [Remove-WBBareMetalRecovery](./remove-wbbaremetalrecovery.md)
 Removes a request to include items that implement bare metal recovery from the current backup policy.
 
-### [Remove-WBCatalog](./Remove-WBCatalog.md)
+### [Remove-WBCatalog](./remove-wbcatalog.md)
 Removes the backup catalog from the local computer.
 
-### [Remove-WBFileSpec](./Remove-WBFileSpec.md)
+### [Remove-WBFileSpec](./remove-wbfilespec.md)
 Removes a backup file specification from a backup policy.
 
-### [Remove-WBPolicy](./Remove-WBPolicy.md)
+### [Remove-WBPolicy](./remove-wbpolicy.md)
 Removes the backup policy.
 
-### [Remove-WBSystemState](./Remove-WBSystemState.md)
+### [Remove-WBSystemState](./remove-wbsystemstate.md)
 Removes the system state components from the backup policy.
 
-### [Remove-WBVirtualMachine](./Remove-WBVirtualMachine.md)
+### [Remove-WBVirtualMachine](./remove-wbvirtualmachine.md)
 Removes the list of virtual machines from the backup policy.
 
-### [Remove-WBVolume](./Remove-WBVolume.md)
+### [Remove-WBVolume](./remove-wbvolume.md)
 Removes the volume from the backup policy.
 
-### [Restore-WBCatalog](./Restore-WBCatalog.md)
+### [Restore-WBCatalog](./restore-wbcatalog.md)
 Restores a backup catalog for the local computer from a storage location.
 
-### [Resume-WBBackup](./Resume-WBBackup.md)
+### [Resume-WBBackup](./resume-wbbackup.md)
 Resumes a backup operation to a removable device after you add media to the device.
 
-### [Resume-WBVolumeRecovery](./Resume-WBVolumeRecovery.md)
+### [Resume-WBVolumeRecovery](./resume-wbvolumerecovery.md)
 Resumes a volume recovery operation from a removable device and specific media.
 
-### [Set-WBPerformanceConfiguration](./Set-WBPerformanceConfiguration.md)
+### [Set-WBPerformanceConfiguration](./set-wbperformanceconfiguration.md)
 Sets the current volume backup performance settings.
 
-### [Set-WBPolicy](./Set-WBPolicy.md)
+### [Set-WBPolicy](./set-wbpolicy.md)
 Sets the backup policy for scheduled backups.
 
-### [Set-WBSchedule](./Set-WBSchedule.md)
+### [Set-WBSchedule](./set-wbschedule.md)
 Sets the current schedule for backups.
 
-### [Set-WBVssBackupOption](./Set-WBVssBackupOption.md)
+### [Set-WBVssBackupOption](./set-wbvssbackupoption.md)
 Sets a value that determines the VSS setting in the backup policy.
 
-### [Start-WBApplicationRecovery](./Start-WBApplicationRecovery.md)
+### [Start-WBApplicationRecovery](./start-wbapplicationrecovery.md)
 Starts an application recovery operation.
 
-### [Start-WBBackup](./Start-WBBackup.md)
+### [Start-WBBackup](./start-wbbackup.md)
 Starts a one-time backup operation.
 
-### [Start-WBFileRecovery](./Start-WBFileRecovery.md)
+### [Start-WBFileRecovery](./start-wbfilerecovery.md)
 Starts a file recovery operation.
 
-### [Start-WBHyperVRecovery](./Start-WBHyperVRecovery.md)
+### [Start-WBHyperVRecovery](./start-wbhypervrecovery.md)
 Starts recovery of a Hyper-V Server 2016 virtual machine.
 
-### [Start-WBSystemStateRecovery](./Start-WBSystemStateRecovery.md)
+### [Start-WBSystemStateRecovery](./start-wbsystemstaterecovery.md)
 Starts a system state recovery operation.
 
-### [Start-WBVolumeRecovery](./Start-WBVolumeRecovery.md)
+### [Start-WBVolumeRecovery](./start-wbvolumerecovery.md)
 Starts a volume recovery operation.
 
-### [Stop-WBJob](./Stop-WBJob.md)
+### [Stop-WBJob](./stop-wbjob.md)
 Stops the current backup or recovery job.
+
 
 

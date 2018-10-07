@@ -90,7 +90,8 @@ The policy that describes further limitations on which health certificates signe
 
 ## RELATED LINKS
 
-[Add-HgsKeyProtectionAttestationSignerCertificate](./Add-HgsKeyProtectionAttestationSignerCertificate.md)
+[Add-HgsKeyProtectionAttestationSignerCertificate](./add-hgskeyprotectionattestationsignercertificate.md)
 
-[Remove-HgsKeyProtectionAttestationSignerCertificate](./Remove-HgsKeyProtectionAttestationSignerCertificate.md)
+[Remove-HgsKeyProtectionAttestationSignerCertificate](./remove-hgskeyprotectionattestationsignercertificate.md)
+
 

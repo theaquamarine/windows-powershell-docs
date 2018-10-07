@@ -169,7 +169,7 @@ Accept wildcard characters: False
 ```
 
 ### -DisableDontSyncWindows8AppSettings
-Indicates that the cmdlet disables the setting for not synchronizing Windows® 8 app settings.
+Indicates that the cmdlet disables the setting for not synchronizing Windows?? 8 app settings.
 If you specify this parameter, UE-V synchronizes Windows 8 app settings.
 
 ```yaml
@@ -659,11 +659,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-UevConfiguration](./Get-UevConfiguration.md)
+[Get-UevConfiguration](./get-uevconfiguration.md)
 
-[Clear-UevConfiguration](./Clear-UevConfiguration.md)
+[Clear-UevConfiguration](./clear-uevconfiguration.md)
 
-[Import-UevConfiguration](./Import-UevConfiguration.md)
+[Import-UevConfiguration](./import-uevconfiguration.md)
 
-[Export-UevConfiguration](./Export-UevConfiguration.md)
+[Export-UevConfiguration](./export-uevconfiguration.md)
+
 

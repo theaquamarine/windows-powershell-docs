@@ -217,5 +217,6 @@ The **FileInfo** object contains the information about the certificate file.
 
 [Get-ChildItem](http://go.microsoft.com/fwlink/?LinkId=290488)
 
-[Import-Certificate](./Import-Certificate.md)
+[Import-Certificate](./import-certificate.md)
+
 

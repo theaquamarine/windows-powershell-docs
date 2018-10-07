@@ -38,7 +38,7 @@ When this cmdlet is run on multiple volumes with one cmdlet call, the analysis f
 Note: On large volumes this cmdlet can run for several minutes and will always perform a rescan after the initial scan.
 The default behavior is to wait for completion, regardless of the length of time required to run the scan and rescan.
 
-To run this cmdlet, you must start Windows PowerShell® with the **Run as administrator** option.
+To run this cmdlet, you must start Windows PowerShell?? with the **Run as administrator** option.
 
 This cmdlet returns the following metadata: 
 
@@ -125,7 +125,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -176,5 +176,6 @@ The path after the pound sign (`#`) provides the namespace and class name for th
 
 ## RELATED LINKS
 
-[Get-DedupStatus](./Get-DedupStatus.md)
+[Get-DedupStatus](./get-dedupstatus.md)
+
 

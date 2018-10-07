@@ -90,7 +90,7 @@ This example creates a new storage pool named CompanyData using the Windows Stor
 
 ### Example 3: Create a new storage pool, virtual disk, partition, and volume
 ```
-The first line ([CODE_Snippit]$PhysicalDisks =[CODE_Snippit]…) gets the storage subsystem object for the Windows Storage subsystem, passes it to the **Get-PhysicalDisk** cmdlet, which then gets the physical disks in the specified subsystem that are available to add to a storage pool, and assigns these disks to the $PhysicalDisks variable.The second line of the command has five parts, connected by the pipeline (|). The first part ([CODE_Snippit]New-StoragePool[CODE_Snippit]…) creates a new storage pool using the physical disks in the $PhysicalDisks variable, and then passes the new storage pool down the pipeline. All of the following commands are logically part of one command and should be entered as such.The second part ([CODE_Snippit]New-VirtualDisk[CODE_Snippit]…) creates a new virtual disk on the passed in storage pool and then passes the new virtual disk down the pipeline.The third part ([CODE_Snippit]Initialize-Disk[CODE_Snippit]…) initializes the disk that was passed in, and then passes the disk down the pipeline.The fourth part ([CODE_Snippit]New-Partition[CODE_Snippit]…) creates a new partition on the disk that was passed in, assigns it the next available drive letter, and then passes the partition down the pipeline.The final part of the command ([CODE_Snippit]Format-Volume[CODE_Snippit]) formats the partition that was passed in.
+The first line ([CODE_Snippit]$PhysicalDisks =[CODE_Snippit]???) gets the storage subsystem object for the Windows Storage subsystem, passes it to the **Get-PhysicalDisk** cmdlet, which then gets the physical disks in the specified subsystem that are available to add to a storage pool, and assigns these disks to the $PhysicalDisks variable.The second line of the command has five parts, connected by the pipeline (|). The first part ([CODE_Snippit]New-StoragePool[CODE_Snippit]???) creates a new storage pool using the physical disks in the $PhysicalDisks variable, and then passes the new storage pool down the pipeline. All of the following commands are logically part of one command and should be entered as such.The second part ([CODE_Snippit]New-VirtualDisk[CODE_Snippit]???) creates a new virtual disk on the passed in storage pool and then passes the new virtual disk down the pipeline.The third part ([CODE_Snippit]Initialize-Disk[CODE_Snippit]???) initializes the disk that was passed in, and then passes the disk down the pipeline.The fourth part ([CODE_Snippit]New-Partition[CODE_Snippit]???) creates a new partition on the disk that was passed in, assigns it the next available drive letter, and then passes the partition down the pipeline.The final part of the command ([CODE_Snippit]Format-Volume[CODE_Snippit]) formats the partition that was passed in.
 PS C:\> $PhysicalDisks = Get-StorageSubSystem -FriendlyName "Windows Storage*" | Get-PhysicalDisk -CanPool $True 
 PS C:\> New-StoragePool -FriendlyName "CompanyData" -StorageSubsystemFriendlyName "Windows Storage*" -PhysicalDisks $PhysicalDisks |New-VirtualDisk -FriendlyName "UserData" -Size 100GB -ProvisioningType Thin |Initialize-Disk -PassThru |New-Partition -AssignDriveLetter -UseMaximumSize |Format-Volume
 ```
@@ -364,7 +364,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -431,13 +431,14 @@ This cmdlet returns an object representing the newly created storage pool.
 
 ## RELATED LINKS
 
-[Get-PhysicalDisk](./Get-PhysicalDisk.md)
+[Get-PhysicalDisk](./get-physicaldisk.md)
 
-[Get-StoragePool](./Get-StoragePool.md)
+[Get-StoragePool](./get-storagepool.md)
 
-[New-Volume](./New-Volume.md)
+[New-Volume](./new-volume.md)
 
-[Remove-StoragePool](./Remove-StoragePool.md)
+[Remove-StoragePool](./remove-storagepool.md)
 
-[Set-StoragePool](./Set-StoragePool.md)
+[Set-StoragePool](./set-storagepool.md)
+
 

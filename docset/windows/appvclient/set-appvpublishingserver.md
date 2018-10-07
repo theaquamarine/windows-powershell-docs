@@ -223,11 +223,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-AppvPublishingServer](./Add-AppvPublishingServer.md)
+[Add-AppvPublishingServer](./add-appvpublishingserver.md)
 
-[Get-AppvPublishingServer](./Get-AppvPublishingServer.md)
+[Get-AppvPublishingServer](./get-appvpublishingserver.md)
 
-[Remove-AppvPublishingServer](./Remove-AppvPublishingServer.md)
+[Remove-AppvPublishingServer](./remove-appvpublishingserver.md)
 
-[Sync-AppvPublishingServer](./Sync-AppvPublishingServer.md)
+[Sync-AppvPublishingServer](./sync-appvpublishingserver.md)
+
 

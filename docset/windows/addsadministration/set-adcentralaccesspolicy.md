@@ -401,9 +401,10 @@ By default, this cmdlet does not generate any output.
 
 ## RELATED LINKS
 
-[Get-ADCentralAccessPolicy](./Get-ADCentralAccessPolicy.md)
+[Get-ADCentralAccessPolicy](./get-adcentralaccesspolicy.md)
 
-[New-ADCentralAccessPolicy](./New-ADCentralAccessPolicy.md)
+[New-ADCentralAccessPolicy](./new-adcentralaccesspolicy.md)
 
-[Remove-ADCentralAccessPolicy](./Remove-ADCentralAccessPolicy.md)
+[Remove-ADCentralAccessPolicy](./remove-adcentralaccesspolicy.md)
+
 

@@ -121,9 +121,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-AdfsDeviceRegistrationUpnSuffix](./Add-AdfsDeviceRegistrationUpnSuffix.md)
+[Add-AdfsDeviceRegistrationUpnSuffix](./add-adfsdeviceregistrationupnsuffix.md)
 
-[Get-AdfsDeviceRegistrationUpnSuffix](./Get-AdfsDeviceRegistrationUpnSuffix.md)
+[Get-AdfsDeviceRegistrationUpnSuffix](./get-adfsdeviceregistrationupnsuffix.md)
 
-[Set-AdfsDeviceRegistrationUpnSuffix](./Set-AdfsDeviceRegistrationUpnSuffix.md)
+[Set-AdfsDeviceRegistrationUpnSuffix](./set-adfsdeviceregistrationupnsuffix.md)
+
 

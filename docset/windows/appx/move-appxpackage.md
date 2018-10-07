@@ -126,9 +126,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-AppxPackage](./Add-AppxPackage.md)
+[Add-AppxPackage](./add-appxpackage.md)
 
-[Get-AppxPackage](./Get-AppxPackage.md)
+[Get-AppxPackage](./get-appxpackage.md)
 
-[Remove-AppxPackage](./Remove-AppxPackage.md)
+[Remove-AppxPackage](./remove-appxpackage.md)
+
+
+
 

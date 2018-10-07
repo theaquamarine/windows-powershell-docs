@@ -122,5 +122,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Install-DeviceHealthAttestation](./Install-DeviceHealthAttestation.md)
+[Install-DeviceHealthAttestation](./install-devicehealthattestation.md)
+
 

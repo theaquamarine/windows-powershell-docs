@@ -101,15 +101,16 @@ For each computer added a **WmsSystem** object is returned which contains specif
 
 ## RELATED LINKS
 
-[Get-WmsSystem](./Get-WmsSystem.md)
+[Get-WmsSystem](./get-wmssystem.md)
 
-[Remove-WmsSystem](./Remove-WmsSystem.md)
+[Remove-WmsSystem](./remove-wmssystem.md)
 
-[Restart-WmsSystem](./Restart-WmsSystem.md)
+[Restart-WmsSystem](./restart-wmssystem.md)
 
-[Search-WmsSystem](./Search-WmsSystem.md)
+[Search-WmsSystem](./search-wmssystem.md)
 
-[Set-WmsSystem](./Set-WmsSystem.md)
+[Set-WmsSystem](./set-wmssystem.md)
 
-[Stop-WmsSystem](./Stop-WmsSystem.md)
+[Stop-WmsSystem](./stop-wmssystem.md)
+
 

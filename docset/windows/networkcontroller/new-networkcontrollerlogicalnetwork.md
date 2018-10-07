@@ -261,11 +261,12 @@ This cmdlet accepts a **LogicalNetworkProperties** object that can contain the f
 
 ## RELATED LINKS
 
-[Get-NetworkControllerLogicalNetwork](./Get-NetworkControllerLogicalNetwork.md)
+[Get-NetworkControllerLogicalNetwork](./get-networkcontrollerlogicalnetwork.md)
 
-[Install-NetworkController](./Install-NetworkController.md)
+[Install-NetworkController](./install-networkcontroller.md)
 
-[Remove-NetworkControllerLogicalNetwork](./Remove-NetworkControllerLogicalNetwork.md)
+[Remove-NetworkControllerLogicalNetwork](./remove-networkcontrollerlogicalnetwork.md)
 
-[Set-NetworkController](./Set-NetworkController.md)
+[Set-NetworkController](./set-networkcontroller.md)
+
 

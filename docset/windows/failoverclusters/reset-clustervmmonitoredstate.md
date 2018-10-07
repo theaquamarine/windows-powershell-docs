@@ -30,7 +30,7 @@ Reset-ClusterVMMonitoredState [-Wait <Int32>] [<CommonParameters>]
 
 ## DESCRIPTION
 The **Reset-ClusterVMMonitoredState** cmdlet resets the Application Critical state of a virtual machine, so that the virtual machine is no longer marked as being in a critical state in the cluster.
-Note: This cmdlet can only be run locally on the virtual machine or through Windows PowerShell® remoting to the virtual machine.
+Note: This cmdlet can only be run locally on the virtual machine or through Windows PowerShell?? remoting to the virtual machine.
 
 ## EXAMPLES
 
@@ -73,9 +73,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-ClusterVMMonitoredItem](./Add-ClusterVMMonitoredItem.md)
+[Add-ClusterVMMonitoredItem](./add-clustervmmonitoreditem.md)
 
-[Get-ClusterVMMonitoredItem](./Get-ClusterVMMonitoredItem.md)
+[Get-ClusterVMMonitoredItem](./get-clustervmmonitoreditem.md)
 
-[Remove-ClusterVMMonitoredItem](./Remove-ClusterVMMonitoredItem.md)
+[Remove-ClusterVMMonitoredItem](./remove-clustervmmonitoreditem.md)
+
 

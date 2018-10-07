@@ -142,11 +142,12 @@ The entries in the array are ordered from the most recent to the oldest.
 
 ## RELATED LINKS
 
-[Checkpoint-SbecActiveConfig](./Checkpoint-SbecActiveConfig.md)
+[Checkpoint-SbecActiveConfig](./checkpoint-sbecactiveconfig.md)
 
-[Redo-SbecActiveConfig](./Redo-SbecActiveConfig.md)
+[Redo-SbecActiveConfig](./redo-sbecactiveconfig.md)
 
-[Restore-SbecBackupConfig](./Restore-SbecBackupConfig.md)
+[Restore-SbecBackupConfig](./restore-sbecbackupconfig.md)
 
-[Undo-SbecActiveConfig](./Undo-SbecActiveConfig.md)
+[Undo-SbecActiveConfig](./undo-sbecactiveconfig.md)
+
 

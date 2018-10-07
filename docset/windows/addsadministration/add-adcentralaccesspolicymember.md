@@ -253,7 +253,8 @@ By default, this cmdlet does not generate any output.
 
 ## RELATED LINKS
 
-[Remove-ADCentralAccessPolicyMember](./Remove-ADCentralAccessPolicyMember.md)
+[Remove-ADCentralAccessPolicyMember](./remove-adcentralaccesspolicymember.md)
 
 [AD DS Administration Cmdlets in Windows PowerShell](./activedirectory.md)
+
 

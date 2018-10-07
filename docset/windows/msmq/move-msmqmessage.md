@@ -134,9 +134,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-MsmqQueue](./Get-MsmqQueue.md)
+[Get-MsmqQueue](./get-msmqqueue.md)
 
-[New-MsmqMessage](./New-MsmqMessage.md)
+[New-MsmqMessage](./new-msmqmessage.md)
 
-[Receive-MsmqQueue](./Receive-MsmqQueue.md)
+[Receive-MsmqQueue](./receive-msmqqueue.md)
+
 

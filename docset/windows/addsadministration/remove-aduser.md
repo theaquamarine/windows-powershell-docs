@@ -273,9 +273,10 @@ A user object is received by the *Identity* parameter.
 
 ## RELATED LINKS
 
-[Get-ADUser](./Get-ADUser.md)
+[Get-ADUser](./get-aduser.md)
 
-[New-ADUser](./New-ADUser.md)
+[New-ADUser](./new-aduser.md)
 
-[Set-ADUser](./Set-ADUser.md)
+[Set-ADUser](./set-aduser.md)
+
 

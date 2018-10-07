@@ -24,85 +24,86 @@ ms.assetid: 8F4825A6-2BB7-4093-AA4C-9EBE7623EB01
 This reference provides cmdlet descriptions and syntax for all NetEventPacketCapture cmdlets. It lists the cmdlets in alphabetical order based on the verb at the beginning of the cmdlet.
 
 ## NetEventPacketCapture Cmdlets
-### [Add-NetEventNetworkAdapter](./Add-NetEventNetworkAdapter.md)
+### [Add-NetEventNetworkAdapter](./add-neteventnetworkadapter.md)
 Adds a network adapter as a filter on a provider.
 
-### [Add-NetEventPacketCaptureProvider](./Add-NetEventPacketCaptureProvider.md)
+### [Add-NetEventPacketCaptureProvider](./add-neteventpacketcaptureprovider.md)
 Adds a Remote Packet Capture provider.
 
-### [Add-NetEventProvider](./Add-NetEventProvider.md)
+### [Add-NetEventProvider](./add-neteventprovider.md)
 Adds an ETW provider to a session.
 
-### [Add-NetEventVmNetworkAdapter](./Add-NetEventVmNetworkAdapter.md)
+### [Add-NetEventVmNetworkAdapter](./add-neteventvmnetworkadapter.md)
 Adds a virtual network adapter as a filter on the provider.
 
-### [Add-NetEventVmSwitch](./Add-NetEventVmSwitch.md)
+### [Add-NetEventVmSwitch](./add-neteventvmswitch.md)
 Adds a Hyper-V virtual switch as a filter on a provider.
 
-### [Add-NetEventWFPCaptureProvider](./Add-NetEventWFPCaptureProvider.md)
+### [Add-NetEventWFPCaptureProvider](./add-neteventwfpcaptureprovider.md)
 Creates a WFP capture provider.
 
-### [Get-NetEventNetworkAdapter](./Get-NetEventNetworkAdapter.md)
+### [Get-NetEventNetworkAdapter](./get-neteventnetworkadapter.md)
 Gets the network adapters associated with a Remote Packet Capture provider.
 
-### [Get-NetEventPacketCaptureProvider](./Get-NetEventPacketCaptureProvider.md)
+### [Get-NetEventPacketCaptureProvider](./get-neteventpacketcaptureprovider.md)
 Displays a Remote Packet Capture provider.
 
-### [Get-NetEventProvider](./Get-NetEventProvider.md)
+### [Get-NetEventProvider](./get-neteventprovider.md)
 Displays the ETW providers that are present on the computer or associated with an event and packet capture session.
 
-### [Get-NetEventSession](./Get-NetEventSession.md)
+### [Get-NetEventSession](./get-neteventsession.md)
 Gets network event sessions.
 
-### [Get-NetEventVmNetworkAdapter](./Get-NetEventVmNetworkAdapter.md)
+### [Get-NetEventVmNetworkAdapter](./get-neteventvmnetworkadapter.md)
 Gets virtual network adapters from a provider.
 
-### [Get-NetEventVmSwitch](./Get-NetEventVmSwitch.md)
+### [Get-NetEventVmSwitch](./get-neteventvmswitch.md)
 Gets Hyper-V virtual switches from a provider.
 
-### [Get-NetEventWFPCaptureProvider](./Get-NetEventWFPCaptureProvider.md)
+### [Get-NetEventWFPCaptureProvider](./get-neteventwfpcaptureprovider.md)
 Displays settings for a local or remote WFP capture provider configuration.
 
-### [New-NetEventSession](./New-NetEventSession.md)
+### [New-NetEventSession](./new-neteventsession.md)
 Creates a network event session.
 
-### [Remove-NetEventNetworkAdapter](./Remove-NetEventNetworkAdapter.md)
+### [Remove-NetEventNetworkAdapter](./remove-neteventnetworkadapter.md)
 Removes network adapters associated with a provider.
 
-### [Remove-NetEventPacketCaptureProvider](./Remove-NetEventPacketCaptureProvider.md)
+### [Remove-NetEventPacketCaptureProvider](./remove-neteventpacketcaptureprovider.md)
 Removes the Remote Packet Capture provider and deletes the settings.
 
-### [Remove-NetEventProvider](./Remove-NetEventProvider.md)
+### [Remove-NetEventProvider](./remove-neteventprovider.md)
 Removes an ETW provider from a session.
 
-### [Remove-NetEventSession](./Remove-NetEventSession.md)
+### [Remove-NetEventSession](./remove-neteventsession.md)
 Removes a network event session.
 
-### [Remove-NetEventVmNetworkAdapter](./Remove-NetEventVmNetworkAdapter.md)
+### [Remove-NetEventVmNetworkAdapter](./remove-neteventvmnetworkadapter.md)
 Removes virtual network adapters from a provider.
 
-### [Remove-NetEventVmSwitch](./Remove-NetEventVmSwitch.md)
+### [Remove-NetEventVmSwitch](./remove-neteventvmswitch.md)
 Removes Hyper-V virtual switches from a provider.
 
-### [Remove-NetEventWFPCaptureProvider](./Remove-NetEventWFPCaptureProvider.md)
+### [Remove-NetEventWFPCaptureProvider](./remove-neteventwfpcaptureprovider.md)
 Removes a local or remote WFP capture provider.
 
-### [Set-NetEventPacketCaptureProvider](./Set-NetEventPacketCaptureProvider.md)
+### [Set-NetEventPacketCaptureProvider](./set-neteventpacketcaptureprovider.md)
 Modifies the configuration for a Remote Packet Capture provider.
 
-### [Set-NetEventProvider](./Set-NetEventProvider.md)
+### [Set-NetEventProvider](./set-neteventprovider.md)
 Modifies settings for an ETW provider.
 
-### [Set-NetEventSession](./Set-NetEventSession.md)
+### [Set-NetEventSession](./set-neteventsession.md)
 Modifies a network event session.
 
-### [Set-NetEventWFPCaptureProvider](./Set-NetEventWFPCaptureProvider.md)
+### [Set-NetEventWFPCaptureProvider](./set-neteventwfpcaptureprovider.md)
 Modifies the configuration of a WFP capture provider.
 
-### [Start-NetEventSession](./Start-NetEventSession.md)
+### [Start-NetEventSession](./start-neteventsession.md)
 Starts event and packet capture for a network event session.
 
-### [Stop-NetEventSession](./Stop-NetEventSession.md)
+### [Stop-NetEventSession](./stop-neteventsession.md)
 Stops event and packet capture for a network event session.
+
 
 

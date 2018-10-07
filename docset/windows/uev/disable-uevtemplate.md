@@ -105,15 +105,16 @@ The settings location template ID.
 
 ## RELATED LINKS
 
-[Enable-UevTemplate](./Enable-UevTemplate.md)
+[Enable-UevTemplate](./enable-uevtemplate.md)
 
-[Get-UevTemplate](./Get-UevTemplate.md)
+[Get-UevTemplate](./get-uevtemplate.md)
 
-[Register-UevTemplate](./Register-UevTemplate.md)
+[Register-UevTemplate](./register-uevtemplate.md)
 
-[Test-UevTemplate](./Test-UevTemplate.md)
+[Test-UevTemplate](./test-uevtemplate.md)
 
-[Unregister-UevTemplate](./Unregister-UevTemplate.md)
+[Unregister-UevTemplate](./unregister-uevtemplate.md)
 
-[Update-UevTemplate](./Update-UevTemplate.md)
+[Update-UevTemplate](./update-uevtemplate.md)
+
 

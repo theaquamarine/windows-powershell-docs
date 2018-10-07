@@ -200,7 +200,8 @@ The cmdlet returns a Boolean type property named Restart, which, by default, is 
 
 ## RELATED LINKS
 
-[Get-CAAuthorityInformationAccess](./Get-CAAuthorityInformationAccess.md)
+[Get-CAAuthorityInformationAccess](./get-caauthorityinformationaccess.md)
 
-[Remove-CAAuthorityInformationAccess](./Remove-CAAuthorityInformationAccess.md)
+[Remove-CAAuthorityInformationAccess](./remove-caauthorityinformationaccess.md)
+
 

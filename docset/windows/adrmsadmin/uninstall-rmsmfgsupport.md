@@ -100,11 +100,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 ### None
 
 ## NOTES
-* Before uninstalling Service Pack 1 for Windows Server® 2008 R2, you must remove Microsoft Federation Gateway Support from the AD RMS cluster. Failure to do this may cause an inconsistent configuration of your AD RMS cluster.
+* Before uninstalling Service Pack 1 for Windows Server?? 2008 R2, you must remove Microsoft Federation Gateway Support from the AD RMS cluster. Failure to do this may cause an inconsistent configuration of your AD RMS cluster.
 
 ## RELATED LINKS
 
 [Using Windows PowerShell with AD RMS](http://go.microsoft.com/fwlink/?LinkId=136806)
 
-[Install-RmsMfgSupport](./Install-RmsMfgSupport.md)
+[Install-RmsMfgSupport](./install-rmsmfgsupport.md)
+
 

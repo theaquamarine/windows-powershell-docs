@@ -228,7 +228,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -278,7 +278,8 @@ You can use this parameter, or you can pipe the input to this cmdlet.
 
 [RFC-2307](http://www.rfc-editor.org/rfc/rfc2307.txt)
 
-[Get-NfsNetgroupStore](./Get-NfsNetgroupStore.md)
+[Get-NfsNetgroupStore](./get-nfsnetgroupstore.md)
 
-[Set-NfsMappingStore](./Set-NfsMappingStore.md)
+[Set-NfsMappingStore](./set-nfsmappingstore.md)
+
 

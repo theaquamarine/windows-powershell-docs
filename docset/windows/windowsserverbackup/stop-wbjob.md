@@ -101,5 +101,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-WBJob](./Get-WBJob.md)
+[Get-WBJob](./get-wbjob.md)
+
 

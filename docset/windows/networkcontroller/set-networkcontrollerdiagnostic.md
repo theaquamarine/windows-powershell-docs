@@ -311,5 +311,6 @@ This cmdlet returns an object that contains the following fields:
 
 ## RELATED LINKS
 
-[Get-NetworkControllerDiagnostic](./Get-NetworkControllerDiagnostic.md)
+[Get-NetworkControllerDiagnostic](./get-networkcontrollerdiagnostic.md)
+
 

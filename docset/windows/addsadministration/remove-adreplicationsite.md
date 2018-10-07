@@ -220,9 +220,10 @@ This parameter can also get this object through the pipeline or you can set this
 
 ## RELATED LINKS
 
-[Get-ADReplicationSite](./Get-ADReplicationSite.md)
+[Get-ADReplicationSite](./get-adreplicationsite.md)
 
-[New-ADReplicationSite](./New-ADReplicationSite.md)
+[New-ADReplicationSite](./new-adreplicationsite.md)
 
-[Set-ADReplicationSite](./Set-ADReplicationSite.md)
+[Set-ADReplicationSite](./set-adreplicationsite.md)
+
 

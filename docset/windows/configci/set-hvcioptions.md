@@ -150,5 +150,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Set-RuleOption](./Set-RuleOption.md)
+[Set-RuleOption](./set-ruleoption.md)
+
 

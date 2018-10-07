@@ -99,7 +99,7 @@ Use this parameter to run commands that take a long time to complete.
 You can continue to work in the session while the job completes.
 To manage the job, use the `*-Job` cmdlets.
 To get the job results, use the [Receive-Job](http://go.microsoft.com/fwlink/?LinkID=113372) cmdlet. 
- For more information about Windows PowerShell® background jobs, see [about_Jobs](http://go.microsoft.com/fwlink/?LinkID=113251).
+ For more information about Windows PowerShell?? background jobs, see [about_Jobs](http://go.microsoft.com/fwlink/?LinkID=113251).
 
 ```yaml
 Type: SwitchParameter
@@ -163,7 +163,7 @@ Accept wildcard characters: False
 ```
 
 ### -DisplayName
-Specifies the transport or filter name shown in the Networking tab under the network adapter properties in Windows Server® 2012 and later.
+Specifies the transport or filter name shown in the Networking tab under the network adapter properties in Windows Server?? 2012 and later.
 
 ```yaml
 Type: String[]
@@ -258,7 +258,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -308,9 +308,10 @@ The path after the pound sign (`#`) provides the namespace and class name for th
 
 ## RELATED LINKS
 
-[Enable-NetAdapterBinding](./Enable-NetAdapterBinding.md)
+[Enable-NetAdapterBinding](./enable-netadapterbinding.md)
 
-[Get-NetAdapterBinding](./Get-NetAdapterBinding.md)
+[Get-NetAdapterBinding](./get-netadapterbinding.md)
 
-[Set-NetAdapterBinding](./Set-NetAdapterBinding.md)
+[Set-NetAdapterBinding](./set-netadapterbinding.md)
+
 

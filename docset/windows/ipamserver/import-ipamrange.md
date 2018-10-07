@@ -57,7 +57,7 @@ The *AddManagedByService* and *AddServiceInstance* can be used to create the spe
 
 The network identifier (ID) field is required to import IPAM ranges to the .csv file.
 Any other range specific basic field or custom field can be specified in any order in the .csv file for import.
-Sample format of import .csv file, can be generated using IPAM export functionality from IPAM UI (localized format) or IPAM Windows PowerShell® (English format).
+Sample format of import .csv file, can be generated using IPAM export functionality from IPAM UI (localized format) or IPAM Windows PowerShell?? (English format).
 
 The IPAM Windows PowerShell import supports both English as well as server localized .csv file.
 The IPAM server uses presence of the field named **NetworkId** (without spaces) in the .csv file to ascertain that the file must be processed in English format.
@@ -360,7 +360,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -416,5 +416,6 @@ Failures recorded in the file: \<ErrorFilename\> \<AddressFamily\>\<x\>\<y\>\<z\
 
 ## RELATED LINKS
 
-[Export-IpamRange](./Export-IpamRange.md)
+[Export-IpamRange](./export-ipamrange.md)
+
 

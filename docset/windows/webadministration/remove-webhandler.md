@@ -130,9 +130,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-WebHandler](./Get-WebHandler.md)
+[Get-WebHandler](./get-webhandler.md)
 
-[New-WebHandler](./New-WebHandler.md)
+[New-WebHandler](./new-webhandler.md)
 
-[Set-WebHandler](./Set-WebHandler.md)
+[Set-WebHandler](./set-webhandler.md)
+
 

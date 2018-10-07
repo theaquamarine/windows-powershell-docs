@@ -31,7 +31,7 @@ New-NetVirtualizationProviderAddress -ProviderAddress <String> -InterfaceIndex <
 ```
 
 ## DESCRIPTION
-The **New-NetVirtualizationProviderAddress** cmdlet assigns a Provider Address to a network interface for use with Microsoft® Hyper-V® Server 2016 Network Virtualization.
+The **New-NetVirtualizationProviderAddress** cmdlet assigns a Provider Address to a network interface for use with Microsoft?? Hyper-V?? Server 2016 Network Virtualization.
 A Provider Address is an IPv4 or IPv6 address that Network Virtualization uses for multiple virtual Customer Addresses.
 For more information, see [Network Virtualization technical details](http://technet.microsoft.com/library/jj134174.aspx) on TechNet.
 
@@ -154,7 +154,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -195,9 +195,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-NetVirtualizationProviderAddress](./Get-NetVirtualizationProviderAddress.md)
+[Get-NetVirtualizationProviderAddress](./get-netvirtualizationprovideraddress.md)
 
-[Remove-NetVirtualizationProviderAddress](./Remove-NetVirtualizationProviderAddress.md)
+[Remove-NetVirtualizationProviderAddress](./remove-netvirtualizationprovideraddress.md)
 
-[Set-NetVirtualizationProviderAddress](./Set-NetVirtualizationProviderAddress.md)
+[Set-NetVirtualizationProviderAddress](./set-netvirtualizationprovideraddress.md)
+
 

@@ -143,13 +143,14 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Clear-IISCentralCertProvider](./Clear-IISCentralCertProvider.md)
+[Clear-IISCentralCertProvider](./clear-iiscentralcertprovider.md)
 
-[Disable-IISCentralCertProvider](./Disable-IISCentralCertProvider.md)
+[Disable-IISCentralCertProvider](./disable-iiscentralcertprovider.md)
 
-[Enable-IISCentralCertProvider](./Enable-IISCentralCertProvider.md)
+[Enable-IISCentralCertProvider](./enable-iiscentralcertprovider.md)
 
-[Set-IISCentralCertProvider](./Set-IISCentralCertProvider.md)
+[Set-IISCentralCertProvider](./set-iiscentralcertprovider.md)
 
-[Set-IISCentralCertProviderCredential](./Set-IISCentralCertProviderCredential.md)
+[Set-IISCentralCertProviderCredential](./set-iiscentralcertprovidercredential.md)
+
 

@@ -186,9 +186,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-NlbClusterPortRule](./Add-NlbClusterPortRule.md)
+[Add-NlbClusterPortRule](./add-nlbclusterportrule.md)
 
-[Set-NlbClusterPortRule](./Set-NlbClusterPortRule.md)
+[Set-NlbClusterPortRule](./set-nlbclusterportrule.md)
 
-[Set-NlbClusterPortRuleNodeWeight](./Set-NlbClusterPortRuleNodeWeight.md)
+[Set-NlbClusterPortRuleNodeWeight](./set-nlbclusterportrulenodeweight.md)
+
 

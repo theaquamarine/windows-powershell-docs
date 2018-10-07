@@ -118,7 +118,8 @@ This cmdlet returns an array of **StorageNodeToStorageEnclosure** objects.
 
 ## RELATED LINKS
 
-[Get-DiskStorageNodeView](./Get-DiskStorageNodeView.md)
+[Get-DiskStorageNodeView](./get-diskstoragenodeview.md)
 
-[Get-PhysicalDiskStorageNodeView](./Get-PhysicalDiskStorageNodeView.md)
+[Get-PhysicalDiskStorageNodeView](./get-physicaldiskstoragenodeview.md)
+
 

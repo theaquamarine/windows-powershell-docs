@@ -252,9 +252,10 @@ The list returned depends on the parameters specified.
 
 ## RELATED LINKS
 
-[Add-ADDomainControllerPasswordReplicationPolicy](./Add-ADDomainControllerPasswordReplicationPolicy.md)
+[Add-ADDomainControllerPasswordReplicationPolicy](./add-addomaincontrollerpasswordreplicationpolicy.md)
 
-[Remove-ADDomainControllerPasswordReplicationPolicy](./Remove-ADDomainControllerPasswordReplicationPolicy.md)
+[Remove-ADDomainControllerPasswordReplicationPolicy](./remove-addomaincontrollerpasswordreplicationpolicy.md)
 
 [AD DS Administration Cmdlets in Windows PowerShell](./activedirectory.md)
+
 

@@ -118,9 +118,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-BitLockerKeyProtector](./Add-BitLockerKeyProtector.md)
+[Add-BitLockerKeyProtector](./add-bitlockerkeyprotector.md)
 
-[Enable-BitLocker](./Enable-BitLocker.md)
+[Enable-BitLocker](./enable-bitlocker.md)
 
-[Enable-BitLockerAutoUnlock](./Enable-BitLockerAutoUnlock.md)
+[Enable-BitLockerAutoUnlock](./enable-bitlockerautounlock.md)
+
 

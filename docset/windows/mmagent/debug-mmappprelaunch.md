@@ -32,7 +32,7 @@ Debug-MMAppPrelaunch -PackageFullName <String> [-DisableDebugMode] -PackageRelat
 ## DESCRIPTION
 The **Debug-MMAppPrelaunch** cmdlet debugs the application prelaunch of a specific application by triggering the prelaunch to occur and to exit debug mode for the application.
 
-Prelaunching is a new feature added in Windows® 8.1 that improves the launch performance of apps from the Windows Store by proactively launching frequently used apps in the background if they are not already running or suspended.
+Prelaunching is a new feature added in Windows?? 8.1 that improves the launch performance of apps from the Windows Store by proactively launching frequently used apps in the background if they are not already running or suspended.
 This makes starting an app as fast as switching to a suspended app from the user's perspective.
 This command enables you to prelaunch an app into debug mode.
 
@@ -152,7 +152,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -182,11 +182,12 @@ None
 
 ## RELATED LINKS
 
-[Disable-MMAgent](./Disable-MMAgent.md)
+[Disable-MMAgent](./disable-mmagent.md)
 
-[Enable-MMAgent](./Enable-MMAgent.md)
+[Enable-MMAgent](./enable-mmagent.md)
 
-[Get-MMAgent](./Get-MMAgent.md)
+[Get-MMAgent](./get-mmagent.md)
 
-[Set-MMAgent](./Set-MMAgent.md)
+[Set-MMAgent](./set-mmagent.md)
+
 

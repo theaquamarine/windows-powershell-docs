@@ -129,13 +129,14 @@ This cmdlet returns a **WmsStation** collection as **PSObject** collection.
 
 ## RELATED LINKS
 
-[Clear-WmsStation](./Clear-WmsStation.md)
+[Clear-WmsStation](./clear-wmsstation.md)
 
-[Join-WmsStation](./Join-WmsStation.md)
+[Join-WmsStation](./join-wmsstation.md)
 
-[Set-WmsStation](./Set-WmsStation.md)
+[Set-WmsStation](./set-wmsstation.md)
 
-[Split-WmsStation](./Split-WmsStation.md)
+[Split-WmsStation](./split-wmsstation.md)
 
-[Update-WmsStation](./Update-WmsStation.md)
+[Update-WmsStation](./update-wmsstation.md)
+
 

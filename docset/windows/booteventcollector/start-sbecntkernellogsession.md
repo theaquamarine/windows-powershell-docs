@@ -201,15 +201,16 @@ The **SbecEtwTrace.TraceSessionInfo** class is defined in $PsHome\Modules\BootEv
 
 ## RELATED LINKS
 
-[Get-SbecLogSession](./Get-SbecLogSession.md)
+[Get-SbecLogSession](./get-sbeclogsession.md)
 
-[Start-SbecLogSession](./Start-SbecLogSession.md)
+[Start-SbecLogSession](./start-sbeclogsession.md)
 
-[Start-SbecSimpleLogSession](./Start-SbecSimpleLogSession.md)
+[Start-SbecSimpleLogSession](./start-sbecsimplelogsession.md)
 
-[Stop-SbecLogSession](./Stop-SbecLogSession.md)
+[Stop-SbecLogSession](./stop-sbeclogsession.md)
 
-[Set-SbecLogSession](./Set-SbecLogSession.md)
+[Set-SbecLogSession](./set-sbeclogsession.md)
 
-[Save-SbecLogSession](./Save-SbecLogSession.md)
+[Save-SbecLogSession](./save-sbeclogsession.md)
+
 

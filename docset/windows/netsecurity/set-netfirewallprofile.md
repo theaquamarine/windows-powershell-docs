@@ -449,7 +449,7 @@ Accept wildcard characters: False
 ### -GPOSession
 Specifies the network GPO from which to retrieve the rules to be modified. 
 This parameter is used in the same way as the *PolicyStore* parameter.
-When modifying GPOs in Windows PowerShell®, each change to a GPO requires the entire GPO to be loaded, modified, and saved back.
+When modifying GPOs in Windows PowerShell??, each change to a GPO requires the entire GPO to be loaded, modified, and saved back.
 On a busy Domain Controller (DC), this can be a slow and resource-heavy operation.
 A GPO Session loads a domain GPO onto the local computer and makes all changes in a batch, before saving it back.
 This reduces the load on the DC and speeds up the Windows PowerShell cmdlets.
@@ -629,7 +629,7 @@ The acceptable values for this parameter are: False, True, or NotConfigured.
 This parameter removes the setting from the GPO, which results in the policy not changing the value on the computer when the policy is applied. 
 If managing a computer running firstref_vista and firstref_client_7, then the default value is True. 
 If managing a computer running firstref_longhorn and firstref_server_7, then the default value is False. 
-If managing a computer running Windows Server® 2012, then the default value is True. 
+If managing a computer running Windows Server?? 2012, then the default value is True. 
 When managing a GPO, the default setting for all operating systems is NotConfigured.
 
 ```yaml
@@ -704,7 +704,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -754,17 +754,18 @@ The path after the pound sign (`#`) provides the namespace and class name for th
 
 ## RELATED LINKS
 
-[Copy-NetIPsecRule](./Copy-NetIPsecRule.md)
+[Copy-NetIPsecRule](./copy-netipsecrule.md)
 
-[Get-NetFirewallProfile](./Get-NetFirewallProfile.md)
+[Get-NetFirewallProfile](./get-netfirewallprofile.md)
 
-[New-NetIPsecRule](./New-NetIPsecRule.md)
+[New-NetIPsecRule](./new-netipsecrule.md)
 
-[Open-NetGPO](./Open-NetGPO.md)
+[Open-NetGPO](./open-netgpo.md)
 
-[Save-NetGPO](./Save-NetGPO.md)
+[Save-NetGPO](./save-netgpo.md)
 
-[Set-NetFirewallRule](./Set-NetFirewallRule.md)
+[Set-NetFirewallRule](./set-netfirewallrule.md)
 
-[Set-NetIPsecRule](./Set-NetIPsecRule.md)
+[Set-NetIPsecRule](./set-netipsecrule.md)
+
 

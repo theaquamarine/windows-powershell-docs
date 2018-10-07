@@ -145,3 +145,4 @@ The **Invoke-InsightsCapability** won't return until the specified capabilities 
 [Get-InsightsCapabilityResult](get-insightscapabilityresult.md)<br>
 [Get-InsightsCapabilitySchedule](get-insightscapabilityschedule.md)<br>
 [Set-InsightsCapabilitySchedule](set-insightscapabilityschedule.md)
+

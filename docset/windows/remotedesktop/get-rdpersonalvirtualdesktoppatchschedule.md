@@ -147,9 +147,10 @@ Task did not end in time (not used by task agent).
 
 ## RELATED LINKS
 
-[Set-RDPersonalVirtualDesktopPatchSchedule](./Set-RDPersonalVirtualDesktopPatchSchedule.md)
+[Set-RDPersonalVirtualDesktopPatchSchedule](./set-rdpersonalvirtualdesktoppatchschedule.md)
 
-[New-RDPersonalVirtualDesktopPatchSchedule](./New-RDPersonalVirtualDesktopPatchSchedule.md)
+[New-RDPersonalVirtualDesktopPatchSchedule](./new-rdpersonalvirtualdesktoppatchschedule.md)
 
-[Remove-RDPersonalVirtualDesktopPatchSchedule](./Remove-RDPersonalVirtualDesktopPatchSchedule.md)
+[Remove-RDPersonalVirtualDesktopPatchSchedule](./remove-rdpersonalvirtualdesktoppatchschedule.md)
+
 

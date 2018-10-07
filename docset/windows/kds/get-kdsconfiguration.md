@@ -60,13 +60,14 @@ This cmdlet returns a **KdsServerConfiguration** object contains information suc
 
 ## RELATED LINKS
 
-[Add-KdsRootKey](./Add-KdsRootKey.md)
+[Add-KdsRootKey](./add-kdsrootkey.md)
 
-[Clear-KdsCache](./Clear-KdsCache.md)
+[Clear-KdsCache](./clear-kdscache.md)
 
-[Get-KdsRootKey](./Get-KdsRootKey.md)
+[Get-KdsRootKey](./get-kdsrootkey.md)
 
-[Set-KdsConfiguration](./Set-KdsConfiguration.md)
+[Set-KdsConfiguration](./set-kdsconfiguration.md)
 
-[Test-KdsRootKey](./Test-KdsRootKey.md)
+[Test-KdsRootKey](./test-kdsrootkey.md)
+
 

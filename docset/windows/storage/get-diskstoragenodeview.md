@@ -128,7 +128,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-Disk](./Get-Disk.md)
+[Get-Disk](./get-disk.md)
 
-[Get-StorageNode](./Get-StorageNode.md)
+[Get-StorageNode](./get-storagenode.md)
+
 

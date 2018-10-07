@@ -100,5 +100,6 @@ This cmdlet returns a warning that gives details about the backups present in th
 
 ## RELATED LINKS
 
-[Remove-WBCatalog](./Remove-WBCatalog.md)
+[Remove-WBCatalog](./remove-wbcatalog.md)
+
 

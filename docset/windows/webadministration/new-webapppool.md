@@ -83,11 +83,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Remove-WebAppPool](./Remove-WebAppPool.md)
+[Remove-WebAppPool](./remove-webapppool.md)
 
-[Restart-WebAppPool](./Restart-WebAppPool.md)
+[Restart-WebAppPool](./restart-webapppool.md)
 
-[Start-WebAppPool](./Start-WebAppPool.md)
+[Start-WebAppPool](./start-webapppool.md)
 
-[Stop-WebAppPool](./Stop-WebAppPool.md)
+[Stop-WebAppPool](./stop-webapppool.md)
+
 

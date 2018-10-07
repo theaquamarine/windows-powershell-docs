@@ -25,40 +25,41 @@ This reference provides cmdlet descriptions and syntax for all Defender-specific
 It lists the cmdlets in alphabetical order based on the verb at the beginning of the cmdlet.
 
 ## Defender Cmdlets
-### [Add-MpPreference](./Add-MpPreference.md)
+### [Add-MpPreference](./add-mppreference.md)
 Modifies settings for Windows Defender.
 
-### [Get-MpComputerStatus](./Get-MpComputerStatus.md)
+### [Get-MpComputerStatus](./get-mpcomputerstatus.md)
 Gets the status of antimalware software on the computer.
 
-### [Get-MpPreference](./Get-MpPreference.md)
+### [Get-MpPreference](./get-mppreference.md)
 Gets preferences for the Windows Defender scans and updates.
 
-### [Get-MpThreat](./Get-MpThreat.md)
+### [Get-MpThreat](./get-mpthreat.md)
 Gets the history of threats detected on the computer.
 
-### [Get-MpThreatCatalog](./Get-MpThreatCatalog.md)
+### [Get-MpThreatCatalog](./get-mpthreatcatalog.md)
 Gets known threats from the definitions catalog.
 
-### [Get-MpThreatDetection](./Get-MpThreatDetection.md)
+### [Get-MpThreatDetection](./get-mpthreatdetection.md)
 Gets active and past malware threats that Windows Defender detected.
 
-### [Remove-MpPreference](./Remove-MpPreference.md)
+### [Remove-MpPreference](./remove-mppreference.md)
 Removes exclusions or default actions.
 
-### [Remove-MpThreat](./Remove-MpThreat.md)
+### [Remove-MpThreat](./remove-mpthreat.md)
 Removes active threats from a computer.
 
-### [Set-MpPreference](./Set-MpPreference.md)
+### [Set-MpPreference](./set-mppreference.md)
 Configures preferences for Windows Defender scans and updates.
 
-### [Start-MpScan](./Start-MpScan.md)
+### [Start-MpScan](./start-mpscan.md)
 Starts a scan on a computer.
 
-### [Start-MpWDOScan](./Start-MpWDOScan.md)
+### [Start-MpWDOScan](./start-mpwdoscan.md)
 Starts a Windows Defender offline scan.
 
-### [Update-MpSignature](./Update-MpSignature.md)
+### [Update-MpSignature](./update-mpsignature.md)
 Updates the antimalware definitions on a computer.
+
 
 

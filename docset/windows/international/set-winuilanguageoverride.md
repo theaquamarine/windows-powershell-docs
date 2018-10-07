@@ -81,9 +81,10 @@ For more information about the **CultureInfo** object, see [CultureInfo Class](h
 
 ## RELATED LINKS
 
-[Get-WinUILanguageOverride](./Get-WinUILanguageOverride.md)
+[Get-WinUILanguageOverride](./get-winuilanguageoverride.md)
 
-[Get-WinUserLanguageList](./Get-WinUserLanguageList.md)
+[Get-WinUserLanguageList](./get-winuserlanguagelist.md)
 
-[Set-WinUserLanguageList](./Set-WinUserLanguageList.md)
+[Set-WinUserLanguageList](./set-winuserlanguagelist.md)
+
 

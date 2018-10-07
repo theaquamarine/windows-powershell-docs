@@ -114,9 +114,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-AdfsScopeDescription](./Add-AdfsScopeDescription.md)
+[Add-AdfsScopeDescription](./add-adfsscopedescription.md)
 
-[Get-AdfsScopeDescription](./Get-AdfsScopeDescription.md)
+[Get-AdfsScopeDescription](./get-adfsscopedescription.md)
 
-[Set-AdfsScopeDescription](./Set-AdfsScopeDescription.md)
+[Set-AdfsScopeDescription](./set-adfsscopedescription.md)
+
 

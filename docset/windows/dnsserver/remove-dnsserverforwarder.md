@@ -163,7 +163,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -207,9 +207,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-DnsServerForwarder](./Get-DnsServerForwarder.md)
+[Get-DnsServerForwarder](./get-dnsserverforwarder.md)
 
-[Add-DnsServerForwarder](./Add-DnsServerForwarder.md)
+[Add-DnsServerForwarder](./add-dnsserverforwarder.md)
 
-[Set-DnsServerForwarder](./Set-DnsServerForwarder.md)
+[Set-DnsServerForwarder](./set-dnsserverforwarder.md)
+
 

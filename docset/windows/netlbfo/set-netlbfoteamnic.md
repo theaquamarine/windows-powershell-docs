@@ -210,7 +210,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -275,9 +275,10 @@ If the *PassThru* parameter is specified, the cmdlet returns the newly modified 
 
 ## RELATED LINKS
 
-[Add-NetLbfoTeamNic](./Add-NetLbfoTeamNic.md)
+[Add-NetLbfoTeamNic](./add-netlbfoteamnic.md)
 
-[Get-NetLbfoTeamNic](./Get-NetLbfoTeamNic.md)
+[Get-NetLbfoTeamNic](./get-netlbfoteamnic.md)
 
-[Remove-NetLbfoTeamNic](./Remove-NetLbfoTeamNic.md)
+[Remove-NetLbfoTeamNic](./remove-netlbfoteamnic.md)
+
 

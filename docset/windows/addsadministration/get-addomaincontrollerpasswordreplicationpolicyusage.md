@@ -264,13 +264,14 @@ This cmdlet returns one or more account objects that represent the users, comput
 
 ## RELATED LINKS
 
-[Get-ADDomainController](./Get-ADDomainController.md)
+[Get-ADDomainController](./get-addomaincontroller.md)
 
-[Add-ADDomainControllerPasswordReplicationPolicy](./Add-ADDomainControllerPasswordReplicationPolicy.md)
+[Add-ADDomainControllerPasswordReplicationPolicy](./add-addomaincontrollerpasswordreplicationpolicy.md)
 
-[Get-ADDomainControllerPasswordReplicationPolicy](./Get-ADDomainControllerPasswordReplicationPolicy.md)
+[Get-ADDomainControllerPasswordReplicationPolicy](./get-addomaincontrollerpasswordreplicationpolicy.md)
 
-[Remove-ADDomainControllerPasswordReplicationPolicy](./Remove-ADDomainControllerPasswordReplicationPolicy.md)
+[Remove-ADDomainControllerPasswordReplicationPolicy](./remove-addomaincontrollerpasswordreplicationpolicy.md)
 
 [AD DS Administration Cmdlets in Windows PowerShell](./activedirectory.md)
+
 

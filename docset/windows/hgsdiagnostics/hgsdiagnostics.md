@@ -11,15 +11,16 @@ Locale: en-US
 This reference provides cmdlet descriptions and syntax for all Host Guardian Service Diagnostics client cmdlets. This table lists the cmdlets in alphabetical order.
 
 ## HgsDiagnostics Cmdlets
-### [Get-HgsTrace](Get-HgsTrace.md)
+### [Get-HgsTrace](get-hgstrace.md)
 Collects and analyzes data relevant to the operation of a guarded fabric.
 
-### [Get-HgsTraceFileData](Get-HgsTraceFileData.md)
+### [Get-HgsTraceFileData](get-hgstracefiledata.md)
 Gets metadata about and the contents of HGS Diagnostic trace files recorded in a trace manifest.
 
-### [New-HgsTraceTarget](New-HgsTraceTarget.md)
+### [New-HgsTraceTarget](new-hgstracetarget.md)
 Creates a HGS Diagnostics target object.
 
-### [Test-HgsTraceTarget](Test-HgsTraceTarget.md)
-Verifies that a remote Windows PowerShell® session can be opened to the provided target.
+### [Test-HgsTraceTarget](test-hgstracetarget.md)
+Verifies that a remote Windows PowerShell?? session can be opened to the provided target.
+
 

@@ -286,13 +286,14 @@ Derived types, such as the following are also accepted:
 
 ## RELATED LINKS
 
-[Search-ADAccount](./Search-ADAccount.md)
+[Search-ADAccount](./search-adaccount.md)
 
-[Set-ADAccountExpiration](./Set-ADAccountExpiration.md)
+[Set-ADAccountExpiration](./set-adaccountexpiration.md)
 
-[Get-ADUser](./Get-ADUser.md)
+[Get-ADUser](./get-aduser.md)
 
-[Get-ADComputer](./Get-ADComputer.md)
+[Get-ADComputer](./get-adcomputer.md)
 
 [AD DS Administration Cmdlets in Windows PowerShell](./activedirectory.md)
+
 

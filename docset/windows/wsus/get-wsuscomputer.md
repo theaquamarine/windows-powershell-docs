@@ -43,9 +43,9 @@ Get-WsusComputer [-UpdateServer <IUpdateServer>] [-NameIncludes <String>]
 ## DESCRIPTION
 The **Get-WsusComputer** cmdlet gets one or more Windows Server Update Services (WSUS) computers based on the specified filtering criteria such as operating system, computer name, update installation status, last reported status time, and etcetera.
 
-If the [Get-WsusServer](./Get-WsusServer.md) cmdlet is run and the resulting **IUpdateServer** object is passed into this cmdlet, then the specified server will be used rather than the local server.
+If the [Get-WsusServer](./get-wsusserver.md) cmdlet is run and the resulting **IUpdateServer** object is passed into this cmdlet, then the specified server will be used rather than the local server.
 
-This cmdlet can be passed into the [Add-WsusComputer](./Add-WsusComputer.md) cmdlet.
+This cmdlet can be passed into the [Add-WsusComputer](./add-wsuscomputer.md) cmdlet.
 
 ## EXAMPLES
 
@@ -320,7 +320,7 @@ Accept wildcard characters: False
 
 ### -UpdateServer
 Specifies the object that contains the WSUS server.
-This value is obtained by calling the [Get-WsusServer](./Get-WsusServer.md) cmdlet and passing the resulting *IUpdateServer* object into this cmdlet.
+This value is obtained by calling the [Get-WsusServer](./get-wsusserver.md) cmdlet and passing the resulting *IUpdateServer* object into this cmdlet.
 
 ```yaml
 Type: IUpdateServer
@@ -349,7 +349,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-WsusComputer](./Add-WsusComputer.md)
+[Add-WsusComputer](./add-wsuscomputer.md)
 
-[Get-WsusServer](./Get-WsusServer.md)
+[Get-WsusServer](./get-wsusserver.md)
+
 

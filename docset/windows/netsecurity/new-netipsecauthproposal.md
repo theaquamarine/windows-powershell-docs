@@ -86,7 +86,7 @@ See the Get-NetIPsecMainModeSA and Get-NetIPsecQuickModeSA cmdlets for more info
 
 ### EXAMPLE 1
 ```
-PS C:\>$cert1Proposal = New-NetIPsecAuthProposal -Machine -Cert -Authority "C=US,O=MSFT,CN=ꞌMicrosoft Root Authorityꞌ" -AuthorityType Root
+PS C:\>$cert1Proposal = New-NetIPsecAuthProposal -Machine -Cert -Authority "C=US,O=MSFT,CN=???Microsoft Root Authority???" -AuthorityType Root
 
 
 
@@ -199,7 +199,7 @@ Specifies that certificates issued by intermediate CAs should be accepted.
 This parameter is used for certificate authentication.
 The acceptable values for this parameter are:: Root or Intermediate.
 The default value is Root. 
-This parameter is supported in Windows Server® 2012.
+This parameter is supported in Windows Server?? 2012.
 
 ```yaml
 Type: CertificateAuthorityType
@@ -541,11 +541,12 @@ The path after the pound sign (`#`) provides the namespace and class name for th
 
 ## RELATED LINKS
 
-[Get-NetIPsecMainModeSA](./Get-NetIPsecMainModeSA.md)
+[Get-NetIPsecMainModeSA](./get-netipsecmainmodesa.md)
 
 [New-NetIPsecPhase1AuthSet](./New-NetIPsecPhase1AuthSet.md)
 
 [New-NetIPsecPhase2AuthSet](./New-NetIPsecPhase2AuthSet.md)
 
-[New-NetIPSecRule](./New-NetIPsecRule.md)
+[New-NetIPSecRule](./new-netipsecrule.md)
+
 

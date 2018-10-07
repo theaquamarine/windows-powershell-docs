@@ -51,5 +51,6 @@ This cmdlet generates **AppvClientMode** object that describes the current App-V
 
 ## RELATED LINKS
 
-[Set-AppvClientMode](./Set-AppvClientMode.md)
+[Set-AppvClientMode](./set-appvclientmode.md)
+
 

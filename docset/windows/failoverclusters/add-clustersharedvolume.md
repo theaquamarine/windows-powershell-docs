@@ -108,11 +108,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-ClusterDisk](./Add-ClusterDisk.md)
+[Add-ClusterDisk](./add-clusterdisk.md)
 
-[Get-ClusterSharedVolume](./Get-ClusterSharedVolume.md)
+[Get-ClusterSharedVolume](./get-clustersharedvolume.md)
 
-[Move-ClusterSharedVolume](./Move-ClusterSharedVolume.md)
+[Move-ClusterSharedVolume](./move-clustersharedvolume.md)
 
-[Remove-ClusterSharedVolume](./Remove-ClusterSharedVolume.md)
+[Remove-ClusterSharedVolume](./remove-clustersharedvolume.md)
+
 

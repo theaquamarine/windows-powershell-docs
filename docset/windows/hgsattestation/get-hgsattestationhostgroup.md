@@ -80,7 +80,8 @@ This cmdlet returns a **StringCollection** object.
 
 ## RELATED LINKS
 
-[Add-HgsAttestationHostGroup](./Add-HgsAttestationHostGroup.md)
+[Add-HgsAttestationHostGroup](./add-hgsattestationhostgroup.md)
 
-[Remove-HgsAttestationHostGroup](./Remove-HgsAttestationHostGroup.md)
+[Remove-HgsAttestationHostGroup](./remove-hgsattestationhostgroup.md)
+
 

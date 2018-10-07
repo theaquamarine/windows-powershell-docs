@@ -74,7 +74,7 @@ This example lists the executables under C:\Windows\System32 that everyone will 
 
 ### Example 3: List executables specified by no policy to a text file
 ```
-PS C:\> Get-AppLockerPolicy -Local | Test-AppLockerPolicy -Path C:\Windows\System32\*.exe -User contoso\saradavis -Filter Denied | Format-List -Property | Set-Content (ꞌC:\temp\DeniedFiles.txtꞌ)
+PS C:\> Get-AppLockerPolicy -Local | Test-AppLockerPolicy -Path C:\Windows\System32\*.exe -User contoso\saradavis -Filter Denied | Format-List -Property | Set-Content (???C:\temp\DeniedFiles.txt???)
 ```
 
 This example gets the local AppLocker policy, uses the policy to determine which executables in C:\Windows\System32 that contoso\saradavis is explicitly denied access to run, and then redirects the list to a text file.
@@ -204,11 +204,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-AppLockerFileInformation](./Get-AppLockerFileInformation.md)
+[Get-AppLockerFileInformation](./get-applockerfileinformation.md)
 
-[Get-AppLockerPolicy](./Get-AppLockerPolicy.md)
+[Get-AppLockerPolicy](./get-applockerpolicy.md)
 
-[New-AppLockerPolicy](./New-AppLockerPolicy.md)
+[New-AppLockerPolicy](./new-applockerpolicy.md)
 
-[Set-AppLockerPolicy](./Set-AppLockerPolicy.md)
+[Set-AppLockerPolicy](./set-applockerpolicy.md)
+
 

@@ -39,7 +39,7 @@ Set-NetVirtualizationProviderAddress -InputObject <CimInstance[]> [-VlanID <UInt
 ```
 
 ## DESCRIPTION
-The **Set-NetVirtualizationProviderAddress** cmdlet changes a virtual local area network (VLAN) ID or prefix length for Provider Addresses used with Microsoft® Hyper-V® Server 2016 Network Virtualization.
+The **Set-NetVirtualizationProviderAddress** cmdlet changes a virtual local area network (VLAN) ID or prefix length for Provider Addresses used with Microsoft?? Hyper-V?? Server 2016 Network Virtualization.
 For more information, see [Network Virtualization technical details](http://technet.microsoft.com/library/jj134174.aspx) on TechNet.
 
 You can specify which Provider Addresses to modify by using address state, interface index, or IP address, or you can use the Get-NetVirtualizationProviderAddress cmdlet to get Provider Addresses to modify.
@@ -217,7 +217,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -258,9 +258,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-NetVirtualizationProviderAddress](./Get-NetVirtualizationProviderAddress.md)
+[Get-NetVirtualizationProviderAddress](./get-netvirtualizationprovideraddress.md)
 
-[New-NetVirtualizationProviderAddress](./New-NetVirtualizationProviderAddress.md)
+[New-NetVirtualizationProviderAddress](./new-netvirtualizationprovideraddress.md)
 
-[Remove-NetVirtualizationProviderAddress](./Remove-NetVirtualizationProviderAddress.md)
+[Remove-NetVirtualizationProviderAddress](./remove-netvirtualizationprovideraddress.md)
+
 

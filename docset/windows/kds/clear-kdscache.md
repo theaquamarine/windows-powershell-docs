@@ -114,13 +114,14 @@ This cmdlet produces no output.
 
 ## RELATED LINKS
 
-[Add-KdsRootKey](./Add-KdsRootKey.md)
+[Add-KdsRootKey](./add-kdsrootkey.md)
 
-[Get-KdsConfiguration](./Get-KdsConfiguration.md)
+[Get-KdsConfiguration](./get-kdsconfiguration.md)
 
-[Get-KdsRootKey](./Get-KdsRootKey.md)
+[Get-KdsRootKey](./get-kdsrootkey.md)
 
-[Set-KdsConfiguration](./Set-KdsConfiguration.md)
+[Set-KdsConfiguration](./set-kdsconfiguration.md)
 
-[Test-KdsRootKey](./Test-KdsRootKey.md)
+[Test-KdsRootKey](./test-kdsrootkey.md)
+
 

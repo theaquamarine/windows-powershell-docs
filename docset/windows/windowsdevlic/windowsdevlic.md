@@ -28,13 +28,14 @@ The developer license is deprecated in the Windows 10 operating system. Develope
 The following table lists the cmdlets in alphabetical order.
 
 ## WindowsDevLic Cmdlets
-### [Get-WindowsDeveloperLicense](./Get-WindowsDeveloperLicense.md)
+### [Get-WindowsDeveloperLicense](./get-windowsdeveloperlicense.md)
 Provides information about Developer Mode for the current computer.
 
-### [Show-WindowsDeveloperLicenseRegistration](./Show-WindowsDeveloperLicenseRegistration.md)
+### [Show-WindowsDeveloperLicenseRegistration](./show-windowsdeveloperlicenseregistration.md)
 Provides information about how to enable a device for development.
 
-### [Unregister-WindowsDeveloperLicense](./Unregister-WindowsDeveloperLicense.md)
+### [Unregister-WindowsDeveloperLicense](./unregister-windowsdeveloperlicense.md)
 Disables Developer Mode on the current computer.
+
 
 

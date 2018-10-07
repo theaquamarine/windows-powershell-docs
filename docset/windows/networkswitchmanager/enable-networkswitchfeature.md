@@ -199,7 +199,8 @@ This cmdlet does not generate any output.
 
 ## RELATED LINKS
 
-[Disable-NetworkSwitchFeature](./Disable-NetworkSwitchFeature.md)
+[Disable-NetworkSwitchFeature](./disable-networkswitchfeature.md)
 
-[Get-NetworkSwitchFeature](./Get-NetworkSwitchFeature.md)
+[Get-NetworkSwitchFeature](./get-networkswitchfeature.md)
+
 

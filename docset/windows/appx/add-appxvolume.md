@@ -105,11 +105,14 @@ This cmdlet returns the **AppxVolume** object that it adds.
 
 ## RELATED LINKS
 
-[Dismount-AppxVolume](./Dismount-AppxVolume.md)
+[Dismount-AppxVolume](./dismount-appxvolume.md)
 
-[Get-AppxVolume](./Get-AppxVolume.md)
+[Get-AppxVolume](./get-appxvolume.md)
 
-[Mount-AppxVolume](./Mount-AppxVolume.md)
+[Mount-AppxVolume](./mount-appxvolume.md)
 
-[Remove-AppxVolume](./Remove-AppxVolume.md)
+[Remove-AppxVolume](./remove-appxvolume.md)
+
+
+
 

@@ -276,7 +276,9 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-WindowsDriver](./Get-WindowsDriver.md)
+[Get-WindowsDriver](./get-windowsdriver.md)
 
-[Remove-WindowsDriver](./Remove-WindowsDriver.md)
+[Remove-WindowsDriver](./remove-windowsdriver.md)
+
+
 

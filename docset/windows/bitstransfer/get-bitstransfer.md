@@ -173,17 +173,18 @@ This cmdlet generates the **BitsJob** objects that are associated with the retri
 
 ## RELATED LINKS
 
-[Add-BitsFile](./Add-BitsFile.md)
+[Add-BitsFile](./add-bitsfile.md)
 
-[Complete-BitsTransfer](./Complete-BitsTransfer.md)
+[Complete-BitsTransfer](./complete-bitstransfer.md)
 
-[Remove-BitsTransfer](./Remove-BitsTransfer.md)
+[Remove-BitsTransfer](./remove-bitstransfer.md)
 
-[Resume-BitsTransfer](./Resume-BitsTransfer.md)
+[Resume-BitsTransfer](./resume-bitstransfer.md)
 
-[Set-BitsTransfer](./Set-BitsTransfer.md)
+[Set-BitsTransfer](./set-bitstransfer.md)
 
-[Start-BitsTransfer](./Start-BitsTransfer.md)
+[Start-BitsTransfer](./start-bitstransfer.md)
 
-[Suspend-BitsTransfer](./Suspend-BitsTransfer.md)
+[Suspend-BitsTransfer](./suspend-bitstransfer.md)
+
 

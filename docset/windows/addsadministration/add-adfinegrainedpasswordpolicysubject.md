@@ -320,7 +320,8 @@ By default, this cmdlet does not generate any output.
 
 ## RELATED LINKS
 
-[Get-ADFineGrainedPasswordPolicySubject](./Get-ADFineGrainedPasswordPolicySubject.md)
+[Get-ADFineGrainedPasswordPolicySubject](./get-adfinegrainedpasswordpolicysubject.md)
 
-[Remove-ADFineGrainedPasswordPolicySubject](./Remove-ADFineGrainedPasswordPolicySubject.md)
+[Remove-ADFineGrainedPasswordPolicySubject](./remove-adfinegrainedpasswordpolicysubject.md)
+
 

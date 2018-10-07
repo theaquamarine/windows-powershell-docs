@@ -265,5 +265,6 @@ Therefore, when this cmdlet is run from a startup or shutdown script, the defaul
 
 ## RELATED LINKS
 
-[Set-GPInheritance](./Set-GPInheritance.md)
+[Set-GPInheritance](./set-gpinheritance.md)
+
 

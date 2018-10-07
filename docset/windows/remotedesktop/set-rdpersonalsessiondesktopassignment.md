@@ -113,11 +113,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-RDPersonalSessionDesktopAssignment](./Get-RDPersonalSessionDesktopAssignment.md)
+[Get-RDPersonalSessionDesktopAssignment](./get-rdpersonalsessiondesktopassignment.md)
 
-[Export-RDPersonalSessionDesktopAssignment](./Export-RDPersonalSessionDesktopAssignment.md)
+[Export-RDPersonalSessionDesktopAssignment](./export-rdpersonalsessiondesktopassignment.md)
 
-[Import-RDPersonalSessionDesktopAssignment](./Import-RDPersonalSessionDesktopAssignment.md)
+[Import-RDPersonalSessionDesktopAssignment](./import-rdpersonalsessiondesktopassignment.md)
 
-[Remove-RDPersonalSessionDesktopAssignment](./Remove-RDPersonalSessionDesktopAssignment.md)
+[Remove-RDPersonalSessionDesktopAssignment](./remove-rdpersonalsessiondesktopassignment.md)
+
 

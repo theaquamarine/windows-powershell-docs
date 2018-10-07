@@ -168,9 +168,10 @@ This cmdlet returns a **VMVideo** object.
 
 ## RELATED LINKS
 
-[Set-VMVideo](./Set-VMVideo.md)
+[Set-VMVideo](./set-vmvideo.md)
 
-[Get-VM](./Get-VM.md)
+[Get-VM](./get-vm.md)
 
-[Get-VMSnapshot](./Get-VMSnapshot.md)
+[Get-VMSnapshot](./get-vmsnapshot.md)
+
 

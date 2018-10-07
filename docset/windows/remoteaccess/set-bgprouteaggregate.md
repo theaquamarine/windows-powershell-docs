@@ -246,11 +246,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-BgpRouteAggregate](./Add-BgpRouteAggregate.md)
+[Add-BgpRouteAggregate](./add-bgprouteaggregate.md)
 
-[Get-BgpRouteAggregate](./Get-BgpRouteAggregate.md)
+[Get-BgpRouteAggregate](./get-bgprouteaggregate.md)
 
-[Remove-BgpRouteAggregate](./Remove-BgpRouteAggregate.md)
+[Remove-BgpRouteAggregate](./remove-bgprouteaggregate.md)
 
 [Remote Access Cmdlets](./remoteaccess.md)
+
 

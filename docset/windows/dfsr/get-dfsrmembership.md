@@ -155,7 +155,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Set-DfsrMembership](./Set-DfsrMembership.md)
+[Set-DfsrMembership](./set-dfsrmembership.md)
 
-[Add-DfsrMember](./Add-DfsrMember.md)
+[Add-DfsrMember](./add-dfsrmember.md)
+
 

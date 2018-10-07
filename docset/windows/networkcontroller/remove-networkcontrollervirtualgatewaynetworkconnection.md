@@ -214,7 +214,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-NetworkControllerVirtualGatewayNetworkConnection](./Get-NetworkControllerVirtualGatewayNetworkConnection.md)
+[Get-NetworkControllerVirtualGatewayNetworkConnection](./get-networkcontrollervirtualgatewaynetworkconnection.md)
 
-[New-NetworkControllerVirtualGatewayNetworkConnection](./New-NetworkControllerVirtualGatewayNetworkConnection.md)
+[New-NetworkControllerVirtualGatewayNetworkConnection](./new-networkcontrollervirtualgatewaynetworkconnection.md)
+
 

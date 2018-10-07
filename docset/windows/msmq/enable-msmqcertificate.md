@@ -35,7 +35,7 @@ Enable-MsmqCertificate [-RenewInternalCertificate] [-WhatIf] [-Confirm] [<Common
 ```
 
 ## DESCRIPTION
-The **Enable-MsmqCertificate** cmdlet registers a certificate with Active Directory® Domain Services.
+The **Enable-MsmqCertificate** cmdlet registers a certificate with Active Directory?? Domain Services.
 If you specify the *RenewInternalCertificate* parameter, the cmdlet generates a certificate in your personal certificate store and registers the certificate with Active Directory Domain Services.
 The cmdlet returns a **System.Security.Cryptography.X509Certificates.X509Certificate** object that represents the enabled certificate.
 
@@ -132,7 +132,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-MsmqCertificate](./Get-MSMQCertificate.md)
+[Get-MsmqCertificate](./get-msmqcertificate.md)
 
-[Remove-MsmqCertificate](./Remove-MsmqCertificate.md)
+[Remove-MsmqCertificate](./remove-msmqcertificate.md)
+
 

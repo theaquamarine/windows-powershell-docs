@@ -144,9 +144,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 [Copy-Item](http://go.microsoft.com/fwlink/?LinkID=113292)
 
-[Add-ClusterResourceDependency](./Add-ClusterResourceDependency.md)
+[Add-ClusterResourceDependency](./add-clusterresourcedependency.md)
 
-[Remove-ClusterResourceDependency](./Remove-ClusterResourceDependency.md)
+[Remove-ClusterResourceDependency](./remove-clusterresourcedependency.md)
 
-[Set-ClusterResourceDependency](./Set-ClusterResourceDependency.md)
+[Set-ClusterResourceDependency](./set-clusterresourcedependency.md)
+
 

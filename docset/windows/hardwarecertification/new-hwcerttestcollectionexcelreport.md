@@ -119,9 +119,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Merge-HwCertTestCollectionFromPackage](./Merge-HwCertTestCollectionFromPackage.md)
+[Merge-HwCertTestCollectionFromPackage](./merge-hwcerttestcollectionfrompackage.md)
 
-[Merge-HwCertTestCollectionFromXml](./Merge-HwCertTestCollectionFromXml.md)
+[Merge-HwCertTestCollectionFromXml](./merge-hwcerttestcollectionfromxml.md)
 
-[Export-HwCertTestCollectionToXml](./Export-HwCertTestCollectionToXml.md)
+[Export-HwCertTestCollectionToXml](./export-hwcerttestcollectiontoxml.md)
+
 

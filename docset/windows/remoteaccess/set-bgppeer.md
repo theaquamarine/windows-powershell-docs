@@ -426,17 +426,18 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-BgpPeer](./Add-BgpPeer.md)
+[Add-BgpPeer](./add-bgppeer.md)
 
-[Get-BgpPeer](./Get-BgpPeer.md)
+[Get-BgpPeer](./get-bgppeer.md)
 
-[Remove-BgpPeer](./Remove-BgpPeer.md)
+[Remove-BgpPeer](./remove-bgppeer.md)
 
-[Set-BgpPeer](./Set-BgpPeer.md)
+[Set-BgpPeer](./set-bgppeer.md)
 
-[Start-BgpPeer](./Start-BgpPeer.md)
+[Start-BgpPeer](./start-bgppeer.md)
 
-[Stop-BgpPeer](./Stop-BgpPeer.md)
+[Stop-BgpPeer](./stop-bgppeer.md)
 
 [Remote Access Cmdlets](./remoteaccess.md)
+
 

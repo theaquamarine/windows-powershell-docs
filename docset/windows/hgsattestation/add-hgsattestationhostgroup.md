@@ -140,7 +140,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-HgsAttestationHostGroup](./Get-HgsAttestationHostGroup.md)
+[Get-HgsAttestationHostGroup](./get-hgsattestationhostgroup.md)
 
-[Remove-HgsAttestationHostGroup](./Remove-HgsAttestationHostGroup.md)
+[Remove-HgsAttestationHostGroup](./remove-hgsattestationhostgroup.md)
+
 

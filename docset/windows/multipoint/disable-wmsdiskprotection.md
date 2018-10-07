@@ -100,11 +100,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Enable-WmsDiskProtection](./Enable-WmsDiskProtection.md)
+[Enable-WmsDiskProtection](./enable-wmsdiskprotection.md)
 
-[Get-WmsDiskProtection](./Get-WmsDiskProtection.md)
+[Get-WmsDiskProtection](./get-wmsdiskprotection.md)
 
-[Resume-WmsDiskProtection](./Resume-WmsDiskProtection.md)
+[Resume-WmsDiskProtection](./resume-wmsdiskprotection.md)
 
-[Suspend-WmsDiskProtection](./Suspend-WmsDiskProtection.md)
+[Suspend-WmsDiskProtection](./suspend-wmsdiskprotection.md)
+
 

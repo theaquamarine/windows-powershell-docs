@@ -200,15 +200,16 @@ None.
 
 ## RELATED LINKS
 
-[Add-WmsSystem](./Add-WmsSystem.md)
+[Add-WmsSystem](./add-wmssystem.md)
 
-[Get-WmsSystem](./Get-WmsSystem.md)
+[Get-WmsSystem](./get-wmssystem.md)
 
-[Remove-WmsSystem](./Remove-WmsSystem.md)
+[Remove-WmsSystem](./remove-wmssystem.md)
 
-[Restart-WmsSystem](./Restart-WmsSystem.md)
+[Restart-WmsSystem](./restart-wmssystem.md)
 
-[Search-WmsSystem](./Search-WmsSystem.md)
+[Search-WmsSystem](./search-wmssystem.md)
 
-[Stop-WmsSystem](./Stop-WmsSystem.md)
+[Stop-WmsSystem](./stop-wmssystem.md)
+
 

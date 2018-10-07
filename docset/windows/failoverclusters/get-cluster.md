@@ -180,13 +180,14 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 [Format-List](http://go.microsoft.com/fwlink/p/?LinkId=113302)
 
-[New-Cluster](./New-Cluster.md)
+[New-Cluster](./new-cluster.md)
 
-[Remove-Cluster](./Remove-Cluster.md)
+[Remove-Cluster](./remove-cluster.md)
 
-[Start-Cluster](./Start-Cluster.md)
+[Start-Cluster](./start-cluster.md)
 
-[Stop-Cluster](./Stop-Cluster.md)
+[Stop-Cluster](./stop-cluster.md)
 
-[Test-Cluster](./Test-Cluster.md)
+[Test-Cluster](./test-cluster.md)
+
 

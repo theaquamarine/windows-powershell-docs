@@ -24,19 +24,19 @@ ms.assetid: 2E018228-3ABE-4901-B33D-92C2D16262CC
 This reference provides cmdlet descriptions and syntax for all Net TCP/IP-specific cmdlets. It lists the cmdlets in alphabetical order based on the verb at the beginning of the cmdlet.
 
 ## NetTCPIP Cmdlets
-### [Find-NetRoute](./Find-NetRoute.md)
+### [Find-NetRoute](./find-netroute.md)
 Finds the best local IP address and the best route to reach a remote address.
 
-### [Get-NetCompartment](./Get-NetCompartment.md)
+### [Get-NetCompartment](./get-netcompartment.md)
 Gets all network compartments in the protocol stack.
 
-### [Get-NetIPAddress](./Get-NetIPAddress.md)
+### [Get-NetIPAddress](./get-netipaddress.md)
 Gets the IP address configuration.
 
-### [Get-NetIPConfiguration](./Get-NetIPConfiguration.md)
+### [Get-NetIPConfiguration](./get-netipconfiguration.md)
 Gets IP network configuration.
 
-### [Get-NetIPInterface](./Get-NetIPInterface.md)
+### [Get-NetIPInterface](./get-netipinterface.md)
 Gets an IP interface.
 
 ### [Get-NetIPv4Protocol](./Get-NetIPv4Protocol.md)
@@ -45,61 +45,61 @@ Gets IPv4 protocol configurations.
 ### [Get-NetIPv6Protocol](./Get-NetIPv6Protocol.md)
 Gets IPv6 protocol configurations.
 
-### [Get-NetNeighbor](./Get-NetNeighbor.md)
+### [Get-NetNeighbor](./get-netneighbor.md)
 Gets neighbor cache entries.
 
-### [Get-NetOffloadGlobalSetting](./Get-NetOffloadGlobalSetting.md)
+### [Get-NetOffloadGlobalSetting](./get-netoffloadglobalsetting.md)
 Gets the global TCP/IP offload settings.
 
-### [Get-NetPrefixPolicy](./Get-NetPrefixPolicy.md)
+### [Get-NetPrefixPolicy](./get-netprefixpolicy.md)
 Gets the prefix policy.
 
-### [Get-NetRoute](./Get-NetRoute.md)
+### [Get-NetRoute](./get-netroute.md)
 Gets the IP route information from the IP routing table.
 
-### [Get-NetTCPConnection](./Get-NetTCPConnection.md)
+### [Get-NetTCPConnection](./get-nettcpconnection.md)
 Gets TCP connections.
 
-### [Get-NetTCPSetting](./Get-NetTCPSetting.md)
+### [Get-NetTCPSetting](./get-nettcpsetting.md)
 Gets information about TCP settings and configuration.
 
-### [Get-NetTransportFilter](./Get-NetTransportFilter.md)
+### [Get-NetTransportFilter](./get-nettransportfilter.md)
 Gets transport filters.
 
-### [Get-NetUDPEndpoint](./Get-NetUDPEndpoint.md)
+### [Get-NetUDPEndpoint](./get-netudpendpoint.md)
 Gets current UDP endpoint statistics.
 
-### [Get-NetUDPSetting](./Get-NetUDPSetting.md)
+### [Get-NetUDPSetting](./get-netudpsetting.md)
 Gets UDP settings.
 
-### [New-NetIPAddress](./New-NetIPAddress.md)
+### [New-NetIPAddress](./new-netipaddress.md)
 Creates and configures an IP address.
 
-### [New-NetNeighbor](./New-NetNeighbor.md)
+### [New-NetNeighbor](./new-netneighbor.md)
 Creates a neighbor cache entry.
 
-### [New-NetRoute](./New-NetRoute.md)
+### [New-NetRoute](./new-netroute.md)
 Creates a route in the IP routing table.
 
-### [New-NetTransportFilter](./New-NetTransportFilter.md)
+### [New-NetTransportFilter](./new-nettransportfilter.md)
 Creates a transport filter.
 
-### [Remove-NetIPAddress](./Remove-NetIPAddress.md)
+### [Remove-NetIPAddress](./remove-netipaddress.md)
 Removes an IP address and its configuration.
 
-### [Remove-NetNeighbor](./Remove-NetNeighbor.md)
+### [Remove-NetNeighbor](./remove-netneighbor.md)
 Removes neighbor cache entries.
 
-### [Remove-NetRoute](./Remove-NetRoute.md)
+### [Remove-NetRoute](./remove-netroute.md)
 Removes IP routes from the IP routing table.
 
-### [Remove-NetTransportFilter](./Remove-NetTransportFilter.md)
+### [Remove-NetTransportFilter](./remove-nettransportfilter.md)
 Removes transport filters.
 
-### [Set-NetIPAddress](./Set-NetIPAddress.md)
+### [Set-NetIPAddress](./set-netipaddress.md)
 Modifies the configuration of an IP address.
 
-### [Set-NetIPInterface](./Set-NetIPInterface.md)
+### [Set-NetIPInterface](./set-netipinterface.md)
 Modifies an IP interface.
 
 ### [Set-NetIPv4Protocol](./Set-NetIPv4Protocol.md)
@@ -108,22 +108,23 @@ Modifies information about the IPv4 Protocol configuration.
 ### [Set-NetIPv6Protocol](./Set-NetIPv6Protocol.md)
 Modifies the IPv6 protocol configuration.
 
-### [Set-NetNeighbor](./Set-NetNeighbor.md)
+### [Set-NetNeighbor](./set-netneighbor.md)
 Modifies a neighbor cache entry.
 
-### [Set-NetOffloadGlobalSetting](./Set-NetOffloadGlobalSetting.md)
+### [Set-NetOffloadGlobalSetting](./set-netoffloadglobalsetting.md)
 Modifies the global TCP/IP offload settings.
 
-### [Set-NetRoute](./Set-NetRoute.md)
+### [Set-NetRoute](./set-netroute.md)
 Modifies an entry or entries in the IP routing table.
 
-### [Set-NetTCPSetting](./Set-NetTCPSetting.md)
+### [Set-NetTCPSetting](./set-nettcpsetting.md)
 Modifies a TCP setting.
 
-### [Set-NetUDPSetting](./Set-NetUDPSetting.md)
+### [Set-NetUDPSetting](./set-netudpsetting.md)
 Modifies UDP settings.
 
-### [Test-NetConnection](./Test-NetConnection.md)
+### [Test-NetConnection](./test-netconnection.md)
 Displays diagnostic information for a connection.
+
 
 

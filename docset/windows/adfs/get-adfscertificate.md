@@ -101,11 +101,12 @@ This cmdlet generates a class structure that represents the certificate objects 
 
 ## RELATED LINKS
 
-[Add-AdfsCertificate](./Add-AdfsCertificate.md)
+[Add-AdfsCertificate](./add-adfscertificate.md)
 
-[Remove-AdfsCertificate](./Remove-AdfsCertificate.md)
+[Remove-AdfsCertificate](./remove-adfscertificate.md)
 
-[Set-AdfsCertificate](./Set-AdfsCertificate.md)
+[Set-AdfsCertificate](./set-adfscertificate.md)
 
-[Update-AdfsCertificate](./Update-AdfsCertificate.md)
+[Update-AdfsCertificate](./update-adfscertificate.md)
+
 

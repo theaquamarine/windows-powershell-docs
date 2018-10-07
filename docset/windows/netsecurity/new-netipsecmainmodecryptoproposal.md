@@ -147,7 +147,8 @@ The path after the pound sign (`#`) provides the namespace and class name for th
 
 ## RELATED LINKS
 
-[New-NetIPsecMainModeRule](./New-NetIPsecMainModeRule.md)
+[New-NetIPsecMainModeRule](./new-netipsecmainmoderule.md)
 
-[New-NetIPsecMainModeCryptoSet](./New-NetIPsecMainModeCryptoSet.md)
+[New-NetIPsecMainModeCryptoSet](./new-netipsecmainmodecryptoset.md)
+
 

@@ -24,25 +24,26 @@ ms.assetid: 93D214CA-DED9-4651-9171-72A50E01B6A4
 The MultiPoint VDI cmdlets in this module are used to manage MultiPoint VDI virtual destkops.
 
 ## MultipointVdi Cmdlets
-### [Disable-WmsVirtualDesktopRole](./Disable-WmsVirtualDesktopRole.md)
+### [Disable-WmsVirtualDesktopRole](./disable-wmsvirtualdesktoprole.md)
 Disables a Hyper-V virtual desktop role.
 
-### [Enable-WmsVirtualDesktopRole](./Enable-WmsVirtualDesktopRole.md)
+### [Enable-WmsVirtualDesktopRole](./enable-wmsvirtualdesktoprole.md)
 Installs the Hyper-V virtual desktop role and customizes it for use with MultiPoint services.
 
-### [Get-WmsVirtualDesktop](./Get-WmsVirtualDesktop.md)
+### [Get-WmsVirtualDesktop](./get-wmsvirtualdesktop.md)
 Gets a virtual desktop.
 
-### [Import-WmsVirtualDesktop](./Import-WmsVirtualDesktop.md)
+### [Import-WmsVirtualDesktop](./import-wmsvirtualdesktop.md)
 Creates a virtual desktop template hard disk image.
 
-### [New-WmsVirtualDesktop](./New-WmsVirtualDesktop.md)
+### [New-WmsVirtualDesktop](./new-wmsvirtualdesktop.md)
 Creates a virtual desktop.
 
-### [New-WmsVirtualDesktopTemplate](./New-WmsVirtualDesktopTemplate.md)
+### [New-WmsVirtualDesktopTemplate](./new-wmsvirtualdesktoptemplate.md)
 Create a virtual desktop template.
 
-### [Open-WmsVirtualDesktop](./Open-WmsVirtualDesktop.md)
+### [Open-WmsVirtualDesktop](./open-wmsvirtualdesktop.md)
 Opens a window connected to a virtual desktop template.
+
 
 

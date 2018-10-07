@@ -151,9 +151,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-NlbClusterVip](./Add-NlbClusterVip.md)
+[Add-NlbClusterVip](./add-nlbclustervip.md)
 
-[Get-NlbClusterVip](./Get-NlbClusterVip.md)
+[Get-NlbClusterVip](./get-nlbclustervip.md)
 
-[Remove-NlbClusterVip](./Remove-NlbClusterVip.md)
+[Remove-NlbClusterVip](./remove-nlbclustervip.md)
+
 

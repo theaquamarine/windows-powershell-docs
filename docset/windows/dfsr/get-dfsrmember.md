@@ -124,9 +124,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-DfsrMember](./Add-DfsrMember.md)
+[Add-DfsrMember](./add-dfsrmember.md)
 
-[Remove-DfsrMember](./Remove-DfsrMember.md)
+[Remove-DfsrMember](./remove-dfsrmember.md)
 
-[Set-DfsrMember](./Set-DfsrMember.md)
+[Set-DfsrMember](./set-dfsrmember.md)
+
 

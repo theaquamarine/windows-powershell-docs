@@ -114,5 +114,6 @@ None.
 
 ## RELATED LINKS
 
-[Unlock-WmsUsbStorage](./Unlock-WmsUsbStorage.md)
+[Unlock-WmsUsbStorage](./unlock-wmsusbstorage.md)
+
 

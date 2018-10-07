@@ -129,5 +129,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Import-AdfsWebContent](./Import-AdfsWebContent.md)
+[Import-AdfsWebContent](./import-adfswebcontent.md)
+
 

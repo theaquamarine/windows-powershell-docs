@@ -217,7 +217,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -265,13 +265,14 @@ This cmdlet produces no output.
 
 ## RELATED LINKS
 
-[Get-DAEntryPointTableItem](./Get-DAEntryPointTableItem.md)
+[Get-DAEntryPointTableItem](./get-daentrypointtableitem.md)
 
-[New-DAEntryPointTableItem](./New-DAEntryPointTableItem.md)
+[New-DAEntryPointTableItem](./new-daentrypointtableitem.md)
 
-[Remove-DAEntryPointTableItem](./Remove-DAEntryPointTableItem.md)
+[Remove-DAEntryPointTableItem](./remove-daentrypointtableitem.md)
 
-[Reset-DAEntryPointTableItem](./Reset-DAEntryPointTableItem.md)
+[Reset-DAEntryPointTableItem](./reset-daentrypointtableitem.md)
 
-[Set-DAEntryPointTableItem](./Set-DAEntryPointTableItem.md)
+[Set-DAEntryPointTableItem](./set-daentrypointtableitem.md)
+
 

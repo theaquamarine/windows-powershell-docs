@@ -143,5 +143,6 @@ This cmdlet returns **VHDSetInfo** objects.
 
 ## RELATED LINKS
 
-[Optimize-VHDSet](./Optimize-VHDSet.md)
+[Optimize-VHDSet](./optimize-vhdset.md)
+
 

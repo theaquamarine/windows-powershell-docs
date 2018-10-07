@@ -118,9 +118,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 ## NOTES
 * Before adding Microsoft Federation Gateway Support, it is very important that you back up the AD RMS configuration database.
 * Do not run this command if the AD RMS snap-in is open in the Microsoft Management Console (MMC). If you do, the command will not respond until you close the AD RMS MMC snap-in.
-* Before uninstalling Service Pack 1 for Windows® 7, you must remove Microsoft Federation Gateway Support from the AD RMS cluster by running the **Uninstall-RmsMfgSupport** cmdlet. Failure to do so may cause an inconsistent configuration of your AD RMS cluster.
+* Before uninstalling Service Pack 1 for Windows?? 7, you must remove Microsoft Federation Gateway Support from the AD RMS cluster by running the **Uninstall-RmsMfgSupport** cmdlet. Failure to do so may cause an inconsistent configuration of your AD RMS cluster.
 
 ## RELATED LINKS
 
 [Using Windows PowerShell with AD RMS](http://go.microsoft.com/fwlink/?LinkId=136806)
+
 

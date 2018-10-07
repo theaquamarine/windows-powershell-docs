@@ -363,9 +363,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Backup-DhcpServer](./Backup-DhcpServer.md)
+[Backup-DhcpServer](./backup-dhcpserver.md)
 
-[Export-DhcpServer](./Export-DhcpServer.md)
+[Export-DhcpServer](./export-dhcpserver.md)
 
-[Restore-DhcpServer](./Restore-DhcpServer.md)
+[Restore-DhcpServer](./restore-dhcpserver.md)
+
 

@@ -106,7 +106,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Disable-MSDSMAutomaticClaim](./Disable-MSDSMAutomaticClaim.md)
+[Disable-MSDSMAutomaticClaim](./disable-msdsmautomaticclaim.md)
 
-[Get-MSDSMAutomaticClaimSettings](./Get-MSDSMAutomaticClaimSettings.md)
+[Get-MSDSMAutomaticClaimSettings](./get-msdsmautomaticclaimsettings.md)
+
 

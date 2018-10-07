@@ -186,9 +186,10 @@ You can pipe a class structure that represents a claim description object for th
 
 ## RELATED LINKS
 
-[Add-AdfsClaimDescription](./Add-AdfsClaimDescription.md)
+[Add-AdfsClaimDescription](./add-adfsclaimdescription.md)
 
-[Get-AdfsClaimDescription](./Get-AdfsClaimDescription.md)
+[Get-AdfsClaimDescription](./get-adfsclaimdescription.md)
 
-[Set-AdfsClaimDescription](./Set-AdfsClaimDescription.md)
+[Set-AdfsClaimDescription](./set-adfsclaimdescription.md)
+
 

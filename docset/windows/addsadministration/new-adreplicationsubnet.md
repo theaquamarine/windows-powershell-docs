@@ -334,9 +334,10 @@ A subnet object that is a template for the new subnet object is received by the 
 
 ## RELATED LINKS
 
-[Get-ADReplicationSubnet](./Get-ADReplicationSubnet.md)
+[Get-ADReplicationSubnet](./get-adreplicationsubnet.md)
 
-[Remove-ADReplicationSubnet](./Remove-ADReplicationSubnet.md)
+[Remove-ADReplicationSubnet](./remove-adreplicationsubnet.md)
 
-[Set-ADReplicationSubnet](./Set-ADReplicationSubnet.md)
+[Set-ADReplicationSubnet](./set-adreplicationsubnet.md)
+
 

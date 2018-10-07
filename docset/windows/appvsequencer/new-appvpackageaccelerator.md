@@ -147,7 +147,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Expand-AppvSequencerPackage](./Expand-AppvSequencerPackage.md)
+[Expand-AppvSequencerPackage](./expand-appvsequencerpackage.md)
 
-[Update-AppvSequencerPackage](./Update-AppvSequencerPackage.md)
+[Update-AppvSequencerPackage](./update-appvsequencerpackage.md)
+
 

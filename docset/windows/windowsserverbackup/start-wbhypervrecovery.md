@@ -206,5 +206,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 [HyperV Overview](http://technet.microsoft.com/en-us/library/hh831531.aspx)
 
-[Get-WBBackupSet](./Get-WBBackupSet.md)
+[Get-WBBackupSet](./get-wbbackupset.md)
+
 

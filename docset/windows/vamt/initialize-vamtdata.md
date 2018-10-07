@@ -122,7 +122,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Import-VamtData](./Import-VamtData.md)
+[Import-VamtData](./import-vamtdata.md)
 
-[Export-VamtData](./Export-VamtData.md)
+[Export-VamtData](./export-vamtdata.md)
+
 

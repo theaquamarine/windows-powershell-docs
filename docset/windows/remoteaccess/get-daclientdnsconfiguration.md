@@ -108,7 +108,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -147,9 +147,10 @@ Each entry is an instance of the **DnsClientNrptRule** object.
 
 ## RELATED LINKS
 
-[Add-DAClientDnsConfiguration](./Add-DAClientDnsConfiguration.md)
+[Add-DAClientDnsConfiguration](./add-daclientdnsconfiguration.md)
 
-[Remove-DAClientDnsConfiguration](./Remove-DAClientDnsConfiguration.md)
+[Remove-DAClientDnsConfiguration](./remove-daclientdnsconfiguration.md)
 
-[Set-DAClientDnsConfiguration](./Set-DAClientDnsConfiguration.md)
+[Set-DAClientDnsConfiguration](./set-daclientdnsconfiguration.md)
+
 

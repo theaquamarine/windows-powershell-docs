@@ -24,10 +24,11 @@ ms.assetid: 5881494F-DCEB-422C-8009-80D0630946B2
 This reference provides cmdlet descriptions and syntax for all Windows Hardware Error Architecuture (WHEA) cmdlets. It lists the cmdlets in alphabetical order based on the verb at the beginning of the cmdlet.
 
 ## WHEA Cmdlets
-### [Get-WheaMemoryPolicy](./Get-WheaMemoryPolicy.md)
+### [Get-WheaMemoryPolicy](./get-wheamemorypolicy.md)
 Gets the WHEA memory policies for a computer.
 
-### [Set-WheaMemoryPolicy](./Set-WheaMemoryPolicy.md)
+### [Set-WheaMemoryPolicy](./set-wheamemorypolicy.md)
 Sets the WHEA memory policy for a computer.
+
 
 

@@ -20,7 +20,7 @@ ms.assetid: 5A75228C-5B7E-4E55-A3D1-E82EBD6DE2ED
 # Get-DAPolicyChange
 
 ## SYNOPSIS
-Gets a list of IP addresses that need to be added and deleted to an IPsec rule based on the differences detected between the IP addresses for the existing rule and the IP addresses derived from the input parameters, and creates a Windows PowerShell® script (.ps1) that updates the IPsec rule in the appropriate policy stores.
+Gets a list of IP addresses that need to be added and deleted to an IPsec rule based on the differences detected between the IP addresses for the existing rule and the IP addresses derived from the input parameters, and creates a Windows PowerShell?? script (.ps1) that updates the IPsec rule in the appropriate policy stores.
 
 ## SYNTAX
 
@@ -32,7 +32,7 @@ Get-DAPolicyChange [[-Servers] <String[]>] [[-Domains] <String[]>] [-DisplayName
 
 ## DESCRIPTION
 The **Get-DAPolicyChange** cmdlet returns the detected differences between the IP addresses (remote and local addresses) of an existing IPsec rule, and the IP addresses derived by the input parameters.
-This cmdlet also creates a Windows PowerShell® script (`.ps1`) that updates the IPsec rule end points with the retrieved IP addresses.
+This cmdlet also creates a Windows PowerShell?? script (`.ps1`) that updates the IPsec rule end points with the retrieved IP addresses.
 The created script contains instances of the Update-NetIPsecRule cmdlet, that adds or deletes IP addresses to or from IPsec rules.
 
 This cmdlet is used to keep the IPsec policies for client and server refreshed in DirectAccess (DA) deployments in a double tunnel model.
@@ -202,7 +202,7 @@ Computer GPOs can be specified as follows.
 -------- `-PolicyStore corp.contoso.com\FirewallPolicy`
 ---- Active Directory GPOs can be created using the **New-GPO** cmdlet or the Group Policy Management Console. 
 - RSOP: This read-only store contains the sum of all GPOs applied to the local computer. 
-- SystemDefaults: This read-only store contains the default state of firewall rules that ship with Windows Server® 2012. 
+- SystemDefaults: This read-only store contains the default state of firewall rules that ship with Windows Server?? 2012. 
 - StaticServiceStore: This read-only store contains all the service restrictions that ship with Windows.
 Optional and product-dependent features are considered part of Windows Server 2012 for the purposes of WFAS. 
 - ConfigurableServiceStore: This read-write store contains all the service restrictions that are added for third-party services.
@@ -255,7 +255,8 @@ The path after the pound sign (`#`) provides the namespace and class name for th
 
 ## RELATED LINKS
 
-[Sync-NetIPsecRule](./Sync-NetIPsecRule.md)
+[Sync-NetIPsecRule](./sync-netipsecrule.md)
 
-[Update-NetIPsecRule](./Update-NetIPsecRule.md)
+[Update-NetIPsecRule](./update-netipsecrule.md)
+
 

@@ -99,7 +99,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Remove-WebConfigurationLocation](./Remove-WebConfigurationLocation.md)
+[Remove-WebConfigurationLocation](./remove-webconfigurationlocation.md)
 
-[Rename-WebConfigurationLocation](./Rename-WebConfigurationLocation.md)
+[Rename-WebConfigurationLocation](./rename-webconfigurationlocation.md)
+
 

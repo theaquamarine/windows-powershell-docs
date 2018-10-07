@@ -24,240 +24,241 @@ ms.assetid: 2DCC3D8E-4155-44FC-AF0E-DC6608D33D8D
 This reference provides cmdlet descriptions and syntax for all Remote Desktop Service-specific cmdlets. It lists the cmdlets in alphabetical order based on the verb at the beginning of the cmdlet.
 
 ## RemoteDesktop Cmdlets
-### [Add-RDServer](./Add-RDServer.md)
+### [Add-RDServer](./add-rdserver.md)
 Adds an RDS server to a Remote Desktop deployment.
 
-### [Add-RDSessionHost](./Add-RDSessionHost.md)
+### [Add-RDSessionHost](./add-rdsessionhost.md)
 Adds one or more RD Session Host servers to a session collection.
 
-### [Add-RDVirtualDesktopToCollection](./Add-RDVirtualDesktopToCollection.md)
+### [Add-RDVirtualDesktopToCollection](./add-rdvirtualdesktoptocollection.md)
 Adds virtual desktops to a virtual desktop collection.
 
-### [Disable-RDVirtualDesktopADMachineAccountReuse](./Disable-RDVirtualDesktopADMachineAccountReuse.md)
+### [Disable-RDVirtualDesktopADMachineAccountReuse](./disable-rdvirtualdesktopadmachineaccountreuse.md)
 Prevents the RD Connection Broker server from reusing existing Active Directory (AD) computer accounts.
 
-### [Disconnect-RDUser](./Disconnect-RDUser.md)
+### [Disconnect-RDUser](./disconnect-rduser.md)
 Disconnects a user from a session that runs on a remote server.
 
-### [Enable-RDVirtualDesktopADMachineAccountReuse](./Enable-RDVirtualDesktopADMachineAccountReuse.md)
+### [Enable-RDVirtualDesktopADMachineAccountReuse](./enable-rdvirtualdesktopadmachineaccountreuse.md)
 Configures the RD Connection Broker server to reuse existing AD DS computer accounts.
 
-### [Export-RDPersonalSessionDesktopAssignment](./Export-RDPersonalSessionDesktopAssignment.md)
+### [Export-RDPersonalSessionDesktopAssignment](./export-rdpersonalsessiondesktopassignment.md)
 Exports the current map of personal session desktops to users.
 
-### [Export-RDPersonalVirtualDesktopAssignment](./Export-RDPersonalVirtualDesktopAssignment.md)
+### [Export-RDPersonalVirtualDesktopAssignment](./export-rdpersonalvirtualdesktopassignment.md)
 Exports the current associations between users and personal virtual desktops to a file.
 
-### [Get-RDAvailableApp](./Get-RDAvailableApp.md)
+### [Get-RDAvailableApp](./get-rdavailableapp.md)
 Gets a list of publishable applications from a collection.
 
-### [Get-RDCertificate](./Get-RDCertificate.md)
+### [Get-RDCertificate](./get-rdcertificate.md)
 Gets certificates associated with RDS roles.
 
-### [Get-RDConnectionBrokerHighAvailability](./Get-RDConnectionBrokerHighAvailability.md)
+### [Get-RDConnectionBrokerHighAvailability](./get-rdconnectionbrokerhighavailability.md)
 Gets high availability settings for the RD Connection Broker server in a Remote Desktop deployment.
 
-### [Get-RDDeploymentGatewayConfiguration](./Get-RDDeploymentGatewayConfiguration.md)
+### [Get-RDDeploymentGatewayConfiguration](./get-rddeploymentgatewayconfiguration.md)
 Gets configuration settings for the RD Gateway for a Remote Desktop deployment.
 
-### [Get-RDFileTypeAssociation](./Get-RDFileTypeAssociation.md)
+### [Get-RDFileTypeAssociation](./get-rdfiletypeassociation.md)
 Displays the file extensions associated with a RemoteApp program.
 
-### [Get-RDLicenseConfiguration](./Get-RDLicenseConfiguration.md)
+### [Get-RDLicenseConfiguration](./get-rdlicenseconfiguration.md)
 Retrieves the current settings for the RD Licensing server and the licensing mode of the Remote Desktop deployment.
 
-### [Get-RDPersonalSessionDesktopAssignment](./Get-RDPersonalSessionDesktopAssignment.md)
+### [Get-RDPersonalSessionDesktopAssignment](./get-rdpersonalsessiondesktopassignment.md)
 Gets personal session desktop assignments.
 
-### [Get-RDPersonalVirtualDesktopAssignment](./Get-RDPersonalVirtualDesktopAssignment.md)
+### [Get-RDPersonalVirtualDesktopAssignment](./get-rdpersonalvirtualdesktopassignment.md)
 Retrieves a list of personal virtual desktops and associated user accounts.
 
-### [Get-RDPersonalVirtualDesktopPatchSchedule](./Get-RDPersonalVirtualDesktopPatchSchedule.md)
+### [Get-RDPersonalVirtualDesktopPatchSchedule](./get-rdpersonalvirtualdesktoppatchschedule.md)
 Gets a patch schedule for a virtual desktop.
 
-### [Get-RDRemoteApp](./Get-RDRemoteApp.md)
+### [Get-RDRemoteApp](./get-rdremoteapp.md)
 Gets RemoteApp programs in a Remote Desktop deployment.
 
-### [Get-RDRemoteDesktop](./Get-RDRemoteDesktop.md)
+### [Get-RDRemoteDesktop](./get-rdremotedesktop.md)
 Gets published Remote Desktop connections.
 
-### [Get-RDServer](./Get-RDServer.md)
+### [Get-RDServer](./get-rdserver.md)
 Gets RDS servers in a Remote Desktop deployment.
 
-### [Get-RDSessionCollection](./Get-RDSessionCollection.md)
+### [Get-RDSessionCollection](./get-rdsessioncollection.md)
 Gets session collections in a Remote Desktop deployment.
 
-### [Get-RDSessionCollectionConfiguration](./Get-RDSessionCollectionConfiguration.md)
+### [Get-RDSessionCollectionConfiguration](./get-rdsessioncollectionconfiguration.md)
 Gets configuration information for a session collection.
 
-### [Get-RDSessionHost](./Get-RDSessionHost.md)
+### [Get-RDSessionHost](./get-rdsessionhost.md)
 Gets a list of RD Session Host servers in a session collection.
 
-### [Get-RDUserSession](./Get-RDUserSession.md)
+### [Get-RDUserSession](./get-rdusersession.md)
 Gets a list of all user sessions in a collection or in a Remote Desktop deployment.
 
-### [Get-RDVirtualDesktop](./Get-RDVirtualDesktop.md)
+### [Get-RDVirtualDesktop](./get-rdvirtualdesktop.md)
 Gets a list of virtual desktops in the remote desktop deployment.
 
-### [Get-RDVirtualDesktopCollection](./Get-RDVirtualDesktopCollection.md)
+### [Get-RDVirtualDesktopCollection](./get-rdvirtualdesktopcollection.md)
 Gets a list of virtual desktop collections in a remote desktop deployment.
 
-### [Get-RDVirtualDesktopCollectionConfiguration](./Get-RDVirtualDesktopCollectionConfiguration.md)
+### [Get-RDVirtualDesktopCollectionConfiguration](./get-rdvirtualdesktopcollectionconfiguration.md)
 Gets configuration details of a virtual desktop collection.
 
-### [Get-RDVirtualDesktopCollectionJobStatus](./Get-RDVirtualDesktopCollectionJobStatus.md)
+### [Get-RDVirtualDesktopCollectionJobStatus](./get-rdvirtualdesktopcollectionjobstatus.md)
 Gets the status of a job on a virtual desktop collection.
 
-### [Get-RDVirtualDesktopConcurrency](./Get-RDVirtualDesktopConcurrency.md)
+### [Get-RDVirtualDesktopConcurrency](./get-rdvirtualdesktopconcurrency.md)
 Gets the number of virtual desktops that RDS can create in parallel.
 
-### [Get-RDVirtualDesktopIdleCount](./Get-RDVirtualDesktopIdleCount.md)
+### [Get-RDVirtualDesktopIdleCount](./get-rdvirtualdesktopidlecount.md)
 Gets the number of idle virtual desktops on hosts.
 
-### [Get-RDVirtualDesktopTemplateExportPath](./Get-RDVirtualDesktopTemplateExportPath.md)
+### [Get-RDVirtualDesktopTemplateExportPath](./get-rdvirtualdesktoptemplateexportpath.md)
 Gets the export path setting of the virtual desktop template.
 
-### [Get-RDWorkspace](./Get-RDWorkspace.md)
+### [Get-RDWorkspace](./get-rdworkspace.md)
 Gets the workspace name for a Remote Desktop deployment.
 
-### [Grant-RDOUAccess](./Grant-RDOUAccess.md)
+### [Grant-RDOUAccess](./grant-rdouaccess.md)
 Grants the Remote Desktop Connection Broker server access to one or more organizational units in a given domain of Active Directory Domain Services.
 
-### [Import-RDPersonalSessionDesktopAssignment](./Import-RDPersonalSessionDesktopAssignment.md)
+### [Import-RDPersonalSessionDesktopAssignment](./import-rdpersonalsessiondesktopassignment.md)
 Imports a map of personal session desktops to users.
 
-### [Import-RDPersonalVirtualDesktopAssignment](./Import-RDPersonalVirtualDesktopAssignment.md)
+### [Import-RDPersonalVirtualDesktopAssignment](./import-rdpersonalvirtualdesktopassignment.md)
 Imports associations between user accounts and personal virtual desktops from a text file.
 
-### [Invoke-RDUserLogoff](./Invoke-RDUserLogoff.md)
+### [Invoke-RDUserLogoff](./invoke-rduserlogoff.md)
 Ends a user session and closes all running applications.
 
-### [Move-RDVirtualDesktop](./Move-RDVirtualDesktop.md)
+### [Move-RDVirtualDesktop](./move-rdvirtualdesktop.md)
 Moves a virtual desktop to a new Remote Desktop Virtualization Host (RD Virtualization Host) server.
 
-### [New-RDCertificate](./New-RDCertificate.md)
+### [New-RDCertificate](./new-rdcertificate.md)
 Creates a certificate for an RDS role.
 
-### [New-RDPersonalVirtualDesktopPatchSchedule](./New-RDPersonalVirtualDesktopPatchSchedule.md)
+### [New-RDPersonalVirtualDesktopPatchSchedule](./new-rdpersonalvirtualdesktoppatchschedule.md)
 Creates a patch schedule for a personal virtual desktop.
 
-### [New-RDRemoteApp](./New-RDRemoteApp.md)
+### [New-RDRemoteApp](./new-rdremoteapp.md)
 Publishes a RemoteApp program to a Remote Desktop deployment.
 
-### [New-RDSessionCollection](./New-RDSessionCollection.md)
+### [New-RDSessionCollection](./new-rdsessioncollection.md)
 Creates a session collection of RD Session Host servers.
 
-### [New-RDSessionDeployment](./New-RDSessionDeployment.md)
+### [New-RDSessionDeployment](./new-rdsessiondeployment.md)
 Installs the required role services for session-based desktop deployment.
 
-### [New-RDVirtualDesktopCollection](./New-RDVirtualDesktopCollection.md)
+### [New-RDVirtualDesktopCollection](./new-rdvirtualdesktopcollection.md)
 Creates a virtual desktop collection.
 
-### [New-RDVirtualDesktopDeployment](./New-RDVirtualDesktopDeployment.md)
+### [New-RDVirtualDesktopDeployment](./new-rdvirtualdesktopdeployment.md)
 Installs role services for Virtual Desktop Infrastructure.
 
-### [Remove-RDDatabaseConnectionString](./Remove-RDDatabaseConnectionString.md)
+### [Remove-RDDatabaseConnectionString](./remove-rddatabaseconnectionstring.md)
 Removes the secondary database connection string for the shared database server in a high availability environment configuration.
 
-### [Remove-RDPersonalSessionDesktopAssignment](./Remove-RDPersonalSessionDesktopAssignment.md)
+### [Remove-RDPersonalSessionDesktopAssignment](./remove-rdpersonalsessiondesktopassignment.md)
 Removes the association between a personal session desktop assignment and a user.
 
-### [Remove-RDPersonalVirtualDesktopAssignment](./Remove-RDPersonalVirtualDesktopAssignment.md)
+### [Remove-RDPersonalVirtualDesktopAssignment](./remove-rdpersonalvirtualdesktopassignment.md)
 Removes the association between a personal virtual desktop and a user.
 
-### [Remove-RDPersonalVirtualDesktopPatchSchedule](./Remove-RDPersonalVirtualDesktopPatchSchedule.md)
+### [Remove-RDPersonalVirtualDesktopPatchSchedule](./remove-rdpersonalvirtualdesktoppatchschedule.md)
 Removes a patch schedule from a personal virtual desktop.
 
-### [Remove-RDRemoteApp](./Remove-RDRemoteApp.md)
+### [Remove-RDRemoteApp](./remove-rdremoteapp.md)
 Removes a RemoteApp program.
 
-### [Remove-RDServer](./Remove-RDServer.md)
+### [Remove-RDServer](./remove-rdserver.md)
 Removes a server from a Remote Desktop deployment.
 
-### [Remove-RDSessionCollection](./Remove-RDSessionCollection.md)
+### [Remove-RDSessionCollection](./remove-rdsessioncollection.md)
 Removes a session collection from a Remote Desktop deployment.
 
-### [Remove-RDSessionHost](./Remove-RDSessionHost.md)
+### [Remove-RDSessionHost](./remove-rdsessionhost.md)
 Removes one or more RD Session Host servers from a session collection.
 
-### [Remove-RDVirtualDesktopCollection](./Remove-RDVirtualDesktopCollection.md)
+### [Remove-RDVirtualDesktopCollection](./remove-rdvirtualdesktopcollection.md)
 Removes a virtual desktop collection.
 
-### [Remove-RDVirtualDesktopFromCollection](./Remove-RDVirtualDesktopFromCollection.md)
+### [Remove-RDVirtualDesktopFromCollection](./remove-rdvirtualdesktopfromcollection.md)
 Removes virtual desktops from a virtual desktop collection.
 
-### [Send-RDUserMessage](./Send-RDUserMessage.md)
+### [Send-RDUserMessage](./send-rdusermessage.md)
 Sends a system message to a specified user session.
 
-### [Set-RDActiveManagementServer](./Set-RDActiveManagementServer.md)
+### [Set-RDActiveManagementServer](./set-rdactivemanagementserver.md)
 Sets the active Remote Desktop Connection Broker  server, or management server, in a remote desktop deployment.
 
-### [Set-RDCertificate](./Set-RDCertificate.md)
+### [Set-RDCertificate](./set-rdcertificate.md)
 Imports and secures a certificate to use with an RDS role.
 
-### [Set-RDClientAccessName](./Set-RDClientAccessName.md)
+### [Set-RDClientAccessName](./set-rdclientaccessname.md)
 Sets a DNS name that clients use to connect to a Remote Desktop deployment.
 
-### [Set-RDConnectionBrokerHighAvailability](./Set-RDConnectionBrokerHighAvailability.md)
+### [Set-RDConnectionBrokerHighAvailability](./set-rdconnectionbrokerhighavailability.md)
 Sets high availability settings for RD Connection Broker servers for a Remote Desktop deployment.
 
-### [Set-RDDatabaseConnectionString](./Set-RDDatabaseConnectionString.md)
+### [Set-RDDatabaseConnectionString](./set-rddatabaseconnectionstring.md)
 Configures the database connection string for the database server used in a high availability environment.
 
-### [Set-RDDeploymentGatewayConfiguration](./Set-RDDeploymentGatewayConfiguration.md)
+### [Set-RDDeploymentGatewayConfiguration](./set-rddeploymentgatewayconfiguration.md)
 Specifies settings for the RD Gateway server for a Remote Desktop deployment.
 
-### [Set-RDFileTypeAssociation](./Set-RDFileTypeAssociation.md)
+### [Set-RDFileTypeAssociation](./set-rdfiletypeassociation.md)
 Changes the file type association of a RemoteApp program in a Remote Desktop deployment.
 
-### [Set-RDLicenseConfiguration](./Set-RDLicenseConfiguration.md)
+### [Set-RDLicenseConfiguration](./set-rdlicenseconfiguration.md)
 Defines settings for the RD Licensing server and the licensing mode of the Remote Desktop deployment.
 
-### [Set-RDPersonalSessionDesktopAssignment](./Set-RDPersonalSessionDesktopAssignment.md)
+### [Set-RDPersonalSessionDesktopAssignment](./set-rdpersonalsessiondesktopassignment.md)
 Associates a personal session desktop assignment with a user.
 
-### [Set-RDPersonalVirtualDesktopAssignment](./Set-RDPersonalVirtualDesktopAssignment.md)
+### [Set-RDPersonalVirtualDesktopAssignment](./set-rdpersonalvirtualdesktopassignment.md)
 Creates an association between a personal virtual desktop and a user account.
 
-### [Set-RDPersonalVirtualDesktopPatchSchedule](./Set-RDPersonalVirtualDesktopPatchSchedule.md)
+### [Set-RDPersonalVirtualDesktopPatchSchedule](./set-rdpersonalvirtualdesktoppatchschedule.md)
 Changes patch schedule settings for a personal virtual desktop.
 
-### [Set-RDRemoteApp](./Set-RDRemoteApp.md)
+### [Set-RDRemoteApp](./set-rdremoteapp.md)
 Modifies configuration settings for a RemoteApp program.
 
-### [Set-RDRemoteDesktop](./Set-RDRemoteDesktop.md)
+### [Set-RDRemoteDesktop](./set-rdremotedesktop.md)
 Changes whether to publish a Remote Desktop to a collection.
 
-### [Set-RDSessionCollectionConfiguration](./Set-RDSessionCollectionConfiguration.md)
+### [Set-RDSessionCollectionConfiguration](./set-rdsessioncollectionconfiguration.md)
 Modifies configuration options for an existing session collection.
 
-### [Set-RDSessionHost](./Set-RDSessionHost.md)
+### [Set-RDSessionHost](./set-rdsessionhost.md)
 Configures one or more RD Session Host servers in a session collection.
 
-### [Set-RDVirtualDesktopCollectionConfiguration](./Set-RDVirtualDesktopCollectionConfiguration.md)
+### [Set-RDVirtualDesktopCollectionConfiguration](./set-rdvirtualdesktopcollectionconfiguration.md)
 Changes configuration settings for a virtual desktop collection.
 
-### [Set-RDVirtualDesktopConcurrency](./Set-RDVirtualDesktopConcurrency.md)
+### [Set-RDVirtualDesktopConcurrency](./set-rdvirtualdesktopconcurrency.md)
 Sets the number of virtual desktops that RDS can create in parallel.
 
-### [Set-RDVirtualDesktopIdleCount](./Set-RDVirtualDesktopIdleCount.md)
+### [Set-RDVirtualDesktopIdleCount](./set-rdvirtualdesktopidlecount.md)
 Sets the maximum number of idle virtual desktops on host servers.
 
-### [Set-RDVirtualDesktopTemplateExportPath](./Set-RDVirtualDesktopTemplateExportPath.md)
+### [Set-RDVirtualDesktopTemplateExportPath](./set-rdvirtualdesktoptemplateexportpath.md)
 Sets the export path for virtual desktop templates.
 
-### [Set-RDWorkspace](./Set-RDWorkspace.md)
+### [Set-RDWorkspace](./set-rdworkspace.md)
 Assigns a workspace name for a Remote Desktop deployment.
 
-### [Stop-RDVirtualDesktopCollectionJob](./Stop-RDVirtualDesktopCollectionJob.md)
+### [Stop-RDVirtualDesktopCollectionJob](./stop-rdvirtualdesktopcollectionjob.md)
 Stops a job on a virtual desktop collection.
 
-### [Test-RDOUAccess](./Test-RDOUAccess.md)
+### [Test-RDOUAccess](./test-rdouaccess.md)
 Verifies that the Remote Desktop Connection Broker  server can access an Active Directory Domain Services  organizational unit.
 
-### [Test-RDVirtualDesktopADMachineAccountReuse](./Test-RDVirtualDesktopADMachineAccountReuse.md)
+### [Test-RDVirtualDesktopADMachineAccountReuse](./test-rdvirtualdesktopadmachineaccountreuse.md)
 Detects whether the RD Connection Broker server is configured to reuse existing AD DS computer accounts.
 
-### [Update-RDVirtualDesktopCollection](./Update-RDVirtualDesktopCollection.md)
+### [Update-RDVirtualDesktopCollection](./update-rdvirtualdesktopcollection.md)
 Associates a virtual desktop collection with a new virtual desktop template.
+
 

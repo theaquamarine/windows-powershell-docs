@@ -219,5 +219,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-VMSecurity](./Get-VMSecurity.md)
+[Get-VMSecurity](./get-vmsecurity.md)
+
 

@@ -103,5 +103,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Grant-RDOUAccess](./Grant-RDOUAccess.md)
+[Grant-RDOUAccess](./grant-rdouaccess.md)
+
 

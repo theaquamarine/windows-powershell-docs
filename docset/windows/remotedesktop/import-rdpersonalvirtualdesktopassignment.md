@@ -102,11 +102,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Export-RDPersonalVirtualDesktopAssignment](./Export-RDPersonalVirtualDesktopAssignment.md)
+[Export-RDPersonalVirtualDesktopAssignment](./export-rdpersonalvirtualdesktopassignment.md)
 
-[Get-RDPersonalVirtualDesktopAssignment](./Get-RDPersonalVirtualDesktopAssignment.md)
+[Get-RDPersonalVirtualDesktopAssignment](./get-rdpersonalvirtualdesktopassignment.md)
 
-[Remove-RDPersonalVirtualDesktopAssignment](./Remove-RDPersonalVirtualDesktopAssignment.md)
+[Remove-RDPersonalVirtualDesktopAssignment](./remove-rdpersonalvirtualdesktopassignment.md)
 
-[Set-RDPersonalVirtualDesktopAssignment](./Set-RDPersonalVirtualDesktopAssignment.md)
+[Set-RDPersonalVirtualDesktopAssignment](./set-rdpersonalvirtualdesktopassignment.md)
+
 

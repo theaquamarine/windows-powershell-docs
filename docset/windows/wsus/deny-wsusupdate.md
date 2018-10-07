@@ -30,7 +30,7 @@ Deny-WsusUpdate -Update <WsusUpdate> [-WhatIf] [-Confirm] [<CommonParameters>]
 
 ## DESCRIPTION
 The **Deny-WsusUpdate** cmdlet declines the specified cmdlet for deployment.
-To use this cmdlet, run the [Get-WsusUpdate](./Get-WsusUpdate.md) cmdlet and pass the resulting **WsusUpdate** object into this cmdlet.
+To use this cmdlet, run the [Get-WsusUpdate](./get-wsusupdate.md) cmdlet and pass the resulting **WsusUpdate** object into this cmdlet.
 This operation requires Windows Server Update Services (WSUS) Administrator privileges.
 
 ## EXAMPLES
@@ -106,7 +106,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Approve-WsusUpdate](./Approve-WsusUpdate.md)
+[Approve-WsusUpdate](./approve-wsusupdate.md)
 
-[Get-WsusUpdate](./Get-WsusUpdate.md)
+[Get-WsusUpdate](./get-wsusupdate.md)
+
 

@@ -609,9 +609,10 @@ A site object that is a template for the new site object is received by the *Ins
 
 ## RELATED LINKS
 
-[Get-ADReplicationSite](./Get-ADReplicationSite.md)
+[Get-ADReplicationSite](./get-adreplicationsite.md)
 
-[Remove-ADReplicationSite](./Remove-ADReplicationSite.md)
+[Remove-ADReplicationSite](./remove-adreplicationsite.md)
 
-[Set-ADReplicationSite](./Set-ADReplicationSite.md)
+[Set-ADReplicationSite](./set-adreplicationsite.md)
+
 

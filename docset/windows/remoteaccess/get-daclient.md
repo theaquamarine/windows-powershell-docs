@@ -34,7 +34,7 @@ The **Get-DAClient** cmdlet displays the list of client security groups that are
 
 The output displayed consists of the following. 
 
- -- DA client properties, which are globally applicable to all clients, such as the status of force tunneling, suffix list in the Name Resolution Policy Table (NRPT) entry corresponding to force tunneling, status of policy to deploy DA only on laptops and notebooks and not on all of the computers in the domain, status of whether appropriate policies should be deployed on down level clients (firstref_client_7) clients such that they too can connect to the Windows Server® 2012 DA Server. 
+ -- DA client properties, which are globally applicable to all clients, such as the status of force tunneling, suffix list in the Name Resolution Policy Table (NRPT) entry corresponding to force tunneling, status of policy to deploy DA only on laptops and notebooks and not on all of the computers in the domain, status of whether appropriate policies should be deployed on down level clients (firstref_client_7) clients such that they too can connect to the Windows Server?? 2012 DA Server. 
 
  -- Client Security Groups and Group Policy Objects (GPOs). 
 
@@ -115,7 +115,7 @@ Accept wildcard characters: False
 ### -EntrypointName
 Specifies the identity of a site in a multi-site deployment.
 When specified only those down-level security groups and GPOs that belong to the specified site (such as these clients connect only to this site) are displayed.
-However, all Windows® 8 security groups and GPOs are displayed as they are independent of site. 
+However, all Windows?? 8 security groups and GPOs are displayed as they are independent of site. 
 
 If there is a multi-site deployment, then down-level client security group and GPO information is always retrieved only for a specific site.
 If this parameter is not specified, then the site to which the computer on which the cmdlet is run is used (the user may or may not be specifying a computer name).
@@ -139,7 +139,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -179,7 +179,7 @@ The output object contains the following properties:
 
  -- The status of the policy to deploy DA only on laptops and notebooks and not on all of the computers in the domain. 
 
- -- The status of whether appropriate policies should be deployed on down-level clients (Windows® 7) to enable the clients to connect to the Windows Server 2012 DA Server. 
+ -- The status of whether appropriate policies should be deployed on down-level clients (Windows?? 7) to enable the clients to connect to the Windows Server 2012 DA Server. 
 
 If multi-site is enabled, then the following additional properties are present: 
 
@@ -193,9 +193,10 @@ If multi-site is enabled, then the following additional properties are present:
 
 ## RELATED LINKS
 
-[Add-DAClient](./Add-DAClient.md)
+[Add-DAClient](./add-daclient.md)
 
-[Remove-DAClient](./Remove-DAClient.md)
+[Remove-DAClient](./remove-daclient.md)
 
-[Set-DAClient](./Set-DAClient.md)
+[Set-DAClient](./set-daclient.md)
+
 

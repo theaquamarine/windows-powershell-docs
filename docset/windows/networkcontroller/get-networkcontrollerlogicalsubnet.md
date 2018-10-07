@@ -167,11 +167,12 @@ Valid values are the range from 0 through 4095.
 
 ## RELATED LINKS
 
-[New-NetworkControllerLogicalSubnet](./New-NetworkControllerLogicalSubnet.md)
+[New-NetworkControllerLogicalSubnet](./new-networkcontrollerlogicalsubnet.md)
 
-[Remove-NetworkControllerLogicalSubnet](./Remove-NetworkControllerLogicalSubnet.md)
+[Remove-NetworkControllerLogicalSubnet](./remove-networkcontrollerlogicalsubnet.md)
 
-[Install-NetworkController](./Install-NetworkController.md)
+[Install-NetworkController](./install-networkcontroller.md)
 
-[Set-NetworkController](./Set-NetworkController.md)
+[Set-NetworkController](./set-networkcontroller.md)
+
 

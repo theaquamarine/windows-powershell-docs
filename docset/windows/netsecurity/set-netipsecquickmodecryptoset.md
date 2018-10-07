@@ -213,7 +213,7 @@ Accept wildcard characters: False
 ### -GPOSession
 Specifies the network GPO from which to retrieve the sets to be modified. 
 This parameter is used in the same way as the *PolicyStore* parameter.
-When modifying Group Policy Objects (GPOs) in Windows PowerShell®, each change to a GPO requires the entire GPO to be loaded, modified, and saved back.
+When modifying Group Policy Objects (GPOs) in Windows PowerShell??, each change to a GPO requires the entire GPO to be loaded, modified, and saved back.
 On a busy Domain Controller (DC), this can be a slow and resource-heavy operation.
 A GPO Session loads a domain GPO onto the local computer and makes all changes in a batch, before saving it back.
 This reduces the load on the DC and speeds up the Windows PowerShell cmdlets.
@@ -361,7 +361,7 @@ Computer GPOs can be specified as follows.
 -------- `-PolicyStore corp.contoso.com\FirewallPolicy`
 ---- Active Directory GPOs can be created using the **New-GPO** cmdlet or the Group Policy Management Console. 
 - RSOP: This read-only store contains the sum of all GPOs applied to the local computer. 
-- SystemDefaults: This read-only store contains the default state of firewall rules that ship with Windows Server® 2012. 
+- SystemDefaults: This read-only store contains the default state of firewall rules that ship with Windows Server?? 2012. 
 - StaticServiceStore: This read-only store contains all the service restrictions that ship with Windows Server 2012.
 Optional and product-dependent features are considered part of Windows Server 2012 for the purposes of WFAS. 
 - ConfigurableServiceStore: This read-write store contains all the service restrictions that are added for third-party services.
@@ -400,7 +400,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -450,11 +450,12 @@ The path after the pound sign (`#`) provides the namespace and class name for th
 
 ## RELATED LINKS
 
-[Copy-NetIPsecQuickModeCryptoSet](./Copy-NetIPsecQuickModeCryptoSet.md)
+[Copy-NetIPsecQuickModeCryptoSet](./copy-netipsecquickmodecryptoset.md)
 
-[Get-NetIPsecQuickModeCryptoSet](./Get-NetIPsecQuickModeCryptoSet.md)
+[Get-NetIPsecQuickModeCryptoSet](./get-netipsecquickmodecryptoset.md)
 
-[New-NetIPsecQuickModeCryptoSet](./New-NetIPsecQuickModeCryptoSet.md)
+[New-NetIPsecQuickModeCryptoSet](./new-netipsecquickmodecryptoset.md)
 
-[Remove-NetIPsecQuickModeCryptoSet](./Remove-NetIPsecQuickModeCryptoSet.md)
+[Remove-NetIPsecQuickModeCryptoSet](./remove-netipsecquickmodecryptoset.md)
+
 

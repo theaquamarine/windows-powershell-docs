@@ -88,7 +88,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[New-RDSessionCollection](./New-RDSessionCollection.md)
+[New-RDSessionCollection](./new-rdsessioncollection.md)
 
-[Remove-RDSessionCollection](./Remove-RDSessionCollection.md)
+[Remove-RDSessionCollection](./remove-rdsessioncollection.md)
+
 

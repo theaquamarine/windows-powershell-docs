@@ -97,13 +97,14 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-IISSite](./Get-IISSite.md)
+[Get-IISSite](./get-iissite.md)
 
-[New-IISSite](./New-IISSite.md)
+[New-IISSite](./new-iissite.md)
 
-[Start-IISSite](./Start-IISSite.md)
+[Start-IISSite](./start-iissite.md)
 
-[Stop-IISSite](./Stop-IISSite.md)
+[Stop-IISSite](./stop-iissite.md)
 
 [IIS Administration Cmdlets for Windows PowerShell](./iisadministration.md)
+
 

@@ -244,5 +244,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Initialize-VMShieldingHelperVHD](./Initialize-VMShieldingHelperVHD.md)
+[Initialize-VMShieldingHelperVHD](./initialize-vmshieldinghelpervhd.md)
+
 

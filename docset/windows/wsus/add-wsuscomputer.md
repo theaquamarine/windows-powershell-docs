@@ -30,7 +30,7 @@ Add-WsusComputer -Computer <WsusComputer> -TargetGroupName <String> [-WhatIf] [-
 
 ## DESCRIPTION
 The **Add-WsusComputer** cmdlet adds the specified computer to the specified target group on the local server or a specified server.
-You can invoke this command by using the pipeline operator for the results of the [Get-WsusComputer](./Get-WsusComputer.md) cmdlet.
+You can invoke this command by using the pipeline operator for the results of the [Get-WsusComputer](./get-wsuscomputer.md) cmdlet.
 Calling the **Get-WsusComputer** cmdlet and passing the results into this cmdlet enables you to leverage the filtering capabilities of the **Get-WsusComputer** cmdlet in moving the desired computers to the specified target group.
 The server used in the **Get-WsusComputer** cmdlet is also used in this cmdlet.
 
@@ -122,7 +122,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-WsusComputer](./Get-WsusComputer.md)
+[Get-WsusComputer](./get-wsuscomputer.md)
 
-[Get-WsusServer](./Get-WsusServer.md)
+[Get-WsusServer](./get-wsusserver.md)
+
 

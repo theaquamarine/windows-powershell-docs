@@ -24,25 +24,26 @@ ms.assetid: 320D8BC5-D906-4FB4-9713-75CECABDBAA4
 This reference provides cmdlet descriptions and syntax for all NPS cmdlets. It lists the cmdlets in alphabetical order based on the verb at the beginning of the cmdlet.
 
 ## NPS Cmdlets
-### [Export-NpsConfiguration](./Export-NpsConfiguration.md)
+### [Export-NpsConfiguration](./export-npsconfiguration.md)
 Exports NPS settings.
 
-### [Get-NpsRadiusClient](./Get-NpsRadiusClient.md)
+### [Get-NpsRadiusClient](./get-npsradiusclient.md)
 Gets RADIUS clients.
 
-### [Get-NpsSharedSecretTemplate](./Get-NpsSharedSecretTemplate.md)
+### [Get-NpsSharedSecretTemplate](./get-npssharedsecrettemplate.md)
 Returns a list of available shared secret templates.
 
-### [Import-NpsConfiguration](./Import-NpsConfiguration.md)
+### [Import-NpsConfiguration](./import-npsconfiguration.md)
 Imports NPS settings.
 
-### [New-NpsRadiusClient](./New-NpsRadiusClient.md)
+### [New-NpsRadiusClient](./new-npsradiusclient.md)
 Creates a RADIUS client.
 
-### [Remove-NpsRadiusClient](./Remove-NpsRadiusClient.md)
+### [Remove-NpsRadiusClient](./remove-npsradiusclient.md)
 Removes a RADIUS client.
 
-### [Set-NpsRadiusClient](./Set-NpsRadiusClient.md)
+### [Set-NpsRadiusClient](./set-npsradiusclient.md)
 Specifies configuration settings for a RADIUS client.
+
 
 

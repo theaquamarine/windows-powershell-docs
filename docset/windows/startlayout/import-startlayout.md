@@ -170,7 +170,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Export-StartLayout](./Export-StartLayout.md)
+[Export-StartLayout](./export-startlayout.md)
 
 [Start Layout Cmdlets](./startlayout.md)
+
 

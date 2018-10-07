@@ -40,7 +40,7 @@ Get-DedupVolume [[-Volume] <String[]>] [-CimSession <CimSession[]>] [-ThrottleLi
 The **Get-DedupVolume** cmdlet returns a **DeduplicationVolume** object for each volume that has data deduplication metadata, in either the enabled or disabled state.
 In a cluster, this cmdlet returns a **DeduplicationVolume** object only for volumes currently mounted by the managed node, whether the volumes are local or clustered volumes.
 
-To run this cmdlet, you must start Windows PowerShell® with the **Run as administrator** option.
+To run this cmdlet, you must start Windows PowerShell?? with the **Run as administrator** option.
 
 ## EXAMPLES
 
@@ -101,7 +101,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -171,9 +171,10 @@ The path after the pound sign (`#`) provides the namespace and class name for th
 
 ## RELATED LINKS
 
-[Disable-DedupVolume](./Disable-DedupVolume.md)
+[Disable-DedupVolume](./disable-dedupvolume.md)
 
-[Enable-DedupVolume](./Enable-DedupVolume.md)
+[Enable-DedupVolume](./enable-dedupvolume.md)
 
-[Set-DedupVolume](./Set-DedupVolume.md)
+[Set-DedupVolume](./set-dedupvolume.md)
+
 

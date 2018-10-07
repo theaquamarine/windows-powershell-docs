@@ -24,7 +24,8 @@ ms.assetid: B8D6B3A1-AFBF-4428-A95C-103704EDB001
 This reference provides the cmdlet description and syntax for the Windows Update cmdlet.
 
 ## WindowsUpdate Cmdlets
-### [Get-WindowsUpdateLog](./Get-WindowsUpdateLog.md)
+### [Get-WindowsUpdateLog](./get-windowsupdatelog.md)
 Merges Windows Update .etl files into a single log file.
+
 
 

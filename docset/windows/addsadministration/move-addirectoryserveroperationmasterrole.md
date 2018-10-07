@@ -338,7 +338,8 @@ By default, this cmdlet does not generate any output.
 
 ## RELATED LINKS
 
-[Move-ADDirectoryServer](./Move-ADDirectoryServer.md)
+[Move-ADDirectoryServer](./move-addirectoryserver.md)
 
 [AD DS Administration Cmdlets in Windows PowerShell](./activedirectory.md)
+
 

@@ -89,5 +89,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Set-DfsrServiceConfiguration](./Set-DfsrServiceConfiguration.md)
+[Set-DfsrServiceConfiguration](./set-dfsrserviceconfiguration.md)
+
 

@@ -147,7 +147,8 @@ This cmdlet does not generate any output.
 
 ## RELATED LINKS
 
-[Set-NetworkSwitchEthernetPortIPAddress](./Set-NetworkSwitchEthernetPortIPAddress.md)
+[Set-NetworkSwitchEthernetPortIPAddress](./set-networkswitchethernetportipaddress.md)
 
-[Get-NetworkSwitchEthernetPort](./Get-NetworkSwitchEthernetPort.md)
+[Get-NetworkSwitchEthernetPort](./get-networkswitchethernetport.md)
+
 

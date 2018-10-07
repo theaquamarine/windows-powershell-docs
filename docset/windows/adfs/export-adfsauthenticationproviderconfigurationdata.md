@@ -127,5 +127,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Import-AdfsAuthenticationProviderConfigurationData](./Import-AdfsAuthenticationProviderConfigurationData.md)
+[Import-AdfsAuthenticationProviderConfigurationData](./import-adfsauthenticationproviderconfigurationdata.md)
+
 

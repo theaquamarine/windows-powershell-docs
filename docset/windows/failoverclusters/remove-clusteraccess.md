@@ -102,9 +102,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Block-ClusterAccess](./Block-ClusterAccess.md)
+[Block-ClusterAccess](./block-clusteraccess.md)
 
-[Get-ClusterAccess](./Get-ClusterAccess.md)
+[Get-ClusterAccess](./get-clusteraccess.md)
 
-[Grant-ClusterAccess](./Grant-ClusterAccess.md)
+[Grant-ClusterAccess](./grant-clusteraccess.md)
+
 

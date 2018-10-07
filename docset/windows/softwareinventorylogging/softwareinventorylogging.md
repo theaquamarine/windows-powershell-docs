@@ -23,34 +23,35 @@ ms.technology: powershell-windows
 This reference provides cmdlet descriptions and syntax for all Software Inventory Logging-specific cmdlets. It lists the cmdlets in alphabetical order based on the verb at the beginning of the cmdlet.
 
 ## SoftwareInventoryLogging Cmdlets
-### [Get-SilComputer](./Get-SilComputer.md)
+### [Get-SilComputer](./get-silcomputer.md)
 Displays the point in time values for specific server and operating system-related data.
 
-### [Get-SilData](./Get-SilData.md)
+### [Get-SilData](./get-sildata.md)
 Displays a point in time collection of all Software Inventory Logging data.
 
-### [Get-SilLogging](./Get-SilLogging.md)
+### [Get-SilLogging](./get-sillogging.md)
 Displays configuration settings for Software Inventory Logging.
 
-### [Get-SilSoftware](./Get-SilSoftware.md)
+### [Get-SilSoftware](./get-silsoftware.md)
 Displays the point in time identity of all software installed on the computer.
 
-### [Get-SilUalAccess](./Get-SilUalAccess.md)
+### [Get-SilUalAccess](./get-silualaccess.md)
 Displays the total number of unique client device requests and client user requests of the server from two days prior.
 
-### [Get-SilWindowsUpdate](./Get-SilWindowsUpdate.md)
+### [Get-SilWindowsUpdate](./get-silwindowsupdate.md)
 Displays the point in time list of all Windows updates installed on the computer.
 
-### [Publish-SilData](./Publish-SilData.md)
+### [Publish-SilData](./publish-sildata.md)
 Initiates a point in time collection of all Software Inventory Logging data and forwards it, along with any accumulated historical data, to the aggregation server.
 
-### [Set-SilLogging](./Set-SilLogging.md)
+### [Set-SilLogging](./set-sillogging.md)
 Applies configuration settings for Software Inventory Logging.
 
-### [Start-SilLogging](./Start-SilLogging.md)
+### [Start-SilLogging](./start-sillogging.md)
 Starts Software Inventory Logging daily logging.
 
-### [Stop-SilLogging](./Stop-SilLogging.md)
+### [Stop-SilLogging](./stop-sillogging.md)
 Stops Software Inventory Logging daily logging.
+
 
 

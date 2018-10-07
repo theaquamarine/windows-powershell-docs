@@ -273,13 +273,14 @@ This cmdlet returns an **ADResultantPasswordReplicationPolicy** enum value that 
 
 ## RELATED LINKS
 
-[Get-ADComputer](./Get-ADComputer.md)
+[Get-ADComputer](./get-adcomputer.md)
 
-[Get-ADServiceAccount](./Get-ADServiceAccount.md)
+[Get-ADServiceAccount](./get-adserviceaccount.md)
 
-[Get-ADUser](./Get-ADUser.md)
+[Get-ADUser](./get-aduser.md)
 
-[Search-ADAccount](./Search-ADAccount.md)
+[Search-ADAccount](./search-adaccount.md)
 
 [AD DS Administration Cmdlets in Windows PowerShell](./activedirectory.md)
+
 

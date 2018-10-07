@@ -171,7 +171,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-CAAuthorityInformationAccess](./Add-CAAuthorityInformationAccess.md)
+[Add-CAAuthorityInformationAccess](./add-caauthorityinformationaccess.md)
 
-[Get-CAAuthorityInformationAccess](./Get-CAAuthorityInformationAccess.md)
+[Get-CAAuthorityInformationAccess](./get-caauthorityinformationaccess.md)
+
 

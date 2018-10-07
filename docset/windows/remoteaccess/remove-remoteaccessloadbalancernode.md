@@ -49,7 +49,7 @@ PS C:\>Remove-RemoteAccessLoadBalancerNode -RemoteAccessServer edge3.corp.contos
 Confirm 
 Removing server edge3 from the load balanced cluster will reduce cluster capacity and availability. Do you want to remove the server? 
  
-[Y] Yes  [N] No  [S] Suspend  [?] Help (default is ꞌYꞌ): Y 
+[Y] Yes  [N] No  [S] Suspend  [?] Help (default is ???Y???): Y 
 
 In case edge3 is not a part of the NLB cluster that contains edge2, this cmdlet returns with the following message.
 PS C:\>
@@ -170,7 +170,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -219,5 +219,6 @@ The String consists of the following properties:
 
 ## RELATED LINKS
 
-[Add-RemoteAccessLoadBalancerNode](./Add-RemoteAccessLoadBalancerNode.md)
+[Add-RemoteAccessLoadBalancerNode](./add-remoteaccessloadbalancernode.md)
+
 

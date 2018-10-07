@@ -137,7 +137,8 @@ None.
 
 ## RELATED LINKS
 
-[Close-WmsApp](./Close-WmsApp.md)
+[Close-WmsApp](./close-wmsapp.md)
 
-[Get-WmsApp](./Get-WmsApp.md)
+[Get-WmsApp](./get-wmsapp.md)
+
 

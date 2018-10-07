@@ -208,7 +208,8 @@ This cmdlet returns object(s) that contain the following fields:
 
 ## RELATED LINKS
 
-[New-NetworkControllerVirtualGatewayBgpPeer](./New-NetworkControllerVirtualGatewayBgpPeer.md)
+[New-NetworkControllerVirtualGatewayBgpPeer](./new-networkcontrollervirtualgatewaybgppeer.md)
 
-[Remove-NetworkControllerVirtualGatewayBgpPeer](./Remove-NetworkControllerVirtualGatewayBgpPeer.md)
+[Remove-NetworkControllerVirtualGatewayBgpPeer](./remove-networkcontrollervirtualgatewaybgppeer.md)
+
 

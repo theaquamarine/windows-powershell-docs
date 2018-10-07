@@ -24,13 +24,14 @@ ms.assetid: 339A6EE3-4826-43D3-99DE-5C719EE117DC
 This reference provides cmdlet descriptions and syntax for all SMI-S Configuration cmdlets. It lists the cmdlets in alphabetical order based on the verb at the beginning of the cmdlet.
 
 ## SMISConfig Cmdlets
-### [Register-SmisProvider](./Register-SmisProvider.md)
+### [Register-SmisProvider](./register-smisprovider.md)
 Registers an SMI-S provider and stores the configuration in the SMI-S service.
 
-### [Search-SmisProvider](./Search-SmisProvider.md)
+### [Search-SmisProvider](./search-smisprovider.md)
 Searches for a list of SMI-S providers.
 
-### [Unregister-SmisProvider](./Unregister-SmisProvider.md)
+### [Unregister-SmisProvider](./unregister-smisprovider.md)
 Removes a registered SMI-S provider.
+
 
 

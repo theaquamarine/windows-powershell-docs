@@ -24,127 +24,128 @@ ms.assetid: C362E2E9-6D95-4A7F-A526-C553D116023B
 This reference provides information about the Windows PowerShell cmdlets provided with Microsoft Distributed Transaction Coordinator (MSDTC). The cmdlet help topics in this section are in alphabetical order.
 
 ## MsDtc Cmdlets
-### [Add-DtcClusterTMMapping](./Add-DtcClusterTMMapping.md)
+### [Add-DtcClusterTMMapping](./add-dtcclustertmmapping.md)
 Adds a cluster DTC mapping.
 
-### [Complete-DtcDiagnosticTransaction](./Complete-DtcDiagnosticTransaction.md)
+### [Complete-DtcDiagnosticTransaction](./complete-dtcdiagnostictransaction.md)
 Invokes the Commit process if the specified transaction is the root transaction; otherwise, invokes the Complete method on a transaction object.
 
-### [Get-Dtc](./Get-Dtc.md)
+### [Get-Dtc](./get-dtc.md)
 Gets DTC instances.
 
-### [Get-DtcAdvancedHostSetting](./Get-DtcAdvancedHostSetting.md)
+### [Get-DtcAdvancedHostSetting](./get-dtcadvancedhostsetting.md)
 Queries the DTC host level properties in the registry.
 
-### [Get-DtcAdvancedSetting](./Get-DtcAdvancedSetting.md)
+### [Get-DtcAdvancedSetting](./get-dtcadvancedsetting.md)
 Queries the advanced setting for MSDTC in the registry.
 
-### [Get-DtcClusterDefault](./Get-DtcClusterDefault.md)
+### [Get-DtcClusterDefault](./get-dtcclusterdefault.md)
 Retrieves the default cluster server.
 
-### [Get-DtcClusterTMMapping](./Get-DtcClusterTMMapping.md)
+### [Get-DtcClusterTMMapping](./get-dtcclustertmmapping.md)
 Gets cluster DTC Mapping data.
 
-### [Get-DtcDefault](./Get-DtcDefault.md)
+### [Get-DtcDefault](./get-dtcdefault.md)
 Gets the default DTC instance.
 
-### [Get-DtcLog](./Get-DtcLog.md)
+### [Get-DtcLog](./get-dtclog.md)
 Gets DTC log file settings.
 
-### [Get-DtcNetworkSetting](./Get-DtcNetworkSetting.md)
+### [Get-DtcNetworkSetting](./get-dtcnetworksetting.md)
 Gets DTC network and security configuration settings.
 
-### [Get-DtcTransaction](./Get-DtcTransaction.md)
+### [Get-DtcTransaction](./get-dtctransaction.md)
 Gets information about transactions being handled by the DTC instance.
 
-### [Get-DtcTransactionsStatistics](./Get-DtcTransactionsStatistics.md)
+### [Get-DtcTransactionsStatistics](./get-dtctransactionsstatistics.md)
 Gets a summary of transactions.
 
-### [Get-DtcTransactionsTraceSession](./Get-DtcTransactionsTraceSession.md)
+### [Get-DtcTransactionsTraceSession](./get-dtctransactionstracesession.md)
 Gets the DTC transactions trace session specific setting of the host.
 
-### [Get-DtcTransactionsTraceSetting](./Get-DtcTransactionsTraceSetting.md)
+### [Get-DtcTransactionsTraceSetting](./get-dtctransactionstracesetting.md)
 Gets the DTC transactions trace setting of the host.
 
-### [Install-Dtc](./Install-Dtc.md)
+### [Install-Dtc](./install-dtc.md)
 Installs the local transactions coordinator.
 
-### [Join-DtcDiagnosticResourceManager](./Join-DtcDiagnosticResourceManager.md)
+### [Join-DtcDiagnosticResourceManager](./join-dtcdiagnosticresourcemanager.md)
 Enlists a diagnostic Resource Manager for a transaction object.
 
-### [New-DtcDiagnosticTransaction](./New-DtcDiagnosticTransaction.md)
+### [New-DtcDiagnosticTransaction](./new-dtcdiagnostictransaction.md)
 Creates a new transaction in a Transaction Manager on the local computer.
 
-### [Receive-DtcDiagnosticTransaction](./Receive-DtcDiagnosticTransaction.md)
+### [Receive-DtcDiagnosticTransaction](./receive-dtcdiagnostictransaction.md)
 Propagates a transaction from a given diagnostic Resource Manager.
 
-### [Remove-DtcClusterTMMapping](./Remove-DtcClusterTMMapping.md)
+### [Remove-DtcClusterTMMapping](./remove-dtcclustertmmapping.md)
 Removes a cluster DTC mapping.
 
-### [Reset-DtcLog](./Reset-DtcLog.md)
+### [Reset-DtcLog](./reset-dtclog.md)
 Resets the log file of a DTC instance.
 
-### [Send-DtcDiagnosticTransaction](./Send-DtcDiagnosticTransaction.md)
+### [Send-DtcDiagnosticTransaction](./send-dtcdiagnostictransaction.md)
 Propagates a transaction to a specified diagnostic Resource Manager.
 
-### [Set-DtcAdvancedHostSetting](./Set-DtcAdvancedHostSetting.md)
+### [Set-DtcAdvancedHostSetting](./set-dtcadvancedhostsetting.md)
 Sets the DTC host level properties in the registry.
 
-### [Set-DtcAdvancedSetting](./Set-DtcAdvancedSetting.md)
+### [Set-DtcAdvancedSetting](./set-dtcadvancedsetting.md)
 Sets DTC instance specific properties in the registry.
 
-### [Set-DtcClusterDefault](./Set-DtcClusterDefault.md)
+### [Set-DtcClusterDefault](./set-dtcclusterdefault.md)
 Sets the cluster default transactions coordinator.
 
-### [Set-DtcClusterTMMapping](./Set-DtcClusterTMMapping.md)
+### [Set-DtcClusterTMMapping](./set-dtcclustertmmapping.md)
 Modifies an existing cluster DTC mapping.
 
-### [Set-DtcDefault](./Set-DtcDefault.md)
+### [Set-DtcDefault](./set-dtcdefault.md)
 Sets the default transactions coordinator.
 
-### [Set-DtcLog](./Set-DtcLog.md)
+### [Set-DtcLog](./set-dtclog.md)
 Modifies the log file settings of a DTC instance.
 
-### [Set-DtcNetworkSetting](./Set-DtcNetworkSetting.md)
+### [Set-DtcNetworkSetting](./set-dtcnetworksetting.md)
 Modifies DTC network and security configuration for a DTC instance.
 
-### [Set-DtcTransaction](./Set-DtcTransaction.md)
+### [Set-DtcTransaction](./set-dtctransaction.md)
 Modifies the state of a transaction.
 
-### [Set-DtcTransactionsTraceSession](./Set-DtcTransactionsTraceSession.md)
+### [Set-DtcTransactionsTraceSession](./set-dtctransactionstracesession.md)
 Modifies the DTC transactions trace setting of the host.
 
-### [Set-DtcTransactionsTraceSetting](./Set-DtcTransactionsTraceSetting.md)
+### [Set-DtcTransactionsTraceSetting](./set-dtctransactionstracesetting.md)
 Modifies the DTC transactions trace setting of the host.
 
-### [Start-Dtc](./Start-Dtc.md)
+### [Start-Dtc](./start-dtc.md)
 Starts the DTC instance.
 
-### [Start-DtcDiagnosticResourceManager](./Start-DtcDiagnosticResourceManager.md)
+### [Start-DtcDiagnosticResourceManager](./start-dtcdiagnosticresourcemanager.md)
 Starts a diagnostic Resource Manager.
 
-### [Start-DtcTransactionsTraceSession](./Start-DtcTransactionsTraceSession.md)
+### [Start-DtcTransactionsTraceSession](./start-dtctransactionstracesession.md)
 Starts a new DTC transactions trace session for the host.
 
-### [Stop-Dtc](./Stop-Dtc.md)
+### [Stop-Dtc](./stop-dtc.md)
 Stops a DTC instance.
 
-### [Stop-DtcDiagnosticResourceManager](./Stop-DtcDiagnosticResourceManager.md)
+### [Stop-DtcDiagnosticResourceManager](./stop-dtcdiagnosticresourcemanager.md)
 Stops and removes a diagnostic Resource Manager job.
 
-### [Stop-DtcTransactionsTraceSession](./Stop-DtcTransactionsTraceSession.md)
+### [Stop-DtcTransactionsTraceSession](./stop-dtctransactionstracesession.md)
 Stops the active DTC transactions trace session on the host.
 
-### [Test-Dtc](./Test-Dtc.md)
+### [Test-Dtc](./test-dtc.md)
 Tests whether two computers can participate in networked transactions.
 
-### [Undo-DtcDiagnosticTransaction](./Undo-DtcDiagnosticTransaction.md)
+### [Undo-DtcDiagnosticTransaction](./undo-dtcdiagnostictransaction.md)
 Invokes the Abort process on the specified transaction.
 
-### [Uninstall-Dtc](./Uninstall-Dtc.md)
+### [Uninstall-Dtc](./uninstall-dtc.md)
 Uninstalls the local transactions coordinator.
 
-### [Write-DtcTransactionsTraceSession](./Write-DtcTransactionsTraceSession.md)
+### [Write-DtcTransactionsTraceSession](./write-dtctransactionstracesession.md)
 Writes the data from an active DTC transactions trace session into the log file.
+
 
 

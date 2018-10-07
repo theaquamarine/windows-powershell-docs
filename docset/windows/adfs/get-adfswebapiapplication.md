@@ -234,9 +234,10 @@ Microsoft.IdentityServer.Management.Resources.WebApiApplication inherits from Mi
 
 ## RELATED LINKS
 
-[Add-AdfsWebApiApplication](./Add-AdfsWebApiApplication.md)
+[Add-AdfsWebApiApplication](./add-adfswebapiapplication.md)
 
-[Remove-AdfsWebApiApplication](./Remove-AdfsWebApiApplication.md)
+[Remove-AdfsWebApiApplication](./remove-adfswebapiapplication.md)
 
-[Set-AdfsWebApiApplication](./Set-AdfsWebApiApplication.md)
+[Set-AdfsWebApiApplication](./set-adfswebapiapplication.md)
+
 

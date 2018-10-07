@@ -97,17 +97,18 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Checkpoint-IscsiVirtualDisk](./Checkpoint-IscsiVirtualDisk.md)
+[Checkpoint-IscsiVirtualDisk](./checkpoint-iscsivirtualdisk.md)
 
-[Get-IscsiVirtualDisk](./Get-IscsiVirtualDisk.md)
+[Get-IscsiVirtualDisk](./get-iscsivirtualdisk.md)
 
-[Import-IscsiVirtualDisk](./Import-IscsiVirtualDisk.md)
+[Import-IscsiVirtualDisk](./import-iscsivirtualdisk.md)
 
-[New-IscsiVirtualDisk](./New-IscsiVirtualDisk.md)
+[New-IscsiVirtualDisk](./new-iscsivirtualdisk.md)
 
-[Remove-IscsiVirtualDisk](./Remove-IscsiVirtualDisk.md)
+[Remove-IscsiVirtualDisk](./remove-iscsivirtualdisk.md)
 
-[Restore-IscsiVirtualDisk](./Restore-IscsiVirtualDisk.md)
+[Restore-IscsiVirtualDisk](./restore-iscsivirtualdisk.md)
 
-[Set-IscsiVirtualDisk](./Set-IscsiVirtualDisk.md)
+[Set-IscsiVirtualDisk](./set-iscsivirtualdisk.md)
+
 

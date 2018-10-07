@@ -24,19 +24,20 @@ ms.assetid: 5069B711-43A1-412B-B7CC-249C39814FD4
 This reference provides cmdlet descriptions and syntax for all Secure Boot-specific cmdlets. It lists the cmdlets in alphabetical order.
 
 ## SecureBoot Cmdlets
-### [Confirm-SecureBootUEFI](./Confirm-SecureBootUEFI.md)
+### [Confirm-SecureBootUEFI](./confirm-securebootuefi.md)
 Confirms that Secure Boot is enabled by checking the Secure Boot status on the local computer.
 
-### [Format-SecureBootUEFI](./Format-SecureBootUEFI.md)
+### [Format-SecureBootUEFI](./format-securebootuefi.md)
 Formats certificates or hashes into a content object that is returned and creates a file that is ready to be signed.
 
-### [Get-SecureBootPolicy](./Get-SecureBootPolicy.md)
+### [Get-SecureBootPolicy](./get-securebootpolicy.md)
 Gets the publisher GUID and the policy version of the Secure Boot configuration policy.
 
-### [Get-SecureBootUEFI](./Get-SecureBootUEFI.md)
+### [Get-SecureBootUEFI](./get-securebootuefi.md)
 Gets the UEFI variable values related to Secure Boot.
 
-### [Set-SecureBootUEFI](./Set-SecureBootUEFI.md)
+### [Set-SecureBootUEFI](./set-securebootuefi.md)
 Sets the Secure Boot-related UEFI variables.
+
 
 

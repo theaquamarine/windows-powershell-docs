@@ -240,9 +240,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-AdfsApplicationPermission](./Get-AdfsApplicationPermission.md)
+[Get-AdfsApplicationPermission](./get-adfsapplicationpermission.md)
 
-[Grant-AdfsApplicationPermission](./Grant-AdfsApplicationPermission.md)
+[Grant-AdfsApplicationPermission](./grant-adfsapplicationpermission.md)
 
-[Revoke-AdfsApplicationPermission](./Revoke-AdfsApplicationPermission.md)
+[Revoke-AdfsApplicationPermission](./revoke-adfsapplicationpermission.md)
+
 

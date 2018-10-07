@@ -109,5 +109,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-AppvClientConfiguration](./Get-AppvClientConfiguration.md)
+[Get-AppvClientConfiguration](./get-appvclientconfiguration.md)
+
 

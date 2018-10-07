@@ -469,7 +469,8 @@ This cmdlet outputs the following information:
 
 ## RELATED LINKS
 
-[Get-NetworkControllerVirtualGatewayNetworkConnection](./Get-NetworkControllerVirtualGatewayNetworkConnection.md)
+[Get-NetworkControllerVirtualGatewayNetworkConnection](./get-networkcontrollervirtualgatewaynetworkconnection.md)
 
-[Remove-NetworkControllerVirtualGatewayNetworkConnection](./Remove-NetworkControllerVirtualGatewayNetworkConnection.md)
+[Remove-NetworkControllerVirtualGatewayNetworkConnection](./remove-networkcontrollervirtualgatewaynetworkconnection.md)
+
 

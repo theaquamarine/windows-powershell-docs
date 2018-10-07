@@ -104,9 +104,10 @@ A **String** containing the name of the task to be removed.
 
 ## RELATED LINKS
 
-[Get-CertificateNotificationTask](./Get-CertificateNotificationTask.md)
+[Get-CertificateNotificationTask](./get-certificatenotificationtask.md)
 
-[New-CertificateNotificationTask](./New-CertificateNotificationTask.md)
+[New-CertificateNotificationTask](./new-certificatenotificationtask.md)
 
-[Switch-Certificate](./Switch-Certificate.md)
+[Switch-Certificate](./switch-certificate.md)
+
 

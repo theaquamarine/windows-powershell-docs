@@ -24,37 +24,38 @@ ms.assetid: A97F254E-658B-4B70-9B0D-6BEC29434DA3
 This reference provides cmdlet descriptions and syntax for all Server Manager Tasks Configuration cmdlets. It lists the cmdlets in alphabetical order based on the verb at the beginning of the cmdlet.
 
 ## ServerManagerTasks Cmdlets
-### [Get-SMCounterSample](./Get-SMCounterSample.md)
+### [Get-SMCounterSample](./get-smcountersample.md)
 Gets performance counter samples for a particular time or period of time.
 
-### [Get-SMPerformanceCollector](./Get-SMPerformanceCollector.md)
+### [Get-SMPerformanceCollector](./get-smperformancecollector.md)
 Gets the state of the performance data collector set.
 
-### [Get-SMServerBpaResult](./Get-SMServerBpaResult.md)
+### [Get-SMServerBpaResult](./get-smserverbparesult.md)
 Gets the results of BPA scans.
 
-### [Get-SMServerClusterName](./Get-SMServerClusterName.md)
+### [Get-SMServerClusterName](./get-smserverclustername.md)
 Gets the name of the failover cluster of which a server is a member.
 
-### [Get-SMServerEvent](./Get-SMServerEvent.md)
+### [Get-SMServerEvent](./get-smserverevent.md)
 Gets the details of events generated in a Server Manager event log.
 
-### [Get-SMServerFeature](./Get-SMServerFeature.md)
+### [Get-SMServerFeature](./get-smserverfeature.md)
 Gets the server features on a managed node.
 
-### [Get-SMServerInventory](./Get-SMServerInventory.md)
+### [Get-SMServerInventory](./get-smserverinventory.md)
 Gets the basic inventory information of a server.
 
-### [Get-SMServerService](./Get-SMServerService.md)
+### [Get-SMServerService](./get-smserverservice.md)
 Gets the status of Win32 services on a managed node.
 
-### [Remove-SMServerPerformanceLog](./Remove-SMServerPerformanceLog.md)
+### [Remove-SMServerPerformanceLog](./remove-smserverperformancelog.md)
 Removes Server Manager performance log files.
 
-### [Start-SMPerformanceCollector](./Start-SMPerformanceCollector.md)
+### [Start-SMPerformanceCollector](./start-smperformancecollector.md)
 Starts a data collector set.
 
-### [Stop-SMPerformanceCollector](./Stop-SMPerformanceCollector.md)
+### [Stop-SMPerformanceCollector](./stop-smperformancecollector.md)
 Stops a data collector set.
+
 
 

@@ -156,5 +156,6 @@ This cmdlet does not generate any output.
 
 ## RELATED LINKS
 
-[Get-HgsKeyProtectionAttestationSignerCertificate](./Get-HgsKeyProtectionAttestationSignerCertificate.md)
+[Get-HgsKeyProtectionAttestationSignerCertificate](./get-hgskeyprotectionattestationsignercertificate.md)
+
 

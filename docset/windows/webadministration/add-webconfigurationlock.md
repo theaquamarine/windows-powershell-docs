@@ -180,7 +180,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-WebConfigurationLock](./Get-WebConfigurationLock.md)
+[Get-WebConfigurationLock](./get-webconfigurationlock.md)
 
-[Remove-WebConfigurationLock](./Remove-WebConfigurationLock.md)
+[Remove-WebConfigurationLock](./remove-webconfigurationlock.md)
+
 

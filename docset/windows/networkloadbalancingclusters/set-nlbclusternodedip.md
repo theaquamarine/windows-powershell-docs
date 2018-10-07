@@ -151,9 +151,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-NlbClusterNodeDip](./Add-NlbClusterNodeDip.md)
+[Add-NlbClusterNodeDip](./add-nlbclusternodedip.md)
 
-[Get-NlbClusterNodeDip](./Get-NlbClusterNodeDip.md)
+[Get-NlbClusterNodeDip](./get-nlbclusternodedip.md)
 
-[Remove-NlbClusterNodeDip](./Remove-NlbClusterNodeDip.md)
+[Remove-NlbClusterNodeDip](./remove-nlbclusternodedip.md)
+
 

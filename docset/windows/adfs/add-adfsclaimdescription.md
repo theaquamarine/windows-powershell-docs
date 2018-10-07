@@ -211,9 +211,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-AdfsClaimDescription](./Get-AdfsClaimDescription.md)
+[Get-AdfsClaimDescription](./get-adfsclaimdescription.md)
 
-[Remove-AdfsClaimDescription](./Remove-AdfsClaimDescription.md)
+[Remove-AdfsClaimDescription](./remove-adfsclaimdescription.md)
 
-[Set-AdfsClaimDescription](./Set-AdfsClaimDescription.md)
+[Set-AdfsClaimDescription](./set-adfsclaimdescription.md)
+
 

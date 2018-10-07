@@ -315,5 +315,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-DfsrConnectionSchedule](./Get-DfsrConnectionSchedule.md)
+[Get-DfsrConnectionSchedule](./get-dfsrconnectionschedule.md)
+
 

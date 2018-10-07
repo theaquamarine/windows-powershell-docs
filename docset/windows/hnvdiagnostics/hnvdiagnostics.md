@@ -24,55 +24,56 @@ ms.assetid: 2843AED7-DCF9-4E2E-A520-A205A4743FFE
 This table lists the Hyper-V Network Virtualization (HNV) cmdlets.
 
 ## HNVDiagnostics Cmdlets
-### [Debug-SlbDatapath](./Debug-SlbDatapath.md)
+### [Debug-SlbDatapath](./debug-slbdatapath.md)
 Collects logs from an SLB MUX and DIP host.
 
-### [Debug-VirtualMachineQueueOperation](./Debug-VirtualMachineQueueOperation.md)
+### [Debug-VirtualMachineQueueOperation](./debug-virtualmachinequeueoperation.md)
 Debugs VMQ/VMMQ traffic.
 
-### [Disable-MuxEchoResponder](./Disable-MuxEchoResponder.md)
+### [Disable-MuxEchoResponder](./disable-muxechoresponder.md)
 Disables an ICMP echo responder.
 
-### [Enable-MuxEchoResponder](./Enable-MuxEchoResponder.md)
+### [Enable-MuxEchoResponder](./enable-muxechoresponder.md)
 Enables an ICMP echo responder.
 
-### [Get-CustomerRoute](./Get-CustomerRoute.md)
+### [Get-CustomerRoute](./get-customerroute.md)
 Gets CA routes.
 
-### [Get-NetworkControllerVipResource](./Get-NetworkControllerVipResource.md)
+### [Get-NetworkControllerVipResource](./get-networkcontrollervipresource.md)
 Gets a VIP resource.
 
-### [Get-PACAMapping](./Get-PACAMapping.md)
+### [Get-PACAMapping](./get-pacamapping.md)
 Gets virtual network mapping.
 
-### [Get-ProviderAddress](./Get-ProviderAddress.md)
+### [Get-ProviderAddress](./get-provideraddress.md)
 Gets the provider address for a server.
 
-### [Get-VipHostMapping](./Get-VipHostMapping.md)
+### [Get-VipHostMapping](./get-viphostmapping.md)
 Gets VIP host mapping.
 
-### [Get-VMNetworkAdapterPortId](./Get-VMNetworkAdapterPortId.md)
+### [Get-VMNetworkAdapterPortId](./get-vmnetworkadapterportid.md)
 Gets the VFP/VSwitch port ID.
 
-### [Get-VMSwitchExternalPortId](./Get-VMSwitchExternalPortId.md)
+### [Get-VMSwitchExternalPortId](./get-vmswitchexternalportid.md)
 Gets the VFP/VSwitch port ID for the external port for a virtual switch.
 
-### [Test-DipHostReachability](./Test-DipHostReachability.md)
+### [Test-DipHostReachability](./test-diphostreachability.md)
 Tests whether DIPs can be reached.
 
-### [Test-EncapOverheadSettings](./Test-EncapOverheadSettings.md)
+### [Test-EncapOverheadSettings](./test-encapoverheadsettings.md)
 Tests whether a NIC supports encapsulation overhead.
 
-### [Test-LogicalNetworkConnection](./Test-LogicalNetworkConnection.md)
+### [Test-LogicalNetworkConnection](./test-logicalnetworkconnection.md)
 Tests a logical network connection.
 
-### [Test-LogicalNetworkSupportsJumboPacket](./Test-LogicalNetworkSupportsJumboPacket.md)
+### [Test-LogicalNetworkSupportsJumboPacket](./test-logicalnetworksupportsjumbopacket.md)
 Tests whether a jumbo packet can be sent between two nodes.
 
-### [Test-VipReachability](./Test-VipReachability.md)
+### [Test-VipReachability](./test-vipreachability.md)
 Tests whether DIPs are reachable.
 
-### [Test-VirtualNetworkConnection](./Test-VirtualNetworkConnection.md)
+### [Test-VirtualNetworkConnection](./test-virtualnetworkconnection.md)
 Tests a virtual network connection.
+
 
 

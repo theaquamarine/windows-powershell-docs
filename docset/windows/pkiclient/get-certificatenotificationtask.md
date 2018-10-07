@@ -59,9 +59,10 @@ This cmdlet returns a **CertificateNotificationTask** object for each certificat
 
 ## RELATED LINKS
 
-[New-CertificateNotificationTask](./New-CertificateNotificationTask.md)
+[New-CertificateNotificationTask](./new-certificatenotificationtask.md)
 
-[Remove-CertificateNotificationTask](./Remove-CertificateNotificationTask.md)
+[Remove-CertificateNotificationTask](./remove-certificatenotificationtask.md)
 
-[Switch-Certificate](./Switch-Certificate.md)
+[Switch-Certificate](./switch-certificate.md)
+
 

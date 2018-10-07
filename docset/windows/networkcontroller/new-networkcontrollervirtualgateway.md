@@ -314,7 +314,8 @@ This cmdlet outputs the following information:
 
 ## RELATED LINKS
 
-[Get-NetworkControllerVirtualGateway](./Get-NetworkControllerVirtualGateway.md)
+[Get-NetworkControllerVirtualGateway](./get-networkcontrollervirtualgateway.md)
 
-[Remove-NetworkControllerVirtualGateway](./Remove-NetworkControllerVirtualGateway.md)
+[Remove-NetworkControllerVirtualGateway](./remove-networkcontrollervirtualgateway.md)
+
 

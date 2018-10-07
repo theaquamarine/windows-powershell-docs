@@ -213,7 +213,9 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-WindowsCapability](./Add-WindowsCapability.md)
+[Add-WindowsCapability](./add-windowscapability.md)
 
-[Get-WindowsCapability](./Get-WindowsCapability.md)
+[Get-WindowsCapability](./get-windowscapability.md)
+
+
 

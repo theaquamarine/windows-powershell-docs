@@ -72,5 +72,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-WinAcceptLanguageFromLanguageListOptOut](./Get-WinAcceptLanguageFromLanguageListOptOut.md)
+[Get-WinAcceptLanguageFromLanguageListOptOut](./get-winacceptlanguagefromlanguagelistoptout.md)
+
 

@@ -111,3 +111,4 @@ This cmdlet generates an **EndorsementKeyObject** object that contains the follo
 
 [Trusted Platform Module Cmdlets in Windows PowerShell](./trustedplatformmodule.md)
 
+

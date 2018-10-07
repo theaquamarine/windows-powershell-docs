@@ -110,5 +110,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Backup-DHASConfiguration](./Backup-DHASConfiguration.md)
+[Backup-DHASConfiguration](./backup-dhasconfiguration.md)
+
 

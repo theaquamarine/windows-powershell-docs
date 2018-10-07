@@ -12,46 +12,47 @@ This reference provides cmdlet descriptions and syntax for the Host Guardian Ser
 
 ## HgsAttestation Cmdlets
 
-### [Add-HgsAttestationCIPolicy](Add-HgsAttestationCIPolicy.md)
+### [Add-HgsAttestationCIPolicy](add-hgsattestationcipolicy.md)
 Authorizes a trusted code integrity policy to be used by hosts attesting against HGS.
 
-### [Add-HgsAttestationDumpPolicy](Add-HgsAttestationDumpPolicy.md)
+### [Add-HgsAttestationDumpPolicy](add-hgsattestationdumppolicy.md)
 Adds an authorized dump encryption key to HGS.
 
 ### [Add-HgsAttestationHostGroup](add-hgsattestationhostgroup.md)
 Adds an attestation policy for an Active Directory host group configuration.
 
-### [Add-HgsAttestationTpmHost](Add-HgsAttestationTpmHost.md)
+### [Add-HgsAttestationTpmHost](add-hgsattestationtpmhost.md)
 Adds a guarded host with TPM 2.0 to the Attestation service in HGS.
 
-### [Add-HgsAttestationTpmPolicy](Add-HgsAttestationTpmPolicy.md)
+### [Add-HgsAttestationTpmPolicy](add-hgsattestationtpmpolicy.md)
 Adds an attestation policy based on TPM 2.0 hardware to HGS.
 
-### [Disable-HgsAttestationPolicy](Disable-HgsAttestationPolicy.md)
+### [Disable-HgsAttestationPolicy](disable-hgsattestationpolicy.md)
 Disables an attestation policy in HGS.
 
-### [Enable-HgsAttestationPolicy](Enable-HgsAttestationPolicy.md)
+### [Enable-HgsAttestationPolicy](enable-hgsattestationpolicy.md)
 Enables an attestation policy in HGS.
 
-### [Get-HgsAttestationHostGroup](Get-HgsAttestationHostGroup.md)
+### [Get-HgsAttestationHostGroup](get-hgsattestationhostgroup.md)
 Gets attestation policies based on host groups.
 
-### [Get-HgsAttestationPolicy](Get-HgsAttestationPolicy.md)
+### [Get-HgsAttestationPolicy](get-hgsattestationpolicy.md)
 Gets HGS attestation policies.
 
-### [Get-HgsAttestationSignerCertificate](Get-HgsAttestationSignerCertificate.md)
+### [Get-HgsAttestationSignerCertificate](get-hgsattestationsignercertificate.md)
 Gets the public certificates for a key pair that attestation uses to sign attestation certificates.
 
-### [Get-HgsAttestationTpmHost](Get-HgsAttestationTpmHost.md)
+### [Get-HgsAttestationTpmHost](get-hgsattestationtpmhost.md)
 Gets guarded hosts with TPM 2.0 from the Attestation service HGS.
 
-### [Remove-HgsAttestationHostGroup](Remove-HgsAttestationHostGroup.md)
+### [Remove-HgsAttestationHostGroup](remove-hgsattestationhostgroup.md)
 Removes an attestation policy based on a host group.
 
-### [Remove-HgsAttestationPolicy](Remove-HgsAttestationPolicy.md)
+### [Remove-HgsAttestationPolicy](remove-hgsattestationpolicy.md)
 Removes an attestation policy from HGS.
 
-### [Remove-HgsAttestationTpmHost](Remove-HgsAttestationTpmHost.md)
+### [Remove-HgsAttestationTpmHost](remove-hgsattestationtpmhost.md)
 Removes a guarded host with TPM 2.0 from the Attestation service in HGS.
+
 
 

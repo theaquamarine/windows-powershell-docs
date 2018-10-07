@@ -85,5 +85,6 @@ If you specify *Name*, the cmdlet returns the same two column table, but only fo
 
 ## RELATED LINKS
 
-[Set-AppvClientConfiguration](./Set-AppvClientConfiguration.md)
+[Set-AppvClientConfiguration](./set-appvclientconfiguration.md)
+
 

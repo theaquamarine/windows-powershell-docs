@@ -151,5 +151,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Import-IscsiTargetServerConfiguration](./Import-IscsiTargetServerConfiguration.md)
+[Import-IscsiTargetServerConfiguration](./import-iscsitargetserverconfiguration.md)
+
 

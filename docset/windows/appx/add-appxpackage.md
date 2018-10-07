@@ -63,7 +63,7 @@ The **Add-AppxPackage** cmdlet adds a signed app package to a user account.
 An app package has an .appx file name extension.
 Use the *DependencyPath* parameter to add all other packages that are required for the installation of the app package.
 
-You can use the *Register* parameter to install from a folder of unpackaged files during development of Windows® Store apps.
+You can use the *Register* parameter to install from a folder of unpackaged files during development of Windows?? Store apps.
 
 To update an already installed package, the new package must have the same package family name.
 
@@ -263,7 +263,7 @@ Accept wildcard characters: False
 ### -Register
 Indicates that this cmdlet registers an application in development mode.
 You can use development mode to install applications from a folder of unpackaged files.
-You can use the current parameter to test your Windows® Store apps before you deploy them as app packages.
+You can use the current parameter to test your Windows?? Store apps before you deploy them as app packages.
 To register an existing app package installation, you must specify the *DisableDevelopmentMode* parameter and the *Register* parameter.
 In order to specify dependency packages, specify the *DependencyPath* parameter and the *DisableDevelopmentMode* parameter.
 
@@ -407,11 +407,13 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 [How to Add and Remove Apps](http://go.microsoft.com/fwlink/?LinkID=231020)
 
-[Get-AppxPackage](./Get-AppxPackage.md)
+[Get-AppxPackage](./get-appxpackage.md)
 
-[Get-AppxPackageManifest](./Get-AppxPackageManifest.md)
+[Get-AppxPackageManifest](./get-appxpackagemanifest.md)
 
-[Move-AppxPackage](./Move-AppxPackage.md)
+[Move-AppxPackage](./move-appxpackage.md)
 
-[Remove-AppxPackage](./Remove-AppxPackage.md)
+[Remove-AppxPackage](./remove-appxpackage.md)
+
+
 

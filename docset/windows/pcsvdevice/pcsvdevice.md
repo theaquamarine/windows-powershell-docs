@@ -24,31 +24,32 @@ ms.assetid: 108F3AEF-F78E-4950-957A-AA36B9FFFF26
 This reference provides cmdlet descriptions and syntax for all Physical Computer System View cmdlets. It lists the cmdlets in alphabetical order based on the verb at the beginning of the cmdlet.
 
 ## PCSVDevice Cmdlets
-### [Clear-PcsvDeviceLog](./Clear-PcsvDeviceLog.md)
+### [Clear-PcsvDeviceLog](./clear-pcsvdevicelog.md)
 Clears the System Event Log for a PCSV device.
 
-### [Get-PcsvDevice](./Get-PcsvDevice.md)
+### [Get-PcsvDevice](./get-pcsvdevice.md)
 Gets information about a remote hardware device.
 
-### [Get-PcsvDeviceLog](./Get-PcsvDeviceLog.md)
+### [Get-PcsvDeviceLog](./get-pcsvdevicelog.md)
 Gets System Event Log entries from a PCSV device.
 
-### [Restart-PcsvDevice](./Restart-PcsvDevice.md)
+### [Restart-PcsvDevice](./restart-pcsvdevice.md)
 Restarts a remote hardware device.
 
-### [Set-PcsvDeviceBootConfiguration](./Set-PcsvDeviceBootConfiguration.md)
+### [Set-PcsvDeviceBootConfiguration](./set-pcsvdevicebootconfiguration.md)
 Modifies the boot configuration on the remote hardware device.
 
-### [Set-PcsvDeviceNetworkConfiguration](./Set-PcsvDeviceNetworkConfiguration.md)
+### [Set-PcsvDeviceNetworkConfiguration](./set-pcsvdevicenetworkconfiguration.md)
 Changes the network configuration of a PCSV device.
 
-### [Set-PcsvDeviceUserPassword](./Set-PcsvDeviceUserPassword.md)
+### [Set-PcsvDeviceUserPassword](./set-pcsvdeviceuserpassword.md)
 Changes the password of a user on a PCSV device.
 
-### [Start-PcsvDevice](./Start-PcsvDevice.md)
+### [Start-PcsvDevice](./start-pcsvdevice.md)
 Starts the specified remote hardware device.
 
-### [Stop-PcsvDevice](./Stop-PcsvDevice.md)
+### [Stop-PcsvDevice](./stop-pcsvdevice.md)
 Shuts down a remote hardware device.
+
 
 

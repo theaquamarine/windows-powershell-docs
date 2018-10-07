@@ -133,9 +133,10 @@ The common way to see the full result is to pipe it through the **Format-List** 
 
 ## RELATED LINKS
 
-[Set-SbecActiveConfig](./Set-SbecActiveConfig.md)
+[Set-SbecActiveConfig](./set-sbecactiveconfig.md)
 
-[Test-SbecActiveConfig](./Test-SbecActiveConfig.md)
+[Test-SbecActiveConfig](./test-sbecactiveconfig.md)
 
-[Test-SbecConfig](./Test-SbecConfig.md)
+[Test-SbecConfig](./test-sbecconfig.md)
+
 

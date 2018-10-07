@@ -24,49 +24,50 @@ ms.assetid: C8C34797-DC85-4065-90E5-CFE052086510
 This table describes the Device Health Attestation service cmdlets.
 
 ## DeviceHealthAttestation Cmdlets
-### [Backup-DHASConfiguration](./Backup-DHASConfiguration.md)
+### [Backup-DHASConfiguration](./backup-dhasconfiguration.md)
 Backs up the configuration.
 
-### [Get-DHASActiveEncryptionCertificate](./Get-DHASActiveEncryptionCertificate.md)
+### [Get-DHASActiveEncryptionCertificate](./get-dhasactiveencryptioncertificate.md)
 Gets the active encryption certificate thumbprint.
 
-### [Get-DHASActiveSigningCertificate](./Get-DHASActiveSigningCertificate.md)
+### [Get-DHASActiveSigningCertificate](./get-dhasactivesigningcertificate.md)
 Gets the active signing certificate.
 
-### [Get-DHASCertificateChainPolicy](./Get-DHASCertificateChainPolicy.md)
+### [Get-DHASCertificateChainPolicy](./get-dhascertificatechainpolicy.md)
 Gets the certificate chain policy.
 
-### [Get-DHASInactiveEncryptionCertificate](./Get-DHASInactiveEncryptionCertificate.md)
+### [Get-DHASInactiveEncryptionCertificate](./get-dhasinactiveencryptioncertificate.md)
 Gets the inactive encryption certificate.
 
-### [Get-DHASInactiveSigningCertificate](./Get-DHASInactiveSigningCertificate.md)
+### [Get-DHASInactiveSigningCertificate](./get-dhasinactivesigningcertificate.md)
 Gets the inactive signing certificate.
 
-### [Install-DeviceHealthAttestation](./Install-DeviceHealthAttestation.md)
+### [Install-DeviceHealthAttestation](./install-devicehealthattestation.md)
 Installs the Device Health Attestation service.
 
-### [Remove-DHASInactiveEncryptionCertificate](./Remove-DHASInactiveEncryptionCertificate.md)
+### [Remove-DHASInactiveEncryptionCertificate](./remove-dhasinactiveencryptioncertificate.md)
 Removes the inactive encryption certificate.
 
-### [Remove-DHASInactiveSigningCertificate](./Remove-DHASInactiveSigningCertificate.md)
+### [Remove-DHASInactiveSigningCertificate](./remove-dhasinactivesigningcertificate.md)
 Removes the inactive signing certificate.
 
-### [Restore-DHASConfiguration](./Restore-DHASConfiguration.md)
+### [Restore-DHASConfiguration](./restore-dhasconfiguration.md)
 Restores a configuration.
 
-### [Set-DHASActiveEncryptionCertificate](./Set-DHASActiveEncryptionCertificate.md)
+### [Set-DHASActiveEncryptionCertificate](./set-dhasactiveencryptioncertificate.md)
 Sets the active encryption certificate.
 
-### [Set-DHASActiveSigningCertificate](./Set-DHASActiveSigningCertificate.md)
+### [Set-DHASActiveSigningCertificate](./set-dhasactivesigningcertificate.md)
 Sets the active signing certificate.
 
-### [Set-DHASCertificateChainPolicy](./Set-DHASCertificateChainPolicy.md)
+### [Set-DHASCertificateChainPolicy](./set-dhascertificatechainpolicy.md)
 Sets certificate chain policy.
 
-### [Set-DHASSupportedAuthenticationSchema](./Set-DHASSupportedAuthenticationSchema.md)
+### [Set-DHASSupportedAuthenticationSchema](./set-dhassupportedauthenticationschema.md)
 Sets authentication schemas.
 
-### [Uninstall-DeviceHealthAttestation](./Uninstall-DeviceHealthAttestation.md)
+### [Uninstall-DeviceHealthAttestation](./uninstall-devicehealthattestation.md)
 Uninstalls the Device Health Attestation service.
+
 
 

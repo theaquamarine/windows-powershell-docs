@@ -146,7 +146,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Clear-ClusterNode](./Clear-ClusterNode.md)
+[Clear-ClusterNode](./clear-clusternode.md)
 
-[Remove-Cluster](./Remove-Cluster.md)
+[Remove-Cluster](./remove-cluster.md)
+
 

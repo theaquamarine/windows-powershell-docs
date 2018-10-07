@@ -199,7 +199,7 @@ Accept wildcard characters: False
 ```
 
 ### -ResolutionIntervalSeconds
-Specifies how often in seconds that Windows Server® 2012 attempts to contact the specified ISATAP server.
+Specifies how often in seconds that Windows Server?? 2012 attempts to contact the specified ISATAP server.
 
 ```yaml
 Type: UInt32
@@ -281,7 +281,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -332,7 +332,8 @@ When the *Passthru* parameter is specified, this cmdlet outputs a modified ISATA
 
 ## RELATED LINKS
 
-[Get-NetIsatapConfiguration](./Get-NetIsatapConfiguration.md)
+[Get-NetIsatapConfiguration](./get-netisatapconfiguration.md)
 
-[Set-NetIsatapConfiguration](./Set-NetIsatapConfiguration.md)
+[Set-NetIsatapConfiguration](./set-netisatapconfiguration.md)
+
 

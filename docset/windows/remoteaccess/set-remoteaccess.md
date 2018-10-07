@@ -231,7 +231,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -310,11 +310,12 @@ The RemoteAccessCommon object consists of the following properties:
 
 ## RELATED LINKS
 
-[Get-RemoteAccess](./Get-RemoteAccess.md)
+[Get-RemoteAccess](./get-remoteaccess.md)
 
-[Install-RemoteAccess](./Install-RemoteAccess.md)
+[Install-RemoteAccess](./install-remoteaccess.md)
 
-[Set-DAServer](./Set-DAServer.md)
+[Set-DAServer](./set-daserver.md)
 
-[Uninstall-RemoteAccess](./Uninstall-RemoteAccess.md)
+[Uninstall-RemoteAccess](./uninstall-remoteaccess.md)
+
 

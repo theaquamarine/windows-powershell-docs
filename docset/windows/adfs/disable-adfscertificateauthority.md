@@ -94,7 +94,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-AdfsCertificateAuthority](./Get-AdfsCertificateAuthority.md)
+[Get-AdfsCertificateAuthority](./get-adfscertificateauthority.md)
 
-[Set-AdfsCertificateAuthority](./Set-AdfsCertificateAuthority.md)
+[Set-AdfsCertificateAuthority](./set-adfscertificateauthority.md)
+
 

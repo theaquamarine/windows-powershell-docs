@@ -215,11 +215,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-NetworkControllerLogicalSubnet](./Get-NetworkControllerLogicalSubnet.md)
+[Get-NetworkControllerLogicalSubnet](./get-networkcontrollerlogicalsubnet.md)
 
-[Install-NetworkController](./Install-NetworkController.md)
+[Install-NetworkController](./install-networkcontroller.md)
 
-[New-NetworkControllerLogicalSubnet](./New-NetworkControllerLogicalSubnet.md)
+[New-NetworkControllerLogicalSubnet](./new-networkcontrollerlogicalsubnet.md)
 
-[Set-NetworkController](./Set-NetworkController.md)
+[Set-NetworkController](./set-networkcontroller.md)
+
 

@@ -25,52 +25,53 @@ This reference provides cmdlet descriptions and syntax for all Data Deduplicatio
 It lists the cmdlets in alphabetical order based on the verb at the beginning of the cmdlet.
 
 ## Deduplication Cmdlets
-### [Disable-DedupVolume](./Disable-DedupVolume.md)
+### [Disable-DedupVolume](./disable-dedupvolume.md)
 Disables data deduplication activity on one or more volumes.
 
-### [Enable-DedupVolume](./Enable-DedupVolume.md)
+### [Enable-DedupVolume](./enable-dedupvolume.md)
 Enables data deduplication on one or more volumes.
 
-### [Expand-DedupFile](./Expand-DedupFile.md)
+### [Expand-DedupFile](./expand-dedupfile.md)
 Expands an optimized file into its original location.
 
-### [Get-DedupJob](./Get-DedupJob.md)
+### [Get-DedupJob](./get-dedupjob.md)
 Returns status and information for currently running or queued deduplication jobs.
 
-### [Get-DedupMetadata](./Get-DedupMetadata.md)
+### [Get-DedupMetadata](./get-dedupmetadata.md)
 Returns metadata for volumes that have data deduplication metadata.
 
-### [Get-DedupSchedule](./Get-DedupSchedule.md)
+### [Get-DedupSchedule](./get-dedupschedule.md)
 Returns the deduplication job schedule defined on the computer.
 
-### [Get-DedupStatus](./Get-DedupStatus.md)
+### [Get-DedupStatus](./get-dedupstatus.md)
 Returns deduplication status for volumes that have data deduplication metadata.
 
-### [Get-DedupVolume](./Get-DedupVolume.md)
+### [Get-DedupVolume](./get-dedupvolume.md)
 Returns deduplication volumes that have data deduplication metadata.
 
-### [Measure-DedupFileMetadata](./Measure-DedupFileMetadata.md)
+### [Measure-DedupFileMetadata](./measure-dedupfilemetadata.md)
 Measures potential disk space on a volume.
 
-### [New-DedupSchedule](./New-DedupSchedule.md)
+### [New-DedupSchedule](./new-dedupschedule.md)
 Creates a data deduplication schedule.
 
-### [Remove-DedupSchedule](./Remove-DedupSchedule.md)
+### [Remove-DedupSchedule](./remove-dedupschedule.md)
 Deletes a deduplication schedule.
 
-### [Set-DedupSchedule](./Set-DedupSchedule.md)
+### [Set-DedupSchedule](./set-dedupschedule.md)
 Changes configuration settings for data deduplication schedules.
 
-### [Set-DedupVolume](./Set-DedupVolume.md)
+### [Set-DedupVolume](./set-dedupvolume.md)
 Changes data deduplication settings on one or more volumes.
 
-### [Start-DedupJob](./Start-DedupJob.md)
+### [Start-DedupJob](./start-dedupjob.md)
 Starts a data deduplication job.
 
-### [Stop-DedupJob](./Stop-DedupJob.md)
+### [Stop-DedupJob](./stop-dedupjob.md)
 Cancels one or more specified data deduplication jobs.
 
-### [Update-DedupStatus](./Update-DedupStatus.md)
+### [Update-DedupStatus](./update-dedupstatus.md)
 Scans volumes for fresh data deduplication savings.
+
 
 

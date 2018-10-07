@@ -152,17 +152,18 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-ClusterSharedVolume](./Add-ClusterSharedVolume.md)
+[Add-ClusterSharedVolume](./add-clustersharedvolume.md)
 
-[Get-ClusterSharedVolume](./Get-ClusterSharedVolume.md)
+[Get-ClusterSharedVolume](./get-clustersharedvolume.md)
 
-[Remove-ClusterSharedVolume](./Remove-ClusterSharedVolume.md)
+[Remove-ClusterSharedVolume](./remove-clustersharedvolume.md)
 
-[Resume-ClusterResource](./Resume-ClusterResource.md)
+[Resume-ClusterResource](./resume-clusterresource.md)
 
-[Start-ClusterResource](./Start-ClusterResource.md)
+[Start-ClusterResource](./start-clusterresource.md)
 
-[Stop-ClusterResource](./Stop-ClusterResource.md)
+[Stop-ClusterResource](./stop-clusterresource.md)
 
-[Suspend-ClusterResource](./Suspend-ClusterResource.md)
+[Suspend-ClusterResource](./suspend-clusterresource.md)
+
 

@@ -78,5 +78,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Set-WheaMemoryPolicy](./Set-WheaMemoryPolicy.md)
+[Set-WheaMemoryPolicy](./set-wheamemorypolicy.md)
+
 

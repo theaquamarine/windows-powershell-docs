@@ -59,7 +59,8 @@ Both properties are of string type.
 
 ## RELATED LINKS
 
-[Add-CATemplate](./Add-CATemplate.md)
+[Add-CATemplate](./add-catemplate.md)
 
-[Remove-CATemplate](./Remove-CATemplate.md)
+[Remove-CATemplate](./remove-catemplate.md)
+
 

@@ -122,15 +122,16 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-Cluster](./Get-Cluster.md)
+[Get-Cluster](./get-cluster.md)
 
-[Get-ClusterNode](./Get-ClusterNode.md)
+[Get-ClusterNode](./get-clusternode.md)
 
-[New-Cluster](./New-Cluster.md)
+[New-Cluster](./new-cluster.md)
 
-[Remove-Cluster](./Remove-Cluster.md)
+[Remove-Cluster](./remove-cluster.md)
 
-[Stop-Cluster](./Stop-Cluster.md)
+[Stop-Cluster](./stop-cluster.md)
 
-[Test-Cluster](./Test-Cluster.md)
+[Test-Cluster](./test-cluster.md)
+
 

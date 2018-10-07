@@ -208,11 +208,12 @@ An Active Directory object is received by the *Identity* parameter.
 
 ## RELATED LINKS
 
-[Get-ADCentralAccessRule](./Get-ADCentralAccessRule.md)
+[Get-ADCentralAccessRule](./get-adcentralaccessrule.md)
 
-[New-ADCentralAccessRule](./New-ADCentralAccessRule.md)
+[New-ADCentralAccessRule](./new-adcentralaccessrule.md)
 
-[Set-ADCentralAccessRule](./Set-ADCentralAccessRule.md)
+[Set-ADCentralAccessRule](./set-adcentralaccessrule.md)
 
 [AD DS Administration Cmdlets in Windows PowerShell](./activedirectory.md)
+
 

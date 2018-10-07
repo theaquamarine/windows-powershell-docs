@@ -154,9 +154,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-RDRemoteApp](./Get-RDRemoteApp.md)
+[Get-RDRemoteApp](./get-rdremoteapp.md)
 
-[New-RDRemoteApp](./New-RDRemoteApp.md)
+[New-RDRemoteApp](./new-rdremoteapp.md)
 
-[Set-RDRemoteApp](./Set-RDRemoteApp.md)
+[Set-RDRemoteApp](./set-rdremoteapp.md)
+
 

@@ -55,5 +55,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Start-VMTrace](./Start-VMTrace.md)
+[Start-VMTrace](./start-vmtrace.md)
+
 

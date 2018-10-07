@@ -66,7 +66,7 @@ PS C:\> Get-WBVolume -Disk $Disks[0]
 
 This example gets all volumes present on a disk.
 
-The first command stores the output of the [Get-WBDisk](./Get-WBDisk.md) cmdlet in the $Disks variable.
+The first command stores the output of the [Get-WBDisk](./get-wbdisk.md) cmdlet in the $Disks variable.
 The command gets a list of all disks on the system.
 
 The second command uses the **Get-WBVolume** cmdlet to get a list of volumes on the first disk.
@@ -79,7 +79,7 @@ PS C:\> Get-WBVolume -Policy $Policy
 
 This example gets a list of all volumes that you added for backup in the **WBPolicy** object.
 
-The first command stores the result of the [Get-WBPolicy](./Get-WBPolicy.md) cmdlet in a variable named $Policy.
+The first command stores the result of the [Get-WBPolicy](./get-wbpolicy.md) cmdlet in a variable named $Policy.
 
 The second command gets the volumes from the $Policy variable.
 
@@ -235,11 +235,12 @@ This cmdlet returns an array of volumes in the **WBPolicy** object.
 
 ## RELATED LINKS
 
-[Add-WBVolume](./Add-WBVolume.md)
+[Add-WBVolume](./add-wbvolume.md)
 
-[Get-WBDisk](./Get-WBDisk.md)
+[Get-WBDisk](./get-wbdisk.md)
 
-[Get-WBPolicy](./Get-WBPolicy.md)
+[Get-WBPolicy](./get-wbpolicy.md)
 
-[Remove-WBVolume](./Remove-WBVolume.md)
+[Remove-WBVolume](./remove-wbvolume.md)
+
 

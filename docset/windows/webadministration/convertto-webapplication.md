@@ -137,11 +137,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-WebApplication](./Get-WebApplication.md)
+[Get-WebApplication](./get-webapplication.md)
 
-[New-WebApplication](./New-WebApplication.md)
+[New-WebApplication](./new-webapplication.md)
 
-[New-WebVirtualDirectory](./New-WebVirtualDirectory.md)
+[New-WebVirtualDirectory](./new-webvirtualdirectory.md)
 
-[Remove-WebApplication](./Remove-WebApplication.md)
+[Remove-WebApplication](./remove-webapplication.md)
+
 

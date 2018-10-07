@@ -42,7 +42,7 @@ The **Remove-AdfsCertificate** cmdlet removes a certificate from Active Director
 
 ### Example 1: Remove a token-signing certificate
 ```
-PS C:\> Remove-AdfsCertificate -CertificateType "Token-Signing" -Thumbprint ‎"fedd995b45e633d4ef30fcbc8f3a48b627e9a28b"
+PS C:\> Remove-AdfsCertificate -CertificateType "Token-Signing" -Thumbprint ???"fedd995b45e633d4ef30fcbc8f3a48b627e9a28b"
 ```
 
 This command removes a token-signing certificate from AD FS.
@@ -150,11 +150,12 @@ A class structure that represents the service certificates for the Federation Se
 
 ## RELATED LINKS
 
-[Add-AdfsCertificate](./Add-AdfsCertificate.md)
+[Add-AdfsCertificate](./add-adfscertificate.md)
 
-[Get-AdfsCertificate](./Get-AdfsCertificate.md)
+[Get-AdfsCertificate](./get-adfscertificate.md)
 
-[Set-AdfsCertificate](./Set-AdfsCertificate.md)
+[Set-AdfsCertificate](./set-adfscertificate.md)
 
-[Update-AdfsCertificate](./Update-AdfsCertificate.md)
+[Update-AdfsCertificate](./update-adfscertificate.md)
+
 

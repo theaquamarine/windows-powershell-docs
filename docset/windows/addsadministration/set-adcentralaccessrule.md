@@ -490,11 +490,12 @@ By default, this cmdlet does not generate any output.
 
 ## RELATED LINKS
 
-[Get-ADCentralAccessRule](./Get-ADCentralAccessRule.md)
+[Get-ADCentralAccessRule](./get-adcentralaccessrule.md)
 
-[New-ADCentralAccessRule](./New-ADCentralAccessRule.md)
+[New-ADCentralAccessRule](./new-adcentralaccessrule.md)
 
-[Remove-ADCentralAccessRule](./Remove-ADCentralAccessRule.md)
+[Remove-ADCentralAccessRule](./remove-adcentralaccessrule.md)
 
 [AD DS Administration Cmdlets in Windows PowerShell](./activedirectory.md)
+
 

@@ -132,11 +132,12 @@ This cmdlet returns a CimInstance object that represents the provisioning job fo
 
 ## RELATED LINKS
 
-[Get-KeyProtectorFromShieldingDataFile](./Get-KeyProtectorFromShieldingDataFile.md)
+[Get-KeyProtectorFromShieldingDataFile](./get-keyprotectorfromshieldingdatafile.md)
 
-[Get-ShieldedVMProvisioningStatus](./Get-ShieldedVMProvisioningStatus.md)
+[Get-ShieldedVMProvisioningStatus](./get-shieldedvmprovisioningstatus.md)
 
-[New-ShieldedVMSpecializationDataFile](./New-ShieldedVMSpecializationDataFile.md)
+[New-ShieldedVMSpecializationDataFile](./new-shieldedvmspecializationdatafile.md)
 
-[Test-ShieldingDataApplicability](./Test-ShieldingDataApplicability.md)
+[Test-ShieldingDataApplicability](./test-shieldingdataapplicability.md)
+
 

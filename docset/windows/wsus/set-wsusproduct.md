@@ -77,7 +77,7 @@ Accept wildcard characters: False
 ### -Product
 Specifies the product for which the updates are to be synchronized.
 If the **Disable** parameter is used, then this parameter specifies the product for which the updates are not to be synchronized.
-This parameter value is passed from the [Get-WsusProduct](./Get-WsusProduct.md) cmdlet.
+This parameter value is passed from the [Get-WsusProduct](./get-wsusproduct.md) cmdlet.
 
 ```yaml
 Type: WsusProduct
@@ -124,7 +124,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 [Where-Object](http://go.microsoft.com/fwlink/p/?LinkID=289623)
 
-[Get-WsusProduct](./Get-WsusProduct.md)
+[Get-WsusProduct](./get-wsusproduct.md)
 
-[Get-WsusServer](./Get-WsusServer.md)
+[Get-WsusServer](./get-wsusserver.md)
+
 

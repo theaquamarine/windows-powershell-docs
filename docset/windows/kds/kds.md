@@ -24,22 +24,23 @@ ms.assetid: 0205E61B-2D3B-474B-B549-4F81AD7ABE65
 This reference provides cmdlet descriptions and syntax for all Key Distribution Service (KDS)-specific cmdlets. It lists the cmdlets in alphabetical order.
 
 ## KDS Cmdlets
-### [Add-KdsRootKey](./Add-KdsRootKey.md)
+### [Add-KdsRootKey](./add-kdsrootkey.md)
 Generates a new root key for the Microsoft Group KdsSvc within Active Directory.
 
-### [Clear-KdsCache](./Clear-KdsCache.md)
+### [Clear-KdsCache](./clear-kdscache.md)
 Clears the group key cache of the local computer.
 
-### [Get-KdsConfiguration](./Get-KdsConfiguration.md)
+### [Get-KdsConfiguration](./get-kdsconfiguration.md)
 Retrieves the current configuration of the Microsoft Group KdsSvc from Active Directory.
 
-### [Get-KdsRootKey](./Get-KdsRootKey.md)
+### [Get-KdsRootKey](./get-kdsrootkey.md)
 Retrieves a list of root key values stored by the Microsoft Group KdsSvc.
 
-### [Set-KdsConfiguration](./Set-KdsConfiguration.md)
+### [Set-KdsConfiguration](./set-kdsconfiguration.md)
 Sets the configuration of Microsoft Group KdsSvc.
 
-### [Test-KdsRootKey](./Test-KdsRootKey.md)
+### [Test-KdsRootKey](./test-kdsrootkey.md)
 Tests the root key configuration.
+
 
 

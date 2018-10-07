@@ -146,9 +146,10 @@ You can pipe an array of session IDs to this cmdlet.
 
 ## RELATED LINKS
 
-[Enable-WmsWebLimiting](./Enable-WmsWebLimiting.md)
+[Enable-WmsWebLimiting](./enable-wmsweblimiting.md)
 
-[Get-WmsWebLimiting](./Get-WmsWebLimiting.md)
+[Get-WmsWebLimiting](./get-wmsweblimiting.md)
 
-[Set-WmsWebLimiting](./Set-WmsWebLimiting.md)
+[Set-WmsWebLimiting](./set-wmsweblimiting.md)
+
 

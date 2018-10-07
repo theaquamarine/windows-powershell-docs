@@ -145,5 +145,6 @@ This cmdlet returns a **VMSwitchTeam** object.
 
 ## RELATED LINKS
 
-[Set-VMSwitchTeam](./Set-VMSwitchTeam.md)
+[Set-VMSwitchTeam](./set-vmswitchteam.md)
+
 

@@ -118,9 +118,10 @@ The *WBBackupTarget* parameter specifies the location of this computer.
 
 ## RELATED LINKS
 
-[Get-WBBackupTarget](./Get-WBBackupTarget.md)
+[Get-WBBackupTarget](./get-wbbackuptarget.md)
 
-[New-WBBackupTarget](./New-WBBackupTarget.md)
+[New-WBBackupTarget](./new-wbbackuptarget.md)
 
-[Remove-WBBackupSet](./Remove-WBBackupSet.md)
+[Remove-WBBackupSet](./remove-wbbackupset.md)
+
 

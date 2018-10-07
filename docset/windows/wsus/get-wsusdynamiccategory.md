@@ -50,7 +50,7 @@ Name                                     Type                                   
 PCI/Device07                             Device                                   True
 ```
 
-This command gets all dynamic categories from the current update server by using the [Get-WsusServer](./Get-WsusServer.md) cmdlet.
+This command gets all dynamic categories from the current update server by using the [Get-WsusServer](./get-wsusserver.md) cmdlet.
 The command passes the server to the current cmdlet by using the pipeline operator.
 The current cmdlet gets the available dynamic categories for the update server.
 
@@ -220,11 +220,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-WsusDynamicCategory](./Add-WsusDynamicCategory.md)
+[Add-WsusDynamicCategory](./add-wsusdynamiccategory.md)
 
-[Remove-WsusDynamicCategory](./Remove-WsusDynamicCategory.md)
+[Remove-WsusDynamicCategory](./remove-wsusdynamiccategory.md)
 
-[Set-WsusDynamicCategory](./Set-WsusDynamicCategory.md)
+[Set-WsusDynamicCategory](./set-wsusdynamiccategory.md)
 
-[Get-WsusServer](./Get-WsusServer.md)
+[Get-WsusServer](./get-wsusserver.md)
+
 

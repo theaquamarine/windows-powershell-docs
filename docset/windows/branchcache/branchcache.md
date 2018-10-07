@@ -25,100 +25,101 @@ This reference provides cmdlet descriptions and syntax for all BranchCache **Man
 It lists the cmdlets in alphabetical order based on the verb at the beginning of the cmdlet.
 
 ## BranchCache Cmdlets
-### [Add-BCDataCacheExtension](./Add-BCDataCacheExtension.md)
+### [Add-BCDataCacheExtension](./add-bcdatacacheextension.md)
 Increases the amount of cache storage space that is available on a hosted cache server by adding a new cache file.
 
-### [Clear-BCCache](./Clear-BCCache.md)
+### [Clear-BCCache](./clear-bccache.md)
 Deletes all data in all data cache files and all hash cache files.
 
-### [Disable-BC](./Disable-BC.md)
+### [Disable-BC](./disable-bc.md)
 Disables the BranchCache service.
 
-### [Disable-BCDowngrading](./Disable-BCDowngrading.md)
+### [Disable-BCDowngrading](./disable-bcdowngrading.md)
 Disables downgrading, so that client computers do not request previous versions of content information from content servers.
 
-### [Disable-BCServeOnBattery](./Disable-BCServeOnBattery.md)
+### [Disable-BCServeOnBattery](./disable-bcserveonbattery.md)
 Configures a client to ignore content discovery requests in distributed cache mode when operating on battery power.
 
-### [Enable-BCDistributed](./Enable-BCDistributed.md)
+### [Enable-BCDistributed](./enable-bcdistributed.md)
 Enables BranchCache and configures a computer to operate in distributed cache mode.
 
-### [Enable-BCDowngrading](./Enable-BCDowngrading.md)
+### [Enable-BCDowngrading](./enable-bcdowngrading.md)
 Instructs a client computer that is running an operating system in a downgraded mode.
 
-### [Enable-BCHostedClient](./Enable-BCHostedClient.md)
+### [Enable-BCHostedClient](./enable-bchostedclient.md)
 Configures BranchCache to operate in hosted cache client mode.
 
-### [Enable-BCHostedServer](./Enable-BCHostedServer.md)
+### [Enable-BCHostedServer](./enable-bchostedserver.md)
 Configures BranchCache to operate in hosted cache server mode.
 
-### [Enable-BCLocal](./Enable-BCLocal.md)
+### [Enable-BCLocal](./enable-bclocal.md)
 Enables the BranchCache service in local caching mode.
 
-### [Enable-BCServeOnBattery](./Enable-BCServeOnBattery.md)
+### [Enable-BCServeOnBattery](./enable-bcserveonbattery.md)
 Configures a client to listen for content discovery requests in distributed cache mode when operating on battery power.
 
-### [Export-BCCachePackage](./Export-BCCachePackage.md)
+### [Export-BCCachePackage](./export-bccachepackage.md)
 Exports a cache package.
 
-### [Export-BCSecretKey](./Export-BCSecretKey.md)
+### [Export-BCSecretKey](./export-bcsecretkey.md)
 Exports a secret key to a file.
 
-### [Get-BCClientConfiguration](./Get-BCClientConfiguration.md)
+### [Get-BCClientConfiguration](./get-bcclientconfiguration.md)
 Retrieves the current BranchCache client computer settings.
 
-### [Get-BCContentServerConfiguration](./Get-BCContentServerConfiguration.md)
+### [Get-BCContentServerConfiguration](./get-bccontentserverconfiguration.md)
 Retrieves the current BranchCache content server settings.
 
-### [Get-BCDataCache](./Get-BCDataCache.md)
+### [Get-BCDataCache](./get-bcdatacache.md)
 Retrieves an object that represents the BranchCache data cache.
 
-### [Get-BCDataCacheExtension](./Get-BCDataCacheExtension.md)
+### [Get-BCDataCacheExtension](./get-bcdatacacheextension.md)
 Retrieves objects that represent the BranchCache data cache extensions from a hosted cache server.
 
-### [Get-BCHashCache](./Get-BCHashCache.md)
+### [Get-BCHashCache](./get-bchashcache.md)
 Retrieves the BranchCache hash cache.
 
-### [Get-BCHostedCacheServerConfiguration](./Get-BCHostedCacheServerConfiguration.md)
+### [Get-BCHostedCacheServerConfiguration](./get-bchostedcacheserverconfiguration.md)
 Retrieves the current BranchCache hosted cache server settings.
 
-### [Get-BCNetworkConfiguration](./Get-BCNetworkConfiguration.md)
+### [Get-BCNetworkConfiguration](./get-bcnetworkconfiguration.md)
 Retrieves the current BranchCache network settings.
 
-### [Get-BCStatus](./Get-BCStatus.md)
+### [Get-BCStatus](./get-bcstatus.md)
 Retrieves a set of objects that provide BranchCache status and configuration information.
 
-### [Import-BCCachePackage](./Import-BCCachePackage.md)
+### [Import-BCCachePackage](./import-bccachepackage.md)
 Imports a cache package.
 
-### [Import-BCSecretKey](./Import-BCSecretKey.md)
+### [Import-BCSecretKey](./import-bcsecretkey.md)
 Imports the cryptographic key that BranchCache uses for the generation of segment secrets.
 
-### [Publish-BCFileContent](./Publish-BCFileContent.md)
+### [Publish-BCFileContent](./publish-bcfilecontent.md)
 Generates hashes for files in shared folders.
 
-### [Publish-BCWebContent](./Publish-BCWebContent.md)
+### [Publish-BCWebContent](./publish-bcwebcontent.md)
 Creates hashes for web content.
 
-### [Remove-BCDataCacheExtension](./Remove-BCDataCacheExtension.md)
+### [Remove-BCDataCacheExtension](./remove-bcdatacacheextension.md)
 Deletes a data cache file.
 
-### [Reset-BC](./Reset-BC.md)
+### [Reset-BC](./reset-bc.md)
 Resets BranchCache to the default configuration.
 
-### [Set-BCAuthentication](./Set-BCAuthentication.md)
+### [Set-BCAuthentication](./set-bcauthentication.md)
 Specifies the BranchCache computer authentication mode.
 
-### [Set-BCCache](./Set-BCCache.md)
+### [Set-BCCache](./set-bccache.md)
 Modifies the cache file configuration.
 
-### [Set-BCDataCacheEntryMaxAge](./Set-BCDataCacheEntryMaxAge.md)
+### [Set-BCDataCacheEntryMaxAge](./set-bcdatacacheentrymaxage.md)
 Modifies the maximum amount of time that data can remain in the cache.
 
-### [Set-BCMinSMBLatency](./Set-BCMinSMBLatency.md)
+### [Set-BCMinSMBLatency](./set-bcminsmblatency.md)
 Sets the minimum latency that must exist between client and server before transparent caching functions are utilized.
 
-### [Set-BCSecretKey](./Set-BCSecretKey.md)
+### [Set-BCSecretKey](./set-bcsecretkey.md)
 Sets the cryptographic key used in the generation of segment secrets.
+
 
 

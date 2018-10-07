@@ -52,7 +52,7 @@ Add-CauClusterRole [-VirtualComputerObjectName <String>] [-GroupName <String>] [
 The **Add-CauClusterRole** cmdlet adds the Cluster-Aware Updating (CAU) clustered role that provides the self-updating functionality to the specified cluster.
 When the CAU clustered role has been added to a cluster, the failover cluster can update itself on the schedule that is specified by the user, without requiring an external computer to coordinate the cluster updating process.
 
-To run this cmdlet, Windows PowerShell® remoting must be enabled on each node.
+To run this cmdlet, Windows PowerShell?? remoting must be enabled on each node.
 To do this, run the **Enable-PSRemoting** cmdlet.
 In addition, ensure that the Windows Remote Management - Compatibility Mode (HTTP-In) firewall exception is enabled on each node.
 
@@ -183,7 +183,7 @@ Accept wildcard characters: False
 
 ### -ConfigurationName
 Specifies the Windows PowerShell session configuration that defines the session in which scripts, specified by the *PreUpdateScript* and *PostUpdateScript* parameters, and cmdlets are run, and can limit the cmdlets that are available to be run.
-If either a pre-update or post-update script is specified but a configuration name is not specified, then the default session configuration that is built into Windows PowerShell® is used.
+If either a pre-update or post-update script is specified but a configuration name is not specified, then the default session configuration that is built into Windows PowerShell?? is used.
 
 ```yaml
 Type: String
@@ -655,13 +655,14 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Disable-CauClusterRole](./Disable-CauClusterRole.md)
+[Disable-CauClusterRole](./disable-cauclusterrole.md)
 
-[Enable-CauClusterRole](./Enable-CauClusterRole.md)
+[Enable-CauClusterRole](./enable-cauclusterrole.md)
 
-[Get-CauClusterRole](./Get-CauClusterRole.md)
+[Get-CauClusterRole](./get-cauclusterrole.md)
 
-[Remove-CauClusterRole](./Remove-CauClusterRole.md)
+[Remove-CauClusterRole](./remove-cauclusterrole.md)
 
-[Set-CauClusterRole](./Set-CauClusterRole.md)
+[Set-CauClusterRole](./set-cauclusterrole.md)
+
 

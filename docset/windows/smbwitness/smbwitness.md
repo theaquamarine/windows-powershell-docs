@@ -24,10 +24,11 @@ ms.assetid: 4F0AD55F-79C7-4918-B66D-D337FC3DBB99
 This reference provides cmdlet descriptions and syntax for all Server Message Block (SMB) Witness-specific cmdlets. It lists the cmdlets in alphabetical order.
 
 ## SmbWitness Cmdlets
-### [Get-SmbWitnessClient](./Get-SmbWitnessClient.md)
+### [Get-SmbWitnessClient](./get-smbwitnessclient.md)
 Retrieves information about the SMB clients connected to the SMB witness servers in a cluster.
 
-### [Move-SmbWitnessClient](./Move-SmbWitnessClient.md)
+### [Move-SmbWitnessClient](./move-smbwitnessclient.md)
 Requests an SMB client to move the associated SMB connection to a specified cluster node.
+
 
 

@@ -188,5 +188,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Disable-VMTPM](./Disable-VMTPM.md)
+[Disable-VMTPM](./disable-vmtpm.md)
+
 

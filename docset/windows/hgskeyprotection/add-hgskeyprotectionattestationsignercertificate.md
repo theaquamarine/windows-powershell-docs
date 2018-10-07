@@ -126,9 +126,10 @@ This cmdlet does not generate any output.
 
 ## RELATED LINKS
 
-[Get-HgsKeyProtectionAttestationSignerCertificate](./Get-HgsKeyProtectionAttestationSignerCertificate.md)
+[Get-HgsKeyProtectionAttestationSignerCertificate](./get-hgskeyprotectionattestationsignercertificate.md)
 
-[Remove-HgsKeyProtectionAttestationSignerCertificate](./Remove-HgsKeyProtectionAttestationSignerCertificate.md)
+[Remove-HgsKeyProtectionAttestationSignerCertificate](./remove-hgskeyprotectionattestationsignercertificate.md)
 
-[Set-HgsKeyProtectionAttestationSignerCertificatePolicy](./Set-HgsKeyProtectionAttestationSignerCertificatePolicy.md)
+[Set-HgsKeyProtectionAttestationSignerCertificatePolicy](./set-hgskeyprotectionattestationsignercertificatepolicy.md)
+
 

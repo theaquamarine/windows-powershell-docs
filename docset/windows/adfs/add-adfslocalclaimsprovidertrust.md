@@ -368,15 +368,16 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Disable-AdfsLocalClaimsProviderTrust](./Disable-AdfsLocalClaimsProviderTrust.md)
+[Disable-AdfsLocalClaimsProviderTrust](./disable-adfslocalclaimsprovidertrust.md)
 
-[Enable-AdfsLocalClaimsProviderTrust](./Enable-AdfsLocalClaimsProviderTrust.md)
+[Enable-AdfsLocalClaimsProviderTrust](./enable-adfslocalclaimsprovidertrust.md)
 
-[Get-AdfsLocalClaimsProviderTrust](./Get-AdfsLocalClaimsProviderTrust.md)
+[Get-AdfsLocalClaimsProviderTrust](./get-adfslocalclaimsprovidertrust.md)
 
-[New-AdfsLdapAttributeToClaimMapping](./New-AdfsLdapAttributeToClaimMapping.md)
+[New-AdfsLdapAttributeToClaimMapping](./new-adfsldapattributetoclaimmapping.md)
 
-[Remove-AdfsLocalClaimsProviderTrust](./Remove-AdfsLocalClaimsProviderTrust.md)
+[Remove-AdfsLocalClaimsProviderTrust](./remove-adfslocalclaimsprovidertrust.md)
 
-[Set-AdfsLocalClaimsProviderTrust](./Set-AdfsLocalClaimsProviderTrust.md)
+[Set-AdfsLocalClaimsProviderTrust](./set-adfslocalclaimsprovidertrust.md)
+
 

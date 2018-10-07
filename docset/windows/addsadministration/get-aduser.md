@@ -440,9 +440,10 @@ To get a list of all the properties of an **ADUser** object, use the following c
 
 ## RELATED LINKS
 
-[New-ADUser](./New-ADUser.md)
+[New-ADUser](./new-aduser.md)
 
-[Remove-ADUser](./Remove-ADUser.md)
+[Remove-ADUser](./remove-aduser.md)
 
-[Set-ADUser](./Set-ADUser.md)
+[Set-ADUser](./set-aduser.md)
+
 

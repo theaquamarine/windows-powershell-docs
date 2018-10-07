@@ -134,7 +134,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-RDVirtualDesktopCollectionJobStatus](./Get-RDVirtualDesktopCollectionJobStatus.md)
+[Get-RDVirtualDesktopCollectionJobStatus](./get-rdvirtualdesktopcollectionjobstatus.md)
 
-[Get-RDVirtualDesktopCollectionConfiguration](./Get-RDVirtualDesktopCollectionConfiguration.md)
+[Get-RDVirtualDesktopCollectionConfiguration](./get-rdvirtualdesktopcollectionconfiguration.md)
+
 

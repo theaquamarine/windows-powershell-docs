@@ -26,10 +26,11 @@ This reference provides cmdlet descriptions and syntax for all Windows Search cm
 The following table lists the cmdlets in alphabetical order.
 
 ## WindowsSearch Cmdlets
-### [Get-WindowsSearchSetting](./Get-WindowsSearchSetting.md)
+### [Get-WindowsSearchSetting](./get-windowssearchsetting.md)
 Gets the values of settings for Windows Search.
 
-### [Set-WindowsSearchSetting](./Set-WindowsSearchSetting.md)
+### [Set-WindowsSearchSetting](./set-windowssearchsetting.md)
 Modifies values that control Windows Search.
+
 
 

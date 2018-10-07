@@ -130,11 +130,12 @@ The path after the pound sign (`#`) provides the namespace and class name for th
 
 ## RELATED LINKS
 
-[Get-ClusterAvailableDisk](./Get-ClusterAvailableDisk.md)
+[Get-ClusterAvailableDisk](./get-clusteravailabledisk.md)
 
-[Test-Cluster](./Test-Cluster.md)
+[Test-Cluster](./test-cluster.md)
 
 [Get-Disk](../storage/Get-Disk.md)
 
 [Get-VirtualDisk](../storage/Get-VirtualDisk.md)
+
 

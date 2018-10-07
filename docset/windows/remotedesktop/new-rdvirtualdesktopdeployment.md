@@ -33,7 +33,7 @@ New-RDVirtualDesktopDeployment [-ConnectionBroker] <String> [-VirtualizationHost
 The **New-RDVirtualDesktopDeployment** cmdlet installs the role services that Virtual Desktop Infrastructure (VDI) requires to create a virtual machine-based desktop deployment.
 You can specify the **CreateVirtualSwitch** parameter to create a pooled virtual desktop collection in addition to installing the role services.
 
-In Windows Server® 2012, the Microsoft Virtual Desktop Infrastructure (VDI) deployment is a scenario-based installation that allows you to install, configure, and manage your virtual desktops from a central location.
+In Windows Server?? 2012, the Microsoft Virtual Desktop Infrastructure (VDI) deployment is a scenario-based installation that allows you to install, configure, and manage your virtual desktops from a central location.
 
 ## EXAMPLES
 
@@ -130,5 +130,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[New-RDSessionDeployment](./New-RDSessionDeployment.md)
+[New-RDSessionDeployment](./new-rdsessiondeployment.md)
+
 

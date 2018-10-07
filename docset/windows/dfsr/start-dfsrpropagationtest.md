@@ -182,7 +182,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Remove-DfsrPropagationTestFile](./Remove-DfsrPropagationTestFile.md)
+[Remove-DfsrPropagationTestFile](./remove-dfsrpropagationtestfile.md)
 
-[Write-DfsrPropagationReport](./Write-DfsrPropagationReport.md)
+[Write-DfsrPropagationReport](./write-dfsrpropagationreport.md)
+
 

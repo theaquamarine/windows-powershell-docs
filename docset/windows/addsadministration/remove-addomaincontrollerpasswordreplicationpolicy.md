@@ -307,11 +307,12 @@ By default, this cmdlet does not generate any output.
 
 ## RELATED LINKS
 
-[Add-ADDomainControllerPasswordReplicationPolicy](./Add-ADDomainControllerPasswordReplicationPolicy.md)
+[Add-ADDomainControllerPasswordReplicationPolicy](./add-addomaincontrollerpasswordreplicationpolicy.md)
 
-[Get-ADDomainController](./Get-ADDomainController.md)
+[Get-ADDomainController](./get-addomaincontroller.md)
 
-[Get-ADDomainControllerPasswordReplicationPolicy](./Get-ADDomainControllerPasswordReplicationPolicy.md)
+[Get-ADDomainControllerPasswordReplicationPolicy](./get-addomaincontrollerpasswordreplicationpolicy.md)
 
 [AD DS Administration Cmdlets in Windows PowerShell](./activedirectory.md)
+
 

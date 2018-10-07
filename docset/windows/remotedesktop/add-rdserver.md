@@ -181,7 +181,8 @@ This cmdlet accepts no input.
 
 ## RELATED LINKS
 
-[Get-RDServer](./Get-RDServer.md)
+[Get-RDServer](./get-rdserver.md)
 
-[Remove-RDServer](./Remove-RDServer.md)
+[Remove-RDServer](./remove-rdserver.md)
+
 

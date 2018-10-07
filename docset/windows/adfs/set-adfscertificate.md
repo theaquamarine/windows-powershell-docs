@@ -37,7 +37,7 @@ The **Set-AdfsCertificate** cmdlet sets the properties of an existing certificat
 
 ### Example 1: Set a certificate
 ```
-PS C:\> Set-AdfsCertificate -IsPrimary -CertificateType "Token-Signing" -Thumbprint ‎"fedd995b45e633d4ef30fcbc8f3a48b627e9a28b"
+PS C:\> Set-AdfsCertificate -IsPrimary -CertificateType "Token-Signing" -Thumbprint ???"fedd995b45e633d4ef30fcbc8f3a48b627e9a28b"
 ```
 
 This command sets the primary token-signing certificate.
@@ -163,11 +163,12 @@ A class structure that represents a service certificate.
 
 ## RELATED LINKS
 
-[Add-AdfsCertificate](./Add-AdfsCertificate.md)
+[Add-AdfsCertificate](./add-adfscertificate.md)
 
-[Get-AdfsCertificate](./Get-AdfsCertificate.md)
+[Get-AdfsCertificate](./get-adfscertificate.md)
 
-[Remove-AdfsCertificate](./Remove-AdfsCertificate.md)
+[Remove-AdfsCertificate](./remove-adfscertificate.md)
 
-[Update-AdfsCertificate](./Update-AdfsCertificate.md)
+[Update-AdfsCertificate](./update-adfscertificate.md)
+
 

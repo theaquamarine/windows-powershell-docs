@@ -331,7 +331,8 @@ Therefore, when this cmdlet is run from a startup or shutdown script, the defaul
 
 ## RELATED LINKS
 
-[New-GPLink](./New-GPLink.md)
+[New-GPLink](./new-gplink.md)
 
-[Remove-GPLink](./Remove-GPLink.md)
+[Remove-GPLink](./remove-gplink.md)
+
 

@@ -172,5 +172,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Set-VMKeyProtector](./Set-VMKeyProtector.md)
+[Set-VMKeyProtector](./set-vmkeyprotector.md)
+
 

@@ -282,11 +282,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-NetworkControllerServerInterface](./Get-NetworkControllerServerInterface.md)
+[Get-NetworkControllerServerInterface](./get-networkcontrollerserverinterface.md)
 
-[Install-NetworkController](./Install-NetworkController.md)
+[Install-NetworkController](./install-networkcontroller.md)
 
-[Remove-NetworkControllerServerInterface](./Remove-NetworkControllerServerInterface.md)
+[Remove-NetworkControllerServerInterface](./remove-networkcontrollerserverinterface.md)
 
-[Set-NetworkController](./Set-NetworkController.md)
+[Set-NetworkController](./set-networkcontroller.md)
+
 

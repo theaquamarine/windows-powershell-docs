@@ -201,7 +201,7 @@ You can specify partial hardware IDs.
 The cmdlet matches a partial value as a substring of the hardware ID format.
 The comparison uses ASCII characters and is not case sensitive.
 If the ID contains an ampersand character (&), enclose the ID in double quotes ("").
-In Windows PowerShell®, the ampersand is a reserved character.
+In Windows PowerShell??, the ampersand is a reserved character.
 
 ```yaml
 Type: String[]
@@ -412,5 +412,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[New-HwCertTestCollection](./New-HwCertTestCollection.md)
+[New-HwCertTestCollection](./new-hwcerttestcollection.md)
+
 

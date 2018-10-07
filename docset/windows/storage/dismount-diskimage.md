@@ -47,8 +47,8 @@ The **Dismount-DiskImage** cmdlet dismounts a disk image (virtual hard disk or I
 This cmdlet requires either the full image path of the ISO or VHD file, or the device path.
 
 To eject a VHD file, administrator privilege is required.
-Administrator privilege is not needed to eject an ISO file on Windows® 8.
-On Windows Server® 2012, only an administrator is allowed to mount or eject ISO file.
+Administrator privilege is not needed to eject an ISO file on Windows?? 8.
+On Windows Server?? 2012, only an administrator is allowed to mount or eject ISO file.
 
 ## EXAMPLES
 
@@ -198,7 +198,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -246,7 +246,8 @@ If you specify the *PassThru* parameter, this cmdlet outputs an object that repr
 
 ## RELATED LINKS
 
-[Get-DiskImage](./Get-DiskImage.md)
+[Get-DiskImage](./get-diskimage.md)
 
-[Mount-DiskImage](./Mount-DiskImage.md)
+[Mount-DiskImage](./mount-diskimage.md)
+
 

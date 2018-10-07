@@ -156,13 +156,14 @@ This cmdlet returns a **VHDSnapshotInfo** object.
 
 ## RELATED LINKS
 
-[Export-VMSnapshot](./Export-VMSnapshot.md)
+[Export-VMSnapshot](./export-vmsnapshot.md)
 
-[Get-VMSnapshot](./Get-VMSnapshot.md)
+[Get-VMSnapshot](./get-vmsnapshot.md)
 
-[Rename-VMSnapshot](./Rename-VMSnapshot.md)
+[Rename-VMSnapshot](./rename-vmsnapshot.md)
 
-[Restore-VMSnapshot](./Restore-VMSnapshot.md)
+[Restore-VMSnapshot](./restore-vmsnapshot.md)
 
-[Get-VHDSet](./Get-VHDSet.md)
+[Get-VHDSet](./get-vhdset.md)
+
 

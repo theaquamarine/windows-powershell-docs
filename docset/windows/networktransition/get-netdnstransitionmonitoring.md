@@ -77,7 +77,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -111,13 +111,14 @@ The **MSFT_NetDnsTransitionMonitoring** object contains DNS64 monitoring informa
 
 ## RELATED LINKS
 
-[Disable-NetDnsTransitionConfiguration](./Disable-NetDnsTransitionConfiguration.md)
+[Disable-NetDnsTransitionConfiguration](./disable-netdnstransitionconfiguration.md)
 
-[Enable-NetDnsTransitionConfiguration](./Enable-NetDnsTransitionConfiguration.md)
+[Enable-NetDnsTransitionConfiguration](./enable-netdnstransitionconfiguration.md)
 
-[Get-NetDnsTransitionConfiguration](./Get-NetDnsTransitionConfiguration.md)
+[Get-NetDnsTransitionConfiguration](./get-netdnstransitionconfiguration.md)
 
-[Reset-NetDnsTransitionConfiguration](./Reset-NetDnsTransitionConfiguration.md)
+[Reset-NetDnsTransitionConfiguration](./reset-netdnstransitionconfiguration.md)
 
-[Set-NetDnsTransitionConfiguration](./Set-NetDnsTransitionConfiguration.md)
+[Set-NetDnsTransitionConfiguration](./set-netdnstransitionconfiguration.md)
+
 

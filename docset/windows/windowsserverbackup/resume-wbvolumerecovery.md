@@ -59,5 +59,6 @@ Otherwise, the recovery operation resumes and the cmdlet returns a confirmation 
 
 ## RELATED LINKS
 
-[Start-WBVolumeRecovery](./Start-WBVolumeRecovery.md)
+[Start-WBVolumeRecovery](./start-wbvolumerecovery.md)
+
 

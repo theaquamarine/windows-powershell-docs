@@ -59,7 +59,7 @@ The *ScopeId* and *ReservedIP* parameters cannot both be specified.
 
 The *PolicyName* and *ReservedIP* parameters cannot both be specified.
 
-The option values for policies can only be set for a DHCP server service that runs on Windows Server® 2012 and later versions of the Windows operating system.
+The option values for policies can only be set for a DHCP server service that runs on Windows Server?? 2012 and later versions of the Windows operating system.
 Setting user class options for a DHCP server service that runs on Windows Server 2012 and later versions of the Windows operating creates of a policy with the policy name set to the name of the user class.
 For a DHCP server service that runs on firstref_server_7 or earlier, only option values based on the user class can be set.
 
@@ -153,7 +153,7 @@ The cmdlet immediately returns an object that represents the job and then displa
 You can continue to work in the session while the job completes.
 To manage the job, use the `*-Job` cmdlets.
 To get the job results, use the [Receive-Job](http://go.microsoft.com/fwlink/?LinkID=113372) cmdlet. 
-For more information about Windows PowerShell® background jobs, see [about_Jobs](http://go.microsoft.com/fwlink/?LinkID=113251).
+For more information about Windows PowerShell?? background jobs, see [about_Jobs](http://go.microsoft.com/fwlink/?LinkID=113251).
 
 ```yaml
 Type: SwitchParameter
@@ -353,7 +353,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -496,4 +496,5 @@ The path after the pound sign (`#`) provides the namespace and class name for th
 [Get-DhcpServerv4OptionValue](./Get-DhcpServerv4OptionValue.md)
 
 [Remove-DhcpServerv4OptionValue](./Remove-DhcpServerv4OptionValue.md)
+
 

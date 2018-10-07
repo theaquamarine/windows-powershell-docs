@@ -187,7 +187,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-CauReport](./Get-CauReport.md)
+[Get-CauReport](./get-caureport.md)
 
-[Invoke-CauRun](./Invoke-CauRun.md)
+[Invoke-CauRun](./invoke-caurun.md)
+
 

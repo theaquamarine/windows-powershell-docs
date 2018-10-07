@@ -24,43 +24,44 @@ ms.assetid: 186C3096-479F-4044-A9E8-43C964056B04
 This reference provides cmdlet descriptions and syntax for all iSCSI Initiator-specific cmdlets. It lists the cmdlets in alphabetical order based on the verb at the beginning of the cmdlet.
 
 ## iSCSI Cmdlets
-### [Connect-IscsiTarget](./Connect-IscsiTarget.md)
+### [Connect-IscsiTarget](./connect-iscsitarget.md)
 Establishes a connection between the local iSCSI initiator and an iSCSI target device.
 
-### [Disconnect-IscsiTarget](./Disconnect-IscsiTarget.md)
+### [Disconnect-IscsiTarget](./disconnect-iscsitarget.md)
 Disconnects sessions to the specified iSCSI target object.
 
-### [Get-IscsiConnection](./Get-IscsiConnection.md)
+### [Get-IscsiConnection](./get-iscsiconnection.md)
 Gets information about connected iSCSI initiator connections.
 
-### [Get-IscsiSession](./Get-IscsiSession.md)
+### [Get-IscsiSession](./get-iscsisession.md)
 Retrieves information about established iSCSI sessions.
 
-### [Get-IscsiTarget](./Get-IscsiTarget.md)
+### [Get-IscsiTarget](./get-iscsitarget.md)
 Returns an iSCSI target object for each iSCSI target that is registered with the iSCSI initiator.
 
-### [Get-IscsiTargetPortal](./Get-IscsiTargetPortal.md)
+### [Get-IscsiTargetPortal](./get-iscsitargetportal.md)
 Gets iSCSI target portals.
 
-### [New-IscsiTargetPortal](./New-IscsiTargetPortal.md)
+### [New-IscsiTargetPortal](./new-iscsitargetportal.md)
 Configures an iSCSI target portal.
 
-### [Register-IscsiSession](./Register-IscsiSession.md)
+### [Register-IscsiSession](./register-iscsisession.md)
 Registers an active iSCSI session to be persistent using the session identifier as input.
 
-### [Remove-IscsiTargetPortal](./Remove-IscsiTargetPortal.md)
+### [Remove-IscsiTargetPortal](./remove-iscsitargetportal.md)
 Removes the specified iSCSI target portal.
 
-### [Set-IscsiChapSecret](./Set-IscsiChapSecret.md)
+### [Set-IscsiChapSecret](./set-iscsichapsecret.md)
 Sets a CHAP secret key for use with iSCSI initiator connections.
 
-### [Unregister-IscsiSession](./Unregister-IscsiSession.md)
+### [Unregister-IscsiSession](./unregister-iscsisession.md)
 Removes an active iSCSI session from being persistent using the session identifier as input.
 
-### [Update-IscsiTarget](./Update-IscsiTarget.md)
+### [Update-IscsiTarget](./update-iscsitarget.md)
 Refreshes the information about connected iSCSI target objects.
 
-### [Update-IscsiTargetPortal](./Update-IscsiTargetPortal.md)
+### [Update-IscsiTargetPortal](./update-iscsitargetportal.md)
 Updates information about the specified iSCSI target portal.
+
 
 

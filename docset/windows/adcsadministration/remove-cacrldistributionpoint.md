@@ -224,7 +224,8 @@ This cmdlet returns a property named RestartCA, which when set to True indicates
 
 ## RELATED LINKS
 
-[Add-CACrlDistributionPoint](./Add-CACrlDistributionPoint.md)
+[Add-CACrlDistributionPoint](./add-cacrldistributionpoint.md)
 
-[Get-CACrlDistributionPoint](./Get-CACrlDistributionPoint.md)
+[Get-CACrlDistributionPoint](./get-cacrldistributionpoint.md)
+
 

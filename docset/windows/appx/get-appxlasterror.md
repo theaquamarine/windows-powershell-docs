@@ -29,7 +29,7 @@ Get-AppxLastError [<CommonParameters>]
 ```
 
 ## DESCRIPTION
-The **Get-AppxLastError** cmdlet gets the last error reported in the app package installation logs for the current Windows PowerShell® session.
+The **Get-AppxLastError** cmdlet gets the last error reported in the app package installation logs for the current Windows PowerShell?? session.
 An app package has an .appx file name extension.
 
 ## EXAMPLES
@@ -62,9 +62,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 [How to Deploy App Packages](http://go.microsoft.com/fwlink/?LinkID=231020)
 
-[Get-AppxPackage](./Get-AppxPackage.md)
+[Get-AppxPackage](./get-appxpackage.md)
 
-[Get-AppxPackageManifest](./Get-AppxPackageManifest.md)
+[Get-AppxPackageManifest](./get-appxpackagemanifest.md)
 
-[Get-AppxLog](./Get-AppxLog.md)
+[Get-AppxLog](./get-appxlog.md)
+
+
+
 

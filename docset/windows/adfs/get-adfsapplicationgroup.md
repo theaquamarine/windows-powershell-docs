@@ -139,13 +139,14 @@ Microsoft.IdentityServer.Management.Resources.ApplicationGroup
 
 ## RELATED LINKS
 
-[Disable-AdfsApplicationGroup](./Disable-AdfsApplicationGroup.md)
+[Disable-AdfsApplicationGroup](./disable-adfsapplicationgroup.md)
 
-[Enable-AdfsApplicationGroup](./Enable-AdfsApplicationGroup.md)
+[Enable-AdfsApplicationGroup](./enable-adfsapplicationgroup.md)
 
-[New-AdfsApplicationGroup](./New-AdfsApplicationGroup.md)
+[New-AdfsApplicationGroup](./new-adfsapplicationgroup.md)
 
-[Remove-AdfsApplicationGroup](./Remove-AdfsApplicationGroup.md)
+[Remove-AdfsApplicationGroup](./remove-adfsapplicationgroup.md)
 
-[Set-AdfsApplicationGroup](./Set-AdfsApplicationGroup.md)
+[Set-AdfsApplicationGroup](./set-adfsapplicationgroup.md)
+
 

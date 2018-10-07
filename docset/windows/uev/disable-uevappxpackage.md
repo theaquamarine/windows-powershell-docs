@@ -36,7 +36,7 @@ Disable-UevAppxPackage [-Computer] [-PackageFamilyName] <String[]> [-WhatIf] [-C
 ```
 
 ## DESCRIPTION
-The **Disable-UevAppxPackage** cmdlet disables Microsoft User Experience Virtualization (UE-V) synchronization of Windows® 8 apps.
+The **Disable-UevAppxPackage** cmdlet disables Microsoft User Experience Virtualization (UE-V) synchronization of Windows?? 8 apps.
 The cmdlet adds a setting to the computer or user sections of the registry that disables the package family names of Windows 8 apps that you specify.
 If you do not specify the *Computer* or *CurrentComputerUser* parameters, the cmdlet disables the package family names of Windows 8 apps for the current user.
 
@@ -139,9 +139,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Clear-UevAppxPackage](./Clear-UevAppxPackage.md)
+[Clear-UevAppxPackage](./clear-uevappxpackage.md)
 
-[Enable-UevAppxPackage](./Enable-UevAppxPackage.md)
+[Enable-UevAppxPackage](./enable-uevappxpackage.md)
 
-[Get-UevAppxPackage](./Get-UevAppxPackage.md)
+[Get-UevAppxPackage](./get-uevappxpackage.md)
+
 

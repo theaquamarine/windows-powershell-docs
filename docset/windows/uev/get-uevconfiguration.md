@@ -171,13 +171,14 @@ Otherwise, this cmdlet generates a list of all of the settings.
 
 ## RELATED LINKS
 
-[Set-UevConfiguration](./Set-UevConfiguration.md)
+[Set-UevConfiguration](./set-uevconfiguration.md)
 
-[Set-UevConfiguration](./Set-UevConfiguration.md)
+[Set-UevConfiguration](./set-uevconfiguration.md)
 
-[Clear-UevConfiguration](./Clear-UevConfiguration.md)
+[Clear-UevConfiguration](./clear-uevconfiguration.md)
 
-[Import-UevConfiguration](./Import-UevConfiguration.md)
+[Import-UevConfiguration](./import-uevconfiguration.md)
 
-[Export-UevConfiguration](./Export-UevConfiguration.md)
+[Export-UevConfiguration](./export-uevconfiguration.md)
+
 

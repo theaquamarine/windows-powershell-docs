@@ -124,9 +124,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Grant-AdfsApplicationPermission](./Grant-AdfsApplicationPermission.md)
+[Grant-AdfsApplicationPermission](./grant-adfsapplicationpermission.md)
 
-[Revoke-AdfsApplicationPermission](./Revoke-AdfsApplicationPermission.md)
+[Revoke-AdfsApplicationPermission](./revoke-adfsapplicationpermission.md)
 
-[Set-AdfsApplicationPermission](./Set-AdfsApplicationPermission.md)
+[Set-AdfsApplicationPermission](./set-adfsapplicationpermission.md)
+
 

@@ -311,11 +311,12 @@ None.
 
 ## RELATED LINKS
 
-[Disable-SbecAutologger](./Disable-SbecAutologger.md)
+[Disable-SbecAutologger](./disable-sbecautologger.md)
 
-[Disable-SbecBcd](./Disable-SbecBcd.md)
+[Disable-SbecBcd](./disable-sbecbcd.md)
 
-[Enable-SbecBcd](./Enable-SbecBcd.md)
+[Enable-SbecBcd](./enable-sbecbcd.md)
 
-[Enable-SbecBootImage](./Enable-SbecBootImage.md)
+[Enable-SbecBootImage](./enable-sbecbootimage.md)
+
 

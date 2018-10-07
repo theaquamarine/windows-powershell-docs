@@ -191,23 +191,25 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-WindowsImage](./Add-WindowsImage.md)
+[Add-WindowsImage](./add-windowsimage.md)
 
-[Dismount-WindowsImage](./Dismount-WindowsImage.md)
+[Dismount-WindowsImage](./dismount-windowsimage.md)
 
-[Expand-WindowsImage](./Expand-WindowsImage.md)
+[Expand-WindowsImage](./expand-windowsimage.md)
 
-[Export-WindowsImage](./Export-WindowsImage.md)
+[Export-WindowsImage](./export-windowsimage.md)
 
-[Get-WindowsImage](./Get-WindowsImage.md)
+[Get-WindowsImage](./get-windowsimage.md)
 
-[Mount-WindowsImage](./Mount-WindowsImage.md)
+[Mount-WindowsImage](./mount-windowsimage.md)
 
-[New-WindowsImage](./New-WindowsImage.md)
+[New-WindowsImage](./new-windowsimage.md)
 
-[Repair-WindowsImage](./Repair-WindowsImage.md)
+[Repair-WindowsImage](./repair-windowsimage.md)
 
-[Remove-WindowsImage](./Remove-WindowsImage.md)
+[Remove-WindowsImage](./remove-windowsimage.md)
 
-[Save-WindowsImage](./Save-WindowsImage.md)
+[Save-WindowsImage](./save-windowsimage.md)
+
+
 

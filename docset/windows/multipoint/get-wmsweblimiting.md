@@ -94,9 +94,10 @@ This cmdlet returns **WebLimitSetting** collection as a **PSObject** collection.
 
 ## RELATED LINKS
 
-[Disable-WmsWebLimiting](./Disable-WmsWebLimiting.md)
+[Disable-WmsWebLimiting](./disable-wmsweblimiting.md)
 
-[Enable-WmsWebLimiting](./Enable-WmsWebLimiting.md)
+[Enable-WmsWebLimiting](./enable-wmsweblimiting.md)
 
-[Set-WmsWebLimiting](./Set-WmsWebLimiting.md)
+[Set-WmsWebLimiting](./set-wmsweblimiting.md)
+
 

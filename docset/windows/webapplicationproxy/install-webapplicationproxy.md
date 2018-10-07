@@ -175,11 +175,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-WebApplicationProxyApplication](./Add-WebApplicationProxyApplication.md)
+[Add-WebApplicationProxyApplication](./add-webapplicationproxyapplication.md)
 
-[Get-WebApplicationProxyApplication](./Get-WebApplicationProxyApplication.md)
+[Get-WebApplicationProxyApplication](./get-webapplicationproxyapplication.md)
 
-[Get-WebApplicationProxyConfiguration](./Get-WebApplicationProxyConfiguration.md)
+[Get-WebApplicationProxyConfiguration](./get-webapplicationproxyconfiguration.md)
 
-[Set-WebApplicationProxyConfiguration](./Set-WebApplicationProxyConfiguration.md)
+[Set-WebApplicationProxyConfiguration](./set-webapplicationproxyconfiguration.md)
+
 

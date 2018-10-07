@@ -710,9 +710,10 @@ A site object that was retrieved by using the **Get-ADReplicationSite** cmdlet a
 
 ## RELATED LINKS
 
-[Get-ADReplicationSite](./Get-ADReplicationSite.md)
+[Get-ADReplicationSite](./get-adreplicationsite.md)
 
-[New-ADReplicationSite](./New-ADReplicationSite.md)
+[New-ADReplicationSite](./new-adreplicationsite.md)
 
-[Remove-ADReplicationSite](./Remove-ADReplicationSite.md)
+[Remove-ADReplicationSite](./remove-adreplicationsite.md)
+
 

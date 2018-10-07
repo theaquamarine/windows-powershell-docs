@@ -176,7 +176,8 @@ This cmdlet returns an array of **CimInstance** objects that correspond to Ether
 
 ## RELATED LINKS
 
-[Disable-NetworkSwitchEthernetPort](./Disable-NetworkSwitchEthernetPort.md)
+[Disable-NetworkSwitchEthernetPort](./disable-networkswitchethernetport.md)
 
-[Enable-NetworkSwitchEthernetPort](./Enable-NetworkSwitchEthernetPort.md)
+[Enable-NetworkSwitchEthernetPort](./enable-networkswitchethernetport.md)
+
 

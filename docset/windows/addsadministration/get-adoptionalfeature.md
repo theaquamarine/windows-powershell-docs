@@ -406,7 +406,8 @@ To get a list of all the properties of an **ADOptionalFeature** object, use the 
 
 ## RELATED LINKS
 
-[Disable-ADOptionalFeature](./Disable-ADOptionalFeature.md)
+[Disable-ADOptionalFeature](./disable-adoptionalfeature.md)
 
-[Enable-ADOptionalFeature](./Enable-ADOptionalFeature.md)
+[Enable-ADOptionalFeature](./enable-adoptionalfeature.md)
+
 

@@ -256,13 +256,14 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Export-AdfsWebTheme](./Export-AdfsWebTheme.md)
+[Export-AdfsWebTheme](./export-adfswebtheme.md)
 
-[Get-AdfsRelyingPartyWebTheme](./Get-AdfsRelyingPartyWebTheme.md)
+[Get-AdfsRelyingPartyWebTheme](./get-adfsrelyingpartywebtheme.md)
 
-[New-AdfsWebTheme](./New-AdfsWebTheme.md)
+[New-AdfsWebTheme](./new-adfswebtheme.md)
 
-[Remove-AdfsRelyingPartyWebTheme](./Remove-AdfsRelyingPartyWebTheme.md)
+[Remove-AdfsRelyingPartyWebTheme](./remove-adfsrelyingpartywebtheme.md)
 
-[Set-AdfsWebTheme](./Set-AdfsWebTheme.md)
+[Set-AdfsWebTheme](./set-adfswebtheme.md)
+
 

@@ -11,31 +11,32 @@ Locale: en-US
 This reference provides cmdlet descriptions and syntax for the Host Guardian Service server cmdlets. This table lists the cmdlets in alphabetical order.
 
 ## HgsServer Cmdlets
-### [Clear-HgsServer](Clear-HgsServer.md)
+### [Clear-HgsServer](clear-hgsserver.md)
 Resets the Host Guardian Service on the local node to the uninitialized state.
 
-### [Export-HgsServerState](Export-HgsServerState.md)
+### [Export-HgsServerState](export-hgsserverstate.md)
 Exports the local Host Guardian Service instance's state to enable recovery scenarios.
 
-### [Get-HgsServer](Get-HgsServer.md)
+### [Get-HgsServer](get-hgsserver.md)
 Gets the status of the Host Guardian Service server.
 
-### [Import-HgsServerState](Import-HgsServerState.md)
+### [Import-HgsServerState](import-hgsserverstate.md)
 Imports an exported Host Guardian Service state into a Host Guardian Service instance.
 
-### [Initialize-HgsServer](Initialize-HgsServer.md)
+### [Initialize-HgsServer](initialize-hgsserver.md)
 Initializes the Host Guardian Service server.
 
-### [Install-HgsServer](Install-HgsServer.md)
+### [Install-HgsServer](install-hgsserver.md)
 Installs the Host Guardian Service server.
 
-### [Set-HgsServer](Set-HgsServer.md)
+### [Set-HgsServer](set-hgsserver.md)
 Sets the Host Guardian Service server configuration.
 
-### [Test-HgsServer](Test-HgsServer.md)
+### [Test-HgsServer](test-hgsserver.md)
 Tests if the local computer can function as a Host Guardian Service server node.
 
-### [Uninstall-HgsServer](Uninstall-HgsServer.md)
+### [Uninstall-HgsServer](uninstall-hgsserver.md)
 Removes a local node from a Host Guardian Service and from the domain.
+
 
 

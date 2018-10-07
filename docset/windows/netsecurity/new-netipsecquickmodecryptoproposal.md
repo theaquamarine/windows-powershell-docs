@@ -134,7 +134,7 @@ The acceptable values for this parameter are: None, AH, AH,ESP, or ESP.
 AH (authentication header) and ESP (encapsulating security payload) can both be specified or None can be specified. 
 
 - AH,ESP: Supported in all platforms. 
-- None: Supported in firstref_server_7 and Windows Server® 2012. 
+- None: Supported in firstref_server_7 and Windows Server?? 2012. 
 - AH: Supported in nextref_server_7 and Windows Server 2012. 
 The default value is None. 
 AH is not supported with the transport mode IKEv2 keying module.
@@ -228,7 +228,8 @@ The path after the pound sign (`#`) provides the namespace and class name for th
 
 ## RELATED LINKS
 
-[New-NetIPsecMainModeCryptoSet](./New-NetIPsecMainModeCryptoSet.md)
+[New-NetIPsecMainModeCryptoSet](./new-netipsecmainmodecryptoset.md)
 
-[New-NetIPsecRule](./New-NetIPsecRule.md)
+[New-NetIPsecRule](./new-netipsecrule.md)
+
 

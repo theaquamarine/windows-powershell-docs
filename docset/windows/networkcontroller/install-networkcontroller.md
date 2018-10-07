@@ -82,7 +82,7 @@ Version                         : 10.0.0
 The first command creates a network controller node object, and then stores it in the $NodeObject variable.
 
 The second command gets a certificate named NCEncryption, and then stores it in the $Certificate variable.
-The command uses standard Windows PowerShell® cmdlets.
+The command uses standard Windows PowerShell?? cmdlets.
 For more information, type `Get-Help Get-Item`, `Get-Help Get-ChildItem`, and `Get-Help Where`.
 
 The third command creates a network controller cluster by using the **Install-NetworkControllerCluster** cmdlet.
@@ -399,13 +399,14 @@ This cmdlet returns an object that contains the following fields:
 
 ## RELATED LINKS
 
-[Get-NetworkController](./Get-NetworkController.md)
+[Get-NetworkController](./get-networkcontroller.md)
 
-[Set-NetworkController](./Set-NetworkController.md)
+[Set-NetworkController](./set-networkcontroller.md)
 
-[Uninstall-NetworkController](./Uninstall-NetworkController.md)
+[Uninstall-NetworkController](./uninstall-networkcontroller.md)
 
-[New-NetworkControllerNodeObject](./New-NetworkControllerNodeObject.md)
+[New-NetworkControllerNodeObject](./new-networkcontrollernodeobject.md)
 
-[Install-NetworkControllerCluster](./Install-NetworkControllerCluster.md)
+[Install-NetworkControllerCluster](./install-networkcontrollercluster.md)
+
 

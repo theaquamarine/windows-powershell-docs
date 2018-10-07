@@ -182,9 +182,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-VMGroup](./Get-VMGroup.md)
+[Get-VMGroup](./get-vmgroup.md)
 
-[New-VMGroup](./New-VMGroup.md)
+[New-VMGroup](./new-vmgroup.md)
 
-[Rename-VMGroup](./Rename-VMGroup.md)
+[Rename-VMGroup](./rename-vmgroup.md)
+
 

@@ -271,7 +271,8 @@ This cmdlet returns a **VirtualMachine** object, if you specify the **Passthru**
 
 ## RELATED LINKS
 
-[Get-VMVideo](./Get-VMVideo.md)
+[Get-VMVideo](./get-vmvideo.md)
 
-[Get-VM](./Get-VM.md)
+[Get-VM](./get-vm.md)
+
 

@@ -169,15 +169,16 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Clear-MsmqQueue](./Clear-MSMQQueue.md)
+[Clear-MsmqQueue](./clear-msmqqueue.md)
 
-[New-MsmqQueue](./New-MsmqQueue.md)
+[New-MsmqQueue](./new-msmqqueue.md)
 
-[Receive-MsmqQueue](./Receive-MsmqQueue.md)
+[Receive-MsmqQueue](./receive-msmqqueue.md)
 
-[Remove-MsmqQueue](./Remove-MsmqQueue.md)
+[Remove-MsmqQueue](./remove-msmqqueue.md)
 
-[Send-MsmqQueue](./Send-MsmqQueue.md)
+[Send-MsmqQueue](./send-msmqqueue.md)
 
-[Set-MsmqQueue](./Set-MsmqQueue.md)
+[Set-MsmqQueue](./set-msmqqueue.md)
+
 

@@ -192,15 +192,16 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-AdfsClaimsProviderTrust](./Add-AdfsClaimsProviderTrust.md)
+[Add-AdfsClaimsProviderTrust](./add-adfsclaimsprovidertrust.md)
 
-[Disable-AdfsClaimsProviderTrust](./Disable-AdfsClaimsProviderTrust.md)
+[Disable-AdfsClaimsProviderTrust](./disable-adfsclaimsprovidertrust.md)
 
-[Enable-AdfsClaimsProviderTrust](./Enable-AdfsClaimsProviderTrust.md)
+[Enable-AdfsClaimsProviderTrust](./enable-adfsclaimsprovidertrust.md)
 
-[Get-AdfsClaimsProviderTrust](./Get-AdfsClaimsProviderTrust.md)
+[Get-AdfsClaimsProviderTrust](./get-adfsclaimsprovidertrust.md)
 
-[Remove-AdfsClaimsProviderTrust](./Remove-AdfsClaimsProviderTrust.md)
+[Remove-AdfsClaimsProviderTrust](./remove-adfsclaimsprovidertrust.md)
 
-[Set-AdfsClaimsProviderTrust](./Set-AdfsClaimsProviderTrust.md)
+[Set-AdfsClaimsProviderTrust](./set-adfsclaimsprovidertrust.md)
+
 

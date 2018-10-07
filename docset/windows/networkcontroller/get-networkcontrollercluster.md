@@ -149,11 +149,12 @@ This cmdlet returns an object that contains the following fields:
 
 ## RELATED LINKS
 
-[Install-NetworkControllerCluster](./Install-NetworkControllerCluster.md)
+[Install-NetworkControllerCluster](./install-networkcontrollercluster.md)
 
-[Repair-NetworkControllerCluster](./Repair-NetworkControllerCluster.md)
+[Repair-NetworkControllerCluster](./repair-networkcontrollercluster.md)
 
-[Set-NetworkControllerCluster](./Set-NetworkControllerCluster.md)
+[Set-NetworkControllerCluster](./set-networkcontrollercluster.md)
 
-[Uninstall-NetworkControllerCluster](./Uninstall-NetworkControllerCluster.md)
+[Uninstall-NetworkControllerCluster](./uninstall-networkcontrollercluster.md)
+
 

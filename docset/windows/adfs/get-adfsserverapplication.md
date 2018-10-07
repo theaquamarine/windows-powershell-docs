@@ -189,9 +189,10 @@ Microsoft.IdentityServer.Management.Resources.ServerApplication inherits from Mi
 
 ## RELATED LINKS
 
-[Add-AdfsServerApplication](./Add-AdfsServerApplication.md)
+[Add-AdfsServerApplication](./add-adfsserverapplication.md)
 
-[Remove-AdfsServerApplication](./Remove-AdfsServerApplication.md)
+[Remove-AdfsServerApplication](./remove-adfsserverapplication.md)
 
-[Set-AdfsServerApplication](./Set-AdfsServerApplication.md)
+[Set-AdfsServerApplication](./set-adfsserverapplication.md)
+
 

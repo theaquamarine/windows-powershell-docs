@@ -37,7 +37,7 @@ New-ADAuthenticationPolicy [-WhatIf] [-Confirm] [-AuthType <ADAuthType>]
 ```
 
 ## DESCRIPTION
-The **New-ADAuthenticationPolicy** creates an authentication policy object in Active Directory® Domain Services.
+The **New-ADAuthenticationPolicy** creates an authentication policy object in Active Directory?? Domain Services.
 
 Commonly used attributes of the object can be specified by the parameters of this cmdlet.
 To set attributes for the object that are not represented by the parameters of this cmdlet, specify the *OtherAttributes* parameter.
@@ -487,11 +487,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-ADAuthenticationPolicy](./Get-ADAuthenticationPolicy.md)
+[Get-ADAuthenticationPolicy](./get-adauthenticationpolicy.md)
 
-[Remove-ADAuthenticationPolicy](./Remove-ADAuthenticationPolicy.md)
+[Remove-ADAuthenticationPolicy](./remove-adauthenticationpolicy.md)
 
-[Set-ADAuthenticationPolicy](./Set-ADAuthenticationPolicy.md)
+[Set-ADAuthenticationPolicy](./set-adauthenticationpolicy.md)
 
 [AD DS Administration Cmdlets in Windows PowerShell](./activedirectory.md)
+
 

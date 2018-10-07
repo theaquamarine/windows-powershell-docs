@@ -94,5 +94,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-WinLanguageBarOption](./Get-WinLanguageBarOption.md)
+[Get-WinLanguageBarOption](./get-winlanguagebaroption.md)
+
 

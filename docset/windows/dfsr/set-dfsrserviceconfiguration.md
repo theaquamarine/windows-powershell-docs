@@ -389,9 +389,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-DfsrServiceConfiguration](./Get-DfsrServiceConfiguration.md)
+[Get-DfsrServiceConfiguration](./get-dfsrserviceconfiguration.md)
 
-[Get-DfsrMember](./Get-DfsrMember.md)
+[Get-DfsrMember](./get-dfsrmember.md)
 
-[Set-DfsrMembership](./Set-DfsrMembership.md)
+[Set-DfsrMembership](./set-dfsrmembership.md)
+
 

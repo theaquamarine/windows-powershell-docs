@@ -148,9 +148,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-DfsReplicationGroup](./Get-DfsReplicationGroup.md)
+[Get-DfsReplicationGroup](./get-dfsreplicationgroup.md)
 
-[New-DfsReplicationGroup](./New-DfsReplicationGroup.md)
+[New-DfsReplicationGroup](./new-dfsreplicationgroup.md)
 
-[Remove-DfsReplicationGroup](./Remove-DfsReplicationGroup.md)
+[Remove-DfsReplicationGroup](./remove-dfsreplicationgroup.md)
+
 

@@ -142,11 +142,12 @@ This cmdlet returns the physical allocation that is associated with the input ob
 
 ## RELATED LINKS
 
-[Get-PhysicalDisk](./Get-PhysicalDisk.md)
+[Get-PhysicalDisk](./get-physicaldisk.md)
 
-[Get-PhysicalExtentAssociation](./Get-PhysicalExtentAssociation.md)
+[Get-PhysicalExtentAssociation](./get-physicalextentassociation.md)
 
-[Get-StorageTier](./Get-StorageTier.md)
+[Get-StorageTier](./get-storagetier.md)
 
-[Get-VirtualDisk](./Get-VirtualDisk.md)
+[Get-VirtualDisk](./get-virtualdisk.md)
+
 

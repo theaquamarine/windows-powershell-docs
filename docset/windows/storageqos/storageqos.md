@@ -24,28 +24,29 @@ ms.assetid: 141B4BB3-EABD-4F8A-9F27-D434E0C32C18
 This reference provides the cmdlet description and syntax for the Storage QoS cmdlets.
 
 ## StorageQoS Cmdlets
-### [Get-StorageQoSFlow](./Get-StorageQoSFlow.md)
+### [Get-StorageQoSFlow](./get-storageqosflow.md)
 Retrieves performance metrics on an I/O flow that is monitored by Storage QoS.
 
-### [Get-StorageQosPolicy](./Get-StorageQosPolicy.md)
+### [Get-StorageQosPolicy](./get-storageqospolicy.md)
 Retrieves a storage QoS policy from the policy manager.
 
-### [Get-StorageQosPolicyStore](./Get-StorageQosPolicyStore.md)
+### [Get-StorageQosPolicyStore](./get-storageqospolicystore.md)
 Gets the object representing the policy store, which contains global QoS settings.
 
-### [Get-StorageQosVolume](./Get-StorageQosVolume.md)
+### [Get-StorageQosVolume](./get-storageqosvolume.md)
 Retrieves per-volume performance metrics on a volume that is monitored by Storage QoS.
 
-### [New-StorageQosPolicy](./New-StorageQosPolicy.md)
+### [New-StorageQosPolicy](./new-storageqospolicy.md)
 Creates a Storage QoS policy.
 
-### [Remove-StorageQosPolicy](./Remove-StorageQosPolicy.md)
+### [Remove-StorageQosPolicy](./remove-storageqospolicy.md)
 Deletes a Storage QoS policy from the policy manager.
 
-### [Set-StorageQosPolicy](./Set-StorageQosPolicy.md)
+### [Set-StorageQosPolicy](./set-storageqospolicy.md)
 Modifies an existing Storage QoS policy.
 
-### [Set-StorageQosPolicyStore](./Set-StorageQosPolicyStore.md)
+### [Set-StorageQosPolicyStore](./set-storageqospolicystore.md)
 Sets the fields on the policy store object.
+
 
 

@@ -105,5 +105,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Install-AdcsOnlineResponder](./Install-AdcsOnlineResponder.md)
+[Install-AdcsOnlineResponder](./install-adcsonlineresponder.md)
+
 

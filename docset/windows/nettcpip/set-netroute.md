@@ -394,7 +394,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -461,13 +461,14 @@ The path after the pound sign (`#`) provides the namespace and class name for th
 
 [New-TimeSpan](https://technet.microsoft.com/en-us/library/hh849950.aspx)
 
-[Find-NetRoute](./Find-NetRoute.md)
+[Find-NetRoute](./find-netroute.md)
 
-[Get-NetRoute](./Get-NetRoute.md)
+[Get-NetRoute](./get-netroute.md)
 
-[New-NetRoute](./New-NetRoute.md)
+[New-NetRoute](./new-netroute.md)
 
-[Remove-NetRoute](./Remove-NetRoute.md)
+[Remove-NetRoute](./remove-netroute.md)
 
-[Set-NetIPInterface](./Set-NetIPInterface.md)
+[Set-NetIPInterface](./set-netipinterface.md)
+
 

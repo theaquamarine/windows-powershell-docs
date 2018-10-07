@@ -511,9 +511,10 @@ The object includes the following properties:
 
 ## RELATED LINKS
 
-[Get-AdfsGlobalWebContent](./Get-AdfsGlobalWebContent.md)
+[Get-AdfsGlobalWebContent](./get-adfsglobalwebcontent.md)
 
-[Remove-AdfsGlobalWebContent](./Remove-AdfsGlobalWebContent.md)
+[Remove-AdfsGlobalWebContent](./remove-adfsglobalwebcontent.md)
 
-[Set-AdfsRelyingPartyWebContent](./Set-AdfsRelyingPartyWebContent.md)
+[Set-AdfsRelyingPartyWebContent](./set-adfsrelyingpartywebcontent.md)
+
 

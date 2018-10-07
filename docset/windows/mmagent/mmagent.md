@@ -24,19 +24,20 @@ ms.assetid: 52420F30-6CDF-4123-A5F6-DA377A7C386A
 This reference provides cmdlet descriptions and syntax for all Memory Management Agent (MMAgent) - specific cmdlets. It lists the cmdlets in alphabetical order based on the verb at the beginning of the cmdlet.
 
 ## MMAgent Cmdlets
-### [Debug-MMAppPrelaunch](./Debug-MMAppPrelaunch.md)
+### [Debug-MMAppPrelaunch](./debug-mmappprelaunch.md)
 Debugs the application prelaunch of a specific application by triggering the prelaunch to occur and to exit debug mode for the application.
 
-### [Disable-MMAgent](./Disable-MMAgent.md)
+### [Disable-MMAgent](./disable-mmagent.md)
 Disables application launch prefetching, operation recorder API functionality, page combining, and application prelaunch.
 
-### [Enable-MMAgent](./Enable-MMAgent.md)
+### [Enable-MMAgent](./enable-mmagent.md)
 Enables application launch prefetching, operation recorder API functionality, page combining, and application prelaunch.
 
-### [Get-MMAgent](./Get-MMAgent.md)
+### [Get-MMAgent](./get-mmagent.md)
 Gets the state of application launch prefetching, operation API prefetching functionality, page combining, and application prelaunch.
 
-### [Set-MMAgent](./Set-MMAgent.md)
+### [Set-MMAgent](./set-mmagent.md)
 Sets the maximum number of prefetch files for scenarios that the Operation Recorder API records.
+
 
 

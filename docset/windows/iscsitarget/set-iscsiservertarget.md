@@ -402,9 +402,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 [New-Object](http://go.microsoft.com/fwlink/p/?LinkId=113355)
 
-[Get-IscsiServerTarget](./Get-IscsiServerTarget.md)
+[Get-IscsiServerTarget](./get-iscsiservertarget.md)
 
-[New-IscsiServerTarget](./New-IscsiServerTarget.md)
+[New-IscsiServerTarget](./new-iscsiservertarget.md)
 
-[Remove-IscsiServerTarget](./Remove-IscsiServerTarget.md)
+[Remove-IscsiServerTarget](./remove-iscsiservertarget.md)
+
 

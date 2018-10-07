@@ -192,7 +192,7 @@ Separate source locations with a comma.
 
 If you do not specify a *Source*, the default location set by Group Policy is used. If that fails, Windows Update is also used for online images, if *LimitAccess* is not specified. When all fail, the cmdlet fails silently; no exceptions are thrown.
 
-*Source* can only be used when servicing images that are running at least Windows® 8 or Windows Server® 2012.
+*Source* can only be used when servicing images that are running at least Windows?? 8 or Windows Server?? 2012.
 
 ```yaml
 Type: String[]
@@ -253,7 +253,9 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-WindowsCapability](./Get-WindowsCapability.md)
+[Get-WindowsCapability](./get-windowscapability.md)
 
-[Remove-WindowsCapability](./Remove-WindowsCapability.md)
+[Remove-WindowsCapability](./remove-windowscapability.md)
+
+
 

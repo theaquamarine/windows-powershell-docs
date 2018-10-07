@@ -105,7 +105,7 @@ Accept wildcard characters: False
 
 ### -HostName
 Specifies the hostname of the target.
-This parameter is used to resolve an IP address when a remote Windows PowerShell® session is opened.
+This parameter is used to resolve an IP address when a remote Windows PowerShell?? session is opened.
 
 ```yaml
 Type: String
@@ -211,7 +211,8 @@ This cmdlet returns a target object that is a collection of metadata that contai
 
 ## RELATED LINKS
 
-[Test-HgsTraceTarget](./Test-HgsTraceTarget.md)
+[Test-HgsTraceTarget](./test-hgstracetarget.md)
 
-[Get-HgsTrace](./Get-HgsTrace.md)
+[Get-HgsTrace](./get-hgstrace.md)
+
 

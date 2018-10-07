@@ -130,9 +130,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-WebManagedModule](./Get-WebManagedModule.md)
+[Get-WebManagedModule](./get-webmanagedmodule.md)
 
-[New-WebManagedModule](./New-WebManagedModule.md)
+[New-WebManagedModule](./new-webmanagedmodule.md)
 
-[Set-WebManagedModule](./Set-WebManagedModule.md)
+[Set-WebManagedModule](./set-webmanagedmodule.md)
+
 

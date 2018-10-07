@@ -103,7 +103,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Backup-WebConfiguration](./Backup-WebConfiguration.md)
+[Backup-WebConfiguration](./backup-webconfiguration.md)
 
-[Get-WebConfigurationBackup](./Get-WebConfigurationBackup.md)
+[Get-WebConfigurationBackup](./get-webconfigurationbackup.md)
+
 

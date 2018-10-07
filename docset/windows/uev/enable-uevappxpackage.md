@@ -36,7 +36,7 @@ Enable-UevAppxPackage [-Computer] [-PackageFamilyName] <String[]> [-WhatIf] [-Co
 ```
 
 ## DESCRIPTION
-The **Enable-UevAppxPackage** cmdlet enables Microsoft User Experience Virtualization (UE-V) synchronization of Windows® 8 apps.
+The **Enable-UevAppxPackage** cmdlet enables Microsoft User Experience Virtualization (UE-V) synchronization of Windows?? 8 apps.
 The cmdlet adds a setting to the computer or user sections of the registry that enables the package family names of Windows 8 apps that you specify.
 If you do not specify the *Computer* or *CurrentComputerUser* parameters, the cmdlet enables the package family names for the current user.
 
@@ -139,9 +139,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Clear-UevAppxPackage](./Clear-UevAppxPackage.md)
+[Clear-UevAppxPackage](./clear-uevappxpackage.md)
 
-[Disable-UevAppxPackage](./Disable-UevAppxPackage.md)
+[Disable-UevAppxPackage](./disable-uevappxpackage.md)
 
-[Get-UevAppxPackage](./Get-UevAppxPackage.md)
+[Get-UevAppxPackage](./get-uevappxpackage.md)
+
 

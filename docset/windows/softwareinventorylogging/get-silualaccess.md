@@ -62,7 +62,7 @@ This command displays the total number of unique client requests of the server f
 
 ### Example 2: Display UAL data for a specified server role
 ```
-PS C:\>Get-SilUalAccess â€"RoleName "Print and Document Services"
+PS C:\>Get-SilUalAccess ?????"RoleName "Print and Document Services"
 ProductName             : Windows Server 2012 R2 Datacenter
 RoleGuid                : 7fb09bd3-7fe6-435e-8348-7d8aefb6cea3
 RoleName                : Print and Document Services
@@ -82,7 +82,7 @@ Use this parameter to run commands that take a long time to complete.
 You can continue to work in the session while the job completes.
 To manage the job, use the `*-Job` cmdlets.
 To get the job results, use the [Receive-Job](http://go.microsoft.com/fwlink/?LinkID=113372) cmdlet. 
- For more information about Windows PowerShellÂ® background jobs, see [about_Jobs](http://go.microsoft.com/fwlink/?LinkID=113251).
+ For more information about Windows PowerShell???? background jobs, see [about_Jobs](http://go.microsoft.com/fwlink/?LinkID=113251).
 
 ```yaml
 Type: SwitchParameter
@@ -145,7 +145,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShellÂ® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell???? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -173,13 +173,14 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-SilSoftware](./Get-SilSoftware.md)
+[Get-SilSoftware](./get-silsoftware.md)
 
-[Get-SilComputer](./Get-SilComputer.md)
+[Get-SilComputer](./get-silcomputer.md)
 
-[Get-SilData](./Get-SilData.md)
+[Get-SilData](./get-sildata.md)
 
-[Get-SilLogging](./Get-SilLogging.md)
+[Get-SilLogging](./get-sillogging.md)
 
-[Get-SilWindowsUpdate](./Get-SilWindowsUpdate.md)
+[Get-SilWindowsUpdate](./get-silwindowsupdate.md)
+
 

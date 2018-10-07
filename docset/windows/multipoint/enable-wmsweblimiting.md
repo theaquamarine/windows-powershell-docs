@@ -145,9 +145,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Disable-WmsWebLimiting](./Disable-WmsWebLimiting.md)
+[Disable-WmsWebLimiting](./disable-wmsweblimiting.md)
 
-[Get-WmsWebLimiting](./Get-WmsWebLimiting.md)
+[Get-WmsWebLimiting](./get-wmsweblimiting.md)
 
-[Set-WmsWebLimiting](./Set-WmsWebLimiting.md)
+[Set-WmsWebLimiting](./set-wmsweblimiting.md)
+
 

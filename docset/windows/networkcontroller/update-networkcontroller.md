@@ -128,10 +128,11 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-NetworkController](./Get-NetworkController.md)
+[Get-NetworkController](./get-networkcontroller.md)
 
-[Get-NetworkController](./Get-NetworkController.md)
+[Get-NetworkController](./get-networkcontroller.md)
 
-[Set-NetworkController](./Set-NetworkController.md)
+[Set-NetworkController](./set-networkcontroller.md)
 
-[Uninstall-NetworkController](./Uninstall-NetworkController.md)
+[Uninstall-NetworkController](./uninstall-networkcontroller.md)
+

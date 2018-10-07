@@ -110,9 +110,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-RDUserSession](./Get-RDUserSession.md)
+[Get-RDUserSession](./get-rdusersession.md)
 
-[Invoke-RDUserLogoff](./Invoke-RDUserLogoff.md)
+[Invoke-RDUserLogoff](./invoke-rduserlogoff.md)
 
-[Send-RDUserMessage](./Send-RDUserMessage.md)
+[Send-RDUserMessage](./send-rdusermessage.md)
+
 

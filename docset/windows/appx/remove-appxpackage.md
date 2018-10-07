@@ -174,15 +174,18 @@ An **AppxPackage** object that contain information, including the full name of t
 
 [How to Add and Remove Apps](http://go.microsoft.com/fwlink/?LinkID=231020)
 
-[Get-AppxPackage](./Get-AppxPackage.md)
+[Get-AppxPackage](./get-appxpackage.md)
 
-[Get-AppxPackageManifest](./Get-AppxPackageManifest.md)
+[Get-AppxPackageManifest](./get-appxpackagemanifest.md)
 
-[Add-AppxPackage](./Add-AppxPackage.md)
+[Add-AppxPackage](./add-appxpackage.md)
 
-[Move-AppxPackage](./Move-AppxPackage.md)
+[Move-AppxPackage](./move-appxpackage.md)
 
-[Get-AppxLog](./Get-AppxLog.md)
+[Get-AppxLog](./get-appxlog.md)
 
-[Get-AppxLastError](./Get-AppxLastError.md)
+[Get-AppxLastError](./get-appxlasterror.md)
+
+
+
 

@@ -413,7 +413,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-ADDCCloningExcludedApplicationList](./Get-ADDCCloningExcludedApplicationList.md)
+[Get-ADDCCloningExcludedApplicationList](./get-addccloningexcludedapplicationlist.md)
 
 [AD DS Administration Cmdlets in Windows PowerShell](./activedirectory.md)
+
 

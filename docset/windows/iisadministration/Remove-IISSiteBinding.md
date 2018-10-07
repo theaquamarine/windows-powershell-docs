@@ -142,8 +142,9 @@ Accept wildcard characters: False
 
 ## RELATED LINKS
 
-[Get-IISSiteBinding](./Get-IISSiteBinding.md)
+[Get-IISSiteBinding](./get-iissitebinding.md)
 
-[New-IISSiteBinding](./New-IISSiteBinding.md)
+[New-IISSiteBinding](./new-iissitebinding.md)
 
 [IIS Administration Cmdlets for Windows PowerShell](./iisadministration.md)
+

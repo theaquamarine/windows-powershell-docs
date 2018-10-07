@@ -106,5 +106,6 @@ None.
 
 ## RELATED LINKS
 
-[Enable-WmsVirtualDesktopRole](./Enable-WmsVirtualDesktopRole.md)
+[Enable-WmsVirtualDesktopRole](./enable-wmsvirtualdesktoprole.md)
+
 

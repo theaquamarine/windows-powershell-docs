@@ -200,8 +200,8 @@ For more information, see [about_CommonParameters](https://docs.microsoft.com/po
 
 ## Related links
 
-[Get-RDCertificate](./Get-RDCertificate.md)
+[Get-RDCertificate](./get-rdcertificate.md)
 
-[New-RDCertificate](./New-RDCertificate.md)
+[New-RDCertificate](./new-rdcertificate.md)
 
 [about_CommonParameters](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_commonparameters?view=powershell-6)

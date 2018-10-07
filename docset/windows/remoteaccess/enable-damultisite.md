@@ -65,7 +65,7 @@ DAEntryPoints                    : Entry Point 1
 ```
 
 This example enables DirectAccess (DA) Multi-site on the local DA server while using default parameters and naming the first entry point Entry Point 1.
-As can be seen from the output, the cmdlet chose a default EnterpriseName Enterprise and enabled the Manual Entry Point Selection by the Windows Server® 2012 user.
+As can be seen from the output, the cmdlet chose a default EnterpriseName Enterprise and enabled the Manual Entry Point Selection by the Windows Server?? 2012 user.
 
 ### EXAMPLE 2
 ```
@@ -233,7 +233,7 @@ Accept wildcard characters: False
 ```
 
 ### -ManualEntryPointSelectionAllowed
-Allow clients running firstref_client_7 or Windows® 8 to manually select the entry point to which they connect.
+Allow clients running firstref_client_7 or Windows?? 8 to manually select the entry point to which they connect.
 
 ```yaml
 Type: String
@@ -281,7 +281,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -339,11 +339,12 @@ The DAMultisite object contains the entire multi-site deployment configuration a
 
 ## RELATED LINKS
 
-[Add-DAEntryPoint](./Add-DAEntryPoint.md)
+[Add-DAEntryPoint](./add-daentrypoint.md)
 
-[Disable-DAMultiSite](./Disable-DAMultiSite.md)
+[Disable-DAMultiSite](./disable-damultisite.md)
 
-[Get-DAMultiSite](./Get-DAMultiSite.md)
+[Get-DAMultiSite](./get-damultisite.md)
 
-[Set-DAMultiSite](./Set-DAMultiSite.md)
+[Set-DAMultiSite](./set-damultisite.md)
+
 

@@ -167,9 +167,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-ClusterResourceDependency](./Add-ClusterResourceDependency.md)
+[Add-ClusterResourceDependency](./add-clusterresourcedependency.md)
 
-[Get-ClusterResourceDependency](./Get-ClusterResourceDependency.md)
+[Get-ClusterResourceDependency](./get-clusterresourcedependency.md)
 
-[Set-ClusterResourceDependency](./Set-ClusterResourceDependency.md)
+[Set-ClusterResourceDependency](./set-clusterresourcedependency.md)
+
 

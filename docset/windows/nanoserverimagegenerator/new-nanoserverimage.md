@@ -830,7 +830,8 @@ None.
 
 ## RELATED LINKS
 
-[Edit-NanoServerImage](./Edit-NanoServerImage.md)
+[Edit-NanoServerImage](./edit-nanoserverimage.md)
 
-[Get-NanoServerPackage](./Get-NanoServerPackage.md)
+[Get-NanoServerPackage](./get-nanoserverpackage.md)
+
 

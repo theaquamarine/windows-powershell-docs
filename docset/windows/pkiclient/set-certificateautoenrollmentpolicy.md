@@ -43,7 +43,7 @@ These settings can be found in the following location.
 
  -- `\Security Settings\Public Key Policies\Certificate Services Client - Auto-Enrollment`.
 
-Delegation may be required when using this cmdlet with Windows PowerShell® remoting and changing user configuration.
+Delegation may be required when using this cmdlet with Windows PowerShell?? remoting and changing user configuration.
 
 ## EXAMPLES
 
@@ -256,5 +256,6 @@ Each property can be modified and piped into this cmdlet to be applied.
 
 ## RELATED LINKS
 
-[Get-CertificateAutoEnrollmentPolicy](./Get-CertificateAutoEnrollmentPolicy.md)
+[Get-CertificateAutoEnrollmentPolicy](./get-certificateautoenrollmentpolicy.md)
+
 

@@ -25,7 +25,7 @@ Save-ShieldedVMRecoveryKey -DiskNumber <Int32> -Path <String> [-Force] [-WhatIf]
 ## DESCRIPTION
 The *Save-ShieldedVMRecoveryKey* cmdlet is used to extract the encrypted BitLocker recovery key from a shielded virtual machine's operaing system disk.
 The key can be obtained from an offline VHDX or an online, mounted disk.
-The encrypted recovery key can be passed to the [Unprotect-ShieldedVMRecoveryKey](Unprotect-ShieldedVMRecoveryKey.md) cmdlet to decrypt the recovery key.
+The encrypted recovery key can be passed to the [Unprotect-ShieldedVMRecoveryKey](unprotect-shieldedvmrecoverykey.md) cmdlet to decrypt the recovery key.
 
 This cmdlet only works with Windows shielded VMs created with a shielding data file created on Windows Server, version 1709 or newer.
 
@@ -151,4 +151,4 @@ Accept wildcard characters: False
 
 ## RELATED LINKS
 
-[Unprotect-ShieldedVMRecoveryKey](Unprotect-ShieldedVMRecoveryKey.md)
+[Unprotect-ShieldedVMRecoveryKey](unprotect-shieldedvmrecoverykey.md)

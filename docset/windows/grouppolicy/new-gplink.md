@@ -337,11 +337,12 @@ Therefore, when this cmdlet is run from a startup or shutdown script, the defaul
 
 ## RELATED LINKS
 
-[Remove-GPLink](./Remove-GPLink.md)
+[Remove-GPLink](./remove-gplink.md)
 
-[Set-GPLink](./Set-GPLink.md)
+[Set-GPLink](./set-gplink.md)
 
-[Set-GPPrefRegistryValue](./Set-GPPrefRegistryValue.md)
+[Set-GPPrefRegistryValue](./set-gpprefregistryvalue.md)
 
-[Set-GPRegistryValue](./Set-GPRegistryValue.md)
+[Set-GPRegistryValue](./set-gpregistryvalue.md)
+
 

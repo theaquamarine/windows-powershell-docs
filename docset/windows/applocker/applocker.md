@@ -24,19 +24,20 @@ ms.assetid: 4BB540B4-DE3E-4ADF-B306-5E714C527017
 The Windows PowerShell cmdlets for AppLocker are designed to streamline the administration of application control policies. The cmdlets can be used to help author, test, maintain, and troubleshoot application control policies and can be used in conjunction with the AppLocker user interface that is accessed through the Microsoft Management Console (MMC) snap-in extension to the Local Security Policy snap-in and Group Policy Management Console.
 
 ## AppLocker Cmdlets
-### [Get-AppLockerFileInformation](./Get-AppLockerFileInformation.md)
+### [Get-AppLockerFileInformation](./get-applockerfileinformation.md)
 Gets the file information necessary to create AppLocker rules from a list of files or an event log.
 
-### [Get-AppLockerPolicy](./Get-AppLockerPolicy.md)
+### [Get-AppLockerPolicy](./get-applockerpolicy.md)
 Gets the local, the effective, or a domain AppLocker policy.
 
-### [New-AppLockerPolicy](./New-AppLockerPolicy.md)
+### [New-AppLockerPolicy](./new-applockerpolicy.md)
 Creates a new AppLocker policy from a list of file information and other rule creation options.
 
-### [Set-AppLockerPolicy](./Set-AppLockerPolicy.md)
+### [Set-AppLockerPolicy](./set-applockerpolicy.md)
 Sets the AppLocker policy for the specified GPO.
 
-### [Test-AppLockerPolicy](./Test-AppLockerPolicy.md)
+### [Test-AppLockerPolicy](./test-applockerpolicy.md)
 Specifies the AppLocker policy to determine whether the input files will be allowed to run for a given user.
+
 
 

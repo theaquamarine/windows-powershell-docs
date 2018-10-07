@@ -226,9 +226,10 @@ For more information, see the *FirstOrder* parameter.
 
 ## RELATED LINKS
 
-[Enable-SbecAutologger](./Enable-SbecAutologger.md)
+[Enable-SbecAutologger](./enable-sbecautologger.md)
 
-[Enable-SbecBootImage](./Enable-SbecBootImage.md)
+[Enable-SbecBootImage](./enable-sbecbootimage.md)
 
-[Enable-SbecWdsBcd](./Enable-SbecWdsBcd.md)
+[Enable-SbecWdsBcd](./enable-sbecwdsbcd.md)
+
 

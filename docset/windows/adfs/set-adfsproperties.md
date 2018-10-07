@@ -582,7 +582,7 @@ Accept wildcard characters: False
 
 ### -ExtranetLockoutThreshold
 Specifies the maximum number of bad password attempts permitted against the directory before the account is throttled when accessing applications from the extranet.
-If you use Active Directory® Domain Services account lockout policies, it is strongly recommended that you set this threshold to a value that is less than the threshold in AD DS to avoid lockout of the user inside and outside the network.
+If you use Active Directory?? Domain Services account lockout policies, it is strongly recommended that you set this threshold to a value that is less than the threshold in AD DS to avoid lockout of the user inside and outside the network.
 
 ```yaml
 Type: Int32
@@ -1203,5 +1203,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-AdfsProperties](./Get-AdfsProperties.md)
+[Get-AdfsProperties](./get-adfsproperties.md)
+
 

@@ -125,5 +125,6 @@ None.
 
 [New-WmsUser]()
 
-[Set-WmsUser](./Set-WmsUser.md)
+[Set-WmsUser](./set-wmsuser.md)
+
 

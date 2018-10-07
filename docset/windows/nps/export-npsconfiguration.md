@@ -79,5 +79,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Import-NpsConfiguration](./Import-NpsConfiguration.md)
+[Import-NpsConfiguration](./import-npsconfiguration.md)
+
 

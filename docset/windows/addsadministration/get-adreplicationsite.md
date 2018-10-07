@@ -266,9 +266,10 @@ A site object is received by the *Identity* parameter.
 
 ## RELATED LINKS
 
-[New-ADReplicationSite](./New-ADReplicationSite.md)
+[New-ADReplicationSite](./new-adreplicationsite.md)
 
-[Remove-ADReplicationSite](./Remove-ADReplicationSite.md)
+[Remove-ADReplicationSite](./remove-adreplicationsite.md)
 
-[Set-ADReplicationSite](./Set-ADReplicationSite.md)
+[Set-ADReplicationSite](./set-adreplicationsite.md)
+
 

@@ -522,9 +522,10 @@ By default, this cmdlet does not generate any output.
 
 ## RELATED LINKS
 
-[Get-ADOrganizationalUnit](./Get-ADOrganizationalUnit.md)
+[Get-ADOrganizationalUnit](./get-adorganizationalunit.md)
 
-[Remove-ADOrganizationalUnit](./Remove-ADOrganizationalUnit.md)
+[Remove-ADOrganizationalUnit](./remove-adorganizationalunit.md)
 
-[Set-ADOrganizationalUnit](./Set-ADOrganizationalUnit.md)
+[Set-ADOrganizationalUnit](./set-adorganizationalunit.md)
+
 

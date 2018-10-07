@@ -483,9 +483,10 @@ With the *Identity* or the *Filter* parameter, the **HostName** property will no
 
 ## RELATED LINKS
 
-[Add-ADDomainControllerPasswordReplicationPolicy](./Add-ADDomainControllerPasswordReplicationPolicy.md)
+[Add-ADDomainControllerPasswordReplicationPolicy](./add-addomaincontrollerpasswordreplicationpolicy.md)
 
-[Get-ADDomainControllerPasswordReplicationPolicy](./Get-ADDomainControllerPasswordReplicationPolicy.md)
+[Get-ADDomainControllerPasswordReplicationPolicy](./get-addomaincontrollerpasswordreplicationpolicy.md)
 
-[Remove-ADDomainControllerPasswordReplicationPolicy](./Remove-ADDomainControllerPasswordReplicationPolicy.md)
+[Remove-ADDomainControllerPasswordReplicationPolicy](./remove-addomaincontrollerpasswordreplicationpolicy.md)
+
 

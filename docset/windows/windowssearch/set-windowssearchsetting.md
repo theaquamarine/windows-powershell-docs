@@ -150,5 +150,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-WindowsSearchSetting](./Get-WindowsSearchSetting.md)
+[Get-WindowsSearchSetting](./get-windowssearchsetting.md)
+
 

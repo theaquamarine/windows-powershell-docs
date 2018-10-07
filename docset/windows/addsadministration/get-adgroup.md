@@ -501,9 +501,10 @@ To get a list of all the properties of an **ADGroup** object, use the following 
 
 ## RELATED LINKS
 
-[New-ADGroup](./New-ADGroup.md)
+[New-ADGroup](./new-adgroup.md)
 
-[Remove-ADGroup](./Remove-ADGroup.md)
+[Remove-ADGroup](./remove-adgroup.md)
 
-[Set-ADGroup](./Set-ADGroup.md)
+[Set-ADGroup](./set-adgroup.md)
+
 

@@ -24,412 +24,413 @@ ms.assetid: F917C6D6-16F8-447F-A187-B3D03F25D3CE
 This reference provides cmdlet descriptions and syntax for all Network Controller cmdlets.
 
 ## NetworkController Cmdlets
-### [Add-NetworkControllerNode](./Add-NetworkControllerNode.md)
+### [Add-NetworkControllerNode](./add-networkcontrollernode.md)
 Adds a network controller node to an existing network controller deployment.
 
-### [Clear-NetworkControllerNodeContent](./Clear-NetworkControllerNodeContent.md)
+### [Clear-NetworkControllerNodeContent](./clear-networkcontrollernodecontent.md)
 Clears Network Controller settings from a Network Controller node.
 
-### [Disable-NetworkControllerNode](./Disable-NetworkControllerNode.md)
+### [Disable-NetworkControllerNode](./disable-networkcontrollernode.md)
 Disables a network controller node for maintenance purposes.
 
-### [Enable-NetworkControllerNode](./Enable-NetworkControllerNode.md)
+### [Enable-NetworkControllerNode](./enable-networkcontrollernode.md)
 Enables a network controller node.
 
-### [Get-NetworkController](./Get-NetworkController.md)
+### [Get-NetworkController](./get-networkcontroller.md)
 Gets network controller application settings.
 
-### [Get-NetworkControllerAccessControlList](./Get-NetworkControllerAccessControlList.md)
+### [Get-NetworkControllerAccessControlList](./get-networkcontrolleraccesscontrollist.md)
 Gets the access control list for a network controller.
 
-### [Get-NetworkControllerAccessControlListRule](./Get-NetworkControllerAccessControlListRule.md)
+### [Get-NetworkControllerAccessControlListRule](./get-networkcontrolleraccesscontrollistrule.md)
 Gets the ACL rule for a network controller.
 
-### [Get-NetworkControllerCluster](./Get-NetworkControllerCluster.md)
+### [Get-NetworkControllerCluster](./get-networkcontrollercluster.md)
 Gets the network controller cluster settings.
 
-### [Get-NetworkControllerConnectivityCheck](./Get-NetworkControllerConnectivityCheck.md)
+### [Get-NetworkControllerConnectivityCheck](./get-networkcontrollerconnectivitycheck.md)
 
 
-### [Get-NetworkControllerConnectivityCheckResult](./Get-NetworkControllerConnectivityCheckResult.md)
+### [Get-NetworkControllerConnectivityCheckResult](./get-networkcontrollerconnectivitycheckresult.md)
 
 
-### [Get-NetworkControllerCredential](./Get-NetworkControllerCredential.md)
+### [Get-NetworkControllerCredential](./get-networkcontrollercredential.md)
 Retrieves a specified device credential or all device credentials from Network Controller.
 
-### [Get-NetworkControllerDiagnostic](./Get-NetworkControllerDiagnostic.md)
+### [Get-NetworkControllerDiagnostic](./get-networkcontrollerdiagnostic.md)
 Gets network controller diagnostic settings.
 
-### [Get-NetworkControllerFabricRoute](./Get-NetworkControllerFabricRoute.md)
+### [Get-NetworkControllerFabricRoute](./get-networkcontrollerfabricroute.md)
 Gets a network route or all the routes in a subnet in the Network Controller.
 
-### [Get-NetworkControllerGateway](./Get-NetworkControllerGateway.md)
+### [Get-NetworkControllerGateway](./get-networkcontrollergateway.md)
 Gets the configuration of one or more gateway virtual machines.
 
-### [Get-NetworkControllerGatewayPool](./Get-NetworkControllerGatewayPool.md)
+### [Get-NetworkControllerGatewayPool](./get-networkcontrollergatewaypool.md)
 Gets the configuration of one or more gateway pools.
 
-### [Get-NetworkControllerInternalResourceInstances](./Get-NetworkControllerInternalResourceInstances.md)
+### [Get-NetworkControllerInternalResourceInstances](./get-networkcontrollerinternalresourceinstances.md)
 
 
-### [Get-NetworkControllerIpPool](./Get-NetworkControllerIpPool.md)
+### [Get-NetworkControllerIpPool](./get-networkcontrollerippool.md)
 
 
-### [Get-NetworkControllerLoadBalancer](./Get-NetworkControllerLoadBalancer.md)
+### [Get-NetworkControllerLoadBalancer](./get-networkcontrollerloadbalancer.md)
 
 
-### [Get-NetworkControllerLoadBalancerBackendAddressPool](./Get-NetworkControllerLoadBalancerBackendAddressPool.md)
+### [Get-NetworkControllerLoadBalancerBackendAddressPool](./get-networkcontrollerloadbalancerbackendaddresspool.md)
 
 
-### [Get-NetworkControllerLoadBalancerConfiguration](./Get-NetworkControllerLoadBalancerConfiguration.md)
+### [Get-NetworkControllerLoadBalancerConfiguration](./get-networkcontrollerloadbalancerconfiguration.md)
 
 
-### [Get-NetworkControllerLoadBalancerFrontendIpConfiguration](./Get-NetworkControllerLoadBalancerFrontendIpConfiguration.md)
+### [Get-NetworkControllerLoadBalancerFrontendIpConfiguration](./get-networkcontrollerloadbalancerfrontendipconfiguration.md)
 
 
-### [Get-NetworkControllerLoadBalancerInboundNatRule](./Get-NetworkControllerLoadBalancerInboundNatRule.md)
+### [Get-NetworkControllerLoadBalancerInboundNatRule](./get-networkcontrollerloadbalancerinboundnatrule.md)
 
 
-### [Get-NetworkControllerLoadBalancerMux](./Get-NetworkControllerLoadBalancerMux.md)
+### [Get-NetworkControllerLoadBalancerMux](./get-networkcontrollerloadbalancermux.md)
 
 
-### [Get-NetworkControllerLoadBalancerOutboundNatRule](./Get-NetworkControllerLoadBalancerOutboundNatRule.md)
+### [Get-NetworkControllerLoadBalancerOutboundNatRule](./get-networkcontrollerloadbalanceroutboundnatrule.md)
 
 
-### [Get-NetworkControllerLoadBalancerProbe](./Get-NetworkControllerLoadBalancerProbe.md)
+### [Get-NetworkControllerLoadBalancerProbe](./get-networkcontrollerloadbalancerprobe.md)
 
 
-### [Get-NetworkControllerLoadBalancingRule](./Get-NetworkControllerLoadBalancingRule.md)
+### [Get-NetworkControllerLoadBalancingRule](./get-networkcontrollerloadbalancingrule.md)
 
 
-### [Get-NetworkControllerLogicalNetwork](./Get-NetworkControllerLogicalNetwork.md)
+### [Get-NetworkControllerLogicalNetwork](./get-networkcontrollerlogicalnetwork.md)
 Gets settings for a logical network in the Network Controller.
 
-### [Get-NetworkControllerLogicalSubnet](./Get-NetworkControllerLogicalSubnet.md)
+### [Get-NetworkControllerLogicalSubnet](./get-networkcontrollerlogicalsubnet.md)
 Gets settings of a logical subnet in the Network Controller.
 
-### [Get-NetworkControllerMacPool](./Get-NetworkControllerMacPool.md)
+### [Get-NetworkControllerMacPool](./get-networkcontrollermacpool.md)
 
 
-### [Get-NetworkControllerNetworkInterface](./Get-NetworkControllerNetworkInterface.md)
+### [Get-NetworkControllerNetworkInterface](./get-networkcontrollernetworkinterface.md)
 
 
-### [Get-NetworkControllerNetworkInterfaceIpConfiguration](./Get-NetworkControllerNetworkInterfaceIpConfiguration.md)
+### [Get-NetworkControllerNetworkInterfaceIpConfiguration](./get-networkcontrollernetworkinterfaceipconfiguration.md)
 
 
-### [Get-NetworkControllerNode](./Get-NetworkControllerNode.md)
+### [Get-NetworkControllerNode](./get-networkcontrollernode.md)
 Gets the network controller node settings.
 
-### [Get-NetworkControllerPublicIpAddress](./Get-NetworkControllerPublicIpAddress.md)
+### [Get-NetworkControllerPublicIpAddress](./get-networkcontrollerpublicipaddress.md)
 
 
-### [Get-NetworkControllerRoute](./Get-NetworkControllerRoute.md)
+### [Get-NetworkControllerRoute](./get-networkcontrollerroute.md)
 
 
-### [Get-NetworkControllerRouteTable](./Get-NetworkControllerRouteTable.md)
+### [Get-NetworkControllerRouteTable](./get-networkcontrollerroutetable.md)
 
 
-### [Get-NetworkControllerServer](./Get-NetworkControllerServer.md)
+### [Get-NetworkControllerServer](./get-networkcontrollerserver.md)
 Gets configuration of a physical host from the Network Controller.
 
-### [Get-NetworkControllerServerInterface](./Get-NetworkControllerServerInterface.md)
+### [Get-NetworkControllerServerInterface](./get-networkcontrollerserverinterface.md)
 Gets settings of physical network interfaces from the Network Controller.
 
-### [Get-NetworkControllerServiceInsertion](./Get-NetworkControllerServiceInsertion.md)
+### [Get-NetworkControllerServiceInsertion](./get-networkcontrollerserviceinsertion.md)
 
 
-### [Get-NetworkControllerState](./Get-NetworkControllerState.md)
+### [Get-NetworkControllerState](./get-networkcontrollerstate.md)
 
 
-### [Get-NetworkControllerStatistics](./Get-NetworkControllerStatistics.md)
+### [Get-NetworkControllerStatistics](./get-networkcontrollerstatistics.md)
 
 
-### [Get-NetworkControllerVirtualGateway](./Get-NetworkControllerVirtualGateway.md)
+### [Get-NetworkControllerVirtualGateway](./get-networkcontrollervirtualgateway.md)
 Gets the configuration of one or more virtual gateways.
 
-### [Get-NetworkControllerVirtualGatewayBgpPeer](./Get-NetworkControllerVirtualGatewayBgpPeer.md)
+### [Get-NetworkControllerVirtualGatewayBgpPeer](./get-networkcontrollervirtualgatewaybgppeer.md)
 Gets a BGP peer.
 
-### [Get-NetworkControllerVirtualGatewayBgpRouter](./Get-NetworkControllerVirtualGatewayBgpRouter.md)
+### [Get-NetworkControllerVirtualGatewayBgpRouter](./get-networkcontrollervirtualgatewaybgprouter.md)
 Gets a BGP router.
 
-### [Get-NetworkControllerVirtualGatewayNetworkConnection](./Get-NetworkControllerVirtualGatewayNetworkConnection.md)
+### [Get-NetworkControllerVirtualGatewayNetworkConnection](./get-networkcontrollervirtualgatewaynetworkconnection.md)
 Gets a virtual gateway network connection.
 
-### [Get-NetworkControllerVirtualGatewayPolicyMap](./Get-NetworkControllerVirtualGatewayPolicyMap.md)
+### [Get-NetworkControllerVirtualGatewayPolicyMap](./get-networkcontrollervirtualgatewaypolicymap.md)
 Gets a BGP routing policy map.
 
-### [Get-NetworkControllerVirtualNetwork](./Get-NetworkControllerVirtualNetwork.md)
+### [Get-NetworkControllerVirtualNetwork](./get-networkcontrollervirtualnetwork.md)
 
 
-### [Get-NetworkControllerVirtualNetworkConfiguration](./Get-NetworkControllerVirtualNetworkConfiguration.md)
+### [Get-NetworkControllerVirtualNetworkConfiguration](./get-networkcontrollervirtualnetworkconfiguration.md)
 
 
-### [Get-NetworkControllerVirtualServer](./Get-NetworkControllerVirtualServer.md)
+### [Get-NetworkControllerVirtualServer](./get-networkcontrollervirtualserver.md)
 
 
-### [Get-NetworkControllerVirtualSubnet](./Get-NetworkControllerVirtualSubnet.md)
+### [Get-NetworkControllerVirtualSubnet](./get-networkcontrollervirtualsubnet.md)
 
 
-### [Get-NetworkControllerVirtualSwitchConfiguration](./Get-NetworkControllerVirtualSwitchConfiguration.md)
+### [Get-NetworkControllerVirtualSwitchConfiguration](./get-networkcontrollervirtualswitchconfiguration.md)
 
 
-### [Install-NetworkController](./Install-NetworkController.md)
+### [Install-NetworkController](./install-networkcontroller.md)
 Creates a network controller application on top of the network controller cluster.
 
-### [Install-NetworkControllerCluster](./Install-NetworkControllerCluster.md)
+### [Install-NetworkControllerCluster](./install-networkcontrollercluster.md)
 Creates a Network Controller cluster.
 
-### [Invoke-NetworkControllerConnectivityCheck](./Invoke-NetworkControllerConnectivityCheck.md)
+### [Invoke-NetworkControllerConnectivityCheck](./invoke-networkcontrollerconnectivitycheck.md)
 
 
-### [Invoke-NetworkControllerState](./Invoke-NetworkControllerState.md)
+### [Invoke-NetworkControllerState](./invoke-networkcontrollerstate.md)
 
 
-### [New-NetworkControllerAccessControlList](./New-NetworkControllerAccessControlList.md)
+### [New-NetworkControllerAccessControlList](./new-networkcontrolleraccesscontrollist.md)
 Creates an ACL for a Network Controller.
 
-### [New-NetworkControllerAccessControlListRule](./New-NetworkControllerAccessControlListRule.md)
+### [New-NetworkControllerAccessControlListRule](./new-networkcontrolleraccesscontrollistrule.md)
 Creates a rule for an ACL.
 
-### [New-NetworkControllerCredential](./New-NetworkControllerCredential.md)
+### [New-NetworkControllerCredential](./new-networkcontrollercredential.md)
 Adds or modifies a device credential in Network Controller.
 
-### [New-NetworkControllerFabricRoute](./New-NetworkControllerFabricRoute.md)
+### [New-NetworkControllerFabricRoute](./new-networkcontrollerfabricroute.md)
 Adds a route to a network subnet in the Network Controller
 
-### [New-NetworkControllerGateway](./New-NetworkControllerGateway.md)
+### [New-NetworkControllerGateway](./new-networkcontrollergateway.md)
 Creates a gateway virtual machine.
 
-### [New-NetworkControllerGatewayPool](./New-NetworkControllerGatewayPool.md)
+### [New-NetworkControllerGatewayPool](./new-networkcontrollergatewaypool.md)
 Creates a gateway pool.
 
-### [New-NetworkControllerIpPool](./New-NetworkControllerIpPool.md)
+### [New-NetworkControllerIpPool](./new-networkcontrollerippool.md)
 
 
-### [New-NetworkControllerLoadBalancer](./New-NetworkControllerLoadBalancer.md)
+### [New-NetworkControllerLoadBalancer](./new-networkcontrollerloadbalancer.md)
 
 
-### [New-NetworkControllerLoadBalancerBackendAddressPool](./New-NetworkControllerLoadBalancerBackendAddressPool.md)
+### [New-NetworkControllerLoadBalancerBackendAddressPool](./new-networkcontrollerloadbalancerbackendaddresspool.md)
 
 
-### [New-NetworkControllerLoadBalancerConfiguration](./New-NetworkControllerLoadBalancerConfiguration.md)
+### [New-NetworkControllerLoadBalancerConfiguration](./new-networkcontrollerloadbalancerconfiguration.md)
 
 
-### [New-NetworkControllerLoadBalancerFrontendIpConfiguration](./New-NetworkControllerLoadBalancerFrontendIpConfiguration.md)
+### [New-NetworkControllerLoadBalancerFrontendIpConfiguration](./new-networkcontrollerloadbalancerfrontendipconfiguration.md)
 
 
-### [New-NetworkControllerLoadBalancerInboundNatRule](./New-NetworkControllerLoadBalancerInboundNatRule.md)
+### [New-NetworkControllerLoadBalancerInboundNatRule](./new-networkcontrollerloadbalancerinboundnatrule.md)
 
 
-### [New-NetworkControllerLoadBalancerMux](./New-NetworkControllerLoadBalancerMux.md)
+### [New-NetworkControllerLoadBalancerMux](./new-networkcontrollerloadbalancermux.md)
 
 
-### [New-NetworkControllerLoadBalancerOutboundNatRule](./New-NetworkControllerLoadBalancerOutboundNatRule.md)
+### [New-NetworkControllerLoadBalancerOutboundNatRule](./new-networkcontrollerloadbalanceroutboundnatrule.md)
 
 
-### [New-NetworkControllerLoadBalancerProbe](./New-NetworkControllerLoadBalancerProbe.md)
+### [New-NetworkControllerLoadBalancerProbe](./new-networkcontrollerloadbalancerprobe.md)
 
 
-### [New-NetworkControllerLoadBalancingRule](./New-NetworkControllerLoadBalancingRule.md)
+### [New-NetworkControllerLoadBalancingRule](./new-networkcontrollerloadbalancingrule.md)
 
 
-### [New-NetworkControllerLogicalNetwork](./New-NetworkControllerLogicalNetwork.md)
+### [New-NetworkControllerLogicalNetwork](./new-networkcontrollerlogicalnetwork.md)
 Adds or updates a logical network in Network Controller.
 
-### [New-NetworkControllerLogicalSubnet](./New-NetworkControllerLogicalSubnet.md)
+### [New-NetworkControllerLogicalSubnet](./new-networkcontrollerlogicalsubnet.md)
 Adds or updates a logical subnet in the Network Controller.
 
-### [New-NetworkControllerMacPool](./New-NetworkControllerMacPool.md)
+### [New-NetworkControllerMacPool](./new-networkcontrollermacpool.md)
 
 
-### [New-NetworkControllerNetworkInterface](./New-NetworkControllerNetworkInterface.md)
+### [New-NetworkControllerNetworkInterface](./new-networkcontrollernetworkinterface.md)
 
 
-### [New-NetworkControllerNetworkInterfaceIpConfiguration](./New-NetworkControllerNetworkInterfaceIpConfiguration.md)
+### [New-NetworkControllerNetworkInterfaceIpConfiguration](./new-networkcontrollernetworkinterfaceipconfiguration.md)
 
 
-### [New-NetworkControllerNodeObject](./New-NetworkControllerNodeObject.md)
+### [New-NetworkControllerNodeObject](./new-networkcontrollernodeobject.md)
 Creates a network controller node object.
 
-### [New-NetworkControllerPublicIpAddress](./New-NetworkControllerPublicIpAddress.md)
+### [New-NetworkControllerPublicIpAddress](./new-networkcontrollerpublicipaddress.md)
 
 
-### [New-NetworkControllerRoute](./New-NetworkControllerRoute.md)
+### [New-NetworkControllerRoute](./new-networkcontrollerroute.md)
 
 
-### [New-NetworkControllerRouteTable](./New-NetworkControllerRouteTable.md)
+### [New-NetworkControllerRouteTable](./new-networkcontrollerroutetable.md)
 
 
-### [New-NetworkControllerServer](./New-NetworkControllerServer.md)
+### [New-NetworkControllerServer](./new-networkcontrollerserver.md)
 Creates or Updates a server resource in the Network Controller
 
-### [New-NetworkControllerServerInterface](./New-NetworkControllerServerInterface.md)
+### [New-NetworkControllerServerInterface](./new-networkcontrollerserverinterface.md)
 Creates or updates a physical network interface resource in the Network Controller.
 
-### [New-NetworkControllerServiceInsertion](./New-NetworkControllerServiceInsertion.md)
+### [New-NetworkControllerServiceInsertion](./new-networkcontrollerserviceinsertion.md)
 
 
-### [New-NetworkControllerVirtualGateway](./New-NetworkControllerVirtualGateway.md)
+### [New-NetworkControllerVirtualGateway](./new-networkcontrollervirtualgateway.md)
 Creates a virtual gateway.
 
-### [New-NetworkControllerVirtualGatewayBgpPeer](./New-NetworkControllerVirtualGatewayBgpPeer.md)
+### [New-NetworkControllerVirtualGatewayBgpPeer](./new-networkcontrollervirtualgatewaybgppeer.md)
 Creates a BGP peer.
 
-### [New-NetworkControllerVirtualGatewayBgpRouter](./New-NetworkControllerVirtualGatewayBgpRouter.md)
+### [New-NetworkControllerVirtualGatewayBgpRouter](./new-networkcontrollervirtualgatewaybgprouter.md)
 Creates a BGP router.
 
-### [New-NetworkControllerVirtualGatewayNetworkConnection](./New-NetworkControllerVirtualGatewayNetworkConnection.md)
+### [New-NetworkControllerVirtualGatewayNetworkConnection](./new-networkcontrollervirtualgatewaynetworkconnection.md)
 Creates a virtual gateway network connection.
 
-### [New-NetworkControllerVirtualGatewayPolicyMap](./New-NetworkControllerVirtualGatewayPolicyMap.md)
+### [New-NetworkControllerVirtualGatewayPolicyMap](./new-networkcontrollervirtualgatewaypolicymap.md)
 Creates a BGP routing policy map.
 
-### [New-NetworkControllerVirtualNetwork](./New-NetworkControllerVirtualNetwork.md)
+### [New-NetworkControllerVirtualNetwork](./new-networkcontrollervirtualnetwork.md)
 
 
-### [New-NetworkControllerVirtualServer](./New-NetworkControllerVirtualServer.md)
+### [New-NetworkControllerVirtualServer](./new-networkcontrollervirtualserver.md)
 
 
-### [New-NetworkControllerVirtualSubnet](./New-NetworkControllerVirtualSubnet.md)
+### [New-NetworkControllerVirtualSubnet](./new-networkcontrollervirtualsubnet.md)
 
 
-### [Remove-NetworkControllerAccessControlList](./Remove-NetworkControllerAccessControlList.md)
+### [Remove-NetworkControllerAccessControlList](./remove-networkcontrolleraccesscontrollist.md)
 
 
-### [Remove-NetworkControllerAccessControlListRule](./Remove-NetworkControllerAccessControlListRule.md)
+### [Remove-NetworkControllerAccessControlListRule](./remove-networkcontrolleraccesscontrollistrule.md)
 
 
-### [Remove-NetworkControllerCredential](./Remove-NetworkControllerCredential.md)
+### [Remove-NetworkControllerCredential](./remove-networkcontrollercredential.md)
 Deletes a specified device credential from the Network Controller.
 
-### [Remove-NetworkControllerFabricRoute](./Remove-NetworkControllerFabricRoute.md)
+### [Remove-NetworkControllerFabricRoute](./remove-networkcontrollerfabricroute.md)
 Removes a network route from the Network Controller.
 
-### [Remove-NetworkControllerGateway](./Remove-NetworkControllerGateway.md)
+### [Remove-NetworkControllerGateway](./remove-networkcontrollergateway.md)
 Removes the gateway virtual machine configuration from a tenant.
 
-### [Remove-NetworkControllerGatewayPool](./Remove-NetworkControllerGatewayPool.md)
+### [Remove-NetworkControllerGatewayPool](./remove-networkcontrollergatewaypool.md)
 Removes a gateway pool.
 
-### [Remove-NetworkControllerIpPool](./Remove-NetworkControllerIpPool.md)
+### [Remove-NetworkControllerIpPool](./remove-networkcontrollerippool.md)
 
 
-### [Remove-NetworkControllerLoadBalancer](./Remove-NetworkControllerLoadBalancer.md)
+### [Remove-NetworkControllerLoadBalancer](./remove-networkcontrollerloadbalancer.md)
 
 
-### [Remove-NetworkControllerLoadBalancerBackendAddressPool](./Remove-NetworkControllerLoadBalancerBackendAddressPool.md)
+### [Remove-NetworkControllerLoadBalancerBackendAddressPool](./remove-networkcontrollerloadbalancerbackendaddresspool.md)
 
 
-### [Remove-NetworkControllerLoadBalancerConfiguration](./Remove-NetworkControllerLoadBalancerConfiguration.md)
+### [Remove-NetworkControllerLoadBalancerConfiguration](./remove-networkcontrollerloadbalancerconfiguration.md)
 
 
-### [Remove-NetworkControllerLoadBalancerFrontendIpConfiguration](./Remove-NetworkControllerLoadBalancerFrontendIpConfiguration.md)
+### [Remove-NetworkControllerLoadBalancerFrontendIpConfiguration](./remove-networkcontrollerloadbalancerfrontendipconfiguration.md)
 
 
-### [Remove-NetworkControllerLoadBalancerInboundNatRule](./Remove-NetworkControllerLoadBalancerInboundNatRule.md)
+### [Remove-NetworkControllerLoadBalancerInboundNatRule](./remove-networkcontrollerloadbalancerinboundnatrule.md)
 
 
-### [Remove-NetworkControllerLoadBalancerMux](./Remove-NetworkControllerLoadBalancerMux.md)
+### [Remove-NetworkControllerLoadBalancerMux](./remove-networkcontrollerloadbalancermux.md)
 
 
-### [Remove-NetworkControllerLoadBalancerOutboundNatRule](./Remove-NetworkControllerLoadBalancerOutboundNatRule.md)
+### [Remove-NetworkControllerLoadBalancerOutboundNatRule](./remove-networkcontrollerloadbalanceroutboundnatrule.md)
 
 
-### [Remove-NetworkControllerLoadBalancerProbe](./Remove-NetworkControllerLoadBalancerProbe.md)
+### [Remove-NetworkControllerLoadBalancerProbe](./remove-networkcontrollerloadbalancerprobe.md)
 
 
-### [Remove-NetworkControllerLoadBalancingRule](./Remove-NetworkControllerLoadBalancingRule.md)
+### [Remove-NetworkControllerLoadBalancingRule](./remove-networkcontrollerloadbalancingrule.md)
 
 
-### [Remove-NetworkControllerLogicalNetwork](./Remove-NetworkControllerLogicalNetwork.md)
+### [Remove-NetworkControllerLogicalNetwork](./remove-networkcontrollerlogicalnetwork.md)
 Removes a logical network from the Network Controller.
 
-### [Remove-NetworkControllerLogicalSubnet](./Remove-NetworkControllerLogicalSubnet.md)
+### [Remove-NetworkControllerLogicalSubnet](./remove-networkcontrollerlogicalsubnet.md)
 Removes a logical subnet from the Network Controller.
 
-### [Remove-NetworkControllerMacPool](./Remove-NetworkControllerMacPool.md)
+### [Remove-NetworkControllerMacPool](./remove-networkcontrollermacpool.md)
 
 
-### [Remove-NetworkControllerNetworkInterface](./Remove-NetworkControllerNetworkInterface.md)
+### [Remove-NetworkControllerNetworkInterface](./remove-networkcontrollernetworkinterface.md)
 
 
-### [Remove-NetworkControllerNetworkInterfaceIpConfiguration](./Remove-NetworkControllerNetworkInterfaceIpConfiguration.md)
+### [Remove-NetworkControllerNetworkInterfaceIpConfiguration](./remove-networkcontrollernetworkinterfaceipconfiguration.md)
 
 
-### [Remove-NetworkControllerNode](./Remove-NetworkControllerNode.md)
+### [Remove-NetworkControllerNode](./remove-networkcontrollernode.md)
 Removes a node from the network controller deployment.
 
-### [Remove-NetworkControllerPublicIpAddress](./Remove-NetworkControllerPublicIpAddress.md)
+### [Remove-NetworkControllerPublicIpAddress](./remove-networkcontrollerpublicipaddress.md)
 
 
-### [Remove-NetworkControllerRoute](./Remove-NetworkControllerRoute.md)
+### [Remove-NetworkControllerRoute](./remove-networkcontrollerroute.md)
 
 
-### [Remove-NetworkControllerRouteTable](./Remove-NetworkControllerRouteTable.md)
+### [Remove-NetworkControllerRouteTable](./remove-networkcontrollerroutetable.md)
 
 
-### [Remove-NetworkControllerServer](./Remove-NetworkControllerServer.md)
+### [Remove-NetworkControllerServer](./remove-networkcontrollerserver.md)
 Removes a server resource from the Network Controller.
 
-### [Remove-NetworkControllerServerInterface](./Remove-NetworkControllerServerInterface.md)
+### [Remove-NetworkControllerServerInterface](./remove-networkcontrollerserverinterface.md)
 Removes a network interface resource from the Network Controller.
 
-### [Remove-NetworkControllerServiceInsertion](./Remove-NetworkControllerServiceInsertion.md)
+### [Remove-NetworkControllerServiceInsertion](./remove-networkcontrollerserviceinsertion.md)
 
 
-### [Remove-NetworkControllerVirtualGateway](./Remove-NetworkControllerVirtualGateway.md)
+### [Remove-NetworkControllerVirtualGateway](./remove-networkcontrollervirtualgateway.md)
 Removes a virtual gateway.
 
-### [Remove-NetworkControllerVirtualGatewayBgpPeer](./Remove-NetworkControllerVirtualGatewayBgpPeer.md)
+### [Remove-NetworkControllerVirtualGatewayBgpPeer](./remove-networkcontrollervirtualgatewaybgppeer.md)
 Removes a BGP peer.
 
-### [Remove-NetworkControllerVirtualGatewayBgpRouter](./Remove-NetworkControllerVirtualGatewayBgpRouter.md)
+### [Remove-NetworkControllerVirtualGatewayBgpRouter](./remove-networkcontrollervirtualgatewaybgprouter.md)
 Removes a BGP router.
 
-### [Remove-NetworkControllerVirtualGatewayNetworkConnection](./Remove-NetworkControllerVirtualGatewayNetworkConnection.md)
+### [Remove-NetworkControllerVirtualGatewayNetworkConnection](./remove-networkcontrollervirtualgatewaynetworkconnection.md)
 Removes a virtual gateway network connection.
 
-### [Remove-NetworkControllerVirtualGatewayPolicyMap](./Remove-NetworkControllerVirtualGatewayPolicyMap.md)
+### [Remove-NetworkControllerVirtualGatewayPolicyMap](./remove-networkcontrollervirtualgatewaypolicymap.md)
 Removes a BGP routing policy map.
 
-### [Remove-NetworkControllerVirtualNetwork](./Remove-NetworkControllerVirtualNetwork.md)
+### [Remove-NetworkControllerVirtualNetwork](./remove-networkcontrollervirtualnetwork.md)
 
 
-### [Remove-NetworkControllerVirtualServer](./Remove-NetworkControllerVirtualServer.md)
+### [Remove-NetworkControllerVirtualServer](./remove-networkcontrollervirtualserver.md)
 
 
-### [Remove-NetworkControllerVirtualSubnet](./Remove-NetworkControllerVirtualSubnet.md)
+### [Remove-NetworkControllerVirtualSubnet](./remove-networkcontrollervirtualsubnet.md)
 
 
-### [Repair-NetworkControllerCluster](./Repair-NetworkControllerCluster.md)
+### [Repair-NetworkControllerCluster](./repair-networkcontrollercluster.md)
 Repairs the network controller to bring it out of quorum loss.
 
-### [Set-NetworkController](./Set-NetworkController.md)
+### [Set-NetworkController](./set-networkcontroller.md)
 Sets network controller application settings.
 
-### [Set-NetworkControllerCluster](./Set-NetworkControllerCluster.md)
+### [Set-NetworkControllerCluster](./set-networkcontrollercluster.md)
 Sets a network controller cluster.
 
-### [Set-NetworkControllerDiagnostic](./Set-NetworkControllerDiagnostic.md)
+### [Set-NetworkControllerDiagnostic](./set-networkcontrollerdiagnostic.md)
 Changes diagnostic settings for the Network Controller.
 
-### [Set-NetworkControllerNode](./Set-NetworkControllerNode.md)
+### [Set-NetworkControllerNode](./set-networkcontrollernode.md)
 Sets a node in a network controller cluster.
 
-### [Set-NetworkControllerVirtualNetworkConfiguration](./Set-NetworkControllerVirtualNetworkConfiguration.md)
+### [Set-NetworkControllerVirtualNetworkConfiguration](./set-networkcontrollervirtualnetworkconfiguration.md)
 
 
-### [Set-NetworkControllerVirtualSwitchConfiguration](./Set-NetworkControllerVirtualSwitchConfiguration.md)
+### [Set-NetworkControllerVirtualSwitchConfiguration](./set-networkcontrollervirtualswitchconfiguration.md)
 
 
-### [Uninstall-NetworkController](./Uninstall-NetworkController.md)
+### [Uninstall-NetworkController](./uninstall-networkcontroller.md)
 Removes the network controller application deployed on a network controller cluster.
 
-### [Uninstall-NetworkControllerCluster](./Uninstall-NetworkControllerCluster.md)
+### [Uninstall-NetworkControllerCluster](./uninstall-networkcontrollercluster.md)
 Uninstalls the network controller cluster.
 
-### [Update-NetworkController](./Update-NetworkController.md)
+### [Update-NetworkController](./update-networkcontroller.md)
 Updates the Network Controller binaries.
+
 
 

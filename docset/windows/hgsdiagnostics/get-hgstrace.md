@@ -230,7 +230,8 @@ These results are grouped by target and category with each group possessing an a
 
 ## RELATED LINKS
 
-[Get-HgsTraceFileData](./Get-HgsTraceFileData.md)
+[Get-HgsTraceFileData](./get-hgstracefiledata.md)
 
-[New-HgsTraceTarget](./New-HgsTraceTarget.md)
+[New-HgsTraceTarget](./new-hgstracetarget.md)
+
 

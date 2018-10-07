@@ -52,7 +52,7 @@ PS C:\> $Policy = Get-WBPolicy
 PS C:\> Remove-WBPolicy -Policy $Policy
 ```
 
-This command store the result of the [Get-WBPolicy](./Get-WBPolicy.md) cmdlet in the variable named $Policy, then removes the **WBPolicy** object, which disables all scheduled backups on the system.
+This command store the result of the [Get-WBPolicy](./get-wbpolicy.md) cmdlet in the variable named $Policy, then removes the **WBPolicy** object, which disables all scheduled backups on the system.
 
 ## PARAMETERS
 
@@ -151,9 +151,10 @@ This cmdlet specifies the **WBPolicy** object to remove.
 
 ## RELATED LINKS
 
-[Get-WBPolicy](./Get-WBPolicy.md)
+[Get-WBPolicy](./get-wbpolicy.md)
 
-[New-WBPolicy](./New-WBPolicy.md)
+[New-WBPolicy](./new-wbpolicy.md)
 
-[Set-WBPolicy](./Set-WBPolicy.md)
+[Set-WBPolicy](./set-wbpolicy.md)
+
 

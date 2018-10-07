@@ -206,7 +206,8 @@ This cmdlet does not generate any output.
 
 ## RELATED LINKS
 
-[Get-GPO](./Get-GPO.md)
+[Get-GPO](./get-gpo.md)
 
-[New-GPO](./New-GPO.md)
+[New-GPO](./new-gpo.md)
+
 

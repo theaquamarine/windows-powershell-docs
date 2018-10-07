@@ -90,19 +90,20 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-NfsMappedIdentity](./Get-NfsMappedIdentity.md)
+[Get-NfsMappedIdentity](./get-nfsmappedidentity.md)
 
-[New-NfsMappedIdentity](./New-NfsMappedIdentity.md)
+[New-NfsMappedIdentity](./new-nfsmappedidentity.md)
 
-[Remove-NfsMappedIdentity](./Remove-NfsMappedIdentity.md)
+[Remove-NfsMappedIdentity](./remove-nfsmappedidentity.md)
 
-[Resolve-NfsMappedIdentity](./Resolve-NfsMappedIdentity.md)
+[Resolve-NfsMappedIdentity](./resolve-nfsmappedidentity.md)
 
-[Set-NfsMappedIdentity](./Set-NfsMappedIdentity.md)
+[Set-NfsMappedIdentity](./set-nfsmappedidentity.md)
 
-[Set-NfsMappingStore](./Set-NfsMappingStore.md)
+[Set-NfsMappingStore](./set-nfsmappingstore.md)
 
-[Test-NfsMappingStore](./Test-NfsMappingStore.md)
+[Test-NfsMappingStore](./test-nfsmappingstore.md)
 
-[Test-NfsMappedIdentity](./Test-NfsMappedIdentity.md)
+[Test-NfsMappedIdentity](./test-nfsmappedidentity.md)
+
 

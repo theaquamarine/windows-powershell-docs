@@ -241,7 +241,8 @@ This cmdlet returns a **VMSwitch** object, if you specify the **Passthru** param
 
 ## RELATED LINKS
 
-[Remove-VMSwitchTeamMember](./Remove-VMSwitchTeamMember.md)
+[Remove-VMSwitchTeamMember](./remove-vmswitchteammember.md)
 
-[Get-VMSwitch](./Get-VMSwitch.md)
+[Get-VMSwitch](./get-vmswitch.md)
+
 

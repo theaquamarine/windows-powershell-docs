@@ -188,7 +188,9 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-WindowsEdition](./Get-WindowsEdition.md)
+[Get-WindowsEdition](./get-windowsedition.md)
 
-[Set-WindowsEdition](./Set-WindowsEdition.md)
+[Set-WindowsEdition](./set-windowsedition.md)
+
+
 

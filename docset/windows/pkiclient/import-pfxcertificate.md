@@ -33,7 +33,7 @@ Import-PfxCertificate [-Exportable] [-Password <SecureString>] [[-CertStoreLocat
 The **Import-PfxCertificate** cmdlet imports certificates and private keys from a PFX file to the destination store.
 Certificates with and without private keys in the PFX file are imported, along with any external properties that are present.
 
-Delegation may be required when using this cmdlet with Windows PowerShell® remoting and changing user configuration.
+Delegation may be required when using this cmdlet with Windows PowerShell?? remoting and changing user configuration.
 
 ## EXAMPLES
 
@@ -67,7 +67,7 @@ PS C:\>Import-PfxCertificate -FilePath c:\mypfx.pfx
 
 This example imports the PFX file mypfx.pfx into the My store for the machine account.
 The **Password** parameter is not required since this PFX file is protected using the domain account of this machine.
-This requires a Windows Server® 2012 domain controller.
+This requires a Windows Server?? 2012 domain controller.
 
 ## PARAMETERS
 
@@ -187,5 +187,6 @@ The imported **X509Certificate2** object contained in the PFX file that is assoc
 
 [Set-Location](http://go.microsoft.com/fwlink/p/?LinkID=293912)
 
-[Export-PfxCertificate](./Export-PfxCertificate.md)
+[Export-PfxCertificate](./export-pfxcertificate.md)
+
 

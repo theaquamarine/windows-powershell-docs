@@ -301,5 +301,6 @@ If a value larger than 3600 is specified, 3600 seconds is used as the maximum co
 
 ## RELATED LINKS
 
-[Receive-SmigServerData](./Receive-SmigServerData.md)
+[Receive-SmigServerData](./receive-smigserverdata.md)
+
 

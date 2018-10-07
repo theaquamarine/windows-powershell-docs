@@ -24,145 +24,146 @@ ms.assetid: D33BD27F-8640-4BC3-85AA-C34123FD506B
 The MultiPoint cmdlets in this module are used to manage Windows MultiPoint Server sessions and users.
 
 ## MultiPoint Cmdlets
-### [Add-WmsSystem](./Add-WmsSystem.md)
+### [Add-WmsSystem](./add-wmssystem.md)
 Adds a computer that can be remotely managed.
 
-### [Clear-WmsStation](./Clear-WmsStation.md)
+### [Clear-WmsStation](./clear-wmsstation.md)
 Clears station mapping information for all stations.
 
-### [Close-WmsApp](./Close-WmsApp.md)
+### [Close-WmsApp](./close-wmsapp.md)
 Closes an application.
 
-### [Close-WmsSession](./Close-WmsSession.md)
+### [Close-WmsSession](./close-wmssession.md)
 Logs the user off of the specified session.
 
-### [Disable-WmsDiskProtection](./Disable-WmsDiskProtection.md)
+### [Disable-WmsDiskProtection](./disable-wmsdiskprotection.md)
 Removes the disk protection driver from the filter stack.
 
-### [Disable-WmsScheduledUpdate](./Disable-WmsScheduledUpdate.md)
+### [Disable-WmsScheduledUpdate](./disable-wmsscheduledupdate.md)
 Disables scheduled updates while disk protection is enabled and in discard mode.
 
-### [Disable-WmsWebLimiting](./Disable-WmsWebLimiting.md)
+### [Disable-WmsWebLimiting](./disable-wmsweblimiting.md)
 Disables web limiting for a session.
 
-### [Disconnect-WmsSession](./Disconnect-WmsSession.md)
+### [Disconnect-WmsSession](./disconnect-wmssession.md)
 Disconnects a session.
 
-### [Enable-WmsDiskProtection](./Enable-WmsDiskProtection.md)
+### [Enable-WmsDiskProtection](./enable-wmsdiskprotection.md)
 Enables disk protection.
 
-### [Enable-WmsScheduledUpdate](./Enable-WmsScheduledUpdate.md)
+### [Enable-WmsScheduledUpdate](./enable-wmsscheduledupdate.md)
 Enables scheduled updates while disk protection is enabled and in discard mode.
 
-### [Enable-WmsWebLimiting](./Enable-WmsWebLimiting.md)
+### [Enable-WmsWebLimiting](./enable-wmsweblimiting.md)
 Enables web limiting for a session.
 
-### [Get-WmsAlert](./Get-WmsAlert.md)
+### [Get-WmsAlert](./get-wmsalert.md)
 Gets alert information.
 
-### [Get-WmsApp](./Get-WmsApp.md)
+### [Get-WmsApp](./get-wmsapp.md)
 Gets a collection of currently running applications in a session.
 
-### [Get-WmsDiskProtection](./Get-WmsDiskProtection.md)
+### [Get-WmsDiskProtection](./get-wmsdiskprotection.md)
 Gets the current state and configuration of the disk protection feature.
 
-### [Get-WmsScheduledUpdate](./Get-WmsScheduledUpdate.md)
+### [Get-WmsScheduledUpdate](./get-wmsscheduledupdate.md)
 Gets the scheduled update configuration.
 
-### [Get-WmsSession](./Get-WmsSession.md)
+### [Get-WmsSession](./get-wmssession.md)
 Gets session information.
 
-### [Get-WmsStation](./Get-WmsStation.md)
+### [Get-WmsStation](./get-wmsstation.md)
 Gets station information.
 
-### [Get-WmsSystem](./Get-WmsSystem.md)
+### [Get-WmsSystem](./get-wmssystem.md)
 Gets MultiPoint Server system information.
 
-### [Get-WmsUser](./Get-WmsUser.md)
+### [Get-WmsUser](./get-wmsuser.md)
 Gets local user account information.
 
-### [Get-WmsVersion](./Get-WmsVersion.md)
+### [Get-WmsVersion](./get-wmsversion.md)
 Gets the server version, the Connector version, and the SKU.
 
-### [Get-WmsWebLimiting](./Get-WmsWebLimiting.md)
+### [Get-WmsWebLimiting](./get-wmsweblimiting.md)
 Gets the web limiting configuration.
 
-### [Hide-WmsIdentifier](./Hide-WmsIdentifier.md)
+### [Hide-WmsIdentifier](./hide-wmsidentifier.md)
 Hides the identification window for a station or session.
 
-### [Join-WmsStation](./Join-WmsStation.md)
+### [Join-WmsStation](./join-wmsstation.md)
 Unsplits a station.
 
-### [Lock-WmsSession](./Lock-WmsSession.md)
+### [Lock-WmsSession](./lock-wmssession.md)
 Locks a session for a user.
 
-### [Lock-WmsUsbStorage](./Lock-WmsUsbStorage.md)
+### [Lock-WmsUsbStorage](./lock-wmsusbstorage.md)
 Prevents USB storage devices from being used.
 
-### [New-WmsUser](./New-WmsUser.md)
+### [New-WmsUser](./new-wmsuser.md)
 Modifies a Windows MultiPoint Server user account.
 
-### [Open-WmsApp](./Open-WmsApp.md)
+### [Open-WmsApp](./open-wmsapp.md)
 Launches an application in a session.
 
-### [Publish-WmsDesktop](./Publish-WmsDesktop.md)
+### [Publish-WmsDesktop](./publish-wmsdesktop.md)
 Shares a desktop and optionally allows remote control of the desktop.
 
-### [Remove-WmsSystem](./Remove-WmsSystem.md)
+### [Remove-WmsSystem](./remove-wmssystem.md)
 Removes a computer from the list of managed systems.
 
-### [Remove-WmsUser](./Remove-WmsUser.md)
+### [Remove-WmsUser](./remove-wmsuser.md)
 Removes a local user from the current MultiPoint Server system.
 
-### [Restart-WmsSystem](./Restart-WmsSystem.md)
+### [Restart-WmsSystem](./restart-wmssystem.md)
 Restarts a computer that is running MultiPoint Server.
 
-### [Resume-WmsDiskProtection](./Resume-WmsDiskProtection.md)
+### [Resume-WmsDiskProtection](./resume-wmsdiskprotection.md)
 Switches disk protection to discard mode.
 
-### [Search-WmsSystem](./Search-WmsSystem.md)
+### [Search-WmsSystem](./search-wmssystem.md)
 Gets MultiPoint servers or personal computers running MultiPoint Connector in the same network.
 
-### [Set-WmsScheduledUpdate](./Set-WmsScheduledUpdate.md)
+### [Set-WmsScheduledUpdate](./set-wmsscheduledupdate.md)
 Sets the schedule for Windows updates and custom maintenance scripts.
 
-### [Set-WmsStation](./Set-WmsStation.md)
+### [Set-WmsStation](./set-wmsstation.md)
 Modifies station information.
 
-### [Set-WmsSystem](./Set-WmsSystem.md)
+### [Set-WmsSystem](./set-wmssystem.md)
 Modifies system properties.
 
-### [Set-WmsUser](./Set-WmsUser.md)
+### [Set-WmsUser](./set-wmsuser.md)
 Modifies a Windows MultiPoint Server user account.
 
-### [Set-WmsWebLimiting](./Set-WmsWebLimiting.md)
+### [Set-WmsWebLimiting](./set-wmsweblimiting.md)
 Configures web limiting for standard user sessions.
 
-### [Show-WmsDesktop](./Show-WmsDesktop.md)
+### [Show-WmsDesktop](./show-wmsdesktop.md)
 Displays the currently shared desktop to the specified sessions.
 
-### [Show-WmsIdentifier](./Show-WmsIdentifier.md)
+### [Show-WmsIdentifier](./show-wmsidentifier.md)
 Displays the identification screen for a station.
 
-### [Split-WmsStation](./Split-WmsStation.md)
+### [Split-WmsStation](./split-wmsstation.md)
 Splits a station.
 
-### [Stop-WmsSystem](./Stop-WmsSystem.md)
+### [Stop-WmsSystem](./stop-wmssystem.md)
 Shuts down a computer that is running Windows MultiPoint Server.
 
-### [Suspend-WmsDiskProtection](./Suspend-WmsDiskProtection.md)
+### [Suspend-WmsDiskProtection](./suspend-wmsdiskprotection.md)
 Suspends disk protection.
 
-### [Unlock-WmsSession](./Unlock-WmsSession.md)
+### [Unlock-WmsSession](./unlock-wmssession.md)
 Unblocks a user for desktop use.
 
-### [Unlock-WmsUsbStorage](./Unlock-WmsUsbStorage.md)
+### [Unlock-WmsUsbStorage](./unlock-wmsusbstorage.md)
 Unlocks USB storage.
 
-### [Unpublish-WmsDesktop](./Unpublish-WmsDesktop.md)
+### [Unpublish-WmsDesktop](./unpublish-wmsdesktop.md)
 Stops the sharing of the specified session desktop.
 
-### [Update-WmsStation](./Update-WmsStation.md)
+### [Update-WmsStation](./update-wmsstation.md)
 Forces a station to reload its configuration settings.
+
 
 

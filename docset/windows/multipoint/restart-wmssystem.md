@@ -100,15 +100,16 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-WmsSystem](./Add-WmsSystem.md)
+[Add-WmsSystem](./add-wmssystem.md)
 
-[Get-WmsSystem](./Get-WmsSystem.md)
+[Get-WmsSystem](./get-wmssystem.md)
 
-[Remove-WmsSystem](./Remove-WmsSystem.md)
+[Remove-WmsSystem](./remove-wmssystem.md)
 
-[Search-WmsSystem](./Search-WmsSystem.md)
+[Search-WmsSystem](./search-wmssystem.md)
 
-[Set-WmsSystem](./Set-WmsSystem.md)
+[Set-WmsSystem](./set-wmssystem.md)
 
-[Stop-WmsSystem](./Stop-WmsSystem.md)
+[Stop-WmsSystem](./stop-wmssystem.md)
+
 

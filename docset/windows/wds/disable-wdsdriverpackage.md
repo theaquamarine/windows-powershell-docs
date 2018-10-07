@@ -71,7 +71,7 @@ Use this parameter to run commands that take a long time to complete.
 You can continue to work in the session while the job completes.
 To manage the job, use the `*-Job` cmdlets.
 To get the job results, use the [Receive-Job](http://go.microsoft.com/fwlink/?LinkID=113372) cmdlet. 
- For more information about Windows PowerShell® background jobs, see [about_Jobs](http://go.microsoft.com/fwlink/?LinkID=113251).
+ For more information about Windows PowerShell?? background jobs, see [about_Jobs](http://go.microsoft.com/fwlink/?LinkID=113251).
 
 ```yaml
 Type: SwitchParameter
@@ -137,7 +137,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -165,13 +165,14 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-WdsDriverPackage](./Add-WdsDriverPackage.md)
+[Add-WdsDriverPackage](./add-wdsdriverpackage.md)
 
-[Enable-WdsDriverPackage](./Enable-WdsDriverPackage.md)
+[Enable-WdsDriverPackage](./enable-wdsdriverpackage.md)
 
-[Get-WdsDriverPackage](./Get-WdsDriverPackage.md)
+[Get-WdsDriverPackage](./get-wdsdriverpackage.md)
 
-[Import-WdsDriverPackage](./Import-WdsDriverPackage.md)
+[Import-WdsDriverPackage](./import-wdsdriverpackage.md)
 
-[Remove-WdsDriverPackage](./Remove-WdsDriverPackage.md)
+[Remove-WdsDriverPackage](./remove-wdsdriverpackage.md)
+
 

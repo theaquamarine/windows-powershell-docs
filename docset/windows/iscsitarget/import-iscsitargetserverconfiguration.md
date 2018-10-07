@@ -159,7 +159,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Export-IscsiTargetServerConfiguration](./Export-IscsiTargetServerConfiguration.md)
+[Export-IscsiTargetServerConfiguration](./export-iscsitargetserverconfiguration.md)
 
-[Set-IscsiServerTarget](./Set-IscsiServerTarget.md)
+[Set-IscsiServerTarget](./set-iscsiservertarget.md)
+
 

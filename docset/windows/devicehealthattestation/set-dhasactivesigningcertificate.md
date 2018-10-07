@@ -121,5 +121,6 @@ The input type is a string for the active signing certificate thumbprint.
 
 ## RELATED LINKS
 
-[Get-DHASActiveSigningCertificate](./Get-DHASActiveSigningCertificate.md)
+[Get-DHASActiveSigningCertificate](./get-dhasactivesigningcertificate.md)
+
 

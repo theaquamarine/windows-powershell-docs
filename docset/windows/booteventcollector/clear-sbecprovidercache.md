@@ -53,5 +53,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-SbecTraceProviders](./Get-SbecTraceProviders.md)
+[Get-SbecTraceProviders](./get-sbectraceproviders.md)
+
 

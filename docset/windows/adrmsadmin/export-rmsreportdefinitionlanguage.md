@@ -150,7 +150,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 [Using Windows PowerShell with AD RMS](http://go.microsoft.com/fwlink/?LinkId=136806)
 
-[Get-RmsSystemHealthReport](./Get-RmsSystemHealthReport.md)
+[Get-RmsSystemHealthReport](./get-rmssystemhealthreport.md)
 
-[Get-RmsUserRequestReport](./Get-RmsUserRequestReport.md)
+[Get-RmsUserRequestReport](./get-rmsuserrequestreport.md)
+
 

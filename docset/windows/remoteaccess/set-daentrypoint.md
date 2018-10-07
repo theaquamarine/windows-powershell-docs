@@ -185,7 +185,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -241,13 +241,14 @@ The DAEntryPoint object contains the following properties:
 
 ## RELATED LINKS
 
-[Add-DAEntryPoint](./Add-DAEntryPoint.md)
+[Add-DAEntryPoint](./add-daentrypoint.md)
 
-[Get-DAEntryPoint](./Get-DAEntryPoint.md)
+[Get-DAEntryPoint](./get-daentrypoint.md)
 
-[Get-DAEntryPointDC](./Get-DAEntryPointDC.md)
+[Get-DAEntryPointDC](./get-daentrypointdc.md)
 
-[Remove-DAEntryPoint](./Remove-DAEntryPoint.md)
+[Remove-DAEntryPoint](./remove-daentrypoint.md)
 
-[Set-DAEntryPointDC](./Set-DAEntryPointDC.md)
+[Set-DAEntryPointDC](./set-daentrypointdc.md)
+
 

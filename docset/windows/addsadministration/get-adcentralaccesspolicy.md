@@ -331,11 +331,12 @@ To get a list of all the properties of an **ADCentralAccessPolicy** object, use 
 
 ## RELATED LINKS
 
-[New-ADCentralAccessPolicy](./New-ADCentralAccessPolicy.md)
+[New-ADCentralAccessPolicy](./new-adcentralaccesspolicy.md)
 
-[Remove-ADCentralAccessPolicy](./Remove-ADCentralAccessPolicy.md)
+[Remove-ADCentralAccessPolicy](./remove-adcentralaccesspolicy.md)
 
-[Set-ADCentralAccessPolicy](./Set-ADCentralAccessPolicy.md)
+[Set-ADCentralAccessPolicy](./set-adcentralaccesspolicy.md)
 
 [AD DS Administration Cmdlets in Windows PowerShell](./activedirectory.md)
+
 

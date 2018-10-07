@@ -538,17 +538,18 @@ To get a list of all the properties of an **ADObject** object, use the following
 
 ## RELATED LINKS
 
-[Move-ADObject](./Move-ADObject.md)
+[Move-ADObject](./move-adobject.md)
 
-[New-ADObject](./New-ADObject.md)
+[New-ADObject](./new-adobject.md)
 
-[Remove-ADObject](./Remove-ADObject.md)
+[Remove-ADObject](./remove-adobject.md)
 
-[Rename-ADObject](./Rename-ADObject.md)
+[Rename-ADObject](./rename-adobject.md)
 
-[Restore-ADObject](./Restore-ADObject.md)
+[Restore-ADObject](./restore-adobject.md)
 
-[Set-ADObject](./Set-ADObject.md)
+[Set-ADObject](./set-adobject.md)
 
-[Sync-ADObject](./Sync-ADObject.md)
+[Sync-ADObject](./sync-adobject.md)
+
 

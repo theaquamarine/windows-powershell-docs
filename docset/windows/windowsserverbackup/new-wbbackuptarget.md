@@ -69,7 +69,7 @@ This example creates a **WBBackupTarget** object that uses the disk labeled Back
 The first command gets the disks that are available for backup storage and stores them in a variable named $Disks.
 
 The second command sets the first disk stored in the $Disks array as the backup target and assigns the label Backup Disk 1 to that disk.
-The disk is available to store backups only after the server calls the [Set-WBPolicy](./Set-WBPolicy.md) cmdlet and specifies the **WBPolicy** object to which it added the backup target.
+The disk is available to store backups only after the server calls the [Set-WBPolicy](./set-wbpolicy.md) cmdlet and specifies the **WBPolicy** object to which it added the backup target.
 You can add multiple storage disks to this backup policy.
 
 ### Example 2: Use a remote shared folder as a backup target
@@ -303,11 +303,12 @@ The New-WBBackupTarget cmdlet creates a **WBBackupTarget** object, which you can
 
 ## RELATED LINKS
 
-[Add-WBBackupTarget](./Add-WBBackupTarget.md)
+[Add-WBBackupTarget](./add-wbbackuptarget.md)
 
-[Get-WBDisk](./Get-WBDisk.md)
+[Get-WBDisk](./get-wbdisk.md)
 
-[Get-WBVolume](./Get-WBVolume.md)
+[Get-WBVolume](./get-wbvolume.md)
 
 [Get-Credential](http://go.microsoft.com/fwlink/?LinkID=293936)
+
 

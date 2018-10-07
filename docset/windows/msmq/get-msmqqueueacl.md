@@ -73,7 +73,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-MsmqQueue](./Get-MsmqQueue.md)
+[Get-MsmqQueue](./get-msmqqueue.md)
 
-[Set-MsmqQueueACL](./Set-MsmqQueueACL.md)
+[Set-MsmqQueueACL](./set-msmqqueueacl.md)
+
 

@@ -108,5 +108,6 @@ This cmdlet does not generate any output.
 
 ## RELATED LINKS
 
-[Save-NetworkSwitchConfiguration](./Save-NetworkSwitchConfiguration.md)
+[Save-NetworkSwitchConfiguration](./save-networkswitchconfiguration.md)
+
 

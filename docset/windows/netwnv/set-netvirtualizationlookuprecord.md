@@ -40,7 +40,7 @@ Set-NetVirtualizationLookupRecord -InputObject <CimInstance[]> [-ProviderAddress
 ```
 
 ## DESCRIPTION
-The **Set-NetVirtualizationLookupRecord** cmdlet changes settings for lookup record policy entries for IP addresses that belong to a Microsoft® Hyper-V® Server 2016 virtual network.
+The **Set-NetVirtualizationLookupRecord** cmdlet changes settings for lookup record policy entries for IP addresses that belong to a Microsoft?? Hyper-V?? Server 2016 virtual network.
 Network Virtualization allows for more than one virtual network to exist on the same physical network.
 Computers can exchange network traffic with a virtual machine by using a Customer Address in the virtual network.
 Network Virtualization manages the Provider Addresses that are the physical network addresses.
@@ -237,7 +237,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -314,9 +314,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-NetVirtualizationLookupRecord](./Get-NetVirtualizationLookupRecord.md)
+[Get-NetVirtualizationLookupRecord](./get-netvirtualizationlookuprecord.md)
 
-[New-NetVirtualizationLookupRecord](./New-NetVirtualizationLookupRecord.md)
+[New-NetVirtualizationLookupRecord](./new-netvirtualizationlookuprecord.md)
 
-[Remove-NetVirtualizationLookupRecord](./Remove-NetVirtualizationLookupRecord.md)
+[Remove-NetVirtualizationLookupRecord](./remove-netvirtualizationlookuprecord.md)
+
 

@@ -91,13 +91,14 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-AdfsWebApplicationProxyRelyingPartyTrust](./Add-AdfsWebApplicationProxyRelyingPartyTrust.md)
+[Add-AdfsWebApplicationProxyRelyingPartyTrust](./add-adfswebapplicationproxyrelyingpartytrust.md)
 
-[Disable-AdfsWebApplicationProxyRelyingPartyTrust](./Disable-AdfsWebApplicationProxyRelyingPartyTrust.md)
+[Disable-AdfsWebApplicationProxyRelyingPartyTrust](./disable-adfswebapplicationproxyrelyingpartytrust.md)
 
-[Enable-AdfsWebApplicationProxyRelyingPartyTrust](./Enable-AdfsWebApplicationProxyRelyingPartyTrust.md)
+[Enable-AdfsWebApplicationProxyRelyingPartyTrust](./enable-adfswebapplicationproxyrelyingpartytrust.md)
 
-[Get-AdfsWebApplicationProxyRelyingPartyTrust](./Get-AdfsWebApplicationProxyRelyingPartyTrust.md)
+[Get-AdfsWebApplicationProxyRelyingPartyTrust](./get-adfswebapplicationproxyrelyingpartytrust.md)
 
-[Set-AdfsWebApplicationProxyRelyingPartyTrust](./Set-AdfsWebApplicationProxyRelyingPartyTrust.md)
+[Set-AdfsWebApplicationProxyRelyingPartyTrust](./set-adfswebapplicationproxyrelyingpartytrust.md)
+
 

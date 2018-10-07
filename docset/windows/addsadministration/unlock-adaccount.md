@@ -288,21 +288,22 @@ Derived types, such as the following, are also accepted:
 
 ## RELATED LINKS
 
-[Clear-ADAccountExpiration](./Clear-ADAccountExpiration.md)
+[Clear-ADAccountExpiration](./clear-adaccountexpiration.md)
 
-[Disable-ADAccount](./Disable-ADAccount.md)
+[Disable-ADAccount](./disable-adaccount.md)
 
-[Enable-ADAccount](./Enable-ADAccount.md)
+[Enable-ADAccount](./enable-adaccount.md)
 
-[Get-ADAccountAuthorizationGroup](./Get-ADAccountAuthorizationGroup.md)
+[Get-ADAccountAuthorizationGroup](./get-adaccountauthorizationgroup.md)
 
-[Search-ADAccount](./Search-ADAccount.md)
+[Search-ADAccount](./search-adaccount.md)
 
-[Set-ADAccountControl](./Set-ADAccountControl.md)
+[Set-ADAccountControl](./set-adaccountcontrol.md)
 
-[Set-ADAccountExpiration](./Set-ADAccountExpiration.md)
+[Set-ADAccountExpiration](./set-adaccountexpiration.md)
 
-[Set-ADAccountPassword](./Set-ADAccountPassword.md)
+[Set-ADAccountPassword](./set-adaccountpassword.md)
 
 [AD DS Administration Cmdlets in Windows PowerShell](./activedirectory.md)
+
 

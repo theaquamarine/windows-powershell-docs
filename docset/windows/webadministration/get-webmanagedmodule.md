@@ -98,9 +98,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[New-WebManagedModule](./New-WebManagedModule.md)
+[New-WebManagedModule](./new-webmanagedmodule.md)
 
-[Remove-WebManagedModule](./Remove-WebManagedModule.md)
+[Remove-WebManagedModule](./remove-webmanagedmodule.md)
 
-[Set-WebManagedModule](./Set-WebManagedModule.md)
+[Set-WebManagedModule](./set-webmanagedmodule.md)
+
 

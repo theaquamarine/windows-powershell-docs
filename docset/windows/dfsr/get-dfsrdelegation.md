@@ -105,7 +105,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Grant-DfsrDelegation](./Grant-DfsrDelegation.md)
+[Grant-DfsrDelegation](./grant-dfsrdelegation.md)
 
-[Revoke-DfsrDelegation](./Revoke-DfsrDelegation.md)
+[Revoke-DfsrDelegation](./revoke-dfsrdelegation.md)
+
 

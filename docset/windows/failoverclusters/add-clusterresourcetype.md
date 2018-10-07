@@ -153,7 +153,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-ClusterResourceType](./Get-ClusterResourceType.md)
+[Get-ClusterResourceType](./get-clusterresourcetype.md)
 
-[Remove-ClusterResourceType](./Remove-ClusterResourceType.md)
+[Remove-ClusterResourceType](./remove-clusterresourcetype.md)
+
 

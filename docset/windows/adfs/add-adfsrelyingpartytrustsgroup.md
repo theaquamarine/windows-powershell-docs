@@ -369,7 +369,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-AdfsRelyingPartyTrustsGroup](./Get-AdfsRelyingPartyTrustsGroup.md)
+[Get-AdfsRelyingPartyTrustsGroup](./get-adfsrelyingpartytrustsgroup.md)
 
-[Remove-AdfsRelyingPartyTrustsGroup](./Remove-AdfsRelyingPartyTrustsGroup.md)
+[Remove-AdfsRelyingPartyTrustsGroup](./remove-adfsrelyingpartytrustsgroup.md)
+
 

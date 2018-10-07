@@ -33,7 +33,7 @@ Start-WBFileRecovery [-BackupSet] <WBBackupSet> [-SourcePath] <String> [[-Target
 The **Start-WBFileRecovery** cmdlet starts a file recovery operation.
 For file recovery, you must specify the backup set from which to recover the file, along with the file that you want to recover.
 
-To browse the volumes in backup, use the [Get-WBBackupVolumeBrowsePath](./Get-WBBackupVolumeBrowsePath.md) cmdlet.
+To browse the volumes in backup, use the [Get-WBBackupVolumeBrowsePath](./get-wbbackupvolumebrowsepath.md) cmdlet.
 
 ## EXAMPLES
 
@@ -75,7 +75,7 @@ The third command restores the file named File1.txt to the path F:\Dir1.
 ## PARAMETERS
 
 ### -Async
-Indicates that Windows PowerShell® returns immediately after it starts the backup and does not display status messages.
+Indicates that Windows PowerShell?? returns immediately after it starts the backup and does not display status messages.
 
 ```yaml
 Type: SwitchParameter
@@ -226,7 +226,8 @@ After the operation is complete, you can use the `Get-WBJob -Previous 1` command
 
 ## RELATED LINKS
 
-[Get-WBBackupVolumeBrowsePath](./Get-WBBackupVolumeBrowsePath.md)
+[Get-WBBackupVolumeBrowsePath](./get-wbbackupvolumebrowsepath.md)
 
-[Get-WBJob](./Get-WBJob.md)
+[Get-WBJob](./get-wbjob.md)
+
 

@@ -473,11 +473,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Backup-BitLockerKeyProtector](./Backup-BitLockerKeyProtector.md)
+[Backup-BitLockerKeyProtector](./backup-bitlockerkeyprotector.md)
 
-[Enable-BitLocker](./Enable-BitLocker.md)
+[Enable-BitLocker](./enable-bitlocker.md)
 
-[Get-BitLockerVolume](./Get-BitLockerVolume.md)
+[Get-BitLockerVolume](./get-bitlockervolume.md)
 
-[Remove-BitLockerKeyProtector](./Remove-BitLockerKeyProtector.md)
+[Remove-BitLockerKeyProtector](./remove-bitlockerkeyprotector.md)
+
 

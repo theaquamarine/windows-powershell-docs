@@ -112,7 +112,8 @@ The object includes the following properties:
 
 ## RELATED LINKS
 
-[Remove-AdfsRelyingPartyWebContent](./Remove-AdfsRelyingPartyWebContent.md)
+[Remove-AdfsRelyingPartyWebContent](./remove-adfsrelyingpartywebcontent.md)
 
-[Set-AdfsRelyingPartyWebContent](./Set-AdfsRelyingPartyWebContent.md)
+[Set-AdfsRelyingPartyWebContent](./set-adfsrelyingpartywebcontent.md)
+
 

@@ -386,7 +386,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -470,15 +470,16 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[New-FsrmQuotaThreshold](./New-FsrmQuotaThreshold.md)
+[New-FsrmQuotaThreshold](./new-fsrmquotathreshold.md)
 
-[New-FsrmFileScreen](./New-FsrmFileScreen.md)
+[New-FsrmFileScreen](./new-fsrmfilescreen.md)
 
-[New-FsrmStorageReport](./New-FsrmStorageReport.md)
+[New-FsrmStorageReport](./new-fsrmstoragereport.md)
 
-[New-FsrmScheduledTask](./New-FsrmScheduledTask.md)
+[New-FsrmScheduledTask](./new-fsrmscheduledtask.md)
 
-[New-FsrmFileManagementJob](./New-FsrmFileManagementJob.md)
+[New-FsrmFileManagementJob](./new-fsrmfilemanagementjob.md)
 
-[New-FsrmFMJNotification](./New-FsrmFMJNotification.md)
+[New-FsrmFMJNotification](./new-fsrmfmjnotification.md)
+
 

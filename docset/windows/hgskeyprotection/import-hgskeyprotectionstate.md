@@ -180,5 +180,6 @@ This cmdlet does not generate any output.
 
 ## RELATED LINKS
 
-[Export-HgsKeyProtectionState](./Export-HgsKeyProtectionState.md)
+[Export-HgsKeyProtectionState](./export-hgskeyprotectionstate.md)
+
 

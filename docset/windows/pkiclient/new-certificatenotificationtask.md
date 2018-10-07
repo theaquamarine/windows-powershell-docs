@@ -114,7 +114,7 @@ Accept wildcard characters: False
 ```
 
 ### -PSScript
-Identifies the Windows PowerShell® script that will be triggered by the certificate notification task.
+Identifies the Windows PowerShell?? script that will be triggered by the certificate notification task.
 The script will be launched with the **NonInteractive** parameter.
 
 ```yaml
@@ -203,9 +203,10 @@ A **CertificateNotificationTask** object that contains details about a newly cre
 
 ## RELATED LINKS
 
-[Get-CertificateNotificationTask](./Get-CertificateNotificationTask.md)
+[Get-CertificateNotificationTask](./get-certificatenotificationtask.md)
 
-[Remove-CertificateNotificationTask](./Remove-CertificateNotificationTask.md)
+[Remove-CertificateNotificationTask](./remove-certificatenotificationtask.md)
 
-[Switch-Certificate](./Switch-Certificate.md)
+[Switch-Certificate](./switch-certificate.md)
+
 

@@ -130,9 +130,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Clear-IISConfigCollection](./Clear-IISConfigCollection.md)
+[Clear-IISConfigCollection](./clear-iisconfigcollection.md)
 
-[Get-IISConfigElement](./Get-IISConfigElement.md)
+[Get-IISConfigElement](./get-iisconfigelement.md)
 
 [IIS Administration Cmdlets for Windows PowerShell](./iisadministration.md)
+
 

@@ -25,55 +25,56 @@ This reference provides cmdlet descriptions and syntax for all Cluster-Aware Upd
 It lists the cmdlets in alphabetical order based on the verb at the beginning of the cmdlet.
 
 ## ClusterAwareUpdating Cmdlets
-### [Add-CauClusterRole](./Add-CauClusterRole.md)
+### [Add-CauClusterRole](./add-cauclusterrole.md)
 Adds the CAU clustered role that provides the self-updating functionality to the specified cluster.
 
-### [Disable-CauClusterRole](./Disable-CauClusterRole.md)
+### [Disable-CauClusterRole](./disable-cauclusterrole.md)
 Suspends the self-updating functionality on the specified cluster.
 
-### [Enable-CauClusterRole](./Enable-CauClusterRole.md)
+### [Enable-CauClusterRole](./enable-cauclusterrole.md)
 Re-enables the self-updating functionality on the specified cluster.
 
-### [Export-CauReport](./Export-CauReport.md)
+### [Export-CauReport](./export-caureport.md)
 Exports one or more Updating Run reports into an HTML or CSV-formatted document.
 
-### [Get-CauClusterRole](./Get-CauClusterRole.md)
+### [Get-CauClusterRole](./get-cauclusterrole.md)
 Gets configuration properties of the CAU clustered role on the specified cluster.
 
-### [Get-CauPlugin](./Get-CauPlugin.md)
+### [Get-CauPlugin](./get-cauplugin.md)
 Gets information about one or more software updating plug-ins that are registered on the local computer.
 
-### [Get-CauReport](./Get-CauReport.md)
+### [Get-CauReport](./get-caureport.md)
 Gets the Updating Run reports for all known Updating Runs, or all Updating Runs that match the specified dates or other specified parameters.
 
-### [Get-CauRun](./Get-CauRun.md)
+### [Get-CauRun](./get-caurun.md)
 Gets status information about an updating run currently in progress.
 
-### [Invoke-CauRun](./Invoke-CauRun.md)
+### [Invoke-CauRun](./invoke-caurun.md)
 Performs a scan of cluster nodes for applicable updates and installs those updates through an updating run on the specified cluster.
 
-### [Invoke-CauScan](./Invoke-CauScan.md)
+### [Invoke-CauScan](./invoke-causcan.md)
 Performs a scan of cluster nodes for applicable updates and gets a list of the initial set of updates that are applied to each node in a specified cluster.
 
-### [Register-CauPlugin](./Register-CauPlugin.md)
+### [Register-CauPlugin](./register-cauplugin.md)
 Registers a CAU software updating plug-in on the local computer.
 
-### [Remove-CauClusterRole](./Remove-CauClusterRole.md)
+### [Remove-CauClusterRole](./remove-cauclusterrole.md)
 Removes the CAU clustered role from the specified failover cluster.
 
-### [Save-CauDebugTrace](./Save-CauDebugTrace.md)
+### [Save-CauDebugTrace](./save-caudebugtrace.md)
 Saves CAU debug tracing information to a local zip file.
 
-### [Set-CauClusterRole](./Set-CauClusterRole.md)
+### [Set-CauClusterRole](./set-cauclusterrole.md)
 Sets configuration properties for the CAU clustered role on the specified cluster.
 
-### [Stop-CauRun](./Stop-CauRun.md)
+### [Stop-CauRun](./stop-caurun.md)
 Stops an updating run that is in progress on a cluster.
 
-### [Test-CauSetup](./Test-CauSetup.md)
+### [Test-CauSetup](./test-causetup.md)
 Tests whether a cluster is properly set up to apply software updates using CAU.
 
-### [Unregister-CauPlugin](./Unregister-CauPlugin.md)
+### [Unregister-CauPlugin](./unregister-cauplugin.md)
 Removes a software updating plug-in from the list of plug-ins that are used by CAU.
+
 
 

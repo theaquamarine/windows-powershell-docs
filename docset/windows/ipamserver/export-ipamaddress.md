@@ -234,7 +234,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -265,15 +265,16 @@ This cmdlet returns an array of objects that contain IPAM IP addresses.
 
 ## RELATED LINKS
 
-[Import-IpamAddress](./Import-IpamAddress.md)
+[Import-IpamAddress](./import-ipamaddress.md)
 
-[Add-IpamAddress](./Add-IpamAddress.md)
+[Add-IpamAddress](./add-ipamaddress.md)
 
-[Get-IpamAddress](./Get-IpamAddress.md)
+[Get-IpamAddress](./get-ipamaddress.md)
 
-[Set-IpamAddress](./Set-IpamAddress.md)
+[Set-IpamAddress](./set-ipamaddress.md)
 
-[Remove-IpamAddress](./Remove-IpamAddress.md)
+[Remove-IpamAddress](./remove-ipamaddress.md)
 
-[Import-IpamAddress](./Import-IpamAddress.md)
+[Import-IpamAddress](./import-ipamaddress.md)
+
 

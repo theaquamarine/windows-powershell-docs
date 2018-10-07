@@ -123,17 +123,18 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-ClusterResource](./Add-ClusterResource.md)
+[Add-ClusterResource](./add-clusterresource.md)
 
-[Get-ClusterResource](./Get-ClusterResource.md)
+[Get-ClusterResource](./get-clusterresource.md)
 
-[Remove-ClusterResource](./Remove-ClusterResource.md)
+[Remove-ClusterResource](./remove-clusterresource.md)
 
-[Resume-ClusterResource](./Resume-ClusterResource.md)
+[Resume-ClusterResource](./resume-clusterresource.md)
 
-[Start-ClusterResource](./Start-ClusterResource.md)
+[Start-ClusterResource](./start-clusterresource.md)
 
-[Stop-ClusterResource](./Stop-ClusterResource.md)
+[Stop-ClusterResource](./stop-clusterresource.md)
 
-[Suspend-ClusterResource](./Suspend-ClusterResource.md)
+[Suspend-ClusterResource](./suspend-clusterresource.md)
+
 

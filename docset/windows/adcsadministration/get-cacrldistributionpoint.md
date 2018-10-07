@@ -69,7 +69,8 @@ Uri | String
 
 ## RELATED LINKS
 
-[Add-CACrlDistributionPoint](./Add-CACrlDistributionPoint.md)
+[Add-CACrlDistributionPoint](./add-cacrldistributionpoint.md)
 
-[Remove-CACrlDistributionPoint](./Remove-CACrlDistributionPoint.md)
+[Remove-CACrlDistributionPoint](./remove-cacrldistributionpoint.md)
+
 

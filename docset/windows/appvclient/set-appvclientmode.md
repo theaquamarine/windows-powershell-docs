@@ -87,5 +87,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-AppvClientMode](./Get-AppvClientMode.md)
+[Get-AppvClientMode](./get-appvclientmode.md)
+
 

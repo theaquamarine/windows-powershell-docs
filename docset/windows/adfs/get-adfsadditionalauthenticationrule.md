@@ -67,5 +67,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Set-AdfsAdditionalAuthenticationRule](./Set-AdfsAdditionalAuthenticationRule.md)
+[Set-AdfsAdditionalAuthenticationRule](./set-adfsadditionalauthenticationrule.md)
+
 

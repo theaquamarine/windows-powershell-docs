@@ -24,16 +24,17 @@ ms.assetid: B3C31B30-F4D8-414B-8433-4AD7152699A2
 This reference provides cmdlet descriptions and syntax for Plug and Play (PnP) device cmdlets. This table lists the cmdlets in alphabetical order.
 
 ## PnpDevice Cmdlets
-### [Disable-PnpDevice](./Disable-PnpDevice.md)
+### [Disable-PnpDevice](./disable-pnpdevice.md)
 Disables a PnP device.
 
-### [Enable-PnpDevice](./Enable-PnpDevice.md)
+### [Enable-PnpDevice](./enable-pnpdevice.md)
 Enables a PnP device.
 
-### [Get-PnpDevice](./Get-PnpDevice.md)
+### [Get-PnpDevice](./get-pnpdevice.md)
 Returns information about PnP devices.
 
-### [Get-PnpDeviceProperty](./Get-PnpDeviceProperty.md)
+### [Get-PnpDeviceProperty](./get-pnpdeviceproperty.md)
 Gets detailed properties for a PnP device.
+
 
 

@@ -30,7 +30,7 @@ Get-MsmqCertificate [[-ComputerName] <String>] [<CommonParameters>]
 
 ## DESCRIPTION
 The **Get-MsmqCertificate** cmdlet gets an array of **System.Security.Cryptography.X509Certificates.X509Certificate** objects.
-Each object represents a personal certificate that is currently registered in Active Directory® Domain Services.
+Each object represents a personal certificate that is currently registered in Active Directory?? Domain Services.
 
 ## EXAMPLES
 
@@ -78,7 +78,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Enable-MsmqCertificate](./Enable-MSMQCertificate.md)
+[Enable-MsmqCertificate](./enable-msmqcertificate.md)
 
-[Remove-MsmqCertificate](./Remove-MsmqCertificate.md)
+[Remove-MsmqCertificate](./remove-msmqcertificate.md)
+
 

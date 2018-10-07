@@ -414,15 +414,16 @@ This cmdlet returns an object that contains the following fields:
 
 ## RELATED LINKS
 
-[Get-NetworkControllerCluster](./Get-NetworkControllerCluster.md)
+[Get-NetworkControllerCluster](./get-networkcontrollercluster.md)
 
-[Install-NetworkController](./Install-NetworkController.md)
+[Install-NetworkController](./install-networkcontroller.md)
 
-[New-NetworkControllerNodeObject](./New-NetworkControllerNodeObject.md)
+[New-NetworkControllerNodeObject](./new-networkcontrollernodeobject.md)
 
-[Repair-NetworkControllerCluster](./Repair-NetworkControllerCluster.md)
+[Repair-NetworkControllerCluster](./repair-networkcontrollercluster.md)
 
-[Set-NetworkControllerCluster](./Set-NetworkControllerCluster.md)
+[Set-NetworkControllerCluster](./set-networkcontrollercluster.md)
 
-[Uninstall-NetworkControllerCluster](./Uninstall-NetworkControllerCluster.md)
+[Uninstall-NetworkControllerCluster](./uninstall-networkcontrollercluster.md)
+
 

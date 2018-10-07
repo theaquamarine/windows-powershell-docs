@@ -206,7 +206,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -269,7 +269,8 @@ If you specify the *Passthru* parameter, this cmdlet outputs an object that repr
 
 ## RELATED LINKS
 
-[Get-MaskingSet](./Get-MaskingSet.md)
+[Get-MaskingSet](./get-maskingset.md)
 
-[Get-VirtualDisk](./Get-VirtualDisk.md)
+[Get-VirtualDisk](./get-virtualdisk.md)
+
 

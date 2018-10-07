@@ -279,7 +279,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-DfsrPreservedFiles](./Get-DfsrPreservedFiles.md)
+[Get-DfsrPreservedFiles](./get-dfsrpreservedfiles.md)
 
-[Set-DfsrMembership](./Set-DfsrMembership.md)
+[Set-DfsrMembership](./set-dfsrmembership.md)
+
 

@@ -208,13 +208,14 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 [Format-List](http://go.microsoft.com/fwlink/?LinkID=113302)
 
-[Add-NlbClusterPortRule](./Add-NlbClusterPortRule.md)
+[Add-NlbClusterPortRule](./add-nlbclusterportrule.md)
 
-[Disable-NlbClusterPortRule](./Disable-NlbClusterPortRule.md)
+[Disable-NlbClusterPortRule](./disable-nlbclusterportrule.md)
 
-[Enable-NlbClusterPortRule](./Enable-NlbClusterPortRule.md)
+[Enable-NlbClusterPortRule](./enable-nlbclusterportrule.md)
 
-[Remove-NlbClusterPortRule](./Remove-NlbClusterPortRule.md)
+[Remove-NlbClusterPortRule](./remove-nlbclusterportrule.md)
 
-[Set-NlbClusterPortRule](./Set-NlbClusterPortRule.md)
+[Set-NlbClusterPortRule](./set-nlbclusterportrule.md)
+
 

@@ -130,11 +130,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-KeyProtectorFromShieldingDataFile](./Get-KeyProtectorFromShieldingDataFile.md)
+[Get-KeyProtectorFromShieldingDataFile](./get-keyprotectorfromshieldingdatafile.md)
 
-[Initialize-ShieldedVM](./Initialize-ShieldedVM.md)
+[Initialize-ShieldedVM](./initialize-shieldedvm.md)
 
-[New-ShieldedVMSpecializationDataFile](./New-ShieldedVMSpecializationDataFile.md)
+[New-ShieldedVMSpecializationDataFile](./new-shieldedvmspecializationdatafile.md)
 
-[Test-ShieldingDataApplicability](./Test-ShieldingDataApplicability.md)
+[Test-ShieldingDataApplicability](./test-shieldingdataapplicability.md)
+
 

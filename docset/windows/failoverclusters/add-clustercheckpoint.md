@@ -185,9 +185,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-ClusterCheckpoint](./Get-ClusterCheckpoint.md)
+[Get-ClusterCheckpoint](./get-clustercheckpoint.md)
 
-[Get-ClusterResource](./Get-ClusterResource.md)
+[Get-ClusterResource](./get-clusterresource.md)
 
-[Remove-ClusterCheckpoint](./Remove-ClusterCheckpoint.md)
+[Remove-ClusterCheckpoint](./remove-clustercheckpoint.md)
+
 

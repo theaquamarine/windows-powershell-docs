@@ -177,7 +177,8 @@ This cmdlet does not generate any output.
 
 ## RELATED LINKS
 
-[Enable-NetworkSwitchEthernetPort](./Enable-NetworkSwitchEthernetPort.md)
+[Enable-NetworkSwitchEthernetPort](./enable-networkswitchethernetport.md)
 
-[Get-NetworkSwitchEthernetPort](./Get-NetworkSwitchEthernetPort.md)
+[Get-NetworkSwitchEthernetPort](./get-networkswitchethernetport.md)
+
 

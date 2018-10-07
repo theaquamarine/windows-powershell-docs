@@ -215,13 +215,14 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-VMNetworkAdapterAcl](./Add-VMNetworkAdapterAcl.md)
+[Add-VMNetworkAdapterAcl](./add-vmnetworkadapteracl.md)
 
-[Disable-VMResourceMetering](./Disable-VMResourceMetering.md)
+[Disable-VMResourceMetering](./disable-vmresourcemetering.md)
 
-[Enable-VMResourceMetering](./Enable-VMResourceMetering.md)
+[Enable-VMResourceMetering](./enable-vmresourcemetering.md)
 
-[Remove-VMNetworkAdapterAcl](./Remove-VMNetworkAdapterAcl.md)
+[Remove-VMNetworkAdapterAcl](./remove-vmnetworkadapteracl.md)
 
-[Reset-VMResourceMetering](./Reset-VMResourceMetering.md)
+[Reset-VMResourceMetering](./reset-vmresourcemetering.md)
+
 

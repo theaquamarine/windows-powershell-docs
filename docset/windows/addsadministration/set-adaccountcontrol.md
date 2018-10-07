@@ -571,11 +571,12 @@ Derived types, such as the following are also accepted:
 
 ## RELATED LINKS
 
-[Get-ADComputer](./Get-ADComputer.md)
+[Get-ADComputer](./get-adcomputer.md)
 
-[Get-ADServiceAccount](./Get-ADServiceAccount.md)
+[Get-ADServiceAccount](./get-adserviceaccount.md)
 
-[Get-ADUser](./Get-ADUser.md)
+[Get-ADUser](./get-aduser.md)
 
 [AD DS Administration Cmdlets in Windows PowerShell](./activedirectory.md)
+
 

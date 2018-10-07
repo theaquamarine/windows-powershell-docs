@@ -153,5 +153,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Set-ClusterOwnerNode](./Set-ClusterOwnerNode.md)
+[Set-ClusterOwnerNode](./set-clusterownernode.md)
+
 

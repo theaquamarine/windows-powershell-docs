@@ -229,9 +229,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-AdfsAccessControlPolicy](./Get-AdfsAccessControlPolicy.md)
+[Get-AdfsAccessControlPolicy](./get-adfsaccesscontrolpolicy.md)
 
-[New-AdfsAccessControlPolicy](./New-AdfsAccessControlPolicy.md)
+[New-AdfsAccessControlPolicy](./new-adfsaccesscontrolpolicy.md)
 
-[Remove-AdfsAccessControlPolicy](./Remove-AdfsAccessControlPolicy.md)
+[Remove-AdfsAccessControlPolicy](./remove-adfsaccesscontrolpolicy.md)
+
 

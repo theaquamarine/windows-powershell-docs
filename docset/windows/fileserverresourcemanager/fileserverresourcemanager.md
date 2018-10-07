@@ -24,241 +24,242 @@ ms.assetid: CD5BB115-897D-406C-B649-5B5F75E4FC84
 This reference provides cmdlet descriptions and syntax for all File Server Resource Manager (FSRM) cmdlets. It lists the cmdlets in alphabetical order based on the verb at the beginning of the cmdlet.
 
 ## FileServerResourceManager Cmdlets
-### [Get-FsrmAdrSetting](./Get-FsrmAdrSetting.md)
+### [Get-FsrmAdrSetting](./get-fsrmadrsetting.md)
 Gets access denied remediation settings for events.
 
-### [Get-FsrmAutoQuota](./Get-FsrmAutoQuota.md)
+### [Get-FsrmAutoQuota](./get-fsrmautoquota.md)
 Gets auto apply quotas on a server.
 
-### [Get-FsrmClassification](./Get-FsrmClassification.md)
+### [Get-FsrmClassification](./get-fsrmclassification.md)
 Gets the status of the running file classification.
 
-### [Get-FsrmClassificationPropertyDefinition](./Get-FsrmClassificationPropertyDefinition.md)
+### [Get-FsrmClassificationPropertyDefinition](./get-fsrmclassificationpropertydefinition.md)
 Gets definitions of classification properties.
 
-### [Get-FsrmClassificationRule](./Get-FsrmClassificationRule.md)
+### [Get-FsrmClassificationRule](./get-fsrmclassificationrule.md)
 Gets classification rules.
 
-### [Get-FsrmEffectiveNamespace](./Get-FsrmEffectiveNamespace.md)
+### [Get-FsrmEffectiveNamespace](./get-fsrmeffectivenamespace.md)
 Gets a list of paths that match static namespaces.
 
-### [Get-FsrmFileGroup](./Get-FsrmFileGroup.md)
+### [Get-FsrmFileGroup](./get-fsrmfilegroup.md)
 Gets file groups.
 
-### [Get-FsrmFileManagementJob](./Get-FsrmFileManagementJob.md)
+### [Get-FsrmFileManagementJob](./get-fsrmfilemanagementjob.md)
 Gets file management jobs.
 
-### [Get-FsrmFileScreen](./Get-FsrmFileScreen.md)
+### [Get-FsrmFileScreen](./get-fsrmfilescreen.md)
 Gets file screens.
 
-### [Get-FsrmFileScreenException](./Get-FsrmFileScreenException.md)
+### [Get-FsrmFileScreenException](./get-fsrmfilescreenexception.md)
 Gets file screen exceptions.
 
-### [Get-FsrmFileScreenTemplate](./Get-FsrmFileScreenTemplate.md)
+### [Get-FsrmFileScreenTemplate](./get-fsrmfilescreentemplate.md)
 Gets file screen templates.
 
-### [Get-FsrmMacro](./Get-FsrmMacro.md)
+### [Get-FsrmMacro](./get-fsrmmacro.md)
 Gets FSRM-supported macros.
 
-### [Get-FsrmMgmtProperty](./Get-FsrmMgmtProperty.md)
+### [Get-FsrmMgmtProperty](./get-fsrmmgmtproperty.md)
 Gets management properties.
 
-### [Get-FsrmQuota](./Get-FsrmQuota.md)
+### [Get-FsrmQuota](./get-fsrmquota.md)
 Gets FSRM quotas on the server.
 
-### [Get-FsrmQuotaTemplate](./Get-FsrmQuotaTemplate.md)
+### [Get-FsrmQuotaTemplate](./get-fsrmquotatemplate.md)
 Gets FSRM quota templates
 
-### [Get-FsrmRmsTemplate](./Get-FsrmRmsTemplate.md)
+### [Get-FsrmRmsTemplate](./get-fsrmrmstemplate.md)
 Gets a list of all RMS templates on the server.
 
-### [Get-FsrmSetting](./Get-FsrmSetting.md)
+### [Get-FsrmSetting](./get-fsrmsetting.md)
 Gets the current FSRM settings.
 
-### [Get-FsrmStorageReport](./Get-FsrmStorageReport.md)
+### [Get-FsrmStorageReport](./get-fsrmstoragereport.md)
 Gets storage reports.
 
-### [New-FsrmAction](./New-FsrmAction.md)
+### [New-FsrmAction](./new-fsrmaction.md)
 Returns an FSRM action object.
 
-### [New-FsrmAutoQuota](./New-FsrmAutoQuota.md)
+### [New-FsrmAutoQuota](./new-fsrmautoquota.md)
 Creates an auto apply quota.
 
-### [New-FsrmClassificationPropertyDefinition](./New-FsrmClassificationPropertyDefinition.md)
+### [New-FsrmClassificationPropertyDefinition](./new-fsrmclassificationpropertydefinition.md)
 Creates a classification property definition.
 
-### [New-FsrmClassificationPropertyValue](./New-FsrmClassificationPropertyValue.md)
+### [New-FsrmClassificationPropertyValue](./new-fsrmclassificationpropertyvalue.md)
 Creates a classification property value.
 
-### [New-FsrmClassificationRule](./New-FsrmClassificationRule.md)
+### [New-FsrmClassificationRule](./new-fsrmclassificationrule.md)
 Creates an automatic classification rule.
 
-### [New-FsrmFileGroup](./New-FsrmFileGroup.md)
+### [New-FsrmFileGroup](./new-fsrmfilegroup.md)
 Creates a file group.
 
-### [New-FsrmFileManagementJob](./New-FsrmFileManagementJob.md)
+### [New-FsrmFileManagementJob](./new-fsrmfilemanagementjob.md)
 Creates a file management job.
 
-### [New-FsrmFileScreen](./New-FsrmFileScreen.md)
+### [New-FsrmFileScreen](./new-fsrmfilescreen.md)
 Creates a file screen.
 
-### [New-FsrmFileScreenException](./New-FsrmFileScreenException.md)
+### [New-FsrmFileScreenException](./new-fsrmfilescreenexception.md)
 Creates a file screen exception.
 
-### [New-FsrmFileScreenTemplate](./New-FsrmFileScreenTemplate.md)
+### [New-FsrmFileScreenTemplate](./new-fsrmfilescreentemplate.md)
 Creates a file screen template.
 
-### [New-FsrmFmjAction](./New-FsrmFmjAction.md)
+### [New-FsrmFmjAction](./new-fsrmfmjaction.md)
 Returns an action object for file management jobs.
 
-### [New-FsrmFmjCondition](./New-FsrmFmjCondition.md)
+### [New-FsrmFmjCondition](./new-fsrmfmjcondition.md)
 Creates a file management property condition object.
 
-### [New-FsrmFMJNotification](./New-FsrmFMJNotification.md)
+### [New-FsrmFMJNotification](./new-fsrmfmjnotification.md)
 Returns a notification object for file management jobs.
 
-### [New-FsrmFmjNotificationAction](./New-FsrmFmjNotificationAction.md)
+### [New-FsrmFmjNotificationAction](./new-fsrmfmjnotificationaction.md)
 Returns a notification action object for file management jobs.
 
-### [New-FsrmQuota](./New-FsrmQuota.md)
+### [New-FsrmQuota](./new-fsrmquota.md)
 Creates a FSRM quota.
 
-### [New-FsrmQuotaTemplate](./New-FsrmQuotaTemplate.md)
+### [New-FsrmQuotaTemplate](./new-fsrmquotatemplate.md)
 Creates a quota template.
 
-### [New-FsrmQuotaThreshold](./New-FsrmQuotaThreshold.md)
+### [New-FsrmQuotaThreshold](./new-fsrmquotathreshold.md)
 Returns a quota threshold object.
 
-### [New-FsrmScheduledTask](./New-FsrmScheduledTask.md)
+### [New-FsrmScheduledTask](./new-fsrmscheduledtask.md)
 Creates a scheduled task object.
 
-### [New-FsrmStorageReport](./New-FsrmStorageReport.md)
+### [New-FsrmStorageReport](./new-fsrmstoragereport.md)
 Creates a storage report on the server.
 
-### [Remove-FsrmAutoQuota](./Remove-FsrmAutoQuota.md)
+### [Remove-FsrmAutoQuota](./remove-fsrmautoquota.md)
 Removes an auto apply quota from a server.
 
-### [Remove-FsrmClassificationPropertyDefinition](./Remove-FsrmClassificationPropertyDefinition.md)
+### [Remove-FsrmClassificationPropertyDefinition](./remove-fsrmclassificationpropertydefinition.md)
 Removes classification property definitions.
 
-### [Remove-FsrmClassificationRule](./Remove-FsrmClassificationRule.md)
+### [Remove-FsrmClassificationRule](./remove-fsrmclassificationrule.md)
 Removes classification rules.
 
-### [Remove-FsrmFileGroup](./Remove-FsrmFileGroup.md)
+### [Remove-FsrmFileGroup](./remove-fsrmfilegroup.md)
 Removes file groups from the server.
 
-### [Remove-FsrmFileManagementJob](./Remove-FsrmFileManagementJob.md)
+### [Remove-FsrmFileManagementJob](./remove-fsrmfilemanagementjob.md)
 Removes file management jobs.
 
-### [Remove-FsrmFileScreen](./Remove-FsrmFileScreen.md)
+### [Remove-FsrmFileScreen](./remove-fsrmfilescreen.md)
 Removes a file screen.
 
-### [Remove-FsrmFileScreenException](./Remove-FsrmFileScreenException.md)
+### [Remove-FsrmFileScreenException](./remove-fsrmfilescreenexception.md)
 Removes a file screen exception.
 
-### [Remove-FsrmFileScreenTemplate](./Remove-FsrmFileScreenTemplate.md)
+### [Remove-FsrmFileScreenTemplate](./remove-fsrmfilescreentemplate.md)
 Removes file screen templates.
 
-### [Remove-FsrmMgmtProperty](./Remove-FsrmMgmtProperty.md)
+### [Remove-FsrmMgmtProperty](./remove-fsrmmgmtproperty.md)
 Removes a management property.
 
-### [Remove-FsrmQuota](./Remove-FsrmQuota.md)
+### [Remove-FsrmQuota](./remove-fsrmquota.md)
 Removes a FSRM quota from the server.
 
-### [Remove-FsrmQuotaTemplate](./Remove-FsrmQuotaTemplate.md)
+### [Remove-FsrmQuotaTemplate](./remove-fsrmquotatemplate.md)
 Removes FSRM quota templates.
 
-### [Remove-FsrmStorageReport](./Remove-FsrmStorageReport.md)
+### [Remove-FsrmStorageReport](./remove-fsrmstoragereport.md)
 Removes storage reports.
 
-### [Reset-FsrmFileScreen](./Reset-FsrmFileScreen.md)
+### [Reset-FsrmFileScreen](./reset-fsrmfilescreen.md)
 Resets the default settings for all file screen parameters.
 
-### [Reset-FsrmQuota](./Reset-FsrmQuota.md)
+### [Reset-FsrmQuota](./reset-fsrmquota.md)
 Updates configuration settings of a FSRM quota.
 
-### [Send-FsrmTestEmail](./Send-FsrmTestEmail.md)
+### [Send-FsrmTestEmail](./send-fsrmtestemail.md)
 Sends a test email message.
 
-### [Set-FsrmAdrSetting](./Set-FsrmAdrSetting.md)
+### [Set-FsrmAdrSetting](./set-fsrmadrsetting.md)
 Changes configuration settings for access denied remediation.
 
-### [Set-FsrmAutoQuota](./Set-FsrmAutoQuota.md)
+### [Set-FsrmAutoQuota](./set-fsrmautoquota.md)
 Changes configuration settings of an auto apply quota.
 
-### [Set-FsrmClassification](./Set-FsrmClassification.md)
+### [Set-FsrmClassification](./set-fsrmclassification.md)
 Changes configuration settings for classification.
 
-### [Set-FsrmClassificationPropertyDefinition](./Set-FsrmClassificationPropertyDefinition.md)
+### [Set-FsrmClassificationPropertyDefinition](./set-fsrmclassificationpropertydefinition.md)
 Changes a classification property definition.
 
-### [Set-FsrmClassificationRule](./Set-FsrmClassificationRule.md)
+### [Set-FsrmClassificationRule](./set-fsrmclassificationrule.md)
 Changes configuration settings of classification rules.
 
-### [Set-FsrmFileGroup](./Set-FsrmFileGroup.md)
+### [Set-FsrmFileGroup](./set-fsrmfilegroup.md)
 Changes configuration settings for file groups.
 
-### [Set-FsrmFileManagementJob](./Set-FsrmFileManagementJob.md)
+### [Set-FsrmFileManagementJob](./set-fsrmfilemanagementjob.md)
 Changes configuration settings of a file management job.
 
-### [Set-FsrmFileScreen](./Set-FsrmFileScreen.md)
+### [Set-FsrmFileScreen](./set-fsrmfilescreen.md)
 Changes configuration settings of a file screen.
 
-### [Set-FsrmFileScreenException](./Set-FsrmFileScreenException.md)
+### [Set-FsrmFileScreenException](./set-fsrmfilescreenexception.md)
 Changes configuration settings of a file screen exception.
 
-### [Set-FsrmFileScreenTemplate](./Set-FsrmFileScreenTemplate.md)
+### [Set-FsrmFileScreenTemplate](./set-fsrmfilescreentemplate.md)
 Changes configuration settings of a file screen template.
 
-### [Set-FsrmMgmtProperty](./Set-FsrmMgmtProperty.md)
+### [Set-FsrmMgmtProperty](./set-fsrmmgmtproperty.md)
 Changes the setting of a management property.
 
-### [Set-FsrmQuota](./Set-FsrmQuota.md)
+### [Set-FsrmQuota](./set-fsrmquota.md)
 Changes configuration settings for a FSRM quota.
 
-### [Set-FsrmQuotaTemplate](./Set-FsrmQuotaTemplate.md)
+### [Set-FsrmQuotaTemplate](./set-fsrmquotatemplate.md)
 Changes configuration settings for FSRM quota templates.
 
-### [Set-FsrmSetting](./Set-FsrmSetting.md)
+### [Set-FsrmSetting](./set-fsrmsetting.md)
 Changes global FSRM settings for the computer.
 
-### [Set-FsrmStorageReport](./Set-FsrmStorageReport.md)
+### [Set-FsrmStorageReport](./set-fsrmstoragereport.md)
 Changes settings of a storage report.
 
-### [Start-FsrmClassification](./Start-FsrmClassification.md)
+### [Start-FsrmClassification](./start-fsrmclassification.md)
 Starts the classification process.
 
-### [Start-FsrmFileManagementJob](./Start-FsrmFileManagementJob.md)
+### [Start-FsrmFileManagementJob](./start-fsrmfilemanagementjob.md)
 Starts a file management job.
 
-### [Start-FsrmStorageReport](./Start-FsrmStorageReport.md)
+### [Start-FsrmStorageReport](./start-fsrmstoragereport.md)
 Starts generating storage reports.
 
-### [Stop-FsrmClassification](./Stop-FsrmClassification.md)
+### [Stop-FsrmClassification](./stop-fsrmclassification.md)
 Stops the running instance of a classification.
 
-### [Stop-FsrmFileManagementJob](./Stop-FsrmFileManagementJob.md)
+### [Stop-FsrmFileManagementJob](./stop-fsrmfilemanagementjob.md)
 Stops the running instance of a file management job.
 
-### [Stop-FsrmStorageReport](./Stop-FsrmStorageReport.md)
+### [Stop-FsrmStorageReport](./stop-fsrmstoragereport.md)
 Stops the running instance of storage reports.
 
-### [Update-FsrmAutoQuota](./Update-FsrmAutoQuota.md)
+### [Update-FsrmAutoQuota](./update-fsrmautoquota.md)
 Updates the properties of an auto apply quota.
 
-### [Update-FsrmClassificationPropertyDefinition](./Update-FsrmClassificationPropertyDefinition.md)
+### [Update-FsrmClassificationPropertyDefinition](./update-fsrmclassificationpropertydefinition.md)
 Updates the classification property definitions.
 
-### [Update-FsrmQuota](./Update-FsrmQuota.md)
+### [Update-FsrmQuota](./update-fsrmquota.md)
 Starts a quota scan on a path.
 
-### [Wait-FsrmClassification](./Wait-FsrmClassification.md)
+### [Wait-FsrmClassification](./wait-fsrmclassification.md)
 Waits for a period of time or until classification is finished running.
 
-### [Wait-FsrmFileManagementJob](./Wait-FsrmFileManagementJob.md)
+### [Wait-FsrmFileManagementJob](./wait-fsrmfilemanagementjob.md)
 Waits for file management jobs to finish running.
 
-### [Wait-FsrmStorageReport](./Wait-FsrmStorageReport.md)
+### [Wait-FsrmStorageReport](./wait-fsrmstoragereport.md)
 Waits for a period of time or until storage reports is finished running.
+
 
 

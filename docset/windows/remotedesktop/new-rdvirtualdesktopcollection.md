@@ -512,9 +512,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-RDVirtualDesktopCollection](./Get-RDVirtualDesktopCollection.md)
+[Get-RDVirtualDesktopCollection](./get-rdvirtualdesktopcollection.md)
 
-[Update-RDVirtualDesktopCollection](./Update-RDVirtualDesktopCollection.md)
+[Update-RDVirtualDesktopCollection](./update-rdvirtualdesktopcollection.md)
 
-[Remove-RDVirtualDesktopCollection](./Remove-RDVirtualDesktopCollection.md)
+[Remove-RDVirtualDesktopCollection](./remove-rdvirtualdesktopcollection.md)
+
 

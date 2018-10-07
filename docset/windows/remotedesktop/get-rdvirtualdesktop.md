@@ -94,7 +94,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Move-RDVirtualDesktop](./Move-RDVirtualDesktop.md)
+[Move-RDVirtualDesktop](./move-rdvirtualdesktop.md)
 
-[Get-RDVirtualDesktopCollection](./Get-RDVirtualDesktopCollection.md)
+[Get-RDVirtualDesktopCollection](./get-rdvirtualdesktopcollection.md)
+
 

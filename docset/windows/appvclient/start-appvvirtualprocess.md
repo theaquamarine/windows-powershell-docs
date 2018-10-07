@@ -319,9 +319,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-AppvClientConnectionGroup](./Get-AppvClientConnectionGroup.md)
+[Get-AppvClientConnectionGroup](./get-appvclientconnectiongroup.md)
 
-[Get-AppvClientPackage](./Get-AppvClientPackage.md)
+[Get-AppvClientPackage](./get-appvclientpackage.md)
 
-[Get-AppvVirtualProcess](./Get-AppvVirtualProcess.md)
+[Get-AppvVirtualProcess](./get-appvvirtualprocess.md)
+
 

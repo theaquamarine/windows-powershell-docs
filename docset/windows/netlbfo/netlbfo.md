@@ -26,43 +26,44 @@ This reference provides cmdlet descriptions and syntax for all NIC Teaming (NetL
 NOTE: The NIC Teaming feature is available only on Windows Server 2012 and later server operating systems. This feature is not available on Windows 10 or any other client operating systems. The NIC Teaming Windows PowerShell cmdlets are available on Windows 10 and other client operating systems to enable the management of NIC teams on remote computers that are running Windows Server 2016, Windows Server 2012, R2 and Windows Server 2012.
 
 ## NetLbfo Cmdlets
-### [Add-NetLbfoTeamMember](./Add-NetLbfoTeamMember.md)
+### [Add-NetLbfoTeamMember](./add-netlbfoteammember.md)
 Adds a new member (network adapter) to a specified NIC team.
 
-### [Add-NetLbfoTeamNic](./Add-NetLbfoTeamNic.md)
+### [Add-NetLbfoTeamNic](./add-netlbfoteamnic.md)
 Adds a new interface to a NIC team.
 
-### [Get-NetLbfoTeam](./Get-NetLbfoTeam.md)
+### [Get-NetLbfoTeam](./get-netlbfoteam.md)
 Gets a list of NIC teams on the system.
 
-### [Get-NetLbfoTeamMember](./Get-NetLbfoTeamMember.md)
+### [Get-NetLbfoTeamMember](./get-netlbfoteammember.md)
 Gets network adapters that are members of a NIC team.
 
-### [Get-NetLbfoTeamNic](./Get-NetLbfoTeamNic.md)
+### [Get-NetLbfoTeamNic](./get-netlbfoteamnic.md)
 Gets a list of team interfaces.
 
-### [New-NetLbfoTeam](./New-NetLbfoTeam.md)
+### [New-NetLbfoTeam](./new-netlbfoteam.md)
 Creates a new NIC team.
 
-### [Remove-NetLbfoTeam](./Remove-NetLbfoTeam.md)
+### [Remove-NetLbfoTeam](./remove-netlbfoteam.md)
 Removes the specified NIC team from the host.
 
-### [Remove-NetLbfoTeamMember](./Remove-NetLbfoTeamMember.md)
+### [Remove-NetLbfoTeamMember](./remove-netlbfoteammember.md)
 Removes one or more network adapters from a NIC team.
 
-### [Remove-NetLbfoTeamNic](./Remove-NetLbfoTeamNic.md)
+### [Remove-NetLbfoTeamNic](./remove-netlbfoteamnic.md)
 Removes a team interface from a NIC team.
 
-### [Rename-NetLbfoTeam](./Rename-NetLbfoTeam.md)
+### [Rename-NetLbfoTeam](./rename-netlbfoteam.md)
 Renames a NIC team.
 
-### [Set-NetLbfoTeam](./Set-NetLbfoTeam.md)
+### [Set-NetLbfoTeam](./set-netlbfoteam.md)
 Sets parameters on the specified NIC team.
 
-### [Set-NetLbfoTeamMember](./Set-NetLbfoTeamMember.md)
+### [Set-NetLbfoTeamMember](./set-netlbfoteammember.md)
 Sets the role of a member network adapter in a NIC team.
 
-### [Set-NetLbfoTeamNic](./Set-NetLbfoTeamNic.md)
+### [Set-NetLbfoTeamNic](./set-netlbfoteamnic.md)
 Sets a new VLAN id on a team interface, or restores the interface to Default mode.
+
 
 

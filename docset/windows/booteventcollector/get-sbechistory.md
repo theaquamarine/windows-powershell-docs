@@ -120,7 +120,8 @@ Otherwise will be empty.`<ConnectedSince>`: CIM timestamp of when the connection
 
 ## RELATED LINKS
 
-[Get-SbecDestination](./Get-SbecDestination.md)
+[Get-SbecDestination](./get-sbecdestination.md)
 
-[Get-SbecForwarding](./Get-SbecForwarding.md)
+[Get-SbecForwarding](./get-sbecforwarding.md)
+
 

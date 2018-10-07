@@ -42,7 +42,7 @@ Export-PfxCertificate [-NoProperties] [-NoClobber] [-Force] [-ChainOption <Expor
 The **Export-PfxCertificate** cmdlet exports a certificate or a **PFXData** object to a Personal Information Exchange (PFX) file.
 By default, extended properties and the entire chain are exported.
 
-Delegation may be required when using this cmdlet with Windows PowerShell® remoting and changing user configuration.
+Delegation may be required when using this cmdlet with Windows PowerShell?? remoting and changing user configuration.
 
 ## EXAMPLES
 
@@ -88,7 +88,7 @@ Export-PfxCertificate -Cert $a[1] -FilePath C:\myexport.pfx -ProtectTo "contoso\
 
 This example exports a certificate from the current machine store.
 Both user accounts, contos\billb99 and contos\johnj99, can access this PFX with no password.
-A Windows® 8 DC for key distribution is required.
+A Windows?? 8 DC for key distribution is required.
 
 ### EXAMPLE 5
 ```
@@ -280,7 +280,7 @@ Accept wildcard characters: False
 
 ### -ProtectTo
 Specifies an array of strings for the username or group name that can access the private key of PFX file without any password.
-This requires a Windows Server® 2012 domain controller.
+This requires a Windows Server?? 2012 domain controller.
 Either the **Password** or this parameter must be specified, or an error will be displayed.
 
 ```yaml
@@ -332,7 +332,8 @@ The **FileInfo** object contains the information about the PFX file.
 
 [Get-ChildItem](http://go.microsoft.com/fwlink/p/?LinkId=290488)
 
-[Get-PfxData](./Get-PfxData.md)
+[Get-PfxData](./get-pfxdata.md)
 
-[Import-PfxCertificate](./Import-PfxCertificate.md)
+[Import-PfxCertificate](./import-pfxcertificate.md)
+
 

@@ -30,7 +30,7 @@ Remove-ADAuthenticationPolicy [-WhatIf] [-Confirm] [-AuthType <ADAuthType>] [-Cr
 ```
 
 ## DESCRIPTION
-The **Remove-ADAuthenticationPolicy** cmdlet removes an Active Directory® Domain Services authentication policy.
+The **Remove-ADAuthenticationPolicy** cmdlet removes an Active Directory?? Domain Services authentication policy.
 
 The *Identity* parameter specifies the Active Directory Domain Services authentication policy to remove.
 You can identify an authentication policy by its distinguished name, GUID or name.
@@ -207,11 +207,12 @@ This cmdlet accepts an authentication policy object.
 
 ## RELATED LINKS
 
-[Get-ADAuthenticationPolicy](./Get-ADAuthenticationPolicy.md)
+[Get-ADAuthenticationPolicy](./get-adauthenticationpolicy.md)
 
-[New-ADAuthenticationPolicy](./New-ADAuthenticationPolicy.md)
+[New-ADAuthenticationPolicy](./new-adauthenticationpolicy.md)
 
-[Set-ADAuthenticationPolicy](./Set-ADAuthenticationPolicy.md)
+[Set-ADAuthenticationPolicy](./set-adauthenticationpolicy.md)
 
 [AD DS Administration Cmdlets in Windows PowerShell](./activedirectory.md)
+
 

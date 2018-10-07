@@ -277,7 +277,8 @@ To view all of the properties for an **ADDomain** object, use the following comm
 
 ## RELATED LINKS
 
-[Set-ADDomain](./Set-ADDomain.md)
+[Set-ADDomain](./set-addomain.md)
 
-[Set-ADDomainMode](./Set-ADDomainMode.md)
+[Set-ADDomainMode](./set-addomainmode.md)
+
 

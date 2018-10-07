@@ -24,40 +24,41 @@ ms.assetid: 517B5AA8-5FAF-41F1-BA11-2C87D3E78FC1
 This reference provides cmdlet descriptions and syntax for all Windows Data Access Components (Windows DAC) cmdlets. It lists the cmdlets in alphabetical order based on the verb at the beginning of the cmdlet.
 
 ## Wdac Cmdlets
-### [Add-OdbcDsn](./Add-OdbcDsn.md)
+### [Add-OdbcDsn](./add-odbcdsn.md)
 Adds an ODBC DSN.
 
-### [Disable-OdbcPerfCounter](./Disable-OdbcPerfCounter.md)
+### [Disable-OdbcPerfCounter](./disable-odbcperfcounter.md)
 Disables connection pooling Performance Monitor counters.
 
-### [Disable-WdacBidTrace](./Disable-WdacBidTrace.md)
+### [Disable-WdacBidTrace](./disable-wdacbidtrace.md)
 Disables BidTrace for Windows DAC.
 
-### [Enable-OdbcPerfCounter](./Enable-OdbcPerfCounter.md)
+### [Enable-OdbcPerfCounter](./enable-odbcperfcounter.md)
 Enables connection pooling Performance Monitor counters.
 
-### [Enable-WdacBidTrace](./Enable-WdacBidTrace.md)
+### [Enable-WdacBidTrace](./enable-wdacbidtrace.md)
 Enables BidTrace for troubleshooting Windows DAC.
 
-### [Get-OdbcDriver](./Get-OdbcDriver.md)
+### [Get-OdbcDriver](./get-odbcdriver.md)
 Gets installed ODBC drivers.
 
-### [Get-OdbcDsn](./Get-OdbcDsn.md)
+### [Get-OdbcDsn](./get-odbcdsn.md)
 Gets ODBC DSNs.
 
-### [Get-OdbcPerfCounter](./Get-OdbcPerfCounter.md)
+### [Get-OdbcPerfCounter](./get-odbcperfcounter.md)
 Gets connection pooling Performance Monitor counters.
 
-### [Get-WdacBidTrace](./Get-WdacBidTrace.md)
+### [Get-WdacBidTrace](./get-wdacbidtrace.md)
 Gets BidTrace settings.
 
-### [Remove-OdbcDsn](./Remove-OdbcDsn.md)
+### [Remove-OdbcDsn](./remove-odbcdsn.md)
 Removes ODBC DSNs.
 
-### [Set-OdbcDriver](./Set-OdbcDriver.md)
+### [Set-OdbcDriver](./set-odbcdriver.md)
 Configures the properties for installed ODBC drivers.
 
-### [Set-OdbcDsn](./Set-OdbcDsn.md)
+### [Set-OdbcDsn](./set-odbcdsn.md)
 Configures properties for existing ODBC DSNs.
+
 
 

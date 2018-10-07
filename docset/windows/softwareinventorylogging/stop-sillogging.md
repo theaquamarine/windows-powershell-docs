@@ -102,11 +102,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-SilLogging](./Get-SilLogging.md)
+[Get-SilLogging](./get-sillogging.md)
 
-[Set-SilLogging](./Set-SilLogging.md)
+[Set-SilLogging](./set-sillogging.md)
 
-[Start-SilLogging](./Start-SilLogging.md)
+[Start-SilLogging](./start-sillogging.md)
 
-[Publish-SilData](./Publish-SilData.md)
+[Publish-SilData](./publish-sildata.md)
+
 

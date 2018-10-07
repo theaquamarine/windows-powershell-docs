@@ -175,9 +175,10 @@ The `<Success>` element is $True on success, $False otherwise.
 
 ## RELATED LINKS
 
-[Get-SbecActiveConfig](./Get-SbecActiveConfig.md)
+[Get-SbecActiveConfig](./get-sbecactiveconfig.md)
 
-[Set-SbecActiveConfig](./Set-SbecActiveConfig.md)
+[Set-SbecActiveConfig](./set-sbecactiveconfig.md)
 
-[Test-SbecActiveConfig](./Test-SbecActiveConfig.md)
+[Test-SbecActiveConfig](./test-sbecactiveconfig.md)
+
 

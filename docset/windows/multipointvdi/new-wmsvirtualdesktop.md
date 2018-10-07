@@ -189,9 +189,10 @@ None.
 
 ## RELATED LINKS
 
-[Get-WmsVirtualDesktop](./Get-WmsVirtualDesktop.md)
+[Get-WmsVirtualDesktop](./get-wmsvirtualdesktop.md)
 
-[Import-WmsVirtualDesktop](./Import-WmsVirtualDesktop.md)
+[Import-WmsVirtualDesktop](./import-wmsvirtualdesktop.md)
 
-[Open-WmsVirtualDesktop](./Open-WmsVirtualDesktop.md)
+[Open-WmsVirtualDesktop](./open-wmsvirtualdesktop.md)
+
 

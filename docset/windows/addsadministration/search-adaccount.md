@@ -595,19 +595,20 @@ This cmdlet returns one or more account objects that meet the conditions set by 
 
 ## RELATED LINKS
 
-[Clear-ADAccountExpiration](./Clear-ADAccountExpiration.md)
+[Clear-ADAccountExpiration](./clear-adaccountexpiration.md)
 
-[Disable-ADAccount](./Disable-ADAccount.md)
+[Disable-ADAccount](./disable-adaccount.md)
 
-[Enable-ADAccount](./Enable-ADAccount.md)
+[Enable-ADAccount](./enable-adaccount.md)
 
-[Get-ADAccountResultantPasswordReplicationPolicy](./Get-ADAccountResultantPasswordReplicationPolicy.md)
+[Get-ADAccountResultantPasswordReplicationPolicy](./get-adaccountresultantpasswordreplicationpolicy.md)
 
-[Set-ADAccountControl](./Set-ADAccountControl.md)
+[Set-ADAccountControl](./set-adaccountcontrol.md)
 
-[Set-ADAccountExpiration](./Set-ADAccountExpiration.md)
+[Set-ADAccountExpiration](./set-adaccountexpiration.md)
 
-[Set-ADAccountPassword](./Set-ADAccountPassword.md)
+[Set-ADAccountPassword](./set-adaccountpassword.md)
 
-[Unlock-ADAccount](./Unlock-ADAccount.md)
+[Unlock-ADAccount](./unlock-adaccount.md)
+
 

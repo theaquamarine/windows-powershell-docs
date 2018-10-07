@@ -229,11 +229,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Set-VmNetworkAdapterIsolation](./Set-VmNetworkAdapterIsolation.md)
+[Set-VmNetworkAdapterIsolation](./set-vmnetworkadapterisolation.md)
 
-[Get-VM](./Get-VM.md)
+[Get-VM](./get-vm.md)
 
-[Get-VMSnapshot](./Get-VMSnapshot.md)
+[Get-VMSnapshot](./get-vmsnapshot.md)
 
-[Get-VMNetworkAdapter](./Get-VMNetworkAdapter.md)
+[Get-VMNetworkAdapter](./get-vmnetworkadapter.md)
+
 

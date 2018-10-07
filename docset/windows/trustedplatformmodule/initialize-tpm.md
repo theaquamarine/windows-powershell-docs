@@ -56,7 +56,7 @@ The cmdlet returns an object with information about the state of the provisionin
 ## PARAMETERS
 
 ### -AllowClear
-Indicates that the provisioning process clears the TPM, if necessary, to move the TPM closer to complying with Windows Server® 2012 standards.
+Indicates that the provisioning process clears the TPM, if necessary, to move the TPM closer to complying with Windows Server?? 2012 standards.
 
 ```yaml
 Type: SwitchParameter
@@ -97,7 +97,7 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 ### TpmProvisioningObject
 This cmdlet returns a **TpmProvisioningObject** object that includes the following information:
 
-- TpmReady. Whether the TPM is complies with Windows Server® 2012 standards.
+- TpmReady. Whether the TPM is complies with Windows Server?? 2012 standards.
 - RestartRequired. Whether the computer requires a restart to continue the provisioning process.
 - ShutdownRequired. Whether the computer must be shut down to continue the provisioning process.
 - ClearRequired. If this has a value of True, you must import an owner authorization value or remove the owner authorization value. 
@@ -107,9 +107,10 @@ This cmdlet returns a **TpmProvisioningObject** object that includes the followi
 
 ## RELATED LINKS
 
-[Clear-Tpm](./Clear-Tpm.md)
+[Clear-Tpm](./clear-tpm.md)
 
-[Get-Tpm](./Get-Tpm.md)
+[Get-Tpm](./get-tpm.md)
 
-[Unblock-Tpm](./Unblock-Tpm.md)
+[Unblock-Tpm](./unblock-tpm.md)
+
 

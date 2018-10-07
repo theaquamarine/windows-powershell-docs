@@ -477,11 +477,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-VMNetworkAdapterExtendedAcl](./Get-VMNetworkAdapterExtendedAcl.md)
+[Get-VMNetworkAdapterExtendedAcl](./get-vmnetworkadapterextendedacl.md)
 
-[Remove-VMNetworkAdapterExtendedAcl](./Remove-VMNetworkAdapterExtendedAcl.md)
+[Remove-VMNetworkAdapterExtendedAcl](./remove-vmnetworkadapterextendedacl.md)
 
-[Get-VM](./Get-VM.md)
+[Get-VM](./get-vm.md)
 
-[Set-VmNetworkAdapterIsolation](./Set-VmNetworkAdapterIsolation.md)
+[Set-VmNetworkAdapterIsolation](./set-vmnetworkadapterisolation.md)
+
 

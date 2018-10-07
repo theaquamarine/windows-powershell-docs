@@ -231,11 +231,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-NlbClusterPortRule](./Add-NlbClusterPortRule.md)
+[Add-NlbClusterPortRule](./add-nlbclusterportrule.md)
 
-[Get-NlbClusterPortRule](./Get-NlbClusterPortRule.md)
+[Get-NlbClusterPortRule](./get-nlbclusterportrule.md)
 
-[Set-NlbClusterPortRule](./Set-NlbClusterPortRule.md)
+[Set-NlbClusterPortRule](./set-nlbclusterportrule.md)
 
-[Set-NlbClusterPortRuleNodeHandlingPriority](./Set-NlbClusterPortRuleNodeHandlingPriority.md)
+[Set-NlbClusterPortRuleNodeHandlingPriority](./set-nlbclusterportrulenodehandlingpriority.md)
+
 

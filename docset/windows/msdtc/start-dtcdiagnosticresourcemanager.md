@@ -29,7 +29,7 @@ Start-DtcDiagnosticResourceManager [[-Port] <Int32>] [[-Name] <String>] [<Common
 ```
 
 ## DESCRIPTION
-The **Start-DtcDiagnosticResourceManager** cmdlet starts a diagnostic Resource Manager (RM) as a Windows PowerShell® background job.
+The **Start-DtcDiagnosticResourceManager** cmdlet starts a diagnostic Resource Manager (RM) as a Windows PowerShell?? background job.
 
 ## EXAMPLES
 
@@ -85,7 +85,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Join-DtcDiagnosticResourceManager](./Join-DtcDiagnosticResourceManager.md)
+[Join-DtcDiagnosticResourceManager](./join-dtcdiagnosticresourcemanager.md)
 
-[Stop-DtcDiagnosticResourceManager](./Stop-DtcDiagnosticResourceManager.md)
+[Stop-DtcDiagnosticResourceManager](./stop-dtcdiagnosticresourcemanager.md)
+
 

@@ -568,9 +568,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-CauClusterRole](./Add-CauClusterRole.md)
+[Add-CauClusterRole](./add-cauclusterrole.md)
 
-[Get-CauRun](./Get-CauRun.md)
+[Get-CauRun](./get-caurun.md)
 
-[Stop-CauRun](./Stop-CauRun.md)
+[Stop-CauRun](./stop-caurun.md)
+
 

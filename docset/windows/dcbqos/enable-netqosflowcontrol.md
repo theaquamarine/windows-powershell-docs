@@ -43,7 +43,7 @@ Enable-NetQosFlowControl -InputObject <CimInstance[]> [-PassThru] [-CimSession <
 ```
 
 ## DESCRIPTION
-The **Enable-NetQosFlowControl** cmdlet enables priority-based flow control (PFC) in Windows Server® 2012 and later.
+The **Enable-NetQosFlowControl** cmdlet enables priority-based flow control (PFC) in Windows Server?? 2012 and later.
 PFC is part of the IEEE data center bridging (DCB) standard.
 If Windows Server 2012 or later is configured to be **not willing** to accept configurations from a remote device, Windows Server 2012 or later programs DCB capable NICs, which enables PFC at the link level.
 
@@ -240,11 +240,12 @@ Only if you specify the *PassThru* parameter does this cmdlet return the **MSFT_
 
 ## RELATED LINKS
 
-[Disable-NetQosFlowControl](./Disable-NetQosFlowControl.md)
+[Disable-NetQosFlowControl](./disable-netqosflowcontrol.md)
 
-[Get-NetQosFlowControl](./Get-NetQosFlowControl.md)
+[Get-NetQosFlowControl](./get-netqosflowcontrol.md)
 
-[Set-NetQosDcbxSetting](./Set-NetQosDcbxSetting.md)
+[Set-NetQosDcbxSetting](./set-netqosdcbxsetting.md)
 
-[Set-NetQosFlowControl](./Set-NetQosFlowControl.md)
+[Set-NetQosFlowControl](./set-netqosflowcontrol.md)
+
 

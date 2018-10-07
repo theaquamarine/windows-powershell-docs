@@ -284,13 +284,14 @@ This cmdlet returns an object that contains the following fields:
 
 ## RELATED LINKS
 
-[Disable-NetworkControllerNode](./Disable-NetworkControllerNode.md)
+[Disable-NetworkControllerNode](./disable-networkcontrollernode.md)
 
-[Enable-NetworkControllerNode](./Enable-NetworkControllerNode.md)
+[Enable-NetworkControllerNode](./enable-networkcontrollernode.md)
 
-[Get-NetworkControllerNode](./Get-NetworkControllerNode.md)
+[Get-NetworkControllerNode](./get-networkcontrollernode.md)
 
-[Remove-NetworkControllerNode](./Remove-NetworkControllerNode.md)
+[Remove-NetworkControllerNode](./remove-networkcontrollernode.md)
 
-[Set-NetworkControllerNode](./Set-NetworkControllerNode.md)
+[Set-NetworkControllerNode](./set-networkcontrollernode.md)
+
 

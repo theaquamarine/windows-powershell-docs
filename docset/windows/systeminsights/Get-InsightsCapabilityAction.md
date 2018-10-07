@@ -118,3 +118,4 @@ The cmdlet returns one or more objects that represent the specified capability a
 [Get-InsightsCapability](get-insightscapability.md)<br>
 [Set-InsightsCapabilityAction](set-insightscapabilityaction.md)<br>
 [Remove-InsightsCapabilityAction](remove-insightscapabilityaction.md)
+

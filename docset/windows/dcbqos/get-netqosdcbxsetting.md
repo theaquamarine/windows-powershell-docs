@@ -38,7 +38,7 @@ Get-NetQosDcbxSetting [[-InterfaceIndex] <UInt32>] [-CimSession <CimSession[]>] 
 
 ## DESCRIPTION
 The **Get-NetQosDcbxSetting** cmdlet gets data center bridging exchange (DCBX) settings.
-The only setting that Windows Server® 2012 allows you to configure is whether the network adapters in the computer that runs Windows Server 2012 or later  accepts data center bridging (DCB) configurations from the computer or from a remote device.
+The only setting that Windows Server?? 2012 allows you to configure is whether the network adapters in the computer that runs Windows Server 2012 or later  accepts data center bridging (DCB) configurations from the computer or from a remote device.
 
 DCB is the IEEE standard.
 DCBX is part of the DCB standard.
@@ -155,5 +155,6 @@ This cmdlet returns a **MSFT_NetQosDcbxSettingData** object that contains the DC
 
 ## RELATED LINKS
 
-[Set-NetQosDcbxSetting](./Set-NetQosDcbxSetting.md)
+[Set-NetQosDcbxSetting](./set-netqosdcbxsetting.md)
+
 

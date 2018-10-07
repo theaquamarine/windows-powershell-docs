@@ -173,7 +173,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -207,15 +207,16 @@ The path after the pound sign (`#`) provides the namespace and class name for th
 
 [Get-Command](http://go.microsoft.com/fwlink/p/?LinkId=113309)
 
-[New-NetFirewallRule](./New-NetFirewallRule.md)
+[New-NetFirewallRule](./new-netfirewallrule.md)
 
-[Remove-NetFirewallRule](./Remove-NetFirewallRule.md)
+[Remove-NetFirewallRule](./remove-netfirewallrule.md)
 
-[Save-NetGPO](./Save-NetGPO.md)
+[Save-NetGPO](./save-netgpo.md)
 
-[New-NetIPsecRule](./New-NetIPsecRule.md)
+[New-NetIPsecRule](./new-netipsecrule.md)
 
-[Set-NetIPsecRule](./Set-NetIPsecRule.md)
+[Set-NetIPsecRule](./set-netipsecrule.md)
 
 [Get-ADDomainController](../addsadministration/Get-ADDomainController.md)
+
 

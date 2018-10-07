@@ -43,7 +43,7 @@ Unregister-StorageSubsystem -InputObject <CimInstance[]> [-StorageSubSystemUniqu
 ```
 
 ## DESCRIPTION
-The **Unregister-StorageSubsystem** cmdlet disconnects storage management in Windows Server® 2012 R2 from storage subsystems on a remote computer or remote cluster.
+The **Unregister-StorageSubsystem** cmdlet disconnects storage management in Windows Server?? 2012 R2 from storage subsystems on a remote computer or remote cluster.
 When you disconnect from a storage subsystem, you cannot use the management node to remotely manage the storage subsystem.
 
 ## EXAMPLES
@@ -53,7 +53,7 @@ When you disconnect from a storage subsystem, you cannot use the management node
 PS C:\> Unregister-StorageSubsystem -ProviderName "Provider16"
 ```
 
-This command disconnects Windows Server® 2012 from the storage subsystems that the storage provider named Provider16 manages on the remote computer.
+This command disconnects Windows Server?? 2012 from the storage subsystems that the storage provider named Provider16 manages on the remote computer.
 
 ## PARAMETERS
 
@@ -154,7 +154,7 @@ Accept wildcard characters: False
 ### -ProviderUniqueId
 Specifies an array of unique IDs of providers.
 The cmdlet disconnects from the storage subsystems that are managed by the storage provider that you specify.
-Windows Server® 2012 retains the provider ID through computer restarts.
+Windows Server?? 2012 retains the provider ID through computer restarts.
 
 ```yaml
 Type: String[]
@@ -171,7 +171,7 @@ Accept wildcard characters: False
 ### -StorageSubSystemUniqueId
 Specifies the unique ID of the storage subsystem in the system.
 The cmdlet disconnects from the storage subsystem that you specify.
-Windows Server® 2012 retains the storage subsystem ID through computer restarts.
+Windows Server?? 2012 retains the storage subsystem ID through computer restarts.
 
 ```yaml
 Type: String
@@ -187,7 +187,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -222,5 +222,6 @@ If you specify the *PassThru* parameter, this cmdlet returns an object that repr
 
 ## RELATED LINKS
 
-[Register-StorageSubsystem](./Register-StorageSubsystem.md)
+[Register-StorageSubsystem](./register-storagesubsystem.md)
+
 

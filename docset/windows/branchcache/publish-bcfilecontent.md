@@ -202,7 +202,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -220,7 +220,7 @@ Accept wildcard characters: False
 ### -UseVersion
 Specifies the version of the BranchCache hashing scheme to use.
 If the version specified is 1, content information is generated according to the scheme used by Windows 7 clients.
-If version specified is 2, content information is generated according to the more efficient hashing scheme used by client computers that run operating systems later than Windows® 7.
+If version specified is 2, content information is generated according to the more efficient hashing scheme used by client computers that run operating systems later than Windows?? 7.
 
 ```yaml
 Type: UInt32
@@ -265,5 +265,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Export-BCCachePackage](./Export-BCCachePackage.md)
+[Export-BCCachePackage](./export-bccachepackage.md)
+
 

@@ -457,7 +457,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -520,11 +520,12 @@ This cmdlet returns a printer object.
 
 ## RELATED LINKS
 
-[Add-Printer](./Add-Printer.md)
+[Add-Printer](./add-printer.md)
 
-[Get-Printer](./Get-Printer.md)
+[Get-Printer](./get-printer.md)
 
-[Remove-Printer](./Remove-Printer.md)
+[Remove-Printer](./remove-printer.md)
 
-[Rename-Printer](./Rename-Printer.md)
+[Rename-Printer](./rename-printer.md)
+
 

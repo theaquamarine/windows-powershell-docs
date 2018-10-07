@@ -144,9 +144,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Block-ClusterAccess](./Block-ClusterAccess.md)
+[Block-ClusterAccess](./block-clusteraccess.md)
 
-[Get-ClusterAccess](./Get-ClusterAccess.md)
+[Get-ClusterAccess](./get-clusteraccess.md)
 
-[Remove-ClusterAccess](./Remove-ClusterAccess.md)
+[Remove-ClusterAccess](./remove-clusteraccess.md)
+
 

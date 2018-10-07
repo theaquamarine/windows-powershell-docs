@@ -179,7 +179,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -227,15 +227,16 @@ The path after the pound sign (`#`) provides the namespace and class name for th
 
 ## RELATED LINKS
 
-[Disable-NetNatTransitionConfiguration](./Disable-NetNatTransitionConfiguration.md)
+[Disable-NetNatTransitionConfiguration](./disable-netnattransitionconfiguration.md)
 
-[Enable-NetNatTransitionConfiguration](./Enable-NetNatTransitionConfiguration.md)
+[Enable-NetNatTransitionConfiguration](./enable-netnattransitionconfiguration.md)
 
-[Get-NetNatTransitionConfiguration](./Get-NetNatTransitionConfiguration.md)
+[Get-NetNatTransitionConfiguration](./get-netnattransitionconfiguration.md)
 
-[Get-NetNatTransitionMonitoring](./Get-NetNatTransitionMonitoring.md)
+[Get-NetNatTransitionMonitoring](./get-netnattransitionmonitoring.md)
 
-[New-NetNatTransitionConfiguration](./New-NetNatTransitionConfiguration.md)
+[New-NetNatTransitionConfiguration](./new-netnattransitionconfiguration.md)
 
-[Set-NetNatTransitionConfiguration](./Set-NetNatTransitionConfiguration.md)
+[Set-NetNatTransitionConfiguration](./set-netnattransitionconfiguration.md)
+
 

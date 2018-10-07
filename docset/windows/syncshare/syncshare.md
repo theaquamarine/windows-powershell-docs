@@ -24,34 +24,35 @@ ms.assetid: C13F141F-5421-486B-8F08-61936A9757E8
 This reference provides cmdlet descriptions and syntax for all Sync Share-specific cmdlets. It lists the cmdlets in alphabetical order based on the verb at the beginning of the cmdlet.
 
 ## SyncShare Cmdlets
-### [Disable-SyncShare](./Disable-SyncShare.md)
+### [Disable-SyncShare](./disable-syncshare.md)
 Disables a Sync Share.
 
-### [Enable-SyncShare](./Enable-SyncShare.md)
+### [Enable-SyncShare](./enable-syncshare.md)
 Enables a Sync Share.
 
-### [Get-SyncServerSetting](./Get-SyncServerSetting.md)
+### [Get-SyncServerSetting](./get-syncserversetting.md)
 Gets the settings of the Sync Share server.
 
-### [Get-SyncShare](./Get-SyncShare.md)
+### [Get-SyncShare](./get-syncshare.md)
 Gets one or more Sync Shares.
 
-### [Get-SyncUserStatus](./Get-SyncUserStatus.md)
+### [Get-SyncUserStatus](./get-syncuserstatus.md)
 Gets the user status from the Sync Share server.
 
-### [New-SyncShare](./New-SyncShare.md)
+### [New-SyncShare](./new-syncshare.md)
 Creates a Sync Share.
 
-### [Remove-SyncShare](./Remove-SyncShare.md)
+### [Remove-SyncShare](./remove-syncshare.md)
 Removes a Sync Share.
 
-### [Repair-SyncShare](./Repair-SyncShare.md)
+### [Repair-SyncShare](./repair-syncshare.md)
 Repairs the sync metadata for a user.
 
-### [Set-SyncServerSetting](./Set-SyncServerSetting.md)
+### [Set-SyncServerSetting](./set-syncserversetting.md)
 Modifies settings of the Sync Share.
 
-### [Set-SyncShare](./Set-SyncShare.md)
+### [Set-SyncShare](./set-syncshare.md)
 Modifies the settings for a Sync Share.
+
 
 

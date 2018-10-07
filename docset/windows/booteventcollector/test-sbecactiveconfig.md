@@ -133,9 +133,10 @@ The result of comparison: $True or $False.
 
 ## RELATED LINKS
 
-[Get-SbecActiveConfig](./Get-SbecActiveConfig.md)
+[Get-SbecActiveConfig](./get-sbecactiveconfig.md)
 
-[Set-SbecActiveConfig](./Set-SbecActiveConfig.md)
+[Set-SbecActiveConfig](./set-sbecactiveconfig.md)
 
-[Test-SbecConfig](./Test-SbecConfig.md)
+[Test-SbecConfig](./test-sbecconfig.md)
+
 

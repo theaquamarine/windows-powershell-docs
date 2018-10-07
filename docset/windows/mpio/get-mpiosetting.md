@@ -73,5 +73,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Set-MPIOSetting](./Set-MPIOSetting.md)
+[Set-MPIOSetting](./set-mpiosetting.md)
+
 

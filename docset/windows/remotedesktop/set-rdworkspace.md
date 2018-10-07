@@ -88,5 +88,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-RDWorkspace](./Get-RDWorkspace.md)
+[Get-RDWorkspace](./get-rdworkspace.md)
+
 

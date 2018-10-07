@@ -347,15 +347,16 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-EtwTraceSession](./Get-EtwTraceSession.md)
+[Get-EtwTraceSession](./get-etwtracesession.md)
 
-[New-EtwTraceSession](./New-EtwTraceSession.md)
+[New-EtwTraceSession](./new-etwtracesession.md)
 
-[Save-EtwTraceSession](./Save-EtwTraceSession.md)
+[Save-EtwTraceSession](./save-etwtracesession.md)
 
-[Send-EtwTraceSession](./Send-EtwTraceSession.md)
+[Send-EtwTraceSession](./send-etwtracesession.md)
 
-[Stop-EtwTraceSession](./Stop-EtwTraceSession.md)
+[Stop-EtwTraceSession](./stop-etwtracesession.md)
 
-[Update-EtwTraceSession](./Update-EtwTraceSession.md)
+[Update-EtwTraceSession](./update-etwtracesession.md)
+
 

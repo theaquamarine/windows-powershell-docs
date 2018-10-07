@@ -304,9 +304,10 @@ An **ADOrganizationalUnit** object is received by the *Identity* parameter.
 
 ## RELATED LINKS
 
-[Get-ADOrganizationalUnit](./Get-ADOrganizationalUnit.md)
+[Get-ADOrganizationalUnit](./get-adorganizationalunit.md)
 
-[New-ADOrganizationalUnit](./New-ADOrganizationalUnit.md)
+[New-ADOrganizationalUnit](./new-adorganizationalunit.md)
 
-[Set-ADOrganizationalUnit](./Set-ADOrganizationalUnit.md)
+[Set-ADOrganizationalUnit](./set-adorganizationalunit.md)
+
 

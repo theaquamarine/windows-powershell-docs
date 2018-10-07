@@ -168,5 +168,7 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Expand-WindowsImage](./Expand-WindowsImage.md)
+[Expand-WindowsImage](./expand-windowsimage.md)
+
+
 

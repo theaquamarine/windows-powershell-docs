@@ -37,7 +37,7 @@ If the computer does not support Secure Boot or is a non-UEFI computer, this cmd
 
 `Secure Boot policy is not enabled on this machine.`
 
-If you do not run Windows PowerShell® in administrator mode, this cmdlet returns an error displaying the following: 
+If you do not run Windows PowerShell?? in administrator mode, this cmdlet returns an error displaying the following: 
 
 `Incorrect authentication data.`
 
@@ -73,11 +73,12 @@ This cmdlet returns a **SecureBootPolicy** object that contains the following in
 
 ## RELATED LINKS
 
-[Confirm-SecureBootUEFI](./Confirm-SecureBootUEFI.md)
+[Confirm-SecureBootUEFI](./confirm-securebootuefi.md)
 
-[Format-SecureBootUEFI](./Format-SecureBootUEFI.md)
+[Format-SecureBootUEFI](./format-securebootuefi.md)
 
-[Get-SecureBootUEFI](./Get-SecureBootUEFI.md)
+[Get-SecureBootUEFI](./get-securebootuefi.md)
 
-[Set-SecureBootUEFI](./Set-SecureBootUEFI.md)
+[Set-SecureBootUEFI](./set-securebootuefi.md)
+
 

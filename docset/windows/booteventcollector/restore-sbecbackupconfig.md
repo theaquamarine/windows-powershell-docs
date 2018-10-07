@@ -266,13 +266,14 @@ The `<OriginalTimestamp>` element contains the original timestamp of the newly r
 
 ## RELATED LINKS
 
-[Checkpoint-SbecActiveConfig](./Checkpoint-SbecActiveConfig.md)
+[Checkpoint-SbecActiveConfig](./checkpoint-sbecactiveconfig.md)
 
-[Get-SbecBackupConfig](./Get-SbecBackupConfig.md)
+[Get-SbecBackupConfig](./get-sbecbackupconfig.md)
 
-[Redo-SbecActiveConfig](./Redo-SbecActiveConfig.md)
+[Redo-SbecActiveConfig](./redo-sbecactiveconfig.md)
 
-[Set-SbecActiveConfig](./Set-SbecActiveConfig.md)
+[Set-SbecActiveConfig](./set-sbecactiveconfig.md)
 
-[Undo-SbecActiveConfig](./Undo-SbecActiveConfig.md)
+[Undo-SbecActiveConfig](./undo-sbecactiveconfig.md)
+
 

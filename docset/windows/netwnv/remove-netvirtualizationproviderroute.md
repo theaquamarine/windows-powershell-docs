@@ -38,7 +38,7 @@ Remove-NetVirtualizationProviderRoute -InputObject <CimInstance[]> [-CimSession 
 ```
 
 ## DESCRIPTION
-The **Remove-NetVirtualizationProviderRoute** cmdlet removes physical network routes for a Microsoft® Hyper-V® Server 2016 virtual network.
+The **Remove-NetVirtualizationProviderRoute** cmdlet removes physical network routes for a Microsoft?? Hyper-V?? Server 2016 virtual network.
 Network Virtualization allows for more than one virtual network to exist on the same physical network.
 Computers can exchange network traffic with a virtual machine by using a Customer Address in the virtual network.
 This cmdlet removes Provider Routes that Network Virtualization uses to direct network traffic on the physical network.
@@ -204,7 +204,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -230,9 +230,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-NetVirtualizationProviderRoute](./Get-NetVirtualizationProviderRoute.md)
+[Get-NetVirtualizationProviderRoute](./get-netvirtualizationproviderroute.md)
 
-[New-NetVirtualizationProviderRoute](./New-NetVirtualizationProviderRoute.md)
+[New-NetVirtualizationProviderRoute](./new-netvirtualizationproviderroute.md)
 
-[Set-NetVirtualizationProviderRoute](./Set-NetVirtualizationProviderRoute.md)
+[Set-NetVirtualizationProviderRoute](./set-netvirtualizationproviderroute.md)
+
 

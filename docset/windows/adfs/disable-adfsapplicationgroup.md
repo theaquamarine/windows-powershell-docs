@@ -152,13 +152,14 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Enable-AdfsApplicationGroup](./Enable-AdfsApplicationGroup.md)
+[Enable-AdfsApplicationGroup](./enable-adfsapplicationgroup.md)
 
-[Get-AdfsApplicationGroup](./Get-AdfsApplicationGroup.md)
+[Get-AdfsApplicationGroup](./get-adfsapplicationgroup.md)
 
-[New-AdfsApplicationGroup](./New-AdfsApplicationGroup.md)
+[New-AdfsApplicationGroup](./new-adfsapplicationgroup.md)
 
-[Remove-AdfsApplicationGroup](./Remove-AdfsApplicationGroup.md)
+[Remove-AdfsApplicationGroup](./remove-adfsapplicationgroup.md)
 
-[Set-AdfsApplicationGroup](./Set-AdfsApplicationGroup.md)
+[Set-AdfsApplicationGroup](./set-adfsapplicationgroup.md)
+
 

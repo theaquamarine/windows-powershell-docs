@@ -11,13 +11,14 @@ Locale: en-US
 The ProcessMitigations module (also known as the Process Mitigation Management Tool) provides functionalities to allow users to configure and audit exploit mitigations for increased process security or for converting existing Enhanced Mitigation Experience Toolkit (EMET) policy settings.
 
 ## ProcessMitigations Cmdlets
-### [ConvertTo-ProcessMitigationPolicy](ConvertTo-ProcessMitigationPolicy.md)
+### [ConvertTo-ProcessMitigationPolicy](convertto-processmitigationpolicy.md)
 Converts an mitigation policy file formats.
 
-### [Get-ProcessMitigation](Get-ProcessMitigation.md)
+### [Get-ProcessMitigation](get-processmitigation.md)
 Gets the current process mitigation settings, either from the registry, from a running process, or saves all to a XML.
 
-### [Set-ProcessMitigation](Set-ProcessMitigation.md)
+### [Set-ProcessMitigation](set-processmitigation.md)
 Commands to enable and disable process mitigations or set them in bulk from an XML file.
+
 
 

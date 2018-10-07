@@ -110,11 +110,12 @@ This object includes the following properties:
 
 ## RELATED LINKS
 
-[Export-AdfsWebTheme](./Export-AdfsWebTheme.md)
+[Export-AdfsWebTheme](./export-adfswebtheme.md)
 
-[New-AdfsWebTheme](./New-AdfsWebTheme.md)
+[New-AdfsWebTheme](./new-adfswebtheme.md)
 
-[Remove-AdfsWebTheme](./Remove-AdfsWebTheme.md)
+[Remove-AdfsWebTheme](./remove-adfswebtheme.md)
 
-[Set-AdfsWebTheme](./Set-AdfsWebTheme.md)
+[Set-AdfsWebTheme](./set-adfswebtheme.md)
+
 

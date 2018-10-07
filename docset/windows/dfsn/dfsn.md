@@ -25,73 +25,74 @@ This reference provides cmdlet descriptions and syntax for all DFS Namespace cmd
 It lists the cmdlets in alphabetical order based on the verb at the beginning of the cmdlet.
 
 ## DFSN Cmdlets
-### [Get-DfsnAccess](./Get-DfsnAccess.md)
+### [Get-DfsnAccess](./get-dfsnaccess.md)
 Gets permissions for a DFS namespace folder.
 
-### [Get-DfsnFolder](./Get-DfsnFolder.md)
+### [Get-DfsnFolder](./get-dfsnfolder.md)
 Gets settings for a DFS namespace folder.
 
-### [Get-DfsnFolderTarget](./Get-DfsnFolderTarget.md)
+### [Get-DfsnFolderTarget](./get-dfsnfoldertarget.md)
 Gets settings for targets of a DFS namespace folder.
 
-### [Get-DfsnRoot](./Get-DfsnRoot.md)
+### [Get-DfsnRoot](./get-dfsnroot.md)
 Gets settings for DFS namespaces.
 
-### [Get-DfsnRootTarget](./Get-DfsnRootTarget.md)
+### [Get-DfsnRootTarget](./get-dfsnroottarget.md)
 Gets settings for root targets of a DFS namespace.
 
-### [Get-DfsnServerConfiguration](./Get-DfsnServerConfiguration.md)
+### [Get-DfsnServerConfiguration](./get-dfsnserverconfiguration.md)
 Gets DFS namespace settings for a DFSN root server.
 
-### [Grant-DfsnAccess](./Grant-DfsnAccess.md)
+### [Grant-DfsnAccess](./grant-dfsnaccess.md)
 Grants permissions to users and groups to access a DFS namespace folder.
 
-### [Move-DfsnFolder](./Move-DfsnFolder.md)
+### [Move-DfsnFolder](./move-dfsnfolder.md)
 Moves or renames a DFS namespace folder.
 
-### [New-DfsnFolder](./New-DfsnFolder.md)
+### [New-DfsnFolder](./new-dfsnfolder.md)
 Creates a folder in a DFS namespace.
 
-### [New-DfsnFolderTarget](./New-DfsnFolderTarget.md)
+### [New-DfsnFolderTarget](./new-dfsnfoldertarget.md)
 Adds a target to a DFS namespace folder.
 
-### [New-DfsnRoot](./New-DfsnRoot.md)
+### [New-DfsnRoot](./new-dfsnroot.md)
 Creates a DFS namespace.
 
-### [New-DfsnRootTarget](./New-DfsnRootTarget.md)
+### [New-DfsnRootTarget](./new-dfsnroottarget.md)
 Adds a root target to a DFS namespace.
 
-### [Remove-DfsnAccess](./Remove-DfsnAccess.md)
+### [Remove-DfsnAccess](./remove-dfsnaccess.md)
 Removes users and groups from the ACL for a folder in a DFS namespace.
 
-### [Remove-DfsnFolder](./Remove-DfsnFolder.md)
+### [Remove-DfsnFolder](./remove-dfsnfolder.md)
 Removes a DFS namespace folder.
 
-### [Remove-DfsnFolderTarget](./Remove-DfsnFolderTarget.md)
+### [Remove-DfsnFolderTarget](./remove-dfsnfoldertarget.md)
 Removes a target for a DFS namespace folder.
 
-### [Remove-DfsnRoot](./Remove-DfsnRoot.md)
+### [Remove-DfsnRoot](./remove-dfsnroot.md)
 Removes a DFS namespace.
 
-### [Remove-DfsnRootTarget](./Remove-DfsnRootTarget.md)
+### [Remove-DfsnRootTarget](./remove-dfsnroottarget.md)
 Removes a target for a DFS namespace root.
 
-### [Revoke-DfsnAccess](./Revoke-DfsnAccess.md)
+### [Revoke-DfsnAccess](./revoke-dfsnaccess.md)
 Revokes permissions for users to access and enumerate the contents of a DFS namespace folder.
 
-### [Set-DfsnFolder](./Set-DfsnFolder.md)
+### [Set-DfsnFolder](./set-dfsnfolder.md)
 Changes settings for a DFS namespace folder.
 
-### [Set-DfsnFolderTarget](./Set-DfsnFolderTarget.md)
+### [Set-DfsnFolderTarget](./set-dfsnfoldertarget.md)
 Changes settings for a target of a DFS namespace folder.
 
-### [Set-DfsnRoot](./Set-DfsnRoot.md)
+### [Set-DfsnRoot](./set-dfsnroot.md)
 Changes settings for a DFS namespace.
 
-### [Set-DfsnRootTarget](./Set-DfsnRootTarget.md)
+### [Set-DfsnRootTarget](./set-dfsnroottarget.md)
 Changes settings for a root target of a DFS namespace.
 
-### [Set-DfsnServerConfiguration](./Set-DfsnServerConfiguration.md)
+### [Set-DfsnServerConfiguration](./set-dfsnserverconfiguration.md)
 Changes settings for a DFS namespace root server.
+
 
 

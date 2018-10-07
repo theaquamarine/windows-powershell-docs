@@ -114,7 +114,8 @@ This value is either 0 (freehand) or 1 (write each character separately).
 
 ## RELATED LINKS
 
-[Get-WinUserLanguageList](./Get-WinUserLanguageList.md)
+[Get-WinUserLanguageList](./get-winuserlanguagelist.md)
 
-[Set-WinUserLanguageList](./Set-WinUserLanguageList.md)
+[Set-WinUserLanguageList](./set-winuserlanguagelist.md)
+
 

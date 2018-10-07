@@ -229,13 +229,14 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-VMNetworkAdapterExtendedAcl](./Add-VMNetworkAdapterExtendedAcl.md)
+[Add-VMNetworkAdapterExtendedAcl](./add-vmnetworkadapterextendedacl.md)
 
-[Remove-VMNetworkAdapterExtendedAcl](./Remove-VMNetworkAdapterExtendedAcl.md)
+[Remove-VMNetworkAdapterExtendedAcl](./remove-vmnetworkadapterextendedacl.md)
 
-[Get-VM](./Get-VM.md)
+[Get-VM](./get-vm.md)
 
-[Get-VMNetworkAdapter](./Get-VMNetworkAdapter.md)
+[Get-VMNetworkAdapter](./get-vmnetworkadapter.md)
 
-[Get-VMSnapshot](./Get-VMSnapshot.md)
+[Get-VMSnapshot](./get-vmsnapshot.md)
+
 

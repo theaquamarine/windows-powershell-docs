@@ -122,7 +122,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-AdfsRelyingPartyWebTheme](./Get-AdfsRelyingPartyWebTheme.md)
+[Get-AdfsRelyingPartyWebTheme](./get-adfsrelyingpartywebtheme.md)
 
-[Set-AdfsRelyingPartyWebTheme](./Set-AdfsRelyingPartyWebTheme.md)
+[Set-AdfsRelyingPartyWebTheme](./set-adfsrelyingpartywebtheme.md)
+
 

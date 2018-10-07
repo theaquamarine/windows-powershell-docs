@@ -184,7 +184,8 @@ You cannot pipe input to this cmdlet.
 
 ## RELATED LINKS
 
-[Clear-AssignedAccess](./Clear-AssignedAccess.md)
+[Clear-AssignedAccess](./clear-assignedaccess.md)
 
-[Get-AssignedAccess](./Get-AssignedAccess.md)
+[Get-AssignedAccess](./get-assignedaccess.md)
+
 

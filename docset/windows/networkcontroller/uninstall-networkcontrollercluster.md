@@ -171,11 +171,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-NetworkControllerCluster](./Get-NetworkControllerCluster.md)
+[Get-NetworkControllerCluster](./get-networkcontrollercluster.md)
 
-[Install-NetworkControllerCluster](./Install-NetworkControllerCluster.md)
+[Install-NetworkControllerCluster](./install-networkcontrollercluster.md)
 
-[Repair-NetworkControllerCluster](./Repair-NetworkControllerCluster.md)
+[Repair-NetworkControllerCluster](./repair-networkcontrollercluster.md)
 
-[Set-NetworkControllerCluster](./Set-NetworkControllerCluster.md)
+[Set-NetworkControllerCluster](./set-networkcontrollercluster.md)
+
 

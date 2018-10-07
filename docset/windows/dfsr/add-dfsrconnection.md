@@ -377,9 +377,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-DfsrConnection](./Get-DfsrConnection.md)
+[Get-DfsrConnection](./get-dfsrconnection.md)
 
-[Set-DfsrConnection](./Set-DfsrConnection.md)
+[Set-DfsrConnection](./set-dfsrconnection.md)
 
-[Remove-DfsrConnection](./Remove-DfsrConnection.md)
+[Remove-DfsrConnection](./remove-dfsrconnection.md)
+
 

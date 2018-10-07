@@ -98,9 +98,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Enable-TlsSessionTicketKey](./Enable-TlsSessionTicketKey.md)
+[Enable-TlsSessionTicketKey](./enable-tlssessionticketkey.md)
 
-[Export-TlsSessionTicketKey](./Export-TlsSessionTicketKey.md)
+[Export-TlsSessionTicketKey](./export-tlssessionticketkey.md)
 
-[Disable-TlsSessionTicketKey](./Disable-TlsSessionTicketKey.md)
+[Disable-TlsSessionTicketKey](./disable-tlssessionticketkey.md)
+
 

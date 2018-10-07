@@ -145,11 +145,12 @@ This cmdlet returns an **ItemNotFoundException** if the specified session ID is 
 
 ## RELATED LINKS
 
-[Disconnect-WmsSession](./Disconnect-WmsSession.md)
+[Disconnect-WmsSession](./disconnect-wmssession.md)
 
-[Get-WmsSession](./Get-WmsSession.md)
+[Get-WmsSession](./get-wmssession.md)
 
-[Lock-WmsSession](./Lock-WmsSession.md)
+[Lock-WmsSession](./lock-wmssession.md)
 
-[Unlock-WmsSession](./Unlock-WmsSession.md)
+[Unlock-WmsSession](./unlock-wmssession.md)
+
 

@@ -27,43 +27,44 @@ It lists the cmdlets in alphabetical order based on the verb at the beginning of
 
 
 ## DcbQoS Cmdlets
-### [Disable-NetQosFlowControl](./Disable-NetQosFlowControl.md)
+### [Disable-NetQosFlowControl](./disable-netqosflowcontrol.md)
 Disables link level flow control based on the IEEE 802.1p priority.
 
-### [Enable-NetQosFlowControl](./Enable-NetQosFlowControl.md)
+### [Enable-NetQosFlowControl](./enable-netqosflowcontrol.md)
 Enables link level flow control based on the IEEE 802.1p priority.
 
-### [Get-NetQosDcbxSetting](./Get-NetQosDcbxSetting.md)
+### [Get-NetQosDcbxSetting](./get-netqosdcbxsetting.md)
 Gets data center bridging exchange settings.
 
-### [Get-NetQosFlowControl](./Get-NetQosFlowControl.md)
+### [Get-NetQosFlowControl](./get-netqosflowcontrol.md)
 Gets the priority-based flow control settings.
 
-### [Get-NetQosTrafficClass](./Get-NetQosTrafficClass.md)
+### [Get-NetQosTrafficClass](./get-netqostrafficclass.md)
 Gets the traffic class settings.
 
-### [New-NetQosTrafficClass](./New-NetQosTrafficClass.md)
+### [New-NetQosTrafficClass](./new-netqostrafficclass.md)
 Creates a traffic class.
 
-### [Remove-NetQosTrafficClass](./Remove-NetQosTrafficClass.md)
+### [Remove-NetQosTrafficClass](./remove-netqostrafficclass.md)
 Removes a traffic class.
 
-### [Set-NetQosDcbxSetting](./Set-NetQosDcbxSetting.md)
+### [Set-NetQosDcbxSetting](./set-netqosdcbxsetting.md)
 Sets the data center bridging exchange settings.
 
-### [Set-NetQosFlowControl](./Set-NetQosFlowControl.md)
+### [Set-NetQosFlowControl](./set-netqosflowcontrol.md)
 Sets the flow control settings.
 
-### [Set-NetQosTrafficClass](./Set-NetQosTrafficClass.md)
+### [Set-NetQosTrafficClass](./set-netqostrafficclass.md)
 Sets the traffic class settings.
 
-### [Switch-NetQosDcbxSetting](./Switch-NetQosDcbxSetting.md)
+### [Switch-NetQosDcbxSetting](./switch-netqosdcbxsetting.md)
 
 
-### [Switch-NetQosFlowControl](./Switch-NetQosFlowControl.md)
+### [Switch-NetQosFlowControl](./switch-netqosflowcontrol.md)
 
 
-### [Switch-NetQosTrafficClass](./Switch-NetQosTrafficClass.md)
+### [Switch-NetQosTrafficClass](./switch-netqostrafficclass.md)
+
 
 
 

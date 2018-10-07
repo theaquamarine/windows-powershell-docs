@@ -201,9 +201,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Measure-VM](./Measure-VM.md)
+[Measure-VM](./measure-vm.md)
 
-[Measure-VMResourcePool](./Measure-VMResourcePool.md)
+[Measure-VMResourcePool](./measure-vmresourcepool.md)
 
-[Enable-VMResourceMetering](./Enable-VMResourceMetering.md)
+[Enable-VMResourceMetering](./enable-vmresourcemetering.md)
+
 

@@ -491,7 +491,8 @@ A domain object is received by the *Identity* parameter.
 
 ## RELATED LINKS
 
-[Get-ADDefaultDomainPasswordPolicy](./Get-ADDefaultDomainPasswordPolicy.md)
+[Get-ADDefaultDomainPasswordPolicy](./get-addefaultdomainpasswordpolicy.md)
 
 [AD DS Administration Cmdlets in Windows PowerShell](./activedirectory.md)
+
 

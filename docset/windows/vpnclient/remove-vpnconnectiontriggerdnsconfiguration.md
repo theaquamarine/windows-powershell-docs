@@ -161,7 +161,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -205,11 +205,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-VpnConnectionTriggerDnsConfiguration](./Add-VpnConnectionTriggerDnsConfiguration.md)
+[Add-VpnConnectionTriggerDnsConfiguration](./add-vpnconnectiontriggerdnsconfiguration.md)
 
-[Get-VpnConnection](./Get-VpnConnection.md)
+[Get-VpnConnection](./get-vpnconnection.md)
 
-[Set-VpnConnectionTriggerDnsConfiguration](./Set-VpnConnectionTriggerDnsConfiguration.md)
+[Set-VpnConnectionTriggerDnsConfiguration](./set-vpnconnectiontriggerdnsconfiguration.md)
 
-[Set-VpnConnectionTriggerTrustedNetwork](./Set-VpnConnectionTriggerTrustedNetwork.md)
+[Set-VpnConnectionTriggerTrustedNetwork](./set-vpnconnectiontriggertrustednetwork.md)
+
 

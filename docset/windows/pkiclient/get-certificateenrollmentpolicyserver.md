@@ -121,7 +121,8 @@ Describes the enrollment policy obtained from the specified URL.
 
 ## RELATED LINKS
 
-[Add-CertificateEnrollmentPolicyServer](./Add-CertificateEnrollmentPolicyServer.md)
+[Add-CertificateEnrollmentPolicyServer](./add-certificateenrollmentpolicyserver.md)
 
-[Remove-CertificateNotificationTask](./Remove-CertificateNotificationTask.md)
+[Remove-CertificateNotificationTask](./remove-certificatenotificationtask.md)
+
 

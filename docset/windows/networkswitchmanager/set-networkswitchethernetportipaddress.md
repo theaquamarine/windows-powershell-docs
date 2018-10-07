@@ -178,7 +178,8 @@ This cmdlet does not generate any output.
 
 ## RELATED LINKS
 
-[Remove-NetworkSwitchEthernetPortIPAddress](./Remove-NetworkSwitchEthernetPortIPAddress.md)
+[Remove-NetworkSwitchEthernetPortIPAddress](./remove-networkswitchethernetportipaddress.md)
 
-[Get-NetworkSwitchEthernetPort](./Get-NetworkSwitchEthernetPort.md)
+[Get-NetworkSwitchEthernetPort](./get-networkswitchethernetport.md)
+
 

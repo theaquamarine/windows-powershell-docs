@@ -211,9 +211,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-RDPersonalVirtualDesktopPatchSchedule](./Get-RDPersonalVirtualDesktopPatchSchedule.md)
+[Get-RDPersonalVirtualDesktopPatchSchedule](./get-rdpersonalvirtualdesktoppatchschedule.md)
 
-[New-RDPersonalVirtualDesktopPatchSchedule](./New-RDPersonalVirtualDesktopPatchSchedule.md)
+[New-RDPersonalVirtualDesktopPatchSchedule](./new-rdpersonalvirtualdesktoppatchschedule.md)
 
-[Remove-RDPersonalVirtualDesktopPatchSchedule](./Remove-RDPersonalVirtualDesktopPatchSchedule.md)
+[Remove-RDPersonalVirtualDesktopPatchSchedule](./remove-rdpersonalvirtualdesktoppatchschedule.md)
+
 

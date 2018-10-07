@@ -24,52 +24,53 @@ ms.assetid: D462BB6C-68B0-46A6-A3AD-2DD0523DB8BD
 This reference provides cmdlet descriptions and syntax for all Windows Server Update Services (WSUS) Administration-specific cmdlets. It lists the cmdlets in alphabetical order based on the verb at the beginning of the cmdlet.
 
 ## WSUS Cmdlets
-### [Add-WsusComputer](./Add-WsusComputer.md)
+### [Add-WsusComputer](./add-wsuscomputer.md)
 Adds a client computer to a target group.
 
-### [Add-WsusDynamicCategory](./Add-WsusDynamicCategory.md)
+### [Add-WsusDynamicCategory](./add-wsusdynamiccategory.md)
 Adds a dynamic category to a WSUS server.
 
-### [Approve-WsusUpdate](./Approve-WsusUpdate.md)
+### [Approve-WsusUpdate](./approve-wsusupdate.md)
 Approves an update to be applied to clients.
 
-### [Deny-WsusUpdate](./Deny-WsusUpdate.md)
+### [Deny-WsusUpdate](./deny-wsusupdate.md)
 Declines the update for deployment.
 
-### [Get-WsusClassification](./Get-WsusClassification.md)
+### [Get-WsusClassification](./get-wsusclassification.md)
 Gets the list of all WSUS classifications currently available in the system.
 
-### [Get-WsusComputer](./Get-WsusComputer.md)
+### [Get-WsusComputer](./get-wsuscomputer.md)
 Gets the WSUS computer object that represents the client computer.
 
-### [Get-WsusDynamicCategory](./Get-WsusDynamicCategory.md)
+### [Get-WsusDynamicCategory](./get-wsusdynamiccategory.md)
 Gets dynamic categories on a WSUS server.
 
-### [Get-WsusProduct](./Get-WsusProduct.md)
+### [Get-WsusProduct](./get-wsusproduct.md)
 Gets the list of all products currently available on WSUS.
 
-### [Get-WsusServer](./Get-WsusServer.md)
+### [Get-WsusServer](./get-wsusserver.md)
 Gets the WSUS update server object.
 
-### [Get-WsusUpdate](./Get-WsusUpdate.md)
+### [Get-WsusUpdate](./get-wsusupdate.md)
 Gets the WSUS update object with details about the update.
 
-### [Invoke-WsusServerCleanup](./Invoke-WsusServerCleanup.md)
+### [Invoke-WsusServerCleanup](./invoke-wsusservercleanup.md)
 Performs the process of cleanup on a WSUS server.
 
-### [Remove-WsusDynamicCategory](./Remove-WsusDynamicCategory.md)
+### [Remove-WsusDynamicCategory](./remove-wsusdynamiccategory.md)
 Removes a dynamic category from a WSUS server.
 
-### [Set-WsusClassification](./Set-WsusClassification.md)
+### [Set-WsusClassification](./set-wsusclassification.md)
 Sets whether the classifications of updates that WSUS synchronizes are enabled.
 
-### [Set-WsusDynamicCategory](./Set-WsusDynamicCategory.md)
+### [Set-WsusDynamicCategory](./set-wsusdynamiccategory.md)
 Sets the synchronization status of a dynamic category.
 
-### [Set-WsusProduct](./Set-WsusProduct.md)
+### [Set-WsusProduct](./set-wsusproduct.md)
 Sets whether the product representing the category of updates to synchronize is enabled.
 
-### [Set-WsusServerSynchronization](./Set-WsusServerSynchronization.md)
+### [Set-WsusServerSynchronization](./set-wsusserversynchronization.md)
 Sets whether the WSUS server synchronizes from Microsoft Update or an upstream server.
+
 
 

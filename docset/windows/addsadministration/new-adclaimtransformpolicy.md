@@ -409,11 +409,12 @@ Specifies a claims transformation policy object that is a template for the new c
 
 ## RELATED LINKS
 
-[Get-ADClaimTransformPolicy](./Get-ADClaimTransformPolicy.md)
+[Get-ADClaimTransformPolicy](./get-adclaimtransformpolicy.md)
 
-[Remove-ADClaimTransformPolicy](./Remove-ADClaimTransformPolicy.md)
+[Remove-ADClaimTransformPolicy](./remove-adclaimtransformpolicy.md)
 
-[Set-ADClaimTransformPolicy](./Set-ADClaimTransformPolicy.md)
+[Set-ADClaimTransformPolicy](./set-adclaimtransformpolicy.md)
 
 [AD DS Administration Cmdlets in Windows PowerShell](./activedirectory.md)
+
 

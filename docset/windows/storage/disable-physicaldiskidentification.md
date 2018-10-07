@@ -163,7 +163,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-StoragePool](./Get-StoragePool.md)
+[Get-StoragePool](./get-storagepool.md)
 
-[Enable-PhysicalDiskIdentification](./Enable-PhysicalDiskIdentification.md)
+[Enable-PhysicalDiskIdentification](./enable-physicaldiskidentification.md)
+
 

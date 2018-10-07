@@ -790,13 +790,14 @@ A class structure that represents a claims provider trust.
 
 ## RELATED LINKS
 
-[Disable-AdfsClaimsProviderTrust](./Disable-AdfsClaimsProviderTrust.md)
+[Disable-AdfsClaimsProviderTrust](./disable-adfsclaimsprovidertrust.md)
 
-[Enable-AdfsClaimsProviderTrust](./Enable-AdfsClaimsProviderTrust.md)
+[Enable-AdfsClaimsProviderTrust](./enable-adfsclaimsprovidertrust.md)
 
-[Get-AdfsClaimsProviderTrust](./Get-AdfsClaimsProviderTrust.md)
+[Get-AdfsClaimsProviderTrust](./get-adfsclaimsprovidertrust.md)
 
-[Remove-AdfsClaimsProviderTrust](./Remove-AdfsClaimsProviderTrust.md)
+[Remove-AdfsClaimsProviderTrust](./remove-adfsclaimsprovidertrust.md)
 
-[Update-AdfsClaimsProviderTrust](./Update-AdfsClaimsProviderTrust.md)
+[Update-AdfsClaimsProviderTrust](./update-adfsclaimsprovidertrust.md)
+
 

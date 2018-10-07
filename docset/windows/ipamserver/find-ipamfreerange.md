@@ -138,7 +138,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -167,7 +167,8 @@ The cmdlet returns an instance of the **IpamFreeRange** object.
 
 ## RELATED LINKS
 
-[Find-IpamFreeAddress](./Find-IpamFreeAddress.md)
+[Find-IpamFreeAddress](./find-ipamfreeaddress.md)
 
-[Find-IpamFreeSubnet](./Find-IpamFreeSubnet.md)
+[Find-IpamFreeSubnet](./find-ipamfreesubnet.md)
+
 

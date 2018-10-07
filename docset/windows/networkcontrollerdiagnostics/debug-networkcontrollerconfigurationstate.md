@@ -154,7 +154,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Debug-NetworkController](./Debug-NetworkController.md)
+[Debug-NetworkController](./debug-networkcontroller.md)
 
-[Debug-ServiceFabricNodeStatus](./Debug-ServiceFabricNodeStatus.md)
+[Debug-ServiceFabricNodeStatus](./debug-servicefabricnodestatus.md)
+
 

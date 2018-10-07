@@ -277,7 +277,8 @@ Therefore, when this cmdlet is run from a startup or shutdown script, the defaul
 
 ## RELATED LINKS
 
-[Import-GPO](./Import-GPO.md)
+[Import-GPO](./import-gpo.md)
 
-[Restore-GPO](./Restore-GPO.md)
+[Restore-GPO](./restore-gpo.md)
+
 

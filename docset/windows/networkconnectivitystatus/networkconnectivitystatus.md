@@ -24,16 +24,17 @@ ms.assetid: 639DAD91-9062-4005-A4B9-A9BCD71FD1D4
 This reference provides cmdlet descriptions and syntax for all Network Connectivity Status-specific cmdlets. It lists the cmdlets in alphabetical order.
 
 ## NetworkConnectivityStatus Cmdlets
-### [Get-DAConnectionStatus](./Get-DAConnectionStatus.md)
+### [Get-DAConnectionStatus](./get-daconnectionstatus.md)
 Returns the DirectAccess status of the user.
 
-### [Get-NCSIPolicyConfiguration](./Get-NCSIPolicyConfiguration.md)
+### [Get-NCSIPolicyConfiguration](./get-ncsipolicyconfiguration.md)
 Gets the Network Connectivity Status indicator configuration on a store.
 
-### [Reset-NCSIPolicyConfiguration](./Reset-NCSIPolicyConfiguration.md)
+### [Reset-NCSIPolicyConfiguration](./reset-ncsipolicyconfiguration.md)
 Resets a configuration for NCSI.
 
-### [Set-NCSIPolicyConfiguration](./Set-NCSIPolicyConfiguration.md)
+### [Set-NCSIPolicyConfiguration](./set-ncsipolicyconfiguration.md)
 Specifies the policy store from which the cmdlet should pull configuration information.
+
 
 

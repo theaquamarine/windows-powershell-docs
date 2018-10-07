@@ -122,9 +122,10 @@ None.
 
 ## RELATED LINKS
 
-[Get-WmsVirtualDesktop](./Get-WmsVirtualDesktop.md)
+[Get-WmsVirtualDesktop](./get-wmsvirtualdesktop.md)
 
-[Import-WmsVirtualDesktop](./Import-WmsVirtualDesktop.md)
+[Import-WmsVirtualDesktop](./import-wmsvirtualdesktop.md)
 
-[New-WmsVirtualDesktop](./New-WmsVirtualDesktop.md)
+[New-WmsVirtualDesktop](./new-wmsvirtualdesktop.md)
+
 

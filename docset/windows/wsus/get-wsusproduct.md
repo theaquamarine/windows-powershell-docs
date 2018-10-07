@@ -31,7 +31,7 @@ Get-WsusProduct [-UpdateServer <IUpdateServer>] [-TitleIncludes <String>] [<Comm
 ## DESCRIPTION
 The **Get-WsusProduct** cmdlet gets the list of all Windows Server Update Services (WSUS) products (categories).
 
-This list can be filtered using the [Where-Object](http://go.microsoft.com/fwlink/?LinkID=113423) cmdlet with the results passed into the [Set-WsusProduct](./Set-WsusProduct.md) cmdlet.
+This list can be filtered using the [Where-Object](http://go.microsoft.com/fwlink/?LinkID=113423) cmdlet with the results passed into the [Set-WsusProduct](./set-wsusproduct.md) cmdlet.
 
 
 ## EXAMPLES
@@ -126,5 +126,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 [Where-Object](http://go.microsoft.com/fwlink/?LinkID=113423)
 
-[Set-WsusProduct](./Set-WsusProduct.md)
+[Set-WsusProduct](./set-wsusproduct.md)
+
 

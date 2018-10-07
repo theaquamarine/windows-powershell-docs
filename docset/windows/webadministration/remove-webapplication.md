@@ -116,9 +116,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[ConvertTo-WebApplication](./ConvertTo-WebApplication.md)
+[ConvertTo-WebApplication](./convertto-webapplication.md)
 
-[Get-WebApplication](./Get-WebApplication.md)
+[Get-WebApplication](./get-webapplication.md)
 
-[New-WebApplication](./New-WebApplication.md)
+[New-WebApplication](./new-webapplication.md)
+
 

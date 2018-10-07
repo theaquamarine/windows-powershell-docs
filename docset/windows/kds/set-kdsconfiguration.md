@@ -284,13 +284,14 @@ This cmdlet returns a **KdsServerConfiguration** object that contains configurat
 
 ## RELATED LINKS
 
-[Add-KdsRootKey](./Add-KdsRootKey.md)
+[Add-KdsRootKey](./add-kdsrootkey.md)
 
-[Clear-KdsCache](./Clear-KdsCache.md)
+[Clear-KdsCache](./clear-kdscache.md)
 
-[Get-KdsConfiguration](./Get-KdsConfiguration.md)
+[Get-KdsConfiguration](./get-kdsconfiguration.md)
 
-[Get-KdsRootKey](./Get-KdsRootKey.md)
+[Get-KdsRootKey](./get-kdsrootkey.md)
 
-[Test-KdsRootKey](./Test-KdsRootKey.md)
+[Test-KdsRootKey](./test-kdsrootkey.md)
+
 

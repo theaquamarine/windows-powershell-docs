@@ -725,7 +725,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -878,19 +878,20 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-DnsServerQueryResolutionPolicy](./Get-DnsServerQueryResolutionPolicy.md)
+[Get-DnsServerQueryResolutionPolicy](./get-dnsserverqueryresolutionpolicy.md)
 
-[Remove-DnsServerQueryResolutionPolicy](./Remove-DnsServerQueryResolutionPolicy.md)
+[Remove-DnsServerQueryResolutionPolicy](./remove-dnsserverqueryresolutionpolicy.md)
 
-[Set-DnsServerQueryResolutionPolicy](./Set-DnsServerQueryResolutionPolicy.md)
+[Set-DnsServerQueryResolutionPolicy](./set-dnsserverqueryresolutionpolicy.md)
 
-[Add-DnsServerClientSubnet](./Add-DnsServerClientSubnet.md)
+[Add-DnsServerClientSubnet](./add-dnsserverclientsubnet.md)
 
-[Add-DnsServerZoneScope](./Add-DnsServerZoneScope.md)
+[Add-DnsServerZoneScope](./add-dnsserverzonescope.md)
 
-[Add-DnsServerResourceRecord](./Add-DnsServerResourceRecord.md)
+[Add-DnsServerResourceRecord](./add-dnsserverresourcerecord.md)
 
-[Set-DnsServerRecursionScope](./Set-DnsServerRecursionScope.md)
+[Set-DnsServerRecursionScope](./set-dnsserverrecursionscope.md)
 
-[Add-DnsServerZoneTransferPolicy](./Add-DnsServerZoneTransferPolicy.md)
+[Add-DnsServerZoneTransferPolicy](./add-dnsserverzonetransferpolicy.md)
+
 

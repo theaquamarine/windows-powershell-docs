@@ -152,15 +152,16 @@ An array of paths to the settings location templates.
 
 ## RELATED LINKS
 
-[Disable-UevTemplate](./Disable-UevTemplate.md)
+[Disable-UevTemplate](./disable-uevtemplate.md)
 
-[Enable-UevTemplate](./Enable-UevTemplate.md)
+[Enable-UevTemplate](./enable-uevtemplate.md)
 
-[Get-UevTemplate](./Get-UevTemplate.md)
+[Get-UevTemplate](./get-uevtemplate.md)
 
-[Test-UevTemplate](./Test-UevTemplate.md)
+[Test-UevTemplate](./test-uevtemplate.md)
 
-[Unregister-UevTemplate](./Unregister-UevTemplate.md)
+[Unregister-UevTemplate](./unregister-uevtemplate.md)
 
-[Update-UevTemplate](./Update-UevTemplate.md)
+[Update-UevTemplate](./update-uevtemplate.md)
+
 

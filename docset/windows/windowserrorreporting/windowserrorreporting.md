@@ -24,13 +24,14 @@ ms.assetid: 7710FA9C-A106-4C4A-BC8F-0EB352538B04
 This reference provides cmdlet descriptions and syntax for all Windows Error Reporting cmdlets. It lists the cmdlets in alphabetical order based on the verb at the beginning of the cmdlet.
 
 ## WindowsErrorReporting Cmdlets
-### [Disable-WindowsErrorReporting](./Disable-WindowsErrorReporting.md)
+### [Disable-WindowsErrorReporting](./disable-windowserrorreporting.md)
 Disables Windows Error Reporting.
 
-### [Enable-WindowsErrorReporting](./Enable-WindowsErrorReporting.md)
+### [Enable-WindowsErrorReporting](./enable-windowserrorreporting.md)
 Enables Windows Error Reporting.
 
-### [Get-WindowsErrorReporting](./Get-WindowsErrorReporting.md)
+### [Get-WindowsErrorReporting](./get-windowserrorreporting.md)
 Retrieves the Windows Error Reporting status.
+
 
 

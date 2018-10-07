@@ -100,7 +100,7 @@ Accept wildcard characters: False
 
 ### -FeatureName
 Specifies the name of the feature to be enabled.
-Feature names are case sensitive if you are servicing a Windows image running a version of Windows earlier than Windows® 8.
+Feature names are case sensitive if you are servicing a Windows image running a version of Windows earlier than Windows?? 8.
 You can use Get-WindowsOptionalFeature to find the name of the feature in the image.
 
 ```yaml
@@ -118,7 +118,7 @@ Accept wildcard characters: False
 ### -LimitAccess
 Prevents DISM from contacting Windows Update when searching for the source files to restore a feature on an online image.
 
-LimitAccess can only be used when servicing images with Windows 8, Windows Server® 2012, Windows® Preinstallation Environment (Windows PE) 4.0 or a later version.
+LimitAccess can only be used when servicing images with Windows 8, Windows Server?? 2012, Windows?? Preinstallation Environment (Windows PE) 4.0 or a later version.
 
 ```yaml
 Type: SwitchParameter
@@ -337,9 +337,11 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Disable-WindowsOptionalFeature](./Disable-WindowsOptionalFeature.md)
+[Disable-WindowsOptionalFeature](./disable-windowsoptionalfeature.md)
 
-[Get-WindowsOptionalFeature](./Get-WindowsOptionalFeature.md)
+[Get-WindowsOptionalFeature](./get-windowsoptionalfeature.md)
 
-[Add-WindowsPackage](./Add-WindowsPackage.md)
+[Add-WindowsPackage](./add-windowspackage.md)
+
+
 

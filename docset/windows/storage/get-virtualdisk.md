@@ -547,7 +547,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -641,25 +641,26 @@ This cmdlet outputs an object that represents the specified virtual disk.
 
 [Where-Object](http://go.microsoft.com/fwlink/?LinkID=113423)
 
-[Connect-VirtualDisk](./Connect-VirtualDisk.md)
+[Connect-VirtualDisk](./connect-virtualdisk.md)
 
-[Disconnect-VirtualDisk](./Disconnect-VirtualDisk.md)
+[Disconnect-VirtualDisk](./disconnect-virtualdisk.md)
 
-[Get-Partition](./Get-Partition.md)
+[Get-Partition](./get-partition.md)
 
-[Get-StoragePool](./Get-StoragePool.md)
+[Get-StoragePool](./get-storagepool.md)
 
-[Hide-VirtualDisk](./Hide-VirtualDisk.md)
+[Hide-VirtualDisk](./hide-virtualdisk.md)
 
-[New-VirtualDisk](./New-VirtualDisk.md)
+[New-VirtualDisk](./new-virtualdisk.md)
 
-[Remove-VirtualDisk](./Remove-VirtualDisk.md)
+[Remove-VirtualDisk](./remove-virtualdisk.md)
 
-[Repair-VirtualDisk](./Repair-VirtualDisk.md)
+[Repair-VirtualDisk](./repair-virtualdisk.md)
 
-[Resize-VirtualDisk](./Resize-VirtualDisk.md)
+[Resize-VirtualDisk](./resize-virtualdisk.md)
 
-[Set-VirtualDisk](./Set-VirtualDisk.md)
+[Set-VirtualDisk](./set-virtualdisk.md)
 
-[Show-VirtualDisk](./Show-VirtualDisk.md)
+[Show-VirtualDisk](./show-virtualdisk.md)
+
 

@@ -67,7 +67,7 @@ Remove-WdsClient [-SearchForest] -DeviceName <String> [-CimSession <CimSession[]
 ```
 
 ## DESCRIPTION
-The **Remove-WdsClient** cmdlet removes a pre-staged client from Active Directory® Domain Services (AD DS) or the stand-alone server device database, or clears the Pending Devices database.
+The **Remove-WdsClient** cmdlet removes a pre-staged client from Active Directory?? Domain Services (AD DS) or the stand-alone server device database, or clears the Pending Devices database.
 
 To remove pre-staged client from AD DS, specify the name of the computer or the device ID, which is a GUID, media access control (MAC) address, or Dynamic Host Configuration Protocol (DHCP) identifier associated with the computer.
 You can specify a client within AD DS domain of the server that runs Windows Deployment Services, in a specified domain, or anywhere in the current AD DS forest.
@@ -125,7 +125,7 @@ Use this parameter to run commands that take a long time to complete.
 You can continue to work in the session while the job completes.
 To manage the job, use the `*-Job` cmdlets.
 To get the job results, use the [Receive-Job](http://go.microsoft.com/fwlink/?LinkID=113372) cmdlet. 
- For more information about Windows PowerShell® background jobs, see [about_Jobs](http://go.microsoft.com/fwlink/?LinkID=113251).
+ For more information about Windows PowerShell?? background jobs, see [about_Jobs](http://go.microsoft.com/fwlink/?LinkID=113251).
 
 ```yaml
 Type: SwitchParameter
@@ -259,7 +259,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -285,13 +285,14 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Approve-WdsClient](./Approve-WdsClient.md)
+[Approve-WdsClient](./approve-wdsclient.md)
 
-[Deny-WdsClient](./Deny-WdsClient.md)
+[Deny-WdsClient](./deny-wdsclient.md)
 
-[Get-WdsClient](./Get-WdsClient.md)
+[Get-WdsClient](./get-wdsclient.md)
 
-[New-WdsClient](./New-WdsClient.md)
+[New-WdsClient](./new-wdsclient.md)
 
-[Set-WdsClient](./Set-WdsClient.md)
+[Set-WdsClient](./set-wdsclient.md)
+
 

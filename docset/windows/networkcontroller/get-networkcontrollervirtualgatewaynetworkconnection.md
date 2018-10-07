@@ -183,7 +183,8 @@ This cmdlet returns object(s) that contains the following fields:
 
 ## RELATED LINKS
 
-[New-NetworkControllerVirtualGatewayNetworkConnection](./New-NetworkControllerVirtualGatewayNetworkConnection.md)
+[New-NetworkControllerVirtualGatewayNetworkConnection](./new-networkcontrollervirtualgatewaynetworkconnection.md)
 
-[Remove-NetworkControllerVirtualGatewayNetworkConnection](./Remove-NetworkControllerVirtualGatewayNetworkConnection.md)
+[Remove-NetworkControllerVirtualGatewayNetworkConnection](./remove-networkcontrollervirtualgatewaynetworkconnection.md)
+
 

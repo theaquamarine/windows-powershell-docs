@@ -161,9 +161,10 @@ The **Certificate** object can either be provided as a Path object to a certific
 
 [Set-Location](http://go.microsoft.com/fwlink/?LinkID=293912)
 
-[Get-CertificateNotificationTask](./Get-CertificateNotificationTask.md)
+[Get-CertificateNotificationTask](./get-certificatenotificationtask.md)
 
-[New-CertificateNotificationTask](./New-CertificateNotificationTask.md)
+[New-CertificateNotificationTask](./new-certificatenotificationtask.md)
 
-[Remove-CertificateNotificationTask](./Remove-CertificateNotificationTask.md)
+[Remove-CertificateNotificationTask](./remove-certificatenotificationtask.md)
+
 

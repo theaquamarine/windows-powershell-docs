@@ -55,7 +55,7 @@ Use this parameter to run commands that take a long time to complete.
 You can continue to work in the session while the job completes.
 To manage the job, use the `*-Job` cmdlets.
 To get the job results, use the [Receive-Job](http://go.microsoft.com/fwlink/?LinkID=113372) cmdlet. 
- For more information about Windows PowerShellÂ® background jobs, see [about_Jobs](http://go.microsoft.com/fwlink/?LinkID=113251).
+ For more information about Windows PowerShell???? background jobs, see [about_Jobs](http://go.microsoft.com/fwlink/?LinkID=113251).
 
 ```yaml
 Type: SwitchParameter
@@ -103,7 +103,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShellÂ® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell???? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -131,13 +131,14 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Start-SilLogging](./Start-SilLogging.md)
+[Start-SilLogging](./start-sillogging.md)
 
-[Get-SilUalAccess](./Get-SilUalAccess.md)
+[Get-SilUalAccess](./get-silualaccess.md)
 
-[Get-SilComputer](./Get-SilComputer.md)
+[Get-SilComputer](./get-silcomputer.md)
 
-[Get-SilData](./Get-SilData.md)
+[Get-SilData](./get-sildata.md)
 
-[Get-SilLogging](./Get-SilLogging.md)
+[Get-SilLogging](./get-sillogging.md)
+
 

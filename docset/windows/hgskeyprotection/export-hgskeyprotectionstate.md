@@ -152,5 +152,6 @@ This cmdlet outputs XmlDocument that contains Key Protection Service state if Pa
 
 ## RELATED LINKS
 
-[Import-HgsKeyProtectionState](./Import-HgsKeyProtectionState.md)
+[Import-HgsKeyProtectionState](./import-hgskeyprotectionstate.md)
+
 

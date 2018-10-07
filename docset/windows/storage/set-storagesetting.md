@@ -105,7 +105,7 @@ Can cause data loss if used on shared bus disks improperly.
 - OfflineAll: (Same as current diskpartsanpolicy definition) All disks are automatically left offline, regardless of the bus-type.
 (not recommended for Windows Client as this would result in attached USB disk not being available by default). 
 - OfflineInternal: Leaves all newly attached disks, which are non-shared storage busses (such as ATA, SATA, USB) offline by default.
-(new for Windows Server® 2012). 
+(new for Windows Server?? 2012). 
 - OfflineShared: Leaves all newly attached disks which are on a sharable bus (iSCSI, FC, SAS) offline by default. 
 
 In Windows Server 2016, including Nano Server, the default policy is OfflineShared.
@@ -149,7 +149,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -179,5 +179,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-StorageSetting](./Get-StorageSetting.md)
+[Get-StorageSetting](./get-storagesetting.md)
+
 

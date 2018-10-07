@@ -89,7 +89,7 @@ Accept wildcard characters: False
 ### -InputObject
 Specifies a dynamic category object.
 This cmdlet removes the dynamic category that this parameter specifies.
-To obtain a dynamic category, use the [Get-WsusDynamicCategory](./Get-WsusDynamicCategory.md) cmdlet.
+To obtain a dynamic category, use the [Get-WsusDynamicCategory](./get-wsusdynamiccategory.md) cmdlet.
 
 ```yaml
 Type: IDynamicCategory
@@ -121,7 +121,7 @@ Accept wildcard characters: False
 ### -UpdateServer
 Specifies a WSUS server.
 This cmdlet removes a dynamic category from the server that this parameter specifies.
-To obtain a server, use the [Get-WsusServer](./Get-WsusServer.md) cmdlet.
+To obtain a server, use the [Get-WsusServer](./get-wsusserver.md) cmdlet.
 If you do not specify a value for this parameter, the cmdlet removes dynamic categories from the local server.
 
 ```yaml
@@ -166,9 +166,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-WsusDynamicCategory](./Add-WsusDynamicCategory.md)
+[Add-WsusDynamicCategory](./add-wsusdynamiccategory.md)
 
-[Get-WsusDynamicCategory](./Get-WsusDynamicCategory.md)
+[Get-WsusDynamicCategory](./get-wsusdynamiccategory.md)
 
-[Set-WsusDynamicCategory](./Set-WsusDynamicCategory.md)
+[Set-WsusDynamicCategory](./set-wsusdynamiccategory.md)
+
 

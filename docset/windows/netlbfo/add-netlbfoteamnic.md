@@ -125,7 +125,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -142,7 +142,7 @@ Accept wildcard characters: False
 
 ### -VlanID
 Specifies the VLAN ID of the team interface.
-VlanID values must meet the criteria 0 ≤ VlanID \< 4095.
+VlanID values must meet the criteria 0 ??? VlanID \< 4095.
 Specify the value 0 to match frames identified with a VLAN ID of 0 or untagged frames.
 
 ```yaml
@@ -190,9 +190,10 @@ This cmdlet produces an **MFT_NetLbfoTeamNic** object containing the newly creat
 
 ## RELATED LINKS
 
-[Get-NetLbfoTeamNic](./Get-NetLbfoTeamNic.md)
+[Get-NetLbfoTeamNic](./get-netlbfoteamnic.md)
 
-[Remove-NetLbfoTeamNic](./Remove-NetLbfoTeamNic.md)
+[Remove-NetLbfoTeamNic](./remove-netlbfoteamnic.md)
 
-[Set-NetLbfoTeamNic](./Set-NetLbfoTeamNic.md)
+[Set-NetLbfoTeamNic](./set-netlbfoteamnic.md)
+
 

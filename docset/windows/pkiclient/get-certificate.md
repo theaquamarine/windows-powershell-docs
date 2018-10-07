@@ -46,7 +46,7 @@ When used with a request object and no credential, this cmdlet will look up cred
 This cmdlet will not accept a policy server identifier (ID).
 If a URL is not specified, then only the default certificate enrollment policy ID is used and the cmdlet will attempt to obtain policy information from any of its URLs.
 
-Delegation may be required when using this cmdlet with Windows PowerShell® remoting and changing user configuration.
+Delegation may be required when using this cmdlet with Windows PowerShell?? remoting and changing user configuration.
 
 ## EXAMPLES
 
@@ -125,7 +125,7 @@ PS C:\>Get-Certificate -Request $request
 This example retrieves the certificate identified by $request.
 If the authentication type for $request.EnrollmentServer.AuthType is not Kerberos, then look in the credential store to see if there is a credential for $request.EnrollmentServer.Url.
 If there is a credential, then use it.
-If there is no credential, then Windows PowerShell® will request it (if Windows PowerShell is in Interactive mode).
+If there is no credential, then Windows PowerShell?? will request it (if Windows PowerShell is in Interactive mode).
 
 ## PARAMETERS
 
@@ -241,7 +241,7 @@ Accept wildcard characters: False
 ### -Url
 Specifies the policy server URL to use for certificate enrollment.
 Credentials are required if the endpoint requires a user name and password or certificate authentication from the client.
-If credentials are not found and Windows PowerShell® is in interactive mode, then a prompt for credentials will appear.
+If credentials are not found and Windows PowerShell?? is in interactive mode, then a prompt for credentials will appear.
 
 ```yaml
 Type: Uri
@@ -296,4 +296,5 @@ The EnrollmentResult object contains the results of enrollment.
 [Get-Credential](http://go.microsoft.com/fwlink/p/?LinkId=293936)
 
 [Set-Location](http://go.microsoft.com/fwlink/p/?LinkId=293912)
+
 

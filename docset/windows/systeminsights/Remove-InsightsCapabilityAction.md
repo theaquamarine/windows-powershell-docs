@@ -185,3 +185,4 @@ You can use the pipeline operator to pass a capability object to the *Name* para
 [Get-InsightsCapability](get-insightscapability.md)<br>
 [Get-InsightsCapabilityAction](get-insightscapabilityaction.md)<br>
 [Set-InsightsCapabilityAction](set-insightscapabilityaction.md)
+

@@ -24,139 +24,140 @@ ms.assetid: B75B2770-4CC0-424F-97F5-7B5C1078BB98
 This reference provides cmdlet descriptions and syntax for all Distributed File System (DFS) Replication cmdlets. It lists the cmdlets in alphabetical order based on the verb at the beginning of the cmdlet.
 
 ## DFSR Cmdlets
-### [Add-DfsrConnection](./Add-DfsrConnection.md)
+### [Add-DfsrConnection](./add-dfsrconnection.md)
 Creates a connection between members of a replication group.
 
-### [Add-DfsrMember](./Add-DfsrMember.md)
+### [Add-DfsrMember](./add-dfsrmember.md)
 Adds computers to a replication group.
 
-### [ConvertFrom-DfsrGuid](./ConvertFrom-DfsrGuid.md)
+### [ConvertFrom-DfsrGuid](./convertfrom-dfsrguid.md)
 Translates GUIDs to friendly names within a given replication group.
 
-### [Export-DfsrClone](./Export-DfsrClone.md)
+### [Export-DfsrClone](./export-dfsrclone.md)
 Exports the cloned DFS Replication database and volume configuration settings.
 
-### [Get-DfsrBacklog](./Get-DfsrBacklog.md)
+### [Get-DfsrBacklog](./get-dfsrbacklog.md)
 Retrieves the list of pending file updates between two DFS Replication partners.
 
-### [Get-DfsrCloneState](./Get-DfsrCloneState.md)
+### [Get-DfsrCloneState](./get-dfsrclonestate.md)
 Gets the status of a database cloning operation.
 
-### [Get-DfsrConnection](./Get-DfsrConnection.md)
+### [Get-DfsrConnection](./get-dfsrconnection.md)
 Gets a connection between DFS Replication partners.
 
-### [Get-DfsrConnectionSchedule](./Get-DfsrConnectionSchedule.md)
+### [Get-DfsrConnectionSchedule](./get-dfsrconnectionschedule.md)
 Gets a connection schedule between members of a replication group.
 
-### [Get-DfsrDelegation](./Get-DfsrDelegation.md)
+### [Get-DfsrDelegation](./get-dfsrdelegation.md)
 Gets principals that have permissions for a replication group.
 
-### [Get-DfsReplicatedFolder](./Get-DfsReplicatedFolder.md)
+### [Get-DfsReplicatedFolder](./get-dfsreplicatedfolder.md)
 Gets a replicated folder from a replication group.
 
-### [Get-DfsReplicationGroup](./Get-DfsReplicationGroup.md)
+### [Get-DfsReplicationGroup](./get-dfsreplicationgroup.md)
 Retrieves a replication group.
 
-### [Get-DfsrFileHash](./Get-DfsrFileHash.md)
+### [Get-DfsrFileHash](./get-dfsrfilehash.md)
 Gets a file hash.
 
-### [Get-DfsrGroupSchedule](./Get-DfsrGroupSchedule.md)
+### [Get-DfsrGroupSchedule](./get-dfsrgroupschedule.md)
 Retrieves a replication group schedule.
 
-### [Get-DfsrIdRecord](./Get-DfsrIdRecord.md)
+### [Get-DfsrIdRecord](./get-dfsridrecord.md)
 Gets ID records for replicated files or folders from the DFS Replication database.
 
-### [Get-DfsrMember](./Get-DfsrMember.md)
+### [Get-DfsrMember](./get-dfsrmember.md)
 Gets member computers in a replication group.
 
-### [Get-DfsrMembership](./Get-DfsrMembership.md)
+### [Get-DfsrMembership](./get-dfsrmembership.md)
 Gets membership settings for members of replication groups.
 
-### [Get-DfsrPreservedFiles](./Get-DfsrPreservedFiles.md)
+### [Get-DfsrPreservedFiles](./get-dfsrpreservedfiles.md)
 Gets a list of files and folders that DFS Replication previously preserved.
 
-### [Get-DfsrServiceConfiguration](./Get-DfsrServiceConfiguration.md)
+### [Get-DfsrServiceConfiguration](./get-dfsrserviceconfiguration.md)
 Gets settings for the DFS Replication service on group members.
 
-### [Get-DfsrState](./Get-DfsrState.md)
+### [Get-DfsrState](./get-dfsrstate.md)
 Gets the DFS Replication state for a member.
 
-### [Grant-DfsrDelegation](./Grant-DfsrDelegation.md)
+### [Grant-DfsrDelegation](./grant-dfsrdelegation.md)
 Grants permissions to security principals for a replication group.
 
-### [Import-DfsrClone](./Import-DfsrClone.md)
+### [Import-DfsrClone](./import-dfsrclone.md)
 Imports a cloned DFS Replication database and volume configuration settings.
 
-### [New-DfsReplicatedFolder](./New-DfsReplicatedFolder.md)
+### [New-DfsReplicatedFolder](./new-dfsreplicatedfolder.md)
 Creates a replicated folder in a replication group.
 
-### [New-DfsReplicationGroup](./New-DfsReplicationGroup.md)
+### [New-DfsReplicationGroup](./new-dfsreplicationgroup.md)
 Creates a replication group.
 
-### [Remove-DfsrConnection](./Remove-DfsrConnection.md)
+### [Remove-DfsrConnection](./remove-dfsrconnection.md)
 Removes a connection between members of a replication group.
 
-### [Remove-DfsReplicatedFolder](./Remove-DfsReplicatedFolder.md)
+### [Remove-DfsReplicatedFolder](./remove-dfsreplicatedfolder.md)
 Removes a replicated folder from a replication group.
 
-### [Remove-DfsReplicationGroup](./Remove-DfsReplicationGroup.md)
+### [Remove-DfsReplicationGroup](./remove-dfsreplicationgroup.md)
 Removes a replication group.
 
-### [Remove-DfsrMember](./Remove-DfsrMember.md)
+### [Remove-DfsrMember](./remove-dfsrmember.md)
 Removes computers from a replication group.
 
-### [Remove-DfsrPropagationTestFile](./Remove-DfsrPropagationTestFile.md)
+### [Remove-DfsrPropagationTestFile](./remove-dfsrpropagationtestfile.md)
 Removes DFS Replication propagation test files.
 
-### [Reset-DfsrCloneState](./Reset-DfsrCloneState.md)
+### [Reset-DfsrCloneState](./reset-dfsrclonestate.md)
 Cancels a cloning operation.
 
-### [Restore-DfsrPreservedFiles](./Restore-DfsrPreservedFiles.md)
+### [Restore-DfsrPreservedFiles](./restore-dfsrpreservedfiles.md)
 Restores files and folders that DFS Replication previously preserved.
 
-### [Revoke-DfsrDelegation](./Revoke-DfsrDelegation.md)
+### [Revoke-DfsrDelegation](./revoke-dfsrdelegation.md)
 Revokes permissions to security principals for a replication group.
 
-### [Set-DfsrConnection](./Set-DfsrConnection.md)
+### [Set-DfsrConnection](./set-dfsrconnection.md)
 Changes the settings of a connection between members of a replication group.
 
-### [Set-DfsrConnectionSchedule](./Set-DfsrConnectionSchedule.md)
+### [Set-DfsrConnectionSchedule](./set-dfsrconnectionschedule.md)
 Changes the settings of a connection schedule between members of a replication group.
 
-### [Set-DfsReplicatedFolder](./Set-DfsReplicatedFolder.md)
+### [Set-DfsReplicatedFolder](./set-dfsreplicatedfolder.md)
 Changes settings of a replicated folder.
 
-### [Set-DfsReplicationGroup](./Set-DfsReplicationGroup.md)
+### [Set-DfsReplicationGroup](./set-dfsreplicationgroup.md)
 Modifies a replication group.
 
-### [Set-DfsrGroupSchedule](./Set-DfsrGroupSchedule.md)
+### [Set-DfsrGroupSchedule](./set-dfsrgroupschedule.md)
 Modifies a replication group schedule.
 
-### [Set-DfsrMember](./Set-DfsrMember.md)
+### [Set-DfsrMember](./set-dfsrmember.md)
 Modifies member computer information in a replication group.
 
-### [Set-DfsrMembership](./Set-DfsrMembership.md)
+### [Set-DfsrMembership](./set-dfsrmembership.md)
 Configures membership settings for replication group members.
 
-### [Set-DfsrServiceConfiguration](./Set-DfsrServiceConfiguration.md)
+### [Set-DfsrServiceConfiguration](./set-dfsrserviceconfiguration.md)
 Modifies settings for the DFS Replication service.
 
-### [Start-DfsrPropagationTest](./Start-DfsrPropagationTest.md)
+### [Start-DfsrPropagationTest](./start-dfsrpropagationtest.md)
 Creates a propagation test file in a replicated folder.
 
-### [Suspend-DfsReplicationGroup](./Suspend-DfsReplicationGroup.md)
+### [Suspend-DfsReplicationGroup](./suspend-dfsreplicationgroup.md)
 Suspends replication between computers regardless of schedule.
 
-### [Sync-DfsReplicationGroup](./Sync-DfsReplicationGroup.md)
+### [Sync-DfsReplicationGroup](./sync-dfsreplicationgroup.md)
 Synchronizes replication between computers regardless of schedule.
 
-### [Update-DfsrConfigurationFromAD](./Update-DfsrConfigurationFromAD.md)
+### [Update-DfsrConfigurationFromAD](./update-dfsrconfigurationfromad.md)
 Initiates an update of the DFS Replication service.
 
-### [Write-DfsrHealthReport](./Write-DfsrHealthReport.md)
+### [Write-DfsrHealthReport](./write-dfsrhealthreport.md)
 Generates a DFS Replication health report.
 
-### [Write-DfsrPropagationReport](./Write-DfsrPropagationReport.md)
+### [Write-DfsrPropagationReport](./write-dfsrpropagationreport.md)
 Generates reports for propagation test files in a replication group.
+
 
 

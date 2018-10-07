@@ -210,11 +210,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-AppvPublishingServer](./Get-AppvPublishingServer.md)
+[Get-AppvPublishingServer](./get-appvpublishingserver.md)
 
-[Remove-AppvPublishingServer](./Remove-AppvPublishingServer.md)
+[Remove-AppvPublishingServer](./remove-appvpublishingserver.md)
 
-[Set-AppvPublishingServer](./Set-AppvPublishingServer.md)
+[Set-AppvPublishingServer](./set-appvpublishingserver.md)
 
-[Sync-AppvPublishingServer](./Sync-AppvPublishingServer.md)
+[Sync-AppvPublishingServer](./sync-appvpublishingserver.md)
+
 

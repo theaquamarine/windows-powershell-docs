@@ -114,7 +114,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -144,9 +144,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 [Logging Mode Constants](http://msdn.microsoft.com/library/windows/desktop/aa364080.aspx)
 
-[New-AutologgerConfig](./New-AutologgerConfig.md)
+[New-AutologgerConfig](./new-autologgerconfig.md)
 
-[Remove-AutologgerConfig](./Remove-AutologgerConfig.md)
+[Remove-AutologgerConfig](./remove-autologgerconfig.md)
 
-[Set-AutologgerConfig](./Set-AutologgerConfig.md)
+[Set-AutologgerConfig](./set-autologgerconfig.md)
+
 

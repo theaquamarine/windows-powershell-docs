@@ -178,9 +178,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-AdfsApplicationPermission](./Get-AdfsApplicationPermission.md)
+[Get-AdfsApplicationPermission](./get-adfsapplicationpermission.md)
 
-[Revoke-AdfsApplicationPermission](./Revoke-AdfsApplicationPermission.md)
+[Revoke-AdfsApplicationPermission](./revoke-adfsapplicationpermission.md)
 
-[Set-AdfsApplicationPermission](./Set-AdfsApplicationPermission.md)
+[Set-AdfsApplicationPermission](./set-adfsapplicationpermission.md)
+
 

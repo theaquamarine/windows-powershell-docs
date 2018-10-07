@@ -146,11 +146,14 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-AppxVolume](./Add-AppxVolume.md)
+[Add-AppxVolume](./add-appxvolume.md)
 
-[Dismount-AppxVolume](./Dismount-AppxVolume.md)
+[Dismount-AppxVolume](./dismount-appxvolume.md)
 
-[Mount-AppxVolume](./Mount-AppxVolume.md)
+[Mount-AppxVolume](./mount-appxvolume.md)
 
-[Remove-AppxVolume](./Remove-AppxVolume.md)
+[Remove-AppxVolume](./remove-appxvolume.md)
+
+
+
 

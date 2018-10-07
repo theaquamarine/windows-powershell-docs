@@ -121,11 +121,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Export-HgsGuardian](./Export-HgsGuardian.md)
+[Export-HgsGuardian](./export-hgsguardian.md)
 
-[Get-HgsGuardian](./Get-HgsGuardian.md)
+[Get-HgsGuardian](./get-hgsguardian.md)
 
-[Import-HgsGuardian](./Import-HgsGuardian.md)
+[Import-HgsGuardian](./import-hgsguardian.md)
 
-[New-HgsGuardian](./New-HgsGuardian.md)
+[New-HgsGuardian](./new-hgsguardian.md)
+
 

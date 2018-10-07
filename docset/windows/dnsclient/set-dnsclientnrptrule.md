@@ -450,7 +450,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -502,15 +502,16 @@ The **DnsClientNrptRule** object contains all of the properties of the DNS clien
 
 ## RELATED LINKS
 
-[Add-DnsClientNrptRule](./Add-DnsClientNrptRule.md)
+[Add-DnsClientNrptRule](./add-dnsclientnrptrule.md)
 
-[Get-DnsClientNrptGlobal](./Get-DnsClientNrptGlobal.md)
+[Get-DnsClientNrptGlobal](./get-dnsclientnrptglobal.md)
 
-[Get-DnsClientNrptPolicy](./Get-DnsClientNrptPolicy.md)
+[Get-DnsClientNrptPolicy](./get-dnsclientnrptpolicy.md)
 
-[Get-DnsClientNrptRule](./Get-DnsClientNrptRule.md)
+[Get-DnsClientNrptRule](./get-dnsclientnrptrule.md)
 
-[Remove-DnsClientNrptRule](./Remove-DnsClientNrptRule.md)
+[Remove-DnsClientNrptRule](./remove-dnsclientnrptrule.md)
 
-[Set-DnsClientNrptGlobal](./Set-DnsClientNrptGlobal.md)
+[Set-DnsClientNrptGlobal](./set-dnsclientnrptglobal.md)
+
 

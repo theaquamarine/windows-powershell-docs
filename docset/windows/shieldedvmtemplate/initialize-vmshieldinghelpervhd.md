@@ -103,5 +103,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Protect-TemplateDisk](./Protect-TemplateDisk.md)
+[Protect-TemplateDisk](./protect-templatedisk.md)
+
 

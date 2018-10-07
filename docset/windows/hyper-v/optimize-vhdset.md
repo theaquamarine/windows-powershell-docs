@@ -184,5 +184,6 @@ This cmdlet returns a **VirtualHardDisk** object, if you specify the **Passthru*
 
 ## RELATED LINKS
 
-[Get-VHDSet](./Get-VHDSet.md)
+[Get-VHDSet](./get-vhdset.md)
+
 

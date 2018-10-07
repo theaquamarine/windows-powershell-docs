@@ -105,13 +105,14 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Clear-WmsStation](./Clear-WmsStation.md)
+[Clear-WmsStation](./clear-wmsstation.md)
 
-[Get-WmsStation](./Get-WmsStation.md)
+[Get-WmsStation](./get-wmsstation.md)
 
-[Join-WmsStation](./Join-WmsStation.md)
+[Join-WmsStation](./join-wmsstation.md)
 
-[Set-WmsStation](./Set-WmsStation.md)
+[Set-WmsStation](./set-wmsstation.md)
 
-[Split-WmsStation](./Split-WmsStation.md)
+[Split-WmsStation](./split-wmsstation.md)
+
 

@@ -87,11 +87,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-KeyProtectorFromShieldingDataFile](./Get-KeyProtectorFromShieldingDataFile.md)
+[Get-KeyProtectorFromShieldingDataFile](./get-keyprotectorfromshieldingdatafile.md)
 
-[Get-ShieldedVMProvisioningStatus](./Get-ShieldedVMProvisioningStatus.md)
+[Get-ShieldedVMProvisioningStatus](./get-shieldedvmprovisioningstatus.md)
 
-[Initialize-ShieldedVM](./Initialize-ShieldedVM.md)
+[Initialize-ShieldedVM](./initialize-shieldedvm.md)
 
-[Test-ShieldingDataApplicability](./Test-ShieldingDataApplicability.md)
+[Test-ShieldingDataApplicability](./test-shieldingdataapplicability.md)
+
 

@@ -261,9 +261,10 @@ The path after the pound sign (`#`) provides the namespace and class name for th
 
 ## RELATED LINKS
 
-[Backup-DhcpServer](./Backup-DhcpServer.md)
+[Backup-DhcpServer](./backup-dhcpserver.md)
 
-[Import-DhcpServer](./Import-DhcpServer.md)
+[Import-DhcpServer](./import-dhcpserver.md)
 
-[Restore-DhcpServer](./Restore-DhcpServer.md)
+[Restore-DhcpServer](./restore-dhcpserver.md)
+
 

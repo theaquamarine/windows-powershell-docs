@@ -70,14 +70,14 @@ This example gets the file information for all the .exe files and scripts under 
 ```
 PS C:\> Get-AppLockerFileInformation -Path "C:\Program Files (x86)\Internet Explorer\iexplore.exe" | Format-List
 Path      : %PROGRAMFILES%\INTERNET EXPLORER\IEXPLORE.EXE 
-Publisher : CN=WINDOWS MAIN BUILD LAB ACCOUNT\WINDOWS® INTERNET EXPLORER\IEXPLORE.EXE,10.0.8421.0 
+Publisher : CN=WINDOWS MAIN BUILD LAB ACCOUNT\WINDOWS?? INTERNET EXPLORER\IEXPLORE.EXE,10.0.8421.0 
 Hash      : SHA256 0x5F374C2DD91A6F9E9E96F149EE221EC0454649F50E1AF6D3DAEFB849FB7C551C 
 AppX      : False 
 
 
 PS C:\> Get-AppLockerFileInformation -Path "C:\Program Files\Internet Explorer\iexplore.exe" | Format-List
 Path      : %PROGRAMFILES%\INTERNET EXPLORER\IEXPLORE.EXE 
-Publisher : CN=WINDOWS MAIN BUILD LAB ACCOUNT\WINDOWS® INTERNET EXPLORER\IEXPLORE.EXE,10.0.8421.0 
+Publisher : CN=WINDOWS MAIN BUILD LAB ACCOUNT\WINDOWS?? INTERNET EXPLORER\IEXPLORE.EXE,10.0.8421.0 
 Hash      : SHA256 0x5F374C2DD91A6F9E9E96F149EE221EC0454649F50E1AF6D3DAEFB849FB7C551C 
 AppX      : False
 ```
@@ -300,11 +300,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-AppLockerPolicy](./Get-AppLockerPolicy.md)
+[Get-AppLockerPolicy](./get-applockerpolicy.md)
 
-[New-AppLockerPolicy](./New-AppLockerPolicy.md)
+[New-AppLockerPolicy](./new-applockerpolicy.md)
 
-[Set-AppLockerPolicy](./Set-AppLockerPolicy.md)
+[Set-AppLockerPolicy](./set-applockerpolicy.md)
 
-[Test-AppLockerPolicy](./Test-AppLockerPolicy.md)
+[Test-AppLockerPolicy](./test-applockerpolicy.md)
+
 

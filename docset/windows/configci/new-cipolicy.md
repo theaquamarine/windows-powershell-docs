@@ -504,11 +504,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-CIPolicy](./Get-CIPolicy.md)
+[Get-CIPolicy](./get-cipolicy.md)
 
-[Get-SystemDriver](./Get-SystemDriver.md)
+[Get-SystemDriver](./get-systemdriver.md)
 
-[Merge-CIPolicy](./Merge-CIPolicy.md)
+[Merge-CIPolicy](./merge-cipolicy.md)
 
-[New-CIPolicyRule](./New-CIPolicyRule.md)
+[New-CIPolicyRule](./new-cipolicyrule.md)
+
 

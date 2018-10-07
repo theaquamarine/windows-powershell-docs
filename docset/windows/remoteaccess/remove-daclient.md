@@ -97,7 +97,7 @@ DownlevelGpoName   :
 ```
 
 This command removes DA for firstref_client_7 client computers present in domain named child.corp.contoso.com at site 2-Edge-Site.
-This is accomplished by removing the client SG DownlevelClients which contains the Windows® 7 clients and the domain named child.corp.contoso.com.
+This is accomplished by removing the client SG DownlevelClients which contains the Windows?? 7 clients and the domain named child.corp.contoso.com.
 
 ## PARAMETERS
 
@@ -264,7 +264,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -313,7 +313,7 @@ The DAClient object contains the following properties:
 - The status of force tunnel. 
 - The NRPT object (for force tunnel properties). 
 - The status of the policy to deploy DA only on laptops and notebooks and not on all of the computers in the domain. 
-- The status of whether appropriate policies should be deployed on down-level clients (Windows® 7) to enable them to connect to the Windows Server 2012 DA Server. 
+- The status of whether appropriate policies should be deployed on down-level clients (Windows?? 7) to enable them to connect to the Windows Server 2012 DA Server. 
 If multi-site is enabled, then the following additional properties are present:
 - The name of the entry point (identity of a site) to which down-level clients are added. 
 - The name of the down-level client GPO. 
@@ -323,9 +323,10 @@ If multi-site is enabled, then the following additional properties are present:
 
 ## RELATED LINKS
 
-[Add-DAClient](./Add-DAClient.md)
+[Add-DAClient](./add-daclient.md)
 
-[Get-DAClient](./Get-DAClient.md)
+[Get-DAClient](./get-daclient.md)
 
-[Set-DAClient](./Set-DAClient.md)
+[Set-DAClient](./set-daclient.md)
+
 

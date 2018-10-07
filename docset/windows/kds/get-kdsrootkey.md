@@ -65,13 +65,14 @@ This cmdlet returns a list of master root keys stored in Active Directory.
 
 ## RELATED LINKS
 
-[Add-KdsRootKey](./Add-KdsRootKey.md)
+[Add-KdsRootKey](./add-kdsrootkey.md)
 
-[Clear-KdsCache](./Clear-KdsCache.md)
+[Clear-KdsCache](./clear-kdscache.md)
 
-[Get-KdsConfiguration](./Get-KdsConfiguration.md)
+[Get-KdsConfiguration](./get-kdsconfiguration.md)
 
-[Set-KdsConfiguration](./Set-KdsConfiguration.md)
+[Set-KdsConfiguration](./set-kdsconfiguration.md)
 
-[Test-KdsRootKey](./Test-KdsRootKey.md)
+[Test-KdsRootKey](./test-kdsrootkey.md)
+
 

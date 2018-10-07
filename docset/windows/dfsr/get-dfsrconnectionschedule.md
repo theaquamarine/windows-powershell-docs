@@ -164,5 +164,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Set-DfsrConnectionSchedule](./Set-DfsrConnectionSchedule.md)
+[Set-DfsrConnectionSchedule](./set-dfsrconnectionschedule.md)
+
 

@@ -554,5 +554,6 @@ In the case where the name/value option is passed, the cmdlet returns the same t
 
 ## RELATED LINKS
 
-[Get-AppvClientConfiguration](./Get-AppvClientConfiguration.md)
+[Get-AppvClientConfiguration](./get-appvclientconfiguration.md)
+
 

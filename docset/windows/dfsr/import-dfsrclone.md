@@ -221,5 +221,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Export-DfsrClone](./Export-DfsrClone.md)
+[Export-DfsrClone](./export-dfsrclone.md)
+
 

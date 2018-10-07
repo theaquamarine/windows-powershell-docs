@@ -140,5 +140,6 @@ This cmdlet generates an object that contains general information about a progra
 
 ## RELATED LINKS
 
-[Get-UevTemplate](./Get-UevTemplate.md)
+[Get-UevTemplate](./get-uevtemplate.md)
+
 

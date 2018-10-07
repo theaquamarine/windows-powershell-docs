@@ -243,5 +243,6 @@ Returns a fine grained password policy object that represents the resultant pass
 
 ## RELATED LINKS
 
-[Get-ADUser](./Get-ADUser.md)
+[Get-ADUser](./get-aduser.md)
+
 

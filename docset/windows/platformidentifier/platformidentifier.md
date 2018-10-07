@@ -24,7 +24,8 @@ ms.assetid: BD6D6930-6F47-48CF-AD35-AD04E1C1FCBB
 This reference provides cmdlet descriptions and syntax for the platform identifier cmdlets. Currently, there is only one cmdlet in this module.
 
 ## PlatformIdentifier Cmdlets
-### [Get-PlatformIdentifier](./Get-PlatformIdentifier.md)
+### [Get-PlatformIdentifier](./get-platformidentifier.md)
 Gathers computer identifiers into an XML document.
+
 
 

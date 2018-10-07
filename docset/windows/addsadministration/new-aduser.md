@@ -1405,11 +1405,12 @@ By default, this cmdlet does not generate any output.
 
 ## RELATED LINKS
 
-[Get-ADUser](./Get-ADUser.md)
+[Get-ADUser](./get-aduser.md)
 
-[Remove-ADUser](./Remove-ADUser.md)
+[Remove-ADUser](./remove-aduser.md)
 
-[Set-ADUser](./Set-ADUser.md)
+[Set-ADUser](./set-aduser.md)
 
-[Set-ADAccountPassword](./Set-ADAccountPassword.md)
+[Set-ADAccountPassword](./set-adaccountpassword.md)
+
 

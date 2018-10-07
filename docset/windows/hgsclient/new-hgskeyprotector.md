@@ -136,9 +136,10 @@ The path after the pound sign (`#`) provides the namespace and class name for th
 
 ## RELATED LINKS
 
-[Grant-HgsKeyProtectorAccess](./Grant-HgsKeyProtectorAccess.md)
+[Grant-HgsKeyProtectorAccess](./grant-hgskeyprotectoraccess.md)
 
-[Revoke-HgsKeyProtectorAccess](./Revoke-HgsKeyProtectorAccess.md)
+[Revoke-HgsKeyProtectorAccess](./revoke-hgskeyprotectoraccess.md)
 
-[Get-HgsGuardian](./Get-HgsGuardian.md)
+[Get-HgsGuardian](./get-hgsguardian.md)
+
 

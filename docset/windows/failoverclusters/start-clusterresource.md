@@ -56,7 +56,7 @@ IP Address 172.2...  OnlinePending       cluster1FS12        IP Address
 
 This example brings the resource called IP Address 172.24.11.0 online on the local cluster.
 Before bringing the resource online, this cmdlet brings online any resources on which the resource depends.
-The Windows PowerShell® prompt returns as soon as the action has been initiated.
+The Windows PowerShell?? prompt returns as soon as the action has been initiated.
 
 ## PARAMETERS
 
@@ -173,17 +173,18 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-ClusterResource](./Add-ClusterResource.md)
+[Add-ClusterResource](./add-clusterresource.md)
 
-[Get-ClusterResource](./Get-ClusterResource.md)
+[Get-ClusterResource](./get-clusterresource.md)
 
-[Move-ClusterResource](./Move-ClusterResource.md)
+[Move-ClusterResource](./move-clusterresource.md)
 
-[Remove-ClusterResource](./Remove-ClusterResource.md)
+[Remove-ClusterResource](./remove-clusterresource.md)
 
-[Resume-ClusterResource](./Resume-ClusterResource.md)
+[Resume-ClusterResource](./resume-clusterresource.md)
 
-[Stop-ClusterResource](./Stop-ClusterResource.md)
+[Stop-ClusterResource](./stop-clusterresource.md)
 
-[Suspend-ClusterResource](./Suspend-ClusterResource.md)
+[Suspend-ClusterResource](./suspend-clusterresource.md)
+
 

@@ -151,11 +151,12 @@ This cmdlet returns a **WmsSession** collection as a **PSObject** collection.
 
 ## RELATED LINKS
 
-[Close-WmsSession](./Close-WmsSession.md)
+[Close-WmsSession](./close-wmssession.md)
 
-[Disconnect-WmsSession](./Disconnect-WmsSession.md)
+[Disconnect-WmsSession](./disconnect-wmssession.md)
 
-[Lock-WmsSession](./Lock-WmsSession.md)
+[Lock-WmsSession](./lock-wmssession.md)
 
-[Unlock-WmsSession](./Unlock-WmsSession.md)
+[Unlock-WmsSession](./unlock-wmssession.md)
+
 

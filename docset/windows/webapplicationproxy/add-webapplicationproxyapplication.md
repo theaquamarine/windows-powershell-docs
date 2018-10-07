@@ -428,7 +428,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 Do not specify a value for this parameter greater than 1.
 
@@ -474,9 +474,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 [Publishing Internal Applications using Web Application Proxy](http://technet.microsoft.com/en-us/library/dn383650.aspx)
 
-[Get-WebApplicationProxyApplication](./Get-WebApplicationProxyApplication.md)
+[Get-WebApplicationProxyApplication](./get-webapplicationproxyapplication.md)
 
-[Remove-WebApplicationProxyApplication](./Remove-WebApplicationProxyApplication.md)
+[Remove-WebApplicationProxyApplication](./remove-webapplicationproxyapplication.md)
 
-[Set-WebApplicationProxyApplication](./Set-WebApplicationProxyApplication.md)
+[Set-WebApplicationProxyApplication](./set-webapplicationproxyapplication.md)
+
 

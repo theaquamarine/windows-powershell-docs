@@ -83,11 +83,12 @@ The possible values are NotInstalled, Discard, or Passive.
 
 ## RELATED LINKS
 
-[Disable-WmsDiskProtection](./Disable-WmsDiskProtection.md)
+[Disable-WmsDiskProtection](./disable-wmsdiskprotection.md)
 
-[Enable-WmsDiskProtection](./Enable-WmsDiskProtection.md)
+[Enable-WmsDiskProtection](./enable-wmsdiskprotection.md)
 
-[Resume-WmsDiskProtection](./Resume-WmsDiskProtection.md)
+[Resume-WmsDiskProtection](./resume-wmsdiskprotection.md)
 
-[Suspend-WmsDiskProtection](./Suspend-WmsDiskProtection.md)
+[Suspend-WmsDiskProtection](./suspend-wmsdiskprotection.md)
+
 

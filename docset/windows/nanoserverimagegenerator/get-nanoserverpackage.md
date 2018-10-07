@@ -103,7 +103,8 @@ None.
 
 ## RELATED LINKS
 
-[Edit-NanoServerImage](./Edit-NanoServerImage.md)
+[Edit-NanoServerImage](./edit-nanoserverimage.md)
 
-[New-NanoServerImage](./New-NanoServerImage.md)
+[New-NanoServerImage](./new-nanoserverimage.md)
+
 

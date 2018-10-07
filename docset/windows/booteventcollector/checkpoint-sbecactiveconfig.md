@@ -187,13 +187,14 @@ If a failure occurs, `<ErrorType>` has a code that describes the error:
 
 ## RELATED LINKS
 
-[Get-SbecBackupConfig](./Get-SbecBackupConfig.md)
+[Get-SbecBackupConfig](./get-sbecbackupconfig.md)
 
-[Redo-SbecActiveConfig](./Redo-SbecActiveConfig.md)
+[Redo-SbecActiveConfig](./redo-sbecactiveconfig.md)
 
-[Restore-SbecBackupConfig](./Restore-SbecBackupConfig.md)
+[Restore-SbecBackupConfig](./restore-sbecbackupconfig.md)
 
-[Set-SbecActiveConfig](./Set-SbecActiveConfig.md)
+[Set-SbecActiveConfig](./set-sbecactiveconfig.md)
 
-[Undo-SbecActiveConfig](./Undo-SbecActiveConfig.md)
+[Undo-SbecActiveConfig](./undo-sbecactiveconfig.md)
+
 

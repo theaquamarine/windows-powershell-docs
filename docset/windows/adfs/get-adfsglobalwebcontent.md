@@ -123,7 +123,8 @@ The object includes the following properties:
 
 ## RELATED LINKS
 
-[Set-AdfsGlobalWebContent](./Set-AdfsGlobalWebContent.md)
+[Set-AdfsGlobalWebContent](./set-adfsglobalwebcontent.md)
 
-[Remove-AdfsGlobalWebContent](./Remove-AdfsGlobalWebContent.md)
+[Remove-AdfsGlobalWebContent](./remove-adfsglobalwebcontent.md)
+
 

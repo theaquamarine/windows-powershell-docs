@@ -286,7 +286,8 @@ This cmdlet outputs the following information:
 
 ## RELATED LINKS
 
-[Get-NetworkControllerGateway](./Get-NetworkControllerGateway.md)
+[Get-NetworkControllerGateway](./get-networkcontrollergateway.md)
 
-[Remove-NetworkControllerGateway](./Remove-NetworkControllerGateway.md)
+[Remove-NetworkControllerGateway](./remove-networkcontrollergateway.md)
+
 

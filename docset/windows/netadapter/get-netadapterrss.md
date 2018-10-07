@@ -39,7 +39,7 @@ Get-NetAdapterRss -InterfaceDescription <String[]> [-IncludeHidden] [-CimSession
 ## DESCRIPTION
 The **Get-NetAdapterRss** cmdlet gets receive side scaling (RSS) properties of the network adapters that support RSS.
 RSS is a scalability technology that distributes the receive network traffic among multiple processors by hashing the header of the incoming packet and using an indirection table.
-Without RSS in Windows Server® 2012 and later, network traffic is received on the first processor which can quickly reach full utilization limiting receive network throughput.
+Without RSS in Windows Server?? 2012 and later, network traffic is received on the first processor which can quickly reach full utilization limiting receive network throughput.
 Various properties can be configured to optimize the performance of RSS.
 
 ## EXAMPLES
@@ -81,7 +81,7 @@ Use this parameter to run commands that take a long time to complete.
 You can continue to work in the session while the job completes.
 To manage the job, use the `*-Job` cmdlets.
 To get the job results, use the [Receive-Job](http://go.microsoft.com/fwlink/?LinkID=113372) cmdlet. 
- For more information about Windows PowerShell® background jobs, see [about_Jobs](http://go.microsoft.com/fwlink/?LinkID=113251).
+ For more information about Windows PowerShell?? background jobs, see [about_Jobs](http://go.microsoft.com/fwlink/?LinkID=113251).
 
 ```yaml
 Type: SwitchParameter
@@ -162,7 +162,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -194,9 +194,10 @@ The path after the pound sign (`#`) provides the namespace and class name for th
 
 ## RELATED LINKS
 
-[Disable-NetAdapterRss](./Disable-NetAdapterRss.md)
+[Disable-NetAdapterRss](./disable-netadapterrss.md)
 
-[Enable-NetAdapterRss](./Enable-NetAdapterRss.md)
+[Enable-NetAdapterRss](./enable-netadapterrss.md)
 
-[Set-NetAdapterRss](./Set-NetAdapterRss.md)
+[Set-NetAdapterRss](./set-netadapterrss.md)
+
 

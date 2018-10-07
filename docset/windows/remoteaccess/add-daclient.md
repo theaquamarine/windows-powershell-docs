@@ -116,7 +116,7 @@ Two new SGs DirectAccessLaptopClients and DirectAccessMobileClients are created 
 This cmdlet will add the SGs to DA configuration.
 This essentially means that the existing Client GPO configuration corp.contoso.com/DirectAccess Client Settings will be filtered on the two SGs. 
                          
-This cmdlet will only provision Windows® 8 clients.
+This cmdlet will only provision Windows?? 8 clients.
 Down-level clients have to be provisioned separately.
 
 ### EXAMPLE 2
@@ -154,8 +154,8 @@ DownlevelGpoName               : child.corp.contoso.com\DownLevelClientsGPO
 This example provisions DA for firstref_client_7 clients present in the domain child.corp.contoso.com enabling them to connect to site 2-Edge-Site. 
 2-Edge-Site is the site configured for the child domain.
 A new GPO (**DownlevelClientsGPO**) can be added to the DiretAccessConfiguration.
-This GPO is filtered on DownlevelClients SG which contains Windows® 7 clients in the child domain.
-Note: The Windows® 7 clients can only connect access the site specified in the **EntrypointName** parameter.
+This GPO is filtered on DownlevelClients SG which contains Windows?? 7 clients in the child domain.
+Note: The Windows?? 7 clients can only connect access the site specified in the **EntrypointName** parameter.
 
 ## PARAMETERS
 
@@ -341,7 +341,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -397,7 +397,7 @@ The output object contains the following properties:
                          
  -- The status of the policy to deploy DA only on laptops and notebooks and not on all computers in the domain. 
                          
- -- The status of whether appropriate policies should be deployed on down-level clients (Windows® 7) to enable them to connect to the Windows Server 2012 DA server. 
+ -- The status of whether appropriate policies should be deployed on down-level clients (Windows?? 7) to enable them to connect to the Windows Server 2012 DA server. 
                          
 If multi-site is enabled, then the following additional properties are present:
                          
@@ -411,9 +411,10 @@ If multi-site is enabled, then the following additional properties are present:
 
 ## RELATED LINKS
 
-[Get-DAClient](./Get-DAClient.md)
+[Get-DAClient](./get-daclient.md)
 
-[Remove-DAClient](./Remove-DAClient.md)
+[Remove-DAClient](./remove-daclient.md)
 
-[Set-DAClient](./Set-DAClient.md)
+[Set-DAClient](./set-daclient.md)
+
 

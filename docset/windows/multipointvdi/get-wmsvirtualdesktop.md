@@ -74,9 +74,10 @@ None.
 
 ## RELATED LINKS
 
-[Import-WmsVirtualDesktop](./Import-WmsVirtualDesktop.md)
+[Import-WmsVirtualDesktop](./import-wmsvirtualdesktop.md)
 
-[New-WmsVirtualDesktop](./New-WmsVirtualDesktop.md)
+[New-WmsVirtualDesktop](./new-wmsvirtualdesktop.md)
 
-[Open-WmsVirtualDesktop](./Open-WmsVirtualDesktop.md)
+[Open-WmsVirtualDesktop](./open-wmsvirtualdesktop.md)
+
 

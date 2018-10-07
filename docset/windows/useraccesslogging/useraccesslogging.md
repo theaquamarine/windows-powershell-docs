@@ -24,46 +24,47 @@ ms.assetid: 40047A3B-9473-49D1-B164-84FA6CCC9AFA
 This reference provides cmdlet descriptions and syntax for all User Access Logging (UAL) cmdlets. It lists the cmdlets in alphabetical order based on the verb at the beginning of the cmdlet.
 
 ## UserAccessLogging Cmdlets
-### [Disable-Ual](./Disable-Ual.md)
+### [Disable-Ual](./disable-ual.md)
 Disables UAL at the next restart.
 
-### [Enable-Ual](./Enable-Ual.md)
+### [Enable-Ual](./enable-ual.md)
 Enables UAL at the next restart.
 
-### [Get-Ual](./Get-Ual.md)
+### [Get-Ual](./get-ual.md)
 Gets the startup status for UAL.
 
-### [Get-UalDailyAccess](./Get-UalDailyAccess.md)
+### [Get-UalDailyAccess](./get-ualdailyaccess.md)
 Gets UAL records of client requests for each day.
 
-### [Get-UalDailyDeviceAccess](./Get-UalDailyDeviceAccess.md)
+### [Get-UalDailyDeviceAccess](./get-ualdailydeviceaccess.md)
 Gets UAL records of client requests per device for each day.
 
-### [Get-UalDailyUserAccess](./Get-UalDailyUserAccess.md)
+### [Get-UalDailyUserAccess](./get-ualdailyuseraccess.md)
 Gets UAL records for client requests per user for each day.
 
-### [Get-UalDeviceAccess](./Get-UalDeviceAccess.md)
+### [Get-UalDeviceAccess](./get-ualdeviceaccess.md)
 Gets UAL records of client request per device.
 
-### [Get-UalDns](./Get-UalDns.md)
+### [Get-UalDns](./get-ualdns.md)
 Gets UAL records for a DNS server.
 
-### [Get-UalHyperV](./Get-UalHyperV.md)
+### [Get-UalHyperV](./get-ualhyperv.md)
 Gets UAL information about virtual machines.
 
-### [Get-UalOverview](./Get-UalOverview.md)
+### [Get-UalOverview](./get-ualoverview.md)
 Gets information about products registered with UAL.
 
-### [Get-UalServerDevice](./Get-UalServerDevice.md)
+### [Get-UalServerDevice](./get-ualserverdevice.md)
 Gets UAL records for a server per device.
 
-### [Get-UalServerUser](./Get-UalServerUser.md)
+### [Get-UalServerUser](./get-ualserveruser.md)
 Gets UAL records for a server per user.
 
-### [Get-UalSystemId](./Get-UalSystemId.md)
+### [Get-UalSystemId](./get-ualsystemid.md)
 Gets information that can uniquely identify a server.
 
-### [Get-UalUserAccess](./Get-UalUserAccess.md)
+### [Get-UalUserAccess](./get-ualuseraccess.md)
 Gets UAL records of client requests per user.
+
 
 

@@ -217,13 +217,14 @@ ErrorString, WarningString, and InfoString contain detailed error messages.
 
 ## RELATED LINKS
 
-[Get-SbecActiveConfig](./Get-SbecActiveConfig.md)
+[Get-SbecActiveConfig](./get-sbecactiveconfig.md)
 
-[Restore-SbecBackupConfig](./Restore-SbecBackupConfig.md)
+[Restore-SbecBackupConfig](./restore-sbecbackupconfig.md)
 
-[Test-SbecActiveConfig](./Test-SbecActiveConfig.md)
+[Test-SbecActiveConfig](./test-sbecactiveconfig.md)
 
-[Test-SbecConfig](./Test-SbecConfig.md)
+[Test-SbecConfig](./test-sbecconfig.md)
 
-[Undo-SbecActiveConfig](./Undo-SbecActiveConfig.md)
+[Undo-SbecActiveConfig](./undo-sbecactiveconfig.md)
+
 

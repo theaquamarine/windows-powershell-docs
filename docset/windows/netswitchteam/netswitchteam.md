@@ -26,25 +26,26 @@ This reference provides cmdlet descriptions and syntax for all Network Switch Te
 These Network Switch Team cmdlets should only be used with NIC switch teams that are manipulated by a forwarding extension in the Hyper-V Extensible Switch.
 
 ## NetSwitchTeam Cmdlets
-### [Add-NetSwitchTeamMember](./Add-NetSwitchTeamMember.md)
+### [Add-NetSwitchTeamMember](./add-netswitchteammember.md)
 Adds a network adapter member to an existing switch team.
 
-### [Get-NetSwitchTeam](./Get-NetSwitchTeam.md)
+### [Get-NetSwitchTeam](./get-netswitchteam.md)
 Gets the extensible switch team.
 
-### [Get-NetSwitchTeamMember](./Get-NetSwitchTeamMember.md)
+### [Get-NetSwitchTeamMember](./get-netswitchteammember.md)
 Gets the current network adapter members of a switch team.
 
-### [New-NetSwitchTeam](./New-NetSwitchTeam.md)
+### [New-NetSwitchTeam](./new-netswitchteam.md)
 Creates a switch team.
 
-### [Remove-NetSwitchTeam](./Remove-NetSwitchTeam.md)
+### [Remove-NetSwitchTeam](./remove-netswitchteam.md)
 Deletes a switch team.
 
-### [Remove-NetSwitchTeamMember](./Remove-NetSwitchTeamMember.md)
+### [Remove-NetSwitchTeamMember](./remove-netswitchteammember.md)
 Removes a network adapter member from a switch team.
 
-### [Rename-NetSwitchTeam](./Rename-NetSwitchTeam.md)
+### [Rename-NetSwitchTeam](./rename-netswitchteam.md)
 Changes the name of a switch team.
+
 
 

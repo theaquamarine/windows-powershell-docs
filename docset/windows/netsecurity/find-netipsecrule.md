@@ -273,7 +273,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -301,25 +301,26 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-NetIPsecRule](./Get-NetIPsecRule.md)
+[Get-NetIPsecRule](./get-netipsecrule.md)
 
-[Set-NetIPsecRule](./Set-NetIPsecRule.md)
+[Set-NetIPsecRule](./set-netipsecrule.md)
 
-[New-NetIPsecRule](./New-NetIPsecRule.md)
+[New-NetIPsecRule](./new-netipsecrule.md)
 
-[Show-NetIPsecRule](./Show-NetIPsecRule.md)
+[Show-NetIPsecRule](./show-netipsecrule.md)
 
-[Enable-NetIPsecRule](./Enable-NetIPsecRule.md)
+[Enable-NetIPsecRule](./enable-netipsecrule.md)
 
-[Disable-NetIPsecRule](./Disable-NetIPsecRule.md)
+[Disable-NetIPsecRule](./disable-netipsecrule.md)
 
-[Sync-NetIPsecRule](./Sync-NetIPsecRule.md)
+[Sync-NetIPsecRule](./sync-netipsecrule.md)
 
-[Rename-NetIPsecRule](./Rename-NetIPsecRule.md)
+[Rename-NetIPsecRule](./rename-netipsecrule.md)
 
-[Remove-NetIPsecRule](./Remove-NetIPsecRule.md)
+[Remove-NetIPsecRule](./remove-netipsecrule.md)
 
-[Copy-NetIPsecRule](./Copy-NetIPsecRule.md)
+[Copy-NetIPsecRule](./copy-netipsecrule.md)
 
-[Update-NetIPsecRule](./Update-NetIPsecRule.md)
+[Update-NetIPsecRule](./update-netipsecrule.md)
+
 

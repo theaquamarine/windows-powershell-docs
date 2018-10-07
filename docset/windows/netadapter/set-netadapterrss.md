@@ -54,7 +54,7 @@ Set-NetAdapterRss -InputObject <CimInstance[]> [-NumberOfReceiveQueues <UInt32>]
 ## DESCRIPTION
 The **Set-NetAdapterRss** cmdlet sets the receive side scaling (RSS) properties on a network adapter.
 RSS is a scalability technology that distributes the receive network traffic among multiple processors by hashing the header of the incoming packet.
-Without RSS in firstref_longhorn, firstref_server_7, and Windows Server® 2012; network traffic is received on the first processor which can quickly reach full utilization limiting receive network throughput.
+Without RSS in firstref_longhorn, firstref_server_7, and Windows Server?? 2012; network traffic is received on the first processor which can quickly reach full utilization limiting receive network throughput.
 Many properties can be configured using the parameters to optimize the performance of RSS.
 The selection of the processors to use for RSS is an important aspect of load balancing.
 Most of the parameters for this cmdlet help to determine the processors used by RSS.
@@ -79,7 +79,7 @@ Use this parameter to run commands that take a long time to complete.
 You can continue to work in the session while the job completes.
 To manage the job, use the `*-Job` cmdlets.
 To get the job results, use the [Receive-Job](http://go.microsoft.com/fwlink/?LinkID=113372) cmdlet. 
- For more information about Windows PowerShell® background jobs, see [about_Jobs](http://go.microsoft.com/fwlink/?LinkID=113251).
+ For more information about Windows PowerShell?? background jobs, see [about_Jobs](http://go.microsoft.com/fwlink/?LinkID=113251).
 
 ```yaml
 Type: SwitchParameter
@@ -378,7 +378,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -428,9 +428,10 @@ The path after the pound sign (`#`) provides the namespace and class name for th
 
 ## RELATED LINKS
 
-[Disable-NetAdapterRss](./Disable-NetAdapterRss.md)
+[Disable-NetAdapterRss](./disable-netadapterrss.md)
 
-[Enable-NetAdapterRss](./Enable-NetAdapterRss.md)
+[Enable-NetAdapterRss](./enable-netadapterrss.md)
 
-[Get-NetAdapterRss](./Get-NetAdapterRss.md)
+[Get-NetAdapterRss](./get-netadapterrss.md)
+
 

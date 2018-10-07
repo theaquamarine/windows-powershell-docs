@@ -53,7 +53,7 @@ These properties are not relevant for DA OTP authentication.
  -- If a user tries to add a RADIUS server for a particular purpose but specifies a parameter that is not applicable to that purpose, then this cmdlet will still run but the parameter will be ignored and a warning message will be issued.
 When adding a RADIUS server for OTP authentication both the above described parameters are ignored if specified. 
 
- -- If the accounting configuration is Windows Server® 2012 accounting, then a user can switch to external RADIUS accounting by adding an external RADIUS server for the purpose of accounting. 
+ -- If the accounting configuration is Windows Server?? 2012 accounting, then a user can switch to external RADIUS accounting by adding an external RADIUS server for the purpose of accounting. 
 
  -- Following are some pre-requisites for adding a RADIUS server. 
 
@@ -327,7 +327,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -409,9 +409,10 @@ The RemoteAccessRadiusServer object array consists of the following properties:
 
 ## RELATED LINKS
 
-[Get-RemoteAccessRadius](./Get-RemoteAccessRadius.md)
+[Get-RemoteAccessRadius](./get-remoteaccessradius.md)
 
-[Remove-RemoteAccessRadius](./Remove-RemoteAccessRadius.md)
+[Remove-RemoteAccessRadius](./remove-remoteaccessradius.md)
 
-[Set-RemoteAccessRadius](./Set-RemoteAccessRadius.md)
+[Set-RemoteAccessRadius](./set-remoteaccessradius.md)
+
 

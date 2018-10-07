@@ -230,11 +230,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-NetworkControllerFabricRoute](./Get-NetworkControllerFabricRoute.md)
+[Get-NetworkControllerFabricRoute](./get-networkcontrollerfabricroute.md)
 
-[Install-NetworkController](./Install-NetworkController.md)
+[Install-NetworkController](./install-networkcontroller.md)
 
-[New-NetworkControllerFabricRoute](./New-NetworkControllerFabricRoute.md)
+[New-NetworkControllerFabricRoute](./new-networkcontrollerfabricroute.md)
 
-[Set-NetworkController](./Set-NetworkController.md)
+[Set-NetworkController](./set-networkcontroller.md)
+
 

@@ -140,9 +140,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-BpaResult](./Get-BpaResult.md)
+[Get-BpaResult](./get-bparesult.md)
 
-[Invoke-BpaModel](./Invoke-BpaModel.md)
+[Invoke-BpaModel](./invoke-bpamodel.md)
 
-[Set-BpaResult](./Set-BpaResult.md)
+[Set-BpaResult](./set-bparesult.md)
+
 

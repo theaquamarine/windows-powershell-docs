@@ -183,11 +183,12 @@ The path after the pound sign (`#`) provides the namespace and class name for th
 
 [Where-Object](http://go.microsoft.com/fwlink/?LinkID=113423)
 
-[Add-PhysicalDisk](./Add-PhysicalDisk.md)
+[Add-PhysicalDisk](./add-physicaldisk.md)
 
-[Get-PhysicalDisk](./Get-PhysicalDisk.md)
+[Get-PhysicalDisk](./get-physicaldisk.md)
 
-[Remove-PhysicalDisk](./Remove-PhysicalDisk.md)
+[Remove-PhysicalDisk](./remove-physicaldisk.md)
 
-[Set-PhysicalDisk](./Set-PhysicalDisk.md)
+[Set-PhysicalDisk](./set-physicaldisk.md)
+
 

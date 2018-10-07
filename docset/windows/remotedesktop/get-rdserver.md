@@ -121,7 +121,8 @@ Names of RDS role services.
 
 ## RELATED LINKS
 
-[Add-RDServer](./Add-RDServer.md)
+[Add-RDServer](./add-rdserver.md)
 
-[Remove-RDServer](./Remove-RDServer.md)
+[Remove-RDServer](./remove-rdserver.md)
+
 

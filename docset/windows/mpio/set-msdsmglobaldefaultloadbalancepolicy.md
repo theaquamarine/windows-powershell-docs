@@ -93,5 +93,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-MSDSMGlobalDefaultLoadBalancePolicy](./Get-MSDSMGlobalDefaultLoadBalancePolicy.md)
+[Get-MSDSMGlobalDefaultLoadBalancePolicy](./get-msdsmglobaldefaultloadbalancepolicy.md)
+
 

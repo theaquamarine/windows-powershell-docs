@@ -88,9 +88,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-RDSessionHost](./Add-RDSessionHost.md)
+[Add-RDSessionHost](./add-rdsessionhost.md)
 
-[Remove-RDSessionHost](./Remove-RDSessionHost.md)
+[Remove-RDSessionHost](./remove-rdsessionhost.md)
 
-[Set-RDSessionHost](./Set-RDSessionHost.md)
+[Set-RDSessionHost](./set-rdsessionhost.md)
+
 

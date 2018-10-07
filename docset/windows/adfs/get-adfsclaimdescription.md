@@ -120,9 +120,10 @@ This cmdlet generates a class structure that represents the claim description re
 
 ## RELATED LINKS
 
-[Add-AdfsClaimDescription](./Add-AdfsClaimDescription.md)
+[Add-AdfsClaimDescription](./add-adfsclaimdescription.md)
 
-[Remove-AdfsClaimDescription](./Remove-AdfsClaimDescription.md)
+[Remove-AdfsClaimDescription](./remove-adfsclaimdescription.md)
 
-[Set-AdfsClaimDescription](./Set-AdfsClaimDescription.md)
+[Set-AdfsClaimDescription](./set-adfsclaimdescription.md)
+
 

@@ -57,9 +57,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[New-NpsRadiusClient](./New-NpsRadiusClient.md)
+[New-NpsRadiusClient](./new-npsradiusclient.md)
 
-[Remove-NpsRadiusClient](./Remove-NpsRadiusClient.md)
+[Remove-NpsRadiusClient](./remove-npsradiusclient.md)
 
-[Set-NpsRadiusClient](./Set-NpsRadiusClient.md)
+[Set-NpsRadiusClient](./set-npsradiusclient.md)
+
 

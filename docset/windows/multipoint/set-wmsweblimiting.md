@@ -126,9 +126,10 @@ None.
 
 ## RELATED LINKS
 
-[Disable-WmsWebLimiting](./Disable-WmsWebLimiting.md)
+[Disable-WmsWebLimiting](./disable-wmsweblimiting.md)
 
-[Enable-WmsWebLimiting](./Enable-WmsWebLimiting.md)
+[Enable-WmsWebLimiting](./enable-wmsweblimiting.md)
 
-[Get-WmsWebLimiting](./Get-WmsWebLimiting.md)
+[Get-WmsWebLimiting](./get-wmsweblimiting.md)
+
 

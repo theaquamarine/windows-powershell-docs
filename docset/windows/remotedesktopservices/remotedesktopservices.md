@@ -24,8 +24,9 @@ ms.assetid: 0A78697D-BDA5-428D-83A8-74773C1A3323
 This reference provides cmdlet descriptions and syntax for all Remote Desktop Services cmdlets. It lists the cmdlets in alphabetical order based on the verb at the beginning of the cmdlet.
 
 ## RemoteDesktopServices Cmdlets
-### [Convert-License](./Convert-License.md)
+### [Convert-License](./convert-license.md)
 Converts licenses in a key pack to per-device or per-user licenses.
+
 
 
 

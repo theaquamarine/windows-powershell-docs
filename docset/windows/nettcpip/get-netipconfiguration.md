@@ -218,9 +218,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 [Get-NetAdapter](../netadapter/Get-NetAdapter.md)
 
-[Get-NetIPAddress](./Get-NetIPAddress.md)
+[Get-NetIPAddress](./get-netipaddress.md)
 
-[Get-NetIPInterface](./Get-NetIPInterface.md)
+[Get-NetIPInterface](./get-netipinterface.md)
 
-[Get-NetRoute](./Get-NetRoute.md)
+[Get-NetRoute](./get-netroute.md)
+
 

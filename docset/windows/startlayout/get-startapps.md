@@ -100,9 +100,10 @@ Proseware Design Pro Proseware.Design.3
 
 ## RELATED LINKS
 
-[Export-StartLayout](./Export-StartLayout.md)
+[Export-StartLayout](./export-startlayout.md)
 
-[Import-StartLayout](./Import-StartLayout.md)
+[Import-StartLayout](./import-startlayout.md)
 
 [Start Layout Cmdlets](./startlayout.md)
+
 

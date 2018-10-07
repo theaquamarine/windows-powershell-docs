@@ -111,7 +111,8 @@ Otherwise will be empty.
 
 ## RELATED LINKS
 
-[Get-SbecDestination](./Get-SbecDestination.md)
+[Get-SbecDestination](./get-sbecdestination.md)
 
-[Get-SbecHistory](./Get-SbecHistory.md)
+[Get-SbecHistory](./get-sbechistory.md)
+
 

@@ -21,82 +21,83 @@ ms.assetid: AC9B47F4-19F7-4EB5-B5FE-70790B7A825D
 
 # UEV Module
 ## Description
-The following list contains links to the help topics for the Microsoft User Experience Virtualization (UE-V) for Windows 10� Anniversary edition and Windows Server 2016 Microsoft User Experience Virtualization (UE-V) cmdlets.
+The following list contains links to the help topics for the Microsoft User Experience Virtualization (UE-V) for Windows 10??? Anniversary edition and Windows Server 2016 Microsoft User Experience Virtualization (UE-V) cmdlets.
 
 ## UEV Cmdlets
-### [Clear-UevAppxPackage](./Clear-UevAppxPackage.md)
+### [Clear-UevAppxPackage](./clear-uevappxpackage.md)
 Clears a setting in the computer or user sections of the registry.
 
-### [Clear-UevConfiguration](./Clear-UevConfiguration.md)
+### [Clear-UevConfiguration](./clear-uevconfiguration.md)
 Clears UE-V configuration settings.
 
-### [Disable-Uev](./Disable-Uev.md)
+### [Disable-Uev](./disable-uev.md)
 Disables the UE-V service.
 
-### [Disable-UevAppxPackage](./Disable-UevAppxPackage.md)
+### [Disable-UevAppxPackage](./disable-uevappxpackage.md)
 Disables UE-V synchronization of Windows 8 apps.
 
-### [Disable-UevTemplate](./Disable-UevTemplate.md)
+### [Disable-UevTemplate](./disable-uevtemplate.md)
 Disables a settings location template.
 
-### [Enable-Uev](./Enable-Uev.md)
+### [Enable-Uev](./enable-uev.md)
 Enables the UE-V service.
 
-### [Enable-UevAppxPackage](./Enable-UevAppxPackage.md)
+### [Enable-UevAppxPackage](./enable-uevappxpackage.md)
 Enables UE-V synchronization of Windows 8 apps.
 
-### [Enable-UevTemplate](./Enable-UevTemplate.md)
+### [Enable-UevTemplate](./enable-uevtemplate.md)
 Enables a settings location template.
 
-### [Export-UevConfiguration](./Export-UevConfiguration.md)
+### [Export-UevConfiguration](./export-uevconfiguration.md)
 Exports the UE-V configuration.
 
-### [Export-UevPackage](./Export-UevPackage.md)
+### [Export-UevPackage](./export-uevpackage.md)
 Exports the settings stored in a settings package.
 
-### [Get-UevAppxPackage](./Get-UevAppxPackage.md)
+### [Get-UevAppxPackage](./get-uevappxpackage.md)
 Gets a list of Windows 8 apps and synchronization status.
 
-### [Get-UevConfiguration](./Get-UevConfiguration.md)
+### [Get-UevConfiguration](./get-uevconfiguration.md)
 Gets the UE-V configuration settings.
 
-### [Get-UevStatus](./Get-UevStatus.md)
+### [Get-UevStatus](./get-uevstatus.md)
 Gets the status of the UE-V service.
 
-### [Get-UevTemplate](./Get-UevTemplate.md)
+### [Get-UevTemplate](./get-uevtemplate.md)
 Gets settings location templates for UE-V.
 
-### [Get-UevTemplateProgram](./Get-UevTemplateProgram.md)
+### [Get-UevTemplateProgram](./get-uevtemplateprogram.md)
 Gets the information about programs defined by a settings location template.
 
-### [Import-UevConfiguration](./Import-UevConfiguration.md)
+### [Import-UevConfiguration](./import-uevconfiguration.md)
 Imports the UE-V configuration.
 
-### [Register-UevTemplate](./Register-UevTemplate.md)
+### [Register-UevTemplate](./register-uevtemplate.md)
 Registers a settings location template with UE-V.
 
-### [Repair-UevTemplateIndex](./Repair-UevTemplateIndex.md)
+### [Repair-UevTemplateIndex](./repair-uevtemplateindex.md)
 Repairs a corrupted UE-V template index.
 
-### [Restore-UevBackup](./Restore-UevBackup.md)
+### [Restore-UevBackup](./restore-uevbackup.md)
 Applies backed up settings from another computer to this computer.
 
-### [Restore-UevUserSetting](./Restore-UevUserSetting.md)
+### [Restore-UevUserSetting](./restore-uevusersetting.md)
 Sets a restore flag for the user settings.
 
-### [Set-UevConfiguration](./Set-UevConfiguration.md)
+### [Set-UevConfiguration](./set-uevconfiguration.md)
 Modifies UE-V configuration settings.
 
-### [Set-UevTemplateProfile](./Set-UevTemplateProfile.md)
+### [Set-UevTemplateProfile](./set-uevtemplateprofile.md)
 Modifies which profile to associate with an individual template.
 
-### [Test-UevTemplate](./Test-UevTemplate.md)
+### [Test-UevTemplate](./test-uevtemplate.md)
 Verifies whether a template complies with the schema for UE-V.
 
-### [Unregister-UevTemplate](./Unregister-UevTemplate.md)
+### [Unregister-UevTemplate](./unregister-uevtemplate.md)
 Unregisters a settings location template from Microsoft User Experience Virtualization (UE-V).
 
-### [Update-UevTemplate](./Update-UevTemplate.md)
+### [Update-UevTemplate](./update-uevtemplate.md)
 Updates settings location templates in UE-V.
+
 
 

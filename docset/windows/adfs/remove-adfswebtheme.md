@@ -135,11 +135,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Export-AdfsWebTheme](./Export-AdfsWebTheme.md)
+[Export-AdfsWebTheme](./export-adfswebtheme.md)
 
-[Get-AdfsWebTheme](./Get-AdfsWebTheme.md)
+[Get-AdfsWebTheme](./get-adfswebtheme.md)
 
-[New-AdfsWebTheme](./New-AdfsWebTheme.md)
+[New-AdfsWebTheme](./new-adfswebtheme.md)
 
-[Set-AdfsWebTheme](./Set-AdfsWebTheme.md)
+[Set-AdfsWebTheme](./set-adfswebtheme.md)
+
 

@@ -30,7 +30,7 @@ Set-NetVirtualizationGlobal [-InputObject <CimInstance[]>] [-UseExternalRouter <
 ```
 
 ## DESCRIPTION
-The **Set-NetVirtualizationGlobal** cmdlet changes the per-host global settings of a Microsoft® Hyper-V® Server 2016 Network Virtualization module.
+The **Set-NetVirtualizationGlobal** cmdlet changes the per-host global settings of a Microsoft?? Hyper-V?? Server 2016 Network Virtualization module.
 You can use this cmdlet to change whether to use an external router.
 For more information about Network Virtualization, see [Network Virtualization technical details](http://technet.microsoft.com/library/jj134174.aspx) on TechNet.
 
@@ -112,7 +112,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -153,5 +153,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-NetVirtualizationGlobal](./Get-NetVirtualizationGlobal.md)
+[Get-NetVirtualizationGlobal](./get-netvirtualizationglobal.md)
+
 

@@ -33,7 +33,7 @@ Approve-WsusUpdate -Update <WsusUpdate> -Action <UpdateApprovalAction> -TargetGr
 The **Approve-WsusUpdate** cmdlet approves an update to be applied to clients.
 This operation requires Windows Server Update Services (WSUS) Administrator privileges.
 
-To use this cmdlet, run the [Get-WsusUpdate](./Get-WsusUpdate.md) cmdlet and pipe the resulting **WsusUpdate** object into this cmdlet.
+To use this cmdlet, run the [Get-WsusUpdate](./get-wsusupdate.md) cmdlet and pipe the resulting **WsusUpdate** object into this cmdlet.
 
 ## EXAMPLES
 
@@ -142,7 +142,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Deny-WsusUpdate](./Deny-WsusUpdate.md)
+[Deny-WsusUpdate](./deny-wsusupdate.md)
 
-[Get-WsusUpdate](./Get-WsusUpdate.md)
+[Get-WsusUpdate](./get-wsusupdate.md)
+
 

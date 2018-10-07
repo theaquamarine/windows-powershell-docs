@@ -37,7 +37,7 @@ Get-NetQosTrafficClass [[-Name] <String[]>] [[-InterfaceIndex] <UInt32>] [-CimSe
 ```
 
 ## DESCRIPTION
-The **Get-NetQosTrafficClass** cmdlet retrieves network traffic classes configured in Windows Server® 2012 and later.
+The **Get-NetQosTrafficClass** cmdlet retrieves network traffic classes configured in Windows Server?? 2012 and later.
 A traffic class contains one or more types of traffic, each of which is differentiated by the IEEE 802.1p priority.
 
 For more information about the traffic class, see the **New-NetQosTrafficClass** cmdlet.
@@ -171,7 +171,8 @@ This cmdlet returns a **MSFT_NetQosTrafficClassSettingData** object that contain
 
 ## RELATED LINKS
 
-[New-NetQosTrafficClass](./New-NetQosTrafficClass.md)
+[New-NetQosTrafficClass](./new-netqostrafficclass.md)
 
-[Set-NetQosTrafficClass](./Set-NetQosTrafficClass.md)
+[Set-NetQosTrafficClass](./set-netqostrafficclass.md)
+
 

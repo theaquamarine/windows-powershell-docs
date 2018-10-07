@@ -254,13 +254,14 @@ This exception is not thrown if the *OverrideAdminWarning* parameter is specifie
 
 ## RELATED LINKS
 
-[Clear-WmsStation](./Clear-WmsStation.md)
+[Clear-WmsStation](./clear-wmsstation.md)
 
-[Get-WmsStation](./Get-WmsStation.md)
+[Get-WmsStation](./get-wmsstation.md)
 
-[Join-WmsStation](./Join-WmsStation.md)
+[Join-WmsStation](./join-wmsstation.md)
 
-[Split-WmsStation](./Split-WmsStation.md)
+[Split-WmsStation](./split-wmsstation.md)
 
-[Update-WmsStation](./Update-WmsStation.md)
+[Update-WmsStation](./update-wmsstation.md)
+
 

@@ -158,15 +158,16 @@ This cmdlet generates a class structure that represents a SAML endpoint resource
 
 ## RELATED LINKS
 
-[Get-AdfsClaimsProviderTrust](./Get-AdfsClaimsProviderTrust.md)
+[Get-AdfsClaimsProviderTrust](./get-adfsclaimsprovidertrust.md)
 
-[Get-AdfsRelyingPartyTrust](./Get-AdfsRelyingPartyTrust.md)
+[Get-AdfsRelyingPartyTrust](./get-adfsrelyingpartytrust.md)
 
-[Set-AdfsClaimsProviderTrust](./Set-AdfsClaimsProviderTrust.md)
+[Set-AdfsClaimsProviderTrust](./set-adfsclaimsprovidertrust.md)
 
-[Set-AdfsRelyingPartyTrust](./Set-AdfsRelyingPartyTrust.md)
+[Set-AdfsRelyingPartyTrust](./set-adfsrelyingpartytrust.md)
 
-[Update-AdfsClaimsProviderTrust](./Update-AdfsClaimsProviderTrust.md)
+[Update-AdfsClaimsProviderTrust](./update-adfsclaimsprovidertrust.md)
 
-[Update-AdfsRelyingPartyTrust](./Update-AdfsRelyingPartyTrust.md)
+[Update-AdfsRelyingPartyTrust](./update-adfsrelyingpartytrust.md)
+
 

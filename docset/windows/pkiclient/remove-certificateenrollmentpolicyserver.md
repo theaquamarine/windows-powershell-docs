@@ -141,7 +141,8 @@ Contains information about the certificate enrollment policy.
 
 ## RELATED LINKS
 
-[Add-CertificateEnrollmentPolicyServer](./Add-CertificateEnrollmentPolicyServer.md)
+[Add-CertificateEnrollmentPolicyServer](./add-certificateenrollmentpolicyserver.md)
 
-[Get-CertificateEnrollmentPolicyServer](./Get-CertificateEnrollmentPolicyServer.md)
+[Get-CertificateEnrollmentPolicyServer](./get-certificateenrollmentpolicyserver.md)
+
 

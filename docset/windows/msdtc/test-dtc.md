@@ -315,13 +315,14 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-Dtc](./Get-Dtc.md)
+[Get-Dtc](./get-dtc.md)
 
-[Install-Dtc](./Install-Dtc.md)
+[Install-Dtc](./install-dtc.md)
 
-[Start-Dtc](./Start-Dtc.md)
+[Start-Dtc](./start-dtc.md)
 
-[Stop-Dtc](./Stop-Dtc.md)
+[Stop-Dtc](./stop-dtc.md)
 
-[Uninstall-Dtc](./Uninstall-Dtc.md)
+[Uninstall-Dtc](./uninstall-dtc.md)
+
 

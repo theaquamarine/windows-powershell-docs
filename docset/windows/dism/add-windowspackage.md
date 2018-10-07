@@ -286,7 +286,9 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-WindowsPackage](./Get-WindowsPackage.md)
+[Get-WindowsPackage](./get-windowspackage.md)
 
-[Remove-WindowsPackage](./Remove-WindowsPackage.md)
+[Remove-WindowsPackage](./remove-windowspackage.md)
+
+
 

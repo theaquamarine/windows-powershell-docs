@@ -118,11 +118,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Clear-WebCentralCertProvider](./Clear-WebCentralCertProvider.md)
+[Clear-WebCentralCertProvider](./clear-webcentralcertprovider.md)
 
-[Disable-WebCentralCertProvider](./Disable-WebCentralCertProvider.md)
+[Disable-WebCentralCertProvider](./disable-webcentralcertprovider.md)
 
-[Enable-WebCentralCertProvider](./Enable-WebCentralCertProvider.md)
+[Enable-WebCentralCertProvider](./enable-webcentralcertprovider.md)
 
-[Get-WebCentralCertProvider](./Get-WebCentralCertProvider.md)
+[Get-WebCentralCertProvider](./get-webcentralcertprovider.md)
+
 

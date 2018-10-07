@@ -382,11 +382,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-BgpRouter](./Add-BgpRouter.md)
+[Add-BgpRouter](./add-bgprouter.md)
 
-[Get-BgpRouter](./Get-BgpRouter.md)
+[Get-BgpRouter](./get-bgprouter.md)
 
-[Remove-BgpRouter](./Remove-BgpRouter.md)
+[Remove-BgpRouter](./remove-bgprouter.md)
 
 [Remote Access Cmdlets](./remoteaccess.md)
+
 

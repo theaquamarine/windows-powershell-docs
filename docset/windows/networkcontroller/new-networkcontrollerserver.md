@@ -289,15 +289,16 @@ Each connection has a management address and a credential reference to connect t
 
 ## RELATED LINKS
 
-[Get-NetworkControllerCredential](./Get-NetworkControllerCredential.md)
+[Get-NetworkControllerCredential](./get-networkcontrollercredential.md)
 
-[Get-NetworkControllerServer](./Get-NetworkControllerServer.md)
+[Get-NetworkControllerServer](./get-networkcontrollerserver.md)
 
-[Install-NetworkController](./Install-NetworkController.md)
+[Install-NetworkController](./install-networkcontroller.md)
 
-[New-NetworkControllerCredential](./New-NetworkControllerCredential.md)
+[New-NetworkControllerCredential](./new-networkcontrollercredential.md)
 
-[Remove-NetworkControllerServer](./Remove-NetworkControllerServer.md)
+[Remove-NetworkControllerServer](./remove-networkcontrollerserver.md)
 
-[Set-NetworkController](./Set-NetworkController.md)
+[Set-NetworkController](./set-networkcontroller.md)
+
 

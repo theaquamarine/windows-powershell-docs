@@ -45,7 +45,7 @@ PS C:\> New-AdfsWebTheme -Name "Theme01" -AdditionalFileResource @{Uri="/adfs/po
 ```
 
 This command creates a theme named Theme01 that offers a customized sign-in experience.
-The command uses standard Windows PowerShell® syntax to create hash tables.
+The command uses standard Windows PowerShell?? syntax to create hash tables.
 For more information, type `Get-Help about_Hash_Tables`.
 The command specifies an additional file resource, an illustration image, a logo, and a cascading style sheet.
 The command specifies no value for **Locale** for any of these parameters, and, therefore, the illustration, logo, and style sheet all use the invariant locale.
@@ -263,11 +263,12 @@ This object includes the following properties:
 
 ## RELATED LINKS
 
-[Export-AdfsWebTheme](./Export-AdfsWebTheme.md)
+[Export-AdfsWebTheme](./export-adfswebtheme.md)
 
-[Get-AdfsWebTheme](./Get-AdfsWebTheme.md)
+[Get-AdfsWebTheme](./get-adfswebtheme.md)
 
-[Remove-AdfsWebTheme](./Remove-AdfsWebTheme.md)
+[Remove-AdfsWebTheme](./remove-adfswebtheme.md)
 
-[Set-AdfsWebTheme](./Set-AdfsWebTheme.md)
+[Set-AdfsWebTheme](./set-adfswebtheme.md)
+
 

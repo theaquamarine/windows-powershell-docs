@@ -355,17 +355,18 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-VMNetworkAdapter](./Add-VMNetworkAdapter.md)
+[Add-VMNetworkAdapter](./add-vmnetworkadapter.md)
 
-[Connect-VMNetworkAdapter](./Connect-VMNetworkAdapter.md)
+[Connect-VMNetworkAdapter](./connect-vmnetworkadapter.md)
 
-[Disconnect-VMNetworkAdapter](./Disconnect-VMNetworkAdapter.md)
+[Disconnect-VMNetworkAdapter](./disconnect-vmnetworkadapter.md)
 
-[Get-VMNetworkAdapter](./Get-VMNetworkAdapter.md)
+[Get-VMNetworkAdapter](./get-vmnetworkadapter.md)
 
-[Remove-VMNetworkAdapter](./Remove-VMNetworkAdapter.md)
+[Remove-VMNetworkAdapter](./remove-vmnetworkadapter.md)
 
-[Rename-VMNetworkAdapter](./Rename-VMNetworkAdapter.md)
+[Rename-VMNetworkAdapter](./rename-vmnetworkadapter.md)
 
-[Set-VMNetworkAdapter](./Set-VMNetworkAdapter.md)
+[Set-VMNetworkAdapter](./set-vmnetworkadapter.md)
+
 

@@ -271,7 +271,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-VMNetworkAdapterTeamMapping](./Get-VMNetworkAdapterTeamMapping.md)
+[Get-VMNetworkAdapterTeamMapping](./get-vmnetworkadapterteammapping.md)
 
-[Remove-VMNetworkAdapterTeamMapping](./Remove-VMNetworkAdapterTeamMapping.md)
+[Remove-VMNetworkAdapterTeamMapping](./remove-vmnetworkadapterteammapping.md)
+
 

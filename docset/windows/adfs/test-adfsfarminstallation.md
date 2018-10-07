@@ -243,7 +243,7 @@ Accept wildcard characters: False
 ```
 
 ### -ServiceAccountCredential
-Specifies a **PSCredential** object based on a user name and password for the service account in Active Directory® Domain Services under which the AD FS service runs.
+Specifies a **PSCredential** object based on a user name and password for the service account in Active Directory?? Domain Services under which the AD FS service runs.
 To obtain a **PSCredential** object, use the **Get-Credential** cmdlet.
 For more information, type `Get-Help Get-Credential`.
 
@@ -338,7 +338,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 [Get-Credential](http://go.microsoft.com/fwlink/?LinkID=293936)
 
-[Install-AdfsFarm](./Install-AdfsFarm.md)
+[Install-AdfsFarm](./install-adfsfarm.md)
 
-[Test-AdfsFarmJoin](./Test-AdfsFarmJoin.md)
+[Test-AdfsFarmJoin](./test-adfsfarmjoin.md)
+
 

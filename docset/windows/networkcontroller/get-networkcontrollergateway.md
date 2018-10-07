@@ -186,7 +186,8 @@ This cmdlet returns one or more objects that contain the following fields:
 
 ## RELATED LINKS
 
-[New-NetworkControllerGateway](./New-NetworkControllerGateway.md)
+[New-NetworkControllerGateway](./new-networkcontrollergateway.md)
 
-[Remove-NetworkControllerGateway](./Remove-NetworkControllerGateway.md)
+[Remove-NetworkControllerGateway](./remove-networkcontrollergateway.md)
+
 

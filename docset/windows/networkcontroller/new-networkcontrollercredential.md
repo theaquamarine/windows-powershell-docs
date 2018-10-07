@@ -281,11 +281,12 @@ This cmdlet outputs the following information:
 
 ## RELATED LINKS
 
-[Get-NetworkControllerCredential](./Get-NetworkControllerCredential.md)
+[Get-NetworkControllerCredential](./get-networkcontrollercredential.md)
 
-[Install-NetworkController](./Install-NetworkController.md)
+[Install-NetworkController](./install-networkcontroller.md)
 
-[Remove-NetworkControllerCredential](./Remove-NetworkControllerCredential.md)
+[Remove-NetworkControllerCredential](./remove-networkcontrollercredential.md)
 
-[Set-NetworkController](./Set-NetworkController.md)
+[Set-NetworkController](./set-networkcontroller.md)
+
 

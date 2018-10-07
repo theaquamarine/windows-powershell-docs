@@ -338,15 +338,16 @@ Returns one or more principal objects that represent users, computers or groups 
 
 ## RELATED LINKS
 
-[Add-ADGroupMember](./Add-ADGroupMember.md)
+[Add-ADGroupMember](./add-adgroupmember.md)
 
-[Add-ADPrincipalGroupMembership](./Add-ADPrincipalGroupMembership.md)
+[Add-ADPrincipalGroupMembership](./add-adprincipalgroupmembership.md)
 
-[Get-ADGroup](./Get-ADGroup.md)
+[Get-ADGroup](./get-adgroup.md)
 
-[Get-ADPrincipalGroupMembership](./Get-ADPrincipalGroupMembership.md)
+[Get-ADPrincipalGroupMembership](./get-adprincipalgroupmembership.md)
 
-[Remove-ADGroupMember](./Remove-ADGroupMember.md)
+[Remove-ADGroupMember](./remove-adgroupmember.md)
 
-[Remove-ADPrincipalGroupMembership](./Remove-ADPrincipalGroupMembership.md)
+[Remove-ADPrincipalGroupMembership](./remove-adprincipalgroupmembership.md)
+
 

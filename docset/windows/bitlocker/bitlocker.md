@@ -24,43 +24,44 @@ ms.assetid: 6F49F904-E04D-4B90-AFBC-84BC45D4D30D
 This reference provides cmdlet descriptions and syntax for all BitLocker cmdlets. It lists the cmdlets in alphabetical order based on the verb at the beginning of the cmdlet.
 
 ## BitLocker Cmdlets
-### [Add-BitLockerKeyProtector](./Add-BitLockerKeyProtector.md)
+### [Add-BitLockerKeyProtector](./add-bitlockerkeyprotector.md)
 Adds a key protector for a BitLocker volume.
 
-### [Backup-BitLockerKeyProtector](./Backup-BitLockerKeyProtector.md)
+### [Backup-BitLockerKeyProtector](./backup-bitlockerkeyprotector.md)
 Saves a key protector for a BitLocker volume in AD DS.
 
-### [Clear-BitLockerAutoUnlock](./Clear-BitLockerAutoUnlock.md)
+### [Clear-BitLockerAutoUnlock](./clear-bitlockerautounlock.md)
 Removes BitLocker automatic unlocking keys.
 
-### [Disable-BitLocker](./Disable-BitLocker.md)
+### [Disable-BitLocker](./disable-bitlocker.md)
 Disables BitLocker Drive Encryption for a volume.
 
-### [Disable-BitLockerAutoUnlock](./Disable-BitLockerAutoUnlock.md)
+### [Disable-BitLockerAutoUnlock](./disable-bitlockerautounlock.md)
 Disables automatic unlocking for a BitLocker volume.
 
-### [Enable-BitLocker](./Enable-BitLocker.md)
+### [Enable-BitLocker](./enable-bitlocker.md)
 Enables BitLocker Drive Encryption for a volume.
 
-### [Enable-BitLockerAutoUnlock](./Enable-BitLockerAutoUnlock.md)
+### [Enable-BitLockerAutoUnlock](./enable-bitlockerautounlock.md)
 Enables automatic unlocking for a BitLocker volume.
 
-### [Get-BitLockerVolume](./Get-BitLockerVolume.md)
+### [Get-BitLockerVolume](./get-bitlockervolume.md)
 Gets information about volumes that BitLocker can protect.
 
-### [Lock-BitLocker](./Lock-BitLocker.md)
+### [Lock-BitLocker](./lock-bitlocker.md)
 Prevents access to encrypted data on a BitLocker volume.
 
-### [Remove-BitLockerKeyProtector](./Remove-BitLockerKeyProtector.md)
+### [Remove-BitLockerKeyProtector](./remove-bitlockerkeyprotector.md)
 Removes a key protector for a BitLocker volume.
 
-### [Resume-BitLocker](./Resume-BitLocker.md)
+### [Resume-BitLocker](./resume-bitlocker.md)
 Restores Bitlocker encryption for the specified volume.
 
-### [Suspend-BitLocker](./Suspend-BitLocker.md)
+### [Suspend-BitLocker](./suspend-bitlocker.md)
 Suspends Bitlocker encryption for the specified volume.
 
-### [Unlock-BitLocker](./Unlock-BitLocker.md)
+### [Unlock-BitLocker](./unlock-bitlocker.md)
 Restores access to data on a BitLocker volume.
+
 
 

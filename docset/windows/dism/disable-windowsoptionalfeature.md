@@ -77,7 +77,7 @@ The feature can be restored with the **Enable-WindowsOptionalFeature** cmdlet or
 
 ### -FeatureName
 Specifies the name of the feature to be disabled.
-Feature names are case sensitive if you are servicing a Windows image other than Windows® 8 or a later version.
+Feature names are case sensitive if you are servicing a Windows image other than Windows?? 8 or a later version.
 You can use Get-WindowsOptionalFeature to find the name of the feature in the image.
 
 ```yaml
@@ -295,9 +295,11 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Enable-WindowsOptionalFeature](./Enable-WindowsOptionalFeature.md)
+[Enable-WindowsOptionalFeature](./enable-windowsoptionalfeature.md)
 
-[Get-WindowsOptionalFeature](./Get-WindowsOptionalFeature.md)
+[Get-WindowsOptionalFeature](./get-windowsoptionalfeature.md)
 
-[Remove-WindowsPackage](./Remove-WindowsPackage.md)
+[Remove-WindowsPackage](./remove-windowspackage.md)
+
+
 

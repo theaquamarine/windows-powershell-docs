@@ -233,7 +233,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -284,13 +284,14 @@ When the **Passthru** parameter is specified, this cmdlet outputs a modified Win
 
 ## RELATED LINKS
 
-[Get-NetIPHttpsConfiguration](./Get-NetIPHttpsConfiguration.md)
+[Get-NetIPHttpsConfiguration](./get-netiphttpsconfiguration.md)
 
-[New-NetIPHttpsConfiguration](./New-NetIPHttpsConfiguration.md)
+[New-NetIPHttpsConfiguration](./new-netiphttpsconfiguration.md)
 
-[Remove-NetIPHttpsConfiguration](./Remove-NetIPHttpsConfiguration.md)
+[Remove-NetIPHttpsConfiguration](./remove-netiphttpsconfiguration.md)
 
-[Reset-NetIPHttpsConfiguration](./Reset-NetIPHttpsConfiguration.md)
+[Reset-NetIPHttpsConfiguration](./reset-netiphttpsconfiguration.md)
 
-[Set-NetIPHttpsConfiguration](./Set-NetIPHttpsConfiguration.md)
+[Set-NetIPHttpsConfiguration](./set-netiphttpsconfiguration.md)
+
 

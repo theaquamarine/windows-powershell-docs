@@ -279,7 +279,8 @@ Therefore, when this cmdlet is run from a startup or shutdown script, the defaul
 
 ## RELATED LINKS
 
-[Remove-GPRegistryValue](./Remove-GPRegistryValue.md)
+[Remove-GPRegistryValue](./remove-gpregistryvalue.md)
 
-[Set-GPRegistryValue](./Set-GPRegistryValue.md)
+[Set-GPRegistryValue](./set-gpregistryvalue.md)
+
 

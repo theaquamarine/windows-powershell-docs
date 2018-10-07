@@ -231,7 +231,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -294,25 +294,26 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Disable-ScheduledTask](./Disable-ScheduledTask.md)
+[Disable-ScheduledTask](./disable-scheduledtask.md)
 
-[Enable-ScheduledTask](./Enable-ScheduledTask.md)
+[Enable-ScheduledTask](./enable-scheduledtask.md)
 
-[Export-ScheduledTask](./Export-ScheduledTask.md)
+[Export-ScheduledTask](./export-scheduledtask.md)
 
-[Get-ScheduledTask](./Get-ScheduledTask.md)
+[Get-ScheduledTask](./get-scheduledtask.md)
 
-[New-ScheduledTask](./New-ScheduledTask.md)
+[New-ScheduledTask](./new-scheduledtask.md)
 
-[New-ScheduledTaskAction](./New-ScheduledTaskAction.md)
+[New-ScheduledTaskAction](./new-scheduledtaskaction.md)
 
-[New-ScheduledTaskTrigger](./New-ScheduledTaskTrigger.md)
+[New-ScheduledTaskTrigger](./new-scheduledtasktrigger.md)
 
-[Register-ScheduledTask](./Register-ScheduledTask.md)
+[Register-ScheduledTask](./register-scheduledtask.md)
 
-[Start-ScheduledTask](./Start-ScheduledTask.md)
+[Start-ScheduledTask](./start-scheduledtask.md)
 
-[Stop-ScheduledTask](./Stop-ScheduledTask.md)
+[Stop-ScheduledTask](./stop-scheduledtask.md)
 
-[Unregister-ScheduledTask](./Unregister-ScheduledTask.md)
+[Unregister-ScheduledTask](./unregister-scheduledtask.md)
+
 

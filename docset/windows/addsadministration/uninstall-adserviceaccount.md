@@ -177,13 +177,14 @@ A parameter with name **ForceRemoveLocal** is provided to un-install standalone 
 
 ## RELATED LINKS
 
-[Get-ADServiceAccount](./Get-ADServiceAccount.md)
+[Get-ADServiceAccount](./get-adserviceaccount.md)
 
-[Install-ADServiceAccount](./Install-ADServiceAccount.md)
+[Install-ADServiceAccount](./install-adserviceaccount.md)
 
-[New-ADServiceAccount](./New-ADServiceAccount.md)
+[New-ADServiceAccount](./new-adserviceaccount.md)
 
-[Remove-ADServiceAccount](./Remove-ADServiceAccount.md)
+[Remove-ADServiceAccount](./remove-adserviceaccount.md)
 
-[Set-ADServiceAccount](./Set-ADServiceAccount.md)
+[Set-ADServiceAccount](./set-adserviceaccount.md)
+
 

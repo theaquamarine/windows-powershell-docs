@@ -359,13 +359,14 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-VmNetworkAdapterIsolation](./Get-VmNetworkAdapterIsolation.md)
+[Get-VmNetworkAdapterIsolation](./get-vmnetworkadapterisolation.md)
 
-[Get-VM](./Get-VM.md)
+[Get-VM](./get-vm.md)
 
-[Get-VMNetworkAdapter](./Get-VMNetworkAdapter.md)
+[Get-VMNetworkAdapter](./get-vmnetworkadapter.md)
 
-[Set-VMNetworkAdapter](./Set-VMNetworkAdapter.md)
+[Set-VMNetworkAdapter](./set-vmnetworkadapter.md)
 
-[Set-VMNetworkAdapterVlan](./Set-VMNetworkAdapterVlan.md)
+[Set-VMNetworkAdapterVlan](./set-vmnetworkadaptervlan.md)
+
 

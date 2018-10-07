@@ -24,52 +24,53 @@ ms.assetid: 5B9BD6D4-1894-4173-8801-D433B8EE6EE8
 This reference provides cmdlet descriptions and syntax for all Domain Name System (DNS) Client-specific cmdlets. It lists the cmdlets in alphabetical order based on the verb at the beginning of the cmdlet.
 
 ## DnsClient Cmdlets
-### [Add-DnsClientNrptRule](./Add-DnsClientNrptRule.md)
+### [Add-DnsClientNrptRule](./add-dnsclientnrptrule.md)
 Adds a rule to the NRPT.
 
-### [Clear-DnsClientCache](./Clear-DnsClientCache.md)
+### [Clear-DnsClientCache](./clear-dnsclientcache.md)
 Clears the contents of the DNS client cache.
 
-### [Get-DnsClient](./Get-DnsClient.md)
+### [Get-DnsClient](./get-dnsclient.md)
 Gets details of the network interfaces configured on a specified computer.
 
-### [Get-DnsClientCache](./Get-DnsClientCache.md)
+### [Get-DnsClientCache](./get-dnsclientcache.md)
 Retrieves the contents of the DNS client cache.
 
-### [Get-DnsClientGlobalSetting](./Get-DnsClientGlobalSetting.md)
+### [Get-DnsClientGlobalSetting](./get-dnsclientglobalsetting.md)
 Retrieves global DNS client settings like the suffix search list.
 
-### [Get-DnsClientNrptGlobal](./Get-DnsClientNrptGlobal.md)
+### [Get-DnsClientNrptGlobal](./get-dnsclientnrptglobal.md)
 Gets the NRPT global settings.
 
-### [Get-DnsClientNrptPolicy](./Get-DnsClientNrptPolicy.md)
+### [Get-DnsClientNrptPolicy](./get-dnsclientnrptpolicy.md)
 Gets the NRPT configured on a computer.
 
-### [Get-DnsClientNrptRule](./Get-DnsClientNrptRule.md)
+### [Get-DnsClientNrptRule](./get-dnsclientnrptrule.md)
 Retrieves the DNS client NRPT rules.
 
-### [Get-DnsClientServerAddress](./Get-DnsClientServerAddress.md)
+### [Get-DnsClientServerAddress](./get-dnsclientserveraddress.md)
 Gets DNS server IP addresses from the TCP/IP properties on an interface.
 
-### [Register-DnsClient](./Register-DnsClient.md)
+### [Register-DnsClient](./register-dnsclient.md)
 Registers all of the IP addresses on the computer onto the configured DNS server.
 
-### [Remove-DnsClientNrptRule](./Remove-DnsClientNrptRule.md)
+### [Remove-DnsClientNrptRule](./remove-dnsclientnrptrule.md)
 Removes the specified DNS client NRPT rule.
 
-### [Set-DnsClient](./Set-DnsClient.md)
+### [Set-DnsClient](./set-dnsclient.md)
 Sets the interface-specific DNS client configurations on the computer.
 
-### [Set-DnsClientGlobalSetting](./Set-DnsClientGlobalSetting.md)
+### [Set-DnsClientGlobalSetting](./set-dnsclientglobalsetting.md)
 Sets the DNS client global, non-interface specific, settings.
 
-### [Set-DnsClientNrptGlobal](./Set-DnsClientNrptGlobal.md)
+### [Set-DnsClientNrptGlobal](./set-dnsclientnrptglobal.md)
 Modifies the global Name Resolution Policy Table (NRPT) settings.
 
-### [Set-DnsClientNrptRule](./Set-DnsClientNrptRule.md)
+### [Set-DnsClientNrptRule](./set-dnsclientnrptrule.md)
 Modifies a DNS client Name Resolution Policy Table (NRPT) rule for the specified namespace.
 
-### [Set-DnsClientServerAddress](./Set-DnsClientServerAddress.md)
+### [Set-DnsClientServerAddress](./set-dnsclientserveraddress.md)
 Sets DNS server addresses associated with the TCP/IP properties on an interface.
+
 
 

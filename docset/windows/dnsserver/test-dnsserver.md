@@ -38,7 +38,7 @@ Test-DnsServer [-IPAddress] <IPAddress[]> [-ComputerName <String>] -ZoneName <St
 
 ## DESCRIPTION
 The **Test-DnsServer cmdlet** tests whether a computer is a functioning Domain Name System (DNS) server.
-The DNS server must be running Windows Server® 2008 R2 operating system or above.
+The DNS server must be running Windows Server?? 2008 R2 operating system or above.
 
 When you specify a computer by its IP address only, the cmdlet tests whether the computer is a DNS server.
 If you also specify a zone name, the cmdlet validates that the DNS server can resolve the specified zone.
@@ -180,7 +180,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -223,7 +223,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-DnsServer](./Get-DnsServer.md)
+[Get-DnsServer](./get-dnsserver.md)
 
-[Set-DnsServer](./Set-DnsServer.md)
+[Set-DnsServer](./set-dnsserver.md)
+
 

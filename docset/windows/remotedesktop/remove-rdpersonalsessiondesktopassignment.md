@@ -167,11 +167,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-RDPersonalSessionDesktopAssignment](./Get-RDPersonalSessionDesktopAssignment.md)
+[Get-RDPersonalSessionDesktopAssignment](./get-rdpersonalsessiondesktopassignment.md)
 
-[Export-RDPersonalSessionDesktopAssignment](./Export-RDPersonalSessionDesktopAssignment.md)
+[Export-RDPersonalSessionDesktopAssignment](./export-rdpersonalsessiondesktopassignment.md)
 
-[Import-RDPersonalSessionDesktopAssignment](./Import-RDPersonalSessionDesktopAssignment.md)
+[Import-RDPersonalSessionDesktopAssignment](./import-rdpersonalsessiondesktopassignment.md)
 
-[Set-RDPersonalSessionDesktopAssignment](./Set-RDPersonalSessionDesktopAssignment.md)
+[Set-RDPersonalSessionDesktopAssignment](./set-rdpersonalsessiondesktopassignment.md)
+
 

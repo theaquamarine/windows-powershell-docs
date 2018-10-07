@@ -63,7 +63,8 @@ This cmdlet returns the **WBSummary** object that contains information about the
 
 ## RELATED LINKS
 
-[Get-WBJob](./Get-WBJob.md)
+[Get-WBJob](./get-wbjob.md)
 
-[Start-WBBackup](./Start-WBBackup.md)
+[Start-WBBackup](./start-wbbackup.md)
+
 

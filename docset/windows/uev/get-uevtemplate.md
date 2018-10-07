@@ -222,17 +222,18 @@ This cmdlet generates a **Template** object that contains the general informatio
 
 ## RELATED LINKS
 
-[Disable-UevTemplate](./Disable-UevTemplate.md)
+[Disable-UevTemplate](./disable-uevtemplate.md)
 
-[Enable-UevTemplate](./Enable-UevTemplate.md)
+[Enable-UevTemplate](./enable-uevtemplate.md)
 
-[Register-UevTemplate](./Register-UevTemplate.md)
+[Register-UevTemplate](./register-uevtemplate.md)
 
-[Set-UevTemplateProfile](./Set-UevTemplateProfile.md)
+[Set-UevTemplateProfile](./set-uevtemplateprofile.md)
 
-[Test-UevTemplate](./Test-UevTemplate.md)
+[Test-UevTemplate](./test-uevtemplate.md)
 
-[Unregister-UevTemplate](./Unregister-UevTemplate.md)
+[Unregister-UevTemplate](./unregister-uevtemplate.md)
 
-[Update-UevTemplate](./Update-UevTemplate.md)
+[Update-UevTemplate](./update-uevtemplate.md)
+
 

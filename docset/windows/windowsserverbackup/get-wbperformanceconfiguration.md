@@ -116,7 +116,8 @@ Indicates either global settings or volume settings.
 
 ## RELATED LINKS
 
-[Get-WBBackupSet](./Get-WBBackupSet.md)
+[Get-WBBackupSet](./get-wbbackupset.md)
 
-[Set-WBPerformanceConfiguration](./Set-WBPerformanceConfiguration.md)
+[Set-WBPerformanceConfiguration](./set-wbperformanceconfiguration.md)
+
 

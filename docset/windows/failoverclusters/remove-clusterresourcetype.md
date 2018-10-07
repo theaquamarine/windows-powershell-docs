@@ -137,7 +137,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-ClusterResourceType](./Add-ClusterResourceType.md)
+[Add-ClusterResourceType](./add-clusterresourcetype.md)
 
-[Get-ClusterResourceType](./Get-ClusterResourceType.md)
+[Get-ClusterResourceType](./get-clusterresourcetype.md)
+
 

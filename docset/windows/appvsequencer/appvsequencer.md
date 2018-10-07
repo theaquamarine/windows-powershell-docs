@@ -24,16 +24,17 @@ ms.assetid: DFDD1425-A91A-4F29-99D9-B267ABCAB242
 The following list contains links to the help topics for the Microsoft Application Virtualization (App-V) Sequencer cmdlets.
 
 ## AppvSequencer Cmdlets
-### [Expand-AppvSequencerPackage](./Expand-AppvSequencerPackage.md)
+### [Expand-AppvSequencerPackage](./expand-appvsequencerpackage.md)
 Expands an existing App-V package.
 
-### [New-AppvPackageAccelerator](./New-AppvPackageAccelerator.md)
+### [New-AppvPackageAccelerator](./new-appvpackageaccelerator.md)
 Generates a package accelerator.
 
-### [New-AppvSequencerPackage](./New-AppvSequencerPackage.md)
+### [New-AppvSequencerPackage](./new-appvsequencerpackage.md)
 Creates a new App-V package.
 
-### [Update-AppvSequencerPackage](./Update-AppvSequencerPackage.md)
+### [Update-AppvSequencerPackage](./update-appvsequencerpackage.md)
 Upgrades virtual application packages.
+
 
 

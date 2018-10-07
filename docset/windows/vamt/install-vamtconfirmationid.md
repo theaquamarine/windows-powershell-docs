@@ -105,9 +105,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-VamtConfirmationId](./Get-VamtConfirmationId.md)
+[Get-VamtConfirmationId](./get-vamtconfirmationid.md)
 
-[Get-VamtProduct](./Get-VamtProduct.md)
+[Get-VamtProduct](./get-vamtproduct.md)
 
-[Import-VamtData](./Import-VamtData.md)
+[Import-VamtData](./import-vamtdata.md)
+
 

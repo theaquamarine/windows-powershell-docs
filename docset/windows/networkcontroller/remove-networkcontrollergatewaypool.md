@@ -205,7 +205,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-NetworkControllerGatewayPool](./Get-NetworkControllerGatewayPool.md)
+[Get-NetworkControllerGatewayPool](./get-networkcontrollergatewaypool.md)
 
-[New-NetworkControllerGatewayPool](./New-NetworkControllerGatewayPool.md)
+[New-NetworkControllerGatewayPool](./new-networkcontrollergatewaypool.md)
+
 

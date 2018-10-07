@@ -83,19 +83,20 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-Website](./Get-Website.md)
+[Get-Website](./get-website.md)
 
-[New-Website](./New-Website.md)
+[New-Website](./new-website.md)
 
-[Remove-Website](./Remove-Website.md)
+[Remove-Website](./remove-website.md)
 
-[Start-WebAppPool](./Start-WebAppPool.md)
+[Start-WebAppPool](./start-webapppool.md)
 
-[Start-WebItem](./Start-WebItem.md)
+[Start-WebItem](./start-webitem.md)
 
-[Start-Website](./Start-Website.md)
+[Start-Website](./start-website.md)
 
-[Stop-WebAppPool](./Stop-WebAppPool.md)
+[Stop-WebAppPool](./stop-webapppool.md)
 
-[Stop-WebItem](./Stop-WebItem.md)
+[Stop-WebItem](./stop-webitem.md)
+
 

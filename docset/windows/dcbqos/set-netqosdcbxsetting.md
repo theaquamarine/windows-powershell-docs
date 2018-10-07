@@ -44,7 +44,7 @@ Set-NetQosDcbxSetting -InputObject <CimInstance[]> -Willing <Boolean> [-CimSessi
 
 ## DESCRIPTION
 The **Set-NetQosDcbxSetting** cmdlet sets the data center bridging exchange (DCBX) settings.
-The only setting that Windows Server® 2012 and later allows a user to set is that the network adapters in computers that run Windows Server 2012 and later accept data center bridging (DCB) configurations from Windows Server 2012 and later or from a remote device by using the DCBX protocol, which is specified in the IEEE data center bridging (DCB) standard.
+The only setting that Windows Server?? 2012 and later allows a user to set is that the network adapters in computers that run Windows Server 2012 and later accept data center bridging (DCB) configurations from Windows Server 2012 and later or from a remote device by using the DCBX protocol, which is specified in the IEEE data center bridging (DCB) standard.
 
 If the *Willing* parameter is set to $True, Windows Server 2012 or later does not send priority-based flow control (PFC) and traffic class settings to DCB-capable network adapters in the computer.
 If the *Willing* parameter is set to $False, Windows Server 2012 or later sends the settings to the network adapters.
@@ -174,7 +174,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -239,7 +239,8 @@ Only if you specify the *PassThru* parameter does the command return the **MSFT_
 
 ## RELATED LINKS
 
-[Get-NetQosDcbxSetting](./Get-NetQosDcbxSetting.md)
+[Get-NetQosDcbxSetting](./get-netqosdcbxsetting.md)
 
-[Get-NetQosDcbxSetting](./Get-NetQosDcbxSetting.md)
+[Get-NetQosDcbxSetting](./get-netqosdcbxsetting.md)
+
 

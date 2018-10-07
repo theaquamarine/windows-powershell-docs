@@ -42,7 +42,7 @@ Set-AppXProvisionedDataFile -PackageName <String> -CustomDataPath <String> [-Onl
 The **Set-AppXProvisionedDataFile** cmdlet adds custom data into the specified app (.appx) package that has been provisioned in a Windows image.
 The specified app (.appx) package must already be added to the image prior to adding custom data.
 
-You cannot install an app package (.appx) on an operating system that does not support apps for at least Windows® 8.
+You cannot install an app package (.appx) on an operating system that does not support apps for at least Windows?? 8.
 Apps are not supported on Server Core installations of Windows Server, Windows PE, or on any versions of Windows older than Windows 8 and Windows Server 2012.
 
 To install and run apps on Windows Server, you must install the [Desktop Experience](http://go.microsoft.com/fwlink/?LinkId=247330).
@@ -247,9 +247,11 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-AppxProvisionedPackage](./Add-AppxProvisionedPackage.md)
+[Add-AppxProvisionedPackage](./add-appxprovisionedpackage.md)
 
-[Get-AppxProvisionedPackage](./Get-AppxProvisionedPackage.md)
+[Get-AppxProvisionedPackage](./get-appxprovisionedpackage.md)
 
-[Remove-AppxProvisionedPackage](./Remove-AppxProvisionedPackage.md)
+[Remove-AppxProvisionedPackage](./remove-appxprovisionedpackage.md)
+
+
 

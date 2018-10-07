@@ -160,9 +160,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-ClusterResource](./Get-ClusterResource.md)
+[Get-ClusterResource](./get-clusterresource.md)
 
-[Update-ClusterNetworkNameResource](./Update-ClusterNetworkNameResource.md)
+[Update-ClusterNetworkNameResource](./update-clusternetworknameresource.md)
 
 [Where-Object](http://go.microsoft.com/fwlink/?LinkID=113423)
+
 

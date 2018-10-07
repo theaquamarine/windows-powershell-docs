@@ -199,11 +199,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-NetworkControllerCredential](./Get-NetworkControllerCredential.md)
+[Get-NetworkControllerCredential](./get-networkcontrollercredential.md)
 
-[Install-NetworkController](./Install-NetworkController.md)
+[Install-NetworkController](./install-networkcontroller.md)
 
-[New-NetworkControllerCredential](./New-NetworkControllerCredential.md)
+[New-NetworkControllerCredential](./new-networkcontrollercredential.md)
 
-[Set-NetworkController](./Set-NetworkController.md)
+[Set-NetworkController](./set-networkcontroller.md)
+
 

@@ -146,7 +146,8 @@ None.
 
 ## RELATED LINKS
 
-[Unpublish-WmsDesktop](./Unpublish-WmsDesktop.md)
+[Unpublish-WmsDesktop](./unpublish-wmsdesktop.md)
 
-[Publish-WmsDesktop](./Publish-WmsDesktop.md)
+[Publish-WmsDesktop](./publish-wmsdesktop.md)
+
 

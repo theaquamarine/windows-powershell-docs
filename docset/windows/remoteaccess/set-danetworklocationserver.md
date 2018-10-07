@@ -58,7 +58,7 @@ PS C:\>Set-DANetworkLocationServer -NlsOnDAServer -PassThru
 Certificate NLS cannot be located on the Remote Access server. Do you want DirectAccess to create and use a self-signed certificate? 
 Confirm 
  
-[Y] Yes  [N] No  [S] Suspend  [?] Help (default is ꞌYꞌ): Y 
+[Y] Yes  [N] No  [S] Suspend  [?] Help (default is ???Y???): Y 
  
 NlsLocation  : DirectAccessServer 
 Url          : 
@@ -108,7 +108,7 @@ Confirm
 
 If the NLS is moved to another computer, then clients without updated GPOs will not be able to connect to the new location. When these clients are located in the internal network they will not be able to connect to internal resources as expected.
 PS C:\>
-[Y] Yes  [N] No  [S] Suspend  [?] Help (default is ꞌYꞌ): Y 
+[Y] Yes  [N] No  [S] Suspend  [?] Help (default is ???Y???): Y 
  
 NlsLocation  : ExternalServer 
 Url          : https://nsl.corp.contoso.com/ 
@@ -279,7 +279,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -356,5 +356,6 @@ The DANetworkLocationServer object consists of the following properties:
 
 [Where-Object](http://go.microsoft.com/fwlink/?LinkId=113423)
 
-[Get-DANetworkLocationServer](./Get-DANetworkLocationServer.md)
+[Get-DANetworkLocationServer](./get-danetworklocationserver.md)
+
 

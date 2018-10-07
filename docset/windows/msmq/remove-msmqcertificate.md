@@ -29,7 +29,7 @@ Remove-MsmqCertificate -InputObject <X509Certificate2[]> [-WhatIf] [-Confirm] [<
 ```
 
 ## DESCRIPTION
-The **Remove-MsmqCertificate** cmdlet removes personal certificates from Active Directory® Domain Services.
+The **Remove-MsmqCertificate** cmdlet removes personal certificates from Active Directory?? Domain Services.
 This cmdlet returns the removed Message Queuing (also known as MSMQ) certificate.
 
 ## EXAMPLES
@@ -103,7 +103,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-MsmqCertificate](./Get-MSMQCertificate.md)
+[Get-MsmqCertificate](./get-msmqcertificate.md)
 
-[Enable-MsmqCertificate](./Enable-MSMQCertificate.md)
+[Enable-MsmqCertificate](./enable-msmqcertificate.md)
+
 

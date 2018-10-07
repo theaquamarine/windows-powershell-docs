@@ -329,7 +329,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -412,11 +412,12 @@ The cmdlet only returns an **MSFT_PCSVDevice** object if you specify the **PassT
 
 ## RELATED LINKS
 
-[Get-PcsvDevice](./Get-PcsvDevice.md)
+[Get-PcsvDevice](./get-pcsvdevice.md)
 
-[Restart-PcsvDevice](./Restart-PcsvDevice.md)
+[Restart-PcsvDevice](./restart-pcsvdevice.md)
 
-[Set-PcsvDeviceBootConfiguration](./Set-PcsvDeviceBootConfiguration.md)
+[Set-PcsvDeviceBootConfiguration](./set-pcsvdevicebootconfiguration.md)
 
-[Stop-PcsvDevice](./Stop-PcsvDevice.md)
+[Stop-PcsvDevice](./stop-pcsvdevice.md)
+
 

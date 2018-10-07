@@ -35,12 +35,12 @@ The **Start-WBBackup** cmdlet starts a one-time backup operation.
 You can use the settings from an existing backup policy for the scheduled backup by specifying a **WBPolicy** object, or you can start a backup by using new settings.
 If you use new settings to create a backup, you must do the following:
 
-- Specify the items to include in the backup by using the [Add-WBVolume](./Add-WBVolume.md), [Add-WBFileSpec](./Add-WBFileSpec.md), [Add-WBSystemState](./Add-WBSystemState.md), and [Add-WBBareMetalRecovery](./Add-WBBareMetalRecovery.md) cmdlets.
+- Specify the items to include in the backup by using the [Add-WBVolume](./Add-WBVolume.md), [Add-WBFileSpec](./Add-WBFileSpec.md), [Add-WBSystemState](./Add-WBSystemState.md), and [Add-WBBareMetalRecovery](./add-wbbaremetalrecovery.md) cmdlets.
 - Specify the location for backup storage by using the locations already defined in a **WBBackupTarget** object or by updating an object of that type.
 
 Before you can add a backup target to a **WBPolicy** object, put the **WBPolicy** object in edit mode.
 To put the **WBPolicy** object in edit mode for a policy that you have set as the scheduled backup policy, use the Get-WBPolicy cmdlet with the *Editable* parameter.
-The [Get-WBPolicy](./Get-WBPolicy.md) cmdlet creates a new **WBPolicy** object that is already in edit mode.
+The [Get-WBPolicy](./get-wbpolicy.md) cmdlet creates a new **WBPolicy** object that is already in edit mode.
 
 To use this cmdlet, you must be a member of the Administrators group or Backup Operators group.
 
@@ -198,29 +198,30 @@ If you specify the *Async* parameter, you can use the Get-WBJob cmdlet to get th
 
 ## RELATED LINKS
 
-[Add-WBBackupTarget](./Add-WBBackupTarget.md)
+[Add-WBBackupTarget](./add-wbbackuptarget.md)
 
-[Add-WBBareMetalRecovery](./Add-WBBareMetalRecovery.md)
+[Add-WBBareMetalRecovery](./add-wbbaremetalrecovery.md)
 
-[Add-WBFileSpec](./Add-WBFileSpec.md)
+[Add-WBFileSpec](./add-wbfilespec.md)
 
-[Add-WBSystemState](./Add-WBSystemState.md)
+[Add-WBSystemState](./add-wbsystemstate.md)
 
-[Add-WBVolume](./Add-WBVolume.md)
+[Add-WBVolume](./add-wbvolume.md)
 
-[Get-WBJob](./Get-WBJob.md)
+[Get-WBJob](./get-wbjob.md)
 
-[Get-WBPolicy](./Get-WBPolicy.md)
+[Get-WBPolicy](./get-wbpolicy.md)
 
-[Get-WBVolume](./Get-WBVolume.md)
+[Get-WBVolume](./get-wbvolume.md)
 
-[New-WBBackupTarget](./New-WBBackupTarget.md)
+[New-WBBackupTarget](./new-wbbackuptarget.md)
 
-[New-WBFileSpec](./New-WBFileSpec.md)
+[New-WBFileSpec](./new-wbfilespec.md)
 
-[New-WBPolicy](./New-WBPolicy.md)
+[New-WBPolicy](./new-wbpolicy.md)
 
-[Resume-WBBackup](./Resume-WBBackup.md)
+[Resume-WBBackup](./resume-wbbackup.md)
 
-[Set-WBVssBackupOption](./Set-WBVssBackupOption.md)
+[Set-WBVssBackupOption](./set-wbvssbackupoption.md)
+
 

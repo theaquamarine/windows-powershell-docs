@@ -83,9 +83,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-AdfsTrustedFederationPartner](./Add-AdfsTrustedFederationPartner.md)
+[Add-AdfsTrustedFederationPartner](./add-adfstrustedfederationpartner.md)
 
-[Remove-AdfsTrustedFederationPartner](./Remove-AdfsTrustedFederationPartner.md)
+[Remove-AdfsTrustedFederationPartner](./remove-adfstrustedfederationpartner.md)
 
-[Set-AdfsTrustedFederationPartner](./Set-AdfsTrustedFederationPartner.md)
+[Set-AdfsTrustedFederationPartner](./set-adfstrustedfederationpartner.md)
+
 

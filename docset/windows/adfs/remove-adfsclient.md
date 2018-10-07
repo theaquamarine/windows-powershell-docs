@@ -160,13 +160,14 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-AdfsClient](./Add-AdfsClient.md)
+[Add-AdfsClient](./add-adfsclient.md)
 
-[Disable-AdfsClient](./Disable-AdfsClient.md)
+[Disable-AdfsClient](./disable-adfsclient.md)
 
-[Enable-AdfsClient](./Enable-AdfsClient.md)
+[Enable-AdfsClient](./enable-adfsclient.md)
 
-[Get-AdfsClient](./Get-AdfsClient.md)
+[Get-AdfsClient](./get-adfsclient.md)
 
-[Set-AdfsClient](./Set-AdfsClient.md)
+[Set-AdfsClient](./set-adfsclient.md)
+
 

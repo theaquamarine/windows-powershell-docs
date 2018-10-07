@@ -121,9 +121,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Start-DtcDiagnosticResourceManager](./Start-DtcDiagnosticResourceManager.md)
+[Start-DtcDiagnosticResourceManager](./start-dtcdiagnosticresourcemanager.md)
 
-[Stop-DtcDiagnosticResourceManager](./Stop-DtcDiagnosticResourceManager.md)
+[Stop-DtcDiagnosticResourceManager](./stop-dtcdiagnosticresourcemanager.md)
 
-[New-DtcDiagnosticTransaction](./New-DtcDiagnosticTransaction.md)
+[New-DtcDiagnosticTransaction](./new-dtcdiagnostictransaction.md)
+
 

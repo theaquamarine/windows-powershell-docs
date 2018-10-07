@@ -138,5 +138,6 @@ None.
 
 ## RELATED LINKS
 
-[Hide-WmsIdentifier](./Hide-WmsIdentifier.md)
+[Hide-WmsIdentifier](./hide-wmsidentifier.md)
+
 

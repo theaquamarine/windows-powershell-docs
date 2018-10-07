@@ -131,9 +131,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 [Using Windows PowerShell with AD RMS](http://go.microsoft.com/fwlink/?LinkId=136806)
 
-[Get-RmsCertInfo](./Get-RmsCertInfo.md)
+[Get-RmsCertInfo](./get-rmscertinfo.md)
 
-[Get-RmsChildCert](./Get-RmsChildCert.md)
+[Get-RmsChildCert](./get-rmschildcert.md)
 
-[Get-RmsUserRequestReport](./Get-RmsUserRequestReport.md)
+[Get-RmsUserRequestReport](./get-rmsuserrequestreport.md)
+
 

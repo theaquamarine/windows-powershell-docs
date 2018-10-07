@@ -405,9 +405,10 @@ A site link object that is a template for the new site link object is received b
 
 ## RELATED LINKS
 
-[Get-ADReplicationSiteLink](./Get-ADReplicationSiteLink.md)
+[Get-ADReplicationSiteLink](./get-adreplicationsitelink.md)
 
-[Remove-ADReplicationSiteLink](./Remove-ADReplicationSiteLink.md)
+[Remove-ADReplicationSiteLink](./remove-adreplicationsitelink.md)
 
-[Set-ADReplicationSiteLink](./Set-ADReplicationSiteLink.md)
+[Set-ADReplicationSiteLink](./set-adreplicationsitelink.md)
+
 

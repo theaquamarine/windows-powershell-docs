@@ -37,7 +37,7 @@ The **Add-AdfsCertificate** cmdlet adds a new certificate to Active Directory Fe
 
 ### Example 1: Add a token-signing certificate
 ```
-PS C:\> Add-AdfsCertificate -CertificateType "Token-Signing" -Thumbprint ‎"fedd995b45e633d4ef30fcbc8f3a48b627e9a28b"
+PS C:\> Add-AdfsCertificate -CertificateType "Token-Signing" -Thumbprint ???"fedd995b45e633d4ef30fcbc8f3a48b627e9a28b"
 ```
 
 This command adds a token-signing certificate with the thumbprint fedd995b45e633d4ef30fcbc8f3a48b627e9a28b.
@@ -161,11 +161,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-AdfsCertificate](./Get-AdfsCertificate.md)
+[Get-AdfsCertificate](./get-adfscertificate.md)
 
-[Remove-AdfsCertificate](./Remove-AdfsCertificate.md)
+[Remove-AdfsCertificate](./remove-adfscertificate.md)
 
-[Set-AdfsCertificate](./Set-AdfsCertificate.md)
+[Set-AdfsCertificate](./set-adfscertificate.md)
 
-[Update-AdfsCertificate](./Update-AdfsCertificate.md)
+[Update-AdfsCertificate](./update-adfscertificate.md)
+
 

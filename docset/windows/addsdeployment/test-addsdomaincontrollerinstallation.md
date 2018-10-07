@@ -591,15 +591,16 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 [Understand and Troubleshoot AD DS Simplified Administration](http://go.microsoft.com/fwlink/?LinkID=237244)
 
-[Install-ADDSDomainController](./Install-ADDSDomainController.md)
+[Install-ADDSDomainController](./install-addsdomaincontroller.md)
 
-[Test-ADDSReadOnlyDomainControllerAccountCreation](./Test-ADDSReadOnlyDomainControllerAccountCreation.md)
+[Test-ADDSReadOnlyDomainControllerAccountCreation](./test-addsreadonlydomaincontrolleraccountcreation.md)
 
-[Test-ADDSDomainInstallation](./Test-ADDSDomainInstallation.md)
+[Test-ADDSDomainInstallation](./test-addsdomaininstallation.md)
 
-[Test-ADDSForestInstallation](./Test-ADDSForestInstallation.md)
+[Test-ADDSForestInstallation](./test-addsforestinstallation.md)
 
 [Get-Credential](http://go.microsoft.com/fwlink/?LinkID=293936)
 
 [ConvertTo-SecureString](http://go.microsoft.com/fwlink/p/?LinkId=113291)
+
 

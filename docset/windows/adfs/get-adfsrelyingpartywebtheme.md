@@ -69,7 +69,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Remove-AdfsRelyingPartyWebTheme](./Remove-AdfsRelyingPartyWebTheme.md)
+[Remove-AdfsRelyingPartyWebTheme](./remove-adfsrelyingpartywebtheme.md)
 
-[Set-AdfsRelyingPartyWebTheme](./Set-AdfsRelyingPartyWebTheme.md)
+[Set-AdfsRelyingPartyWebTheme](./set-adfsrelyingpartywebtheme.md)
+
 

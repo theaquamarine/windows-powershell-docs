@@ -158,7 +158,8 @@ This cmdlet returns the rules in the policy that it creates.
 
 ## RELATED LINKS
 
-[Get-CIPolicy](./Get-CIPolicy.md)
+[Get-CIPolicy](./get-cipolicy.md)
 
-[New-CIPolicy](./New-CIPolicy.md)
+[New-CIPolicy](./new-cipolicy.md)
+
 

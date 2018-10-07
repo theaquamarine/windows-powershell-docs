@@ -92,7 +92,8 @@ This cmdlet does not generate any output.
 
 ## RELATED LINKS
 
-[Get-AssignedAccess](./Get-AssignedAccess.md)
+[Get-AssignedAccess](./get-assignedaccess.md)
 
-[Set-AssignedAccess](./Set-AssignedAccess.md)
+[Set-AssignedAccess](./set-assignedaccess.md)
+
 

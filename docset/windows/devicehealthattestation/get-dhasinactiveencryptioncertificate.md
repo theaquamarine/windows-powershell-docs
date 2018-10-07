@@ -58,5 +58,6 @@ This cmdlet returns the inactive encryption certificate as a **String**.
 
 ## RELATED LINKS
 
-[Remove-DHASInactiveEncryptionCertificate](./Remove-DHASInactiveEncryptionCertificate.md)
+[Remove-DHASInactiveEncryptionCertificate](./remove-dhasinactiveencryptioncertificate.md)
+
 

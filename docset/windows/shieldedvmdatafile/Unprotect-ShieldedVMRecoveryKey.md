@@ -8,7 +8,7 @@ schema: 2.0.0
 # Unprotect-ShieldedVMRecoveryKey
 
 ## SYNOPSIS
-Decrypts an encrypted recovery key for a Windows shielded VM obtained from the [Save-ShieldedVMRecoveryKey](Save-ShieldedVMRecoveryKey.md) cmdlet.
+Decrypts an encrypted recovery key for a Windows shielded VM obtained from the [Save-ShieldedVMRecoveryKey](save-shieldedvmrecoverykey.md) cmdlet.
 
 ## SYNTAX
 
@@ -168,4 +168,4 @@ Accept wildcard characters: False
 
 ## RELATED LINKS
 
-[Save-ShieldedVMRecoveryKey](Save-ShieldedVMRecoveryKey.md)
+[Save-ShieldedVMRecoveryKey](save-shieldedvmrecoverykey.md)

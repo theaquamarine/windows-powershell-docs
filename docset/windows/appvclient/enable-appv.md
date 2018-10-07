@@ -56,7 +56,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Disable-Appv](./Disable-Appv.md)
+[Disable-Appv](./disable-appv.md)
 
-[Get-AppvStatus](./Get-AppvStatus.md)
+[Get-AppvStatus](./get-appvstatus.md)
+
 

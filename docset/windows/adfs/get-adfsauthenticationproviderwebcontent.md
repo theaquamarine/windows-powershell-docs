@@ -83,7 +83,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Remove-AdfsAuthenticationProviderWebContent](./Remove-AdfsAuthenticationProviderWebContent.md)
+[Remove-AdfsAuthenticationProviderWebContent](./remove-adfsauthenticationproviderwebcontent.md)
 
-[Set-AdfsAuthenticationProviderWebContent](./Set-AdfsAuthenticationProviderWebContent.md)
+[Set-AdfsAuthenticationProviderWebContent](./set-adfsauthenticationproviderwebcontent.md)
+
 

@@ -23,18 +23,19 @@ ms.assetid: ED8A9D35-E584-4167-994B-CBC23B841CC1
 This reference provides cmdlet descriptions and syntax for Network Controller diagnostics.
 
 ## NetworkControllerDiagnostics Cmdlets
-### [Debug-NetworkController](./Debug-NetworkController.md)
+### [Debug-NetworkController](./debug-networkcontroller.md)
 Queries a Network Controller for detailed diagnostic information.
 
-### [Debug-NetworkControllerConfigurationState](./Debug-NetworkControllerConfigurationState.md)
+### [Debug-NetworkControllerConfigurationState](./debug-networkcontrollerconfigurationstate.md)
 Queries for resources in a failure or warning state.
 
-### [Debug-ServiceFabricNodeStatus](./Debug-ServiceFabricNodeStatus.md)
+### [Debug-ServiceFabricNodeStatus](./debug-servicefabricnodestatus.md)
 Queries the Network Controller Service Fabric to show the replication status and health state of each Network Controller node.
 
-### [Get-NetworkControllerDeploymentInfo](./Get-NetworkControllerDeploymentInfo.md)
+### [Get-NetworkControllerDeploymentInfo](./get-networkcontrollerdeploymentinfo.md)
 Queries the Network Controller for REST information.
 
-### [Get-NetworkControllerReplica](./Get-NetworkControllerReplica.md)
+### [Get-NetworkControllerReplica](./get-networkcontrollerreplica.md)
 Determines which node the Network Controller service modules use as primary.
+
 

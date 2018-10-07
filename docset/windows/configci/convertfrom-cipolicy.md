@@ -86,9 +86,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-CIPolicy](./Get-CIPolicy.md)
+[Get-CIPolicy](./get-cipolicy.md)
 
-[Merge-CIPolicy](./Merge-CIPolicy.md)
+[Merge-CIPolicy](./merge-cipolicy.md)
 
-[New-CIPolicy](./New-CIPolicy.md)
+[New-CIPolicy](./new-cipolicy.md)
+
 

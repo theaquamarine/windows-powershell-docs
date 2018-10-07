@@ -138,9 +138,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-DfsrConnection](./Add-DfsrConnection.md)
+[Add-DfsrConnection](./add-dfsrconnection.md)
 
-[Set-DfsrConnection](./Set-DfsrConnection.md)
+[Set-DfsrConnection](./set-dfsrconnection.md)
 
-[Remove-DfsrConnection](./Remove-DfsrConnection.md)
+[Remove-DfsrConnection](./remove-dfsrconnection.md)
+
 

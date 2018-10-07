@@ -535,11 +535,12 @@ By default, this cmdlet does not generate any output.
 
 ## RELATED LINKS
 
-[Get-ADClaimTransformPolicy](./Get-ADClaimTransformPolicy.md)
+[Get-ADClaimTransformPolicy](./get-adclaimtransformpolicy.md)
 
-[New-ADClaimTransformPolicy](./New-ADClaimTransformPolicy.md)
+[New-ADClaimTransformPolicy](./new-adclaimtransformpolicy.md)
 
-[Remove-ADClaimTransformPolicy](./Remove-ADClaimTransformPolicy.md)
+[Remove-ADClaimTransformPolicy](./remove-adclaimtransformpolicy.md)
 
 [AD DS Administration Cmdlets in Windows PowerShell](./activedirectory.md)
+
 

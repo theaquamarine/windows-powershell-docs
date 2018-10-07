@@ -138,13 +138,14 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-CauClusterRole](./Add-CauClusterRole.md)
+[Add-CauClusterRole](./add-cauclusterrole.md)
 
-[Disable-CauClusterRole](./Disable-CauClusterRole.md)
+[Disable-CauClusterRole](./disable-cauclusterrole.md)
 
-[Get-CauClusterRole](./Get-CauClusterRole.md)
+[Get-CauClusterRole](./get-cauclusterrole.md)
 
-[Remove-CauClusterRole](./Remove-CauClusterRole.md)
+[Remove-CauClusterRole](./remove-cauclusterrole.md)
 
-[Set-CauClusterRole](./Set-CauClusterRole.md)
+[Set-CauClusterRole](./set-cauclusterrole.md)
+
 

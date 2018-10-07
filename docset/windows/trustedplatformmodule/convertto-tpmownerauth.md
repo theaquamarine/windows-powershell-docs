@@ -79,7 +79,8 @@ This cmdlet returns an owner authorization value.
 
 ## RELATED LINKS
 
-[Import-TpmOwnerAuth](./Import-TpmOwnerAuth.md)
+[Import-TpmOwnerAuth](./import-tpmownerauth.md)
 
-[Set-TpmOwnerAuth](./Set-TpmOwnerAuth.md)
+[Set-TpmOwnerAuth](./set-tpmownerauth.md)
+
 

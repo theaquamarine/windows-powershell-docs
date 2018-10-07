@@ -85,5 +85,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Enable-AppBackgroundTaskDiagnosticLog](./Enable-AppBackgroundTaskDiagnosticLog.md)
+[Enable-AppBackgroundTaskDiagnosticLog](./enable-appbackgroundtaskdiagnosticlog.md)
+
 

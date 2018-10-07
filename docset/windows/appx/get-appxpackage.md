@@ -186,11 +186,14 @@ This cmdlet returns an **AppxPackage** object that contains information, includi
 
 [How to Add and Remove Apps](http://go.microsoft.com/fwlink/?LinkID=231020)
 
-[Add-AppxPackage](./Add-AppxPackage.md)
+[Add-AppxPackage](./add-appxpackage.md)
 
-[Get-AppxPackageManifest](./Get-AppxPackageManifest.md)
+[Get-AppxPackageManifest](./get-appxpackagemanifest.md)
 
-[Move-AppxPackage](./Move-AppxPackage.md)
+[Move-AppxPackage](./move-appxpackage.md)
 
-[Remove-AppxPackage](./Remove-AppxPackage.md)
+[Remove-AppxPackage](./remove-appxpackage.md)
+
+
+
 

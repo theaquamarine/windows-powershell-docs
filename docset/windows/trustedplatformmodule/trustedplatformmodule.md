@@ -24,37 +24,38 @@ ms.assetid: 2F5F8534-8D34-4AA2-B8F2-8404D15EAC44
 This reference provides cmdlet descriptions and syntax for all TPM cmdlets. It lists the cmdlets in alphabetical order based on the verb at the beginning of the cmdlet.
 
 ## TrustedPlatformModule Cmdlets
-### [Clear-Tpm](./Clear-Tpm.md)
+### [Clear-Tpm](./clear-tpm.md)
 Resets a TPM to its default state.
 
-### [ConvertTo-TpmOwnerAuth](./ConvertTo-TpmOwnerAuth.md)
+### [ConvertTo-TpmOwnerAuth](./convertto-tpmownerauth.md)
 Creates a TPM owner authorization value from a supplied string.
 
-### [Disable-TpmAutoProvisioning](./Disable-TpmAutoProvisioning.md)
+### [Disable-TpmAutoProvisioning](./disable-tpmautoprovisioning.md)
 Disables TPM auto-provisioning.
 
-### [Enable-TpmAutoProvisioning](./Enable-TpmAutoProvisioning.md)
+### [Enable-TpmAutoProvisioning](./enable-tpmautoprovisioning.md)
 Enables TPM auto-provisioning.
 
-### [Get-Tpm](./Get-Tpm.md)
+### [Get-Tpm](./get-tpm.md)
 Gets an object that contains information about a TPM.
 
-### [Get-TpmEndorsementKeyInfo](./Get-TpmEndorsementKeyInfo.md)
+### [Get-TpmEndorsementKeyInfo](./get-tpmendorsementkeyinfo.md)
 Gets information about the endorsement key and certificates of the TPM.
 
-### [Get-TpmSupportedFeature](./Get-TpmSupportedFeature.md)
+### [Get-TpmSupportedFeature](./get-tpmsupportedfeature.md)
 Verifies whether a TPM supports specified features.
 
-### [Import-TpmOwnerAuth](./Import-TpmOwnerAuth.md)
+### [Import-TpmOwnerAuth](./import-tpmownerauth.md)
 Imports a TPM owner authorization value to the registry.
 
-### [Initialize-Tpm](./Initialize-Tpm.md)
+### [Initialize-Tpm](./initialize-tpm.md)
 Performs part of the provisioning process for a TPM.
 
-### [Set-TpmOwnerAuth](./Set-TpmOwnerAuth.md)
+### [Set-TpmOwnerAuth](./set-tpmownerauth.md)
 Changes the TPM owner authorization value.
 
-### [Unblock-Tpm](./Unblock-Tpm.md)
+### [Unblock-Tpm](./unblock-tpm.md)
 Resets a TPM lockout.
+
 
 

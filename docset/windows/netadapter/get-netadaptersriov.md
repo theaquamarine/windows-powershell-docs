@@ -47,7 +47,7 @@ The property **SriovSupport** indicates potential reasons for SR-IOV not functio
 The possible values for SriovSupport include the following: 
 
 - Unknown: Ensure that the computer has hardware support for SR-IOV and that I/O virtualization is enabled in the BIOS.
-Also ensure that the computer is running Windows Server® 2012 and later. 
+Also ensure that the computer is running Windows Server?? 2012 and later. 
 - Supported: SR-IOV is supported and should be functioning properly. 
 - MissingAcs: SR-IOV cannot be used on this network adapter as the PCI Express hardware does not support Access Control Services (ACS).
 This device may work in an alternate PCI Express slot.
@@ -57,8 +57,8 @@ If the network adapter supports SR-IOV, contact the hardware vendor for an updat
 - NoBusResources: SR-IOV cannot be used on this network adapter as there are not enough PCI Express bus numbers available. 
 - NoIoMmuSupport: SR-IOV cannot be used on this computer because of one or more of the following reasons. 
 - - The processor does not support second level address translation (SLAT).
-For processors manufactured by Intel Corporation™ (Intel™), this feature might be referred to as Extended Page Tables (EPT).
-For processors manufactured by Advanced Micro Devices™ (AMD™), this feature might be referred to as Rapid Virtualization Indexing (RVI) or Nested Page Tables (NPT). 
+For processors manufactured by Intel Corporation??? (Intel???), this feature might be referred to as Extended Page Tables (EPT).
+For processors manufactured by Advanced Micro Devices??? (AMD???), this feature might be referred to as Rapid Virtualization Indexing (RVI) or Nested Page Tables (NPT). 
 - - The chipset on the computer does not do Interrupt and/or DMA remapping, without which SR-IOV cannot be supported. 
 - - This computer has been configured to disable the use of I/O remapping hardware. 
 - NoVfBarSpace: SR-IOV cannot be used on this network adapter as there are not enough PCI Express BAR resources available.
@@ -108,7 +108,7 @@ Use this parameter to run commands that take a long time to complete.
 You can continue to work in the session while the job completes.
 To manage the job, use the `*-Job` cmdlets.
 To get the job results, use the [Receive-Job](http://go.microsoft.com/fwlink/?LinkID=113372) cmdlet. 
- For more information about Windows PowerShell® background jobs, see [about_Jobs](http://go.microsoft.com/fwlink/?LinkID=113251).
+ For more information about Windows PowerShell?? background jobs, see [about_Jobs](http://go.microsoft.com/fwlink/?LinkID=113251).
 
 ```yaml
 Type: SwitchParameter
@@ -189,7 +189,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -221,11 +221,12 @@ The path after the pound sign (`#`) provides the namespace and class name for th
 
 ## RELATED LINKS
 
-[Disable-NetAdapterSriov](./Disable-NetAdapterSriov.md)
+[Disable-NetAdapterSriov](./disable-netadaptersriov.md)
 
-[Enable-NetAdapterSriov](./Enable-NetAdapterSriov.md)
+[Enable-NetAdapterSriov](./enable-netadaptersriov.md)
 
-[Get-NetAdapterSriovVf](./Get-NetAdapterSriovVf.md)
+[Get-NetAdapterSriovVf](./get-netadaptersriovvf.md)
 
-[Set-NetAdapterSriov](./Set-NetAdapterSriov.md)
+[Set-NetAdapterSriov](./set-netadaptersriov.md)
+
 

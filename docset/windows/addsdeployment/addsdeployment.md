@@ -24,34 +24,35 @@ ms.assetid: 7F1FAA42-ECF3-4C09-B95D-961C5E18453A
 The following contains the names and a brief description of each ADDSDeployment cmdlet.
 
 ## ADDSDeployment Cmdlets
-### [Add-ADDSReadOnlyDomainControllerAccount](./Add-ADDSReadOnlyDomainControllerAccount.md)
+### [Add-ADDSReadOnlyDomainControllerAccount](./add-addsreadonlydomaincontrolleraccount.md)
 Creates a RODC account that can be used to install an RODC in Active Directory.
 
-### [Install-ADDSDomain](./Install-ADDSDomain.md)
+### [Install-ADDSDomain](./install-addsdomain.md)
 Installs an Active Directory domain configuration.
 
-### [Install-ADDSDomainController](./Install-ADDSDomainController.md)
+### [Install-ADDSDomainController](./install-addsdomaincontroller.md)
 Installs a domain controller in Active Directory.
 
-### [Install-ADDSForest](./Install-ADDSForest.md)
+### [Install-ADDSForest](./install-addsforest.md)
 Installs an Active Directory forest configuration.
 
-### [Test-ADDSDomainControllerInstallation](./Test-ADDSDomainControllerInstallation.md)
+### [Test-ADDSDomainControllerInstallation](./test-addsdomaincontrollerinstallation.md)
 Runs the prerequisites (only) for installing a domain controller in Active Directory.
 
-### [Test-ADDSDomainControllerUninstallation](./Test-ADDSDomainControllerUninstallation.md)
+### [Test-ADDSDomainControllerUninstallation](./test-addsdomaincontrolleruninstallation.md)
 Runs the prerequisites for uninstalling a domain controller in Active Directory.
 
-### [Test-ADDSDomainInstallation](./Test-ADDSDomainInstallation.md)
+### [Test-ADDSDomainInstallation](./test-addsdomaininstallation.md)
 Runs the prerequisites for installing a new Active Directory domain configuration.
 
-### [Test-ADDSForestInstallation](./Test-ADDSForestInstallation.md)
+### [Test-ADDSForestInstallation](./test-addsforestinstallation.md)
 Runs the prerequisites for installing a new forest in Active Directory.
 
-### [Test-ADDSReadOnlyDomainControllerAccountCreation](./Test-ADDSReadOnlyDomainControllerAccountCreation.md)
+### [Test-ADDSReadOnlyDomainControllerAccountCreation](./test-addsreadonlydomaincontrolleraccountcreation.md)
 Runs the prerequisites for adding a RODC account.
 
-### [Uninstall-ADDSDomainController](./Uninstall-ADDSDomainController.md)
+### [Uninstall-ADDSDomainController](./uninstall-addsdomaincontroller.md)
 Uninstalls a domain controller in Active Directory.
+
 
 

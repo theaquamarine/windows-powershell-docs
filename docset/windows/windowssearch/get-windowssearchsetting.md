@@ -87,5 +87,6 @@ Windows Search excludes adult images, videos, and text from results.
 
 ## RELATED LINKS
 
-[Set-WindowsSearchSetting](./Set-WindowsSearchSetting.md)
+[Set-WindowsSearchSetting](./set-windowssearchsetting.md)
+
 

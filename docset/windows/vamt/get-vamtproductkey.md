@@ -91,7 +91,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-VamtProductKey](./Add-VamtProductKey.md)
+[Add-VamtProductKey](./add-vamtproductkey.md)
 
-[Install-VamtProductKey](./Install-VamtProductKey.md)
+[Install-VamtProductKey](./install-vamtproductkey.md)
+
 

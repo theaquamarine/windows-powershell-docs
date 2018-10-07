@@ -133,9 +133,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Disable-HgsAttestationPolicy](./Disable-HgsAttestationPolicy.md)
+[Disable-HgsAttestationPolicy](./disable-hgsattestationpolicy.md)
 
-[Enable-HgsAttestationPolicy](./Enable-HgsAttestationPolicy.md)
+[Enable-HgsAttestationPolicy](./enable-hgsattestationpolicy.md)
 
-[Get-HgsAttestationPolicy](./Get-HgsAttestationPolicy.md)
+[Get-HgsAttestationPolicy](./get-hgsattestationpolicy.md)
+
 

@@ -24,14 +24,15 @@ ms.assetid: B5A6CE33-AAB9-486E-8625-1913606577E5
 The Nano Server Image Generator cmdlets are used to create and edit Nano Server installation images.
 
 ## NanoServerImageGenerator Cmdlets
-### [Edit-NanoServerImage](./Edit-NanoServerImage.md)
+### [Edit-NanoServerImage](./edit-nanoserverimage.md)
 Modifies a Nano Server installation image.
 
-### [Get-NanoServerPackage](./Get-NanoServerPackage.md)
+### [Get-NanoServerPackage](./get-nanoserverpackage.md)
 Gets available packages for a Nano Server installation image.
 
-### [New-NanoServerImage](./New-NanoServerImage.md)
+### [New-NanoServerImage](./new-nanoserverimage.md)
 Creates a Nano Server installation image.
+
 
 
 

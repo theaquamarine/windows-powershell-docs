@@ -180,9 +180,10 @@ None
 
 ## RELATED LINKS
 
-[Get-WBPolicy](./Get-WBPolicy.md)
+[Get-WBPolicy](./get-wbpolicy.md)
 
-[New-WBPolicy](./New-WBPolicy.md)
+[New-WBPolicy](./new-wbpolicy.md)
 
-[Remove-WBPolicy](./Remove-WBPolicy.md)
+[Remove-WBPolicy](./remove-wbpolicy.md)
+
 

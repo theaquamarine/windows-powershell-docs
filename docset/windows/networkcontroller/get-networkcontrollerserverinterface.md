@@ -166,11 +166,12 @@ This property contains IP address, network prefix, default gateway, VLANs, and w
 
 ## RELATED LINKS
 
-[Install-NetworkController](./Install-NetworkController.md)
+[Install-NetworkController](./install-networkcontroller.md)
 
-[New-NetworkControllerServerInterface](./New-NetworkControllerServerInterface.md)
+[New-NetworkControllerServerInterface](./new-networkcontrollerserverinterface.md)
 
-[Remove-NetworkControllerServerInterface](./Remove-NetworkControllerServerInterface.md)
+[Remove-NetworkControllerServerInterface](./remove-networkcontrollerserverinterface.md)
 
-[Set-NetworkController](./Set-NetworkController.md)
+[Set-NetworkController](./set-networkcontroller.md)
+
 

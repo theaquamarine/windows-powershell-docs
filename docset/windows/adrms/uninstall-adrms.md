@@ -143,7 +143,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Install-ADRMS](./Install-ADRMS.md)
+[Install-ADRMS](./install-adrms.md)
 
-[Update-ADRMS](./Update-ADRMS.md)
+[Update-ADRMS](./update-adrms.md)
+
 

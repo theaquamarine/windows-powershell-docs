@@ -72,11 +72,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[New-Website](./New-Website.md)
+[New-Website](./new-website.md)
 
-[Remove-Website](./Remove-Website.md)
+[Remove-Website](./remove-website.md)
 
-[Start-Website](./Start-Website.md)
+[Start-Website](./start-website.md)
 
-[Stop-Website](./Stop-Website.md)
+[Stop-Website](./stop-website.md)
+
 

@@ -167,7 +167,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-DfsrDelegation](./Get-DfsrDelegation.md)
+[Get-DfsrDelegation](./get-dfsrdelegation.md)
 
-[Grant-DfsrDelegation](./Grant-DfsrDelegation.md)
+[Grant-DfsrDelegation](./grant-dfsrdelegation.md)
+
 

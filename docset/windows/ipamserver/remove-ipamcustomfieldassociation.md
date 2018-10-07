@@ -214,7 +214,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -256,9 +256,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-IpamCustomFieldAssociation](./Add-IpamCustomFieldAssociation.md)
+[Add-IpamCustomFieldAssociation](./add-ipamcustomfieldassociation.md)
 
-[Get-IpamCustomFieldAssociation](./Get-IpamCustomFieldAssociation.md)
+[Get-IpamCustomFieldAssociation](./get-ipamcustomfieldassociation.md)
 
-[Set-IpamCustomFieldAssociation](./Set-IpamCustomFieldAssociation.md)
+[Set-IpamCustomFieldAssociation](./set-ipamcustomfieldassociation.md)
+
 

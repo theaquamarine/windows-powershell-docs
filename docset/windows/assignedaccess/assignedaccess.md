@@ -24,13 +24,14 @@ ms.assetid: FABEBB69-AEC2-4F06-8F23-872169149054
 The Windows PowerShell cmdlets for Assigned Access are designed to enable the administration of restricted app access to specific user accounts. When Assigned Access is configured on a user account, it can use only one Windows Store app. The user cannot exit the app, sign out, or access any system settings.
 
 ## AssignedAccess Cmdlets
-### [Clear-AssignedAccess](./Clear-AssignedAccess.md)
+### [Clear-AssignedAccess](./clear-assignedaccess.md)
 Removes the user account from assigned access.
 
-### [Get-AssignedAccess](./Get-AssignedAccess.md)
+### [Get-AssignedAccess](./get-assignedaccess.md)
 Gets the current configuration for assigned access.
 
-### [Set-AssignedAccess](./Set-AssignedAccess.md)
+### [Set-AssignedAccess](./set-assignedaccess.md)
 Configures a user to launch only one app.
+
 
 

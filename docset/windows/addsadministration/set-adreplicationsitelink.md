@@ -479,9 +479,10 @@ A site link object that was retrieved by using the **Get-ADReplicationSiteLink**
 
 ## RELATED LINKS
 
-[Get-ADReplicationSiteLink](./Get-ADReplicationSiteLink.md)
+[Get-ADReplicationSiteLink](./get-adreplicationsitelink.md)
 
-[New-ADReplicationSiteLink](./New-ADReplicationSiteLink.md)
+[New-ADReplicationSiteLink](./new-adreplicationsitelink.md)
 
-[Remove-ADReplicationSiteLink](./Remove-ADReplicationSiteLink.md)
+[Remove-ADReplicationSiteLink](./remove-adreplicationsitelink.md)
+
 

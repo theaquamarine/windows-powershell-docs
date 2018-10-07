@@ -72,11 +72,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Complete-DtcDiagnosticTransaction](./Complete-DtcDiagnosticTransaction.md)
+[Complete-DtcDiagnosticTransaction](./complete-dtcdiagnostictransaction.md)
 
-[New-DtcDiagnosticTransaction](./New-DtcDiagnosticTransaction.md)
+[New-DtcDiagnosticTransaction](./new-dtcdiagnostictransaction.md)
 
-[Receive-DtcDiagnosticTransaction](./Receive-DtcDiagnosticTransaction.md)
+[Receive-DtcDiagnosticTransaction](./receive-dtcdiagnostictransaction.md)
 
-[Send-DtcDiagnosticTransaction](./Send-DtcDiagnosticTransaction.md)
+[Send-DtcDiagnosticTransaction](./send-dtcdiagnostictransaction.md)
+
 

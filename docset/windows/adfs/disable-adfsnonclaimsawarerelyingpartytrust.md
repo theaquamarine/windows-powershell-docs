@@ -177,13 +177,14 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-AdfsNonClaimsAwareRelyingPartyTrust](./Add-AdfsNonClaimsAwareRelyingPartyTrust.md)
+[Add-AdfsNonClaimsAwareRelyingPartyTrust](./add-adfsnonclaimsawarerelyingpartytrust.md)
 
-[Enable-AdfsNonClaimsAwareRelyingPartyTrust](./Enable-AdfsNonClaimsAwareRelyingPartyTrust.md)
+[Enable-AdfsNonClaimsAwareRelyingPartyTrust](./enable-adfsnonclaimsawarerelyingpartytrust.md)
 
-[Get-AdfsNonClaimsAwareRelyingPartyTrust](./Get-AdfsNonClaimsAwareRelyingPartyTrust.md)
+[Get-AdfsNonClaimsAwareRelyingPartyTrust](./get-adfsnonclaimsawarerelyingpartytrust.md)
 
-[Remove-AdfsNonClaimsAwareRelyingPartyTrust](./Remove-AdfsNonClaimsAwareRelyingPartyTrust.md)
+[Remove-AdfsNonClaimsAwareRelyingPartyTrust](./remove-adfsnonclaimsawarerelyingpartytrust.md)
 
-[Set-AdfsNonClaimsAwareRelyingPartyTrust](./Set-AdfsNonClaimsAwareRelyingPartyTrust.md)
+[Set-AdfsNonClaimsAwareRelyingPartyTrust](./set-adfsnonclaimsawarerelyingpartytrust.md)
+
 

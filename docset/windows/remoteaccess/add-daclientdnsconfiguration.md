@@ -35,7 +35,7 @@ The **Add-DAClientDNSConfiguration** cmdlet adds the specified DNS suffix, DNS s
 When a DNS suffix is specified, but no servers are specified, it is treated as a NRPT exemption entry.
 
 In a multi-domain deployment, when an NRPT entry that consists of DNS suffix, proxy server and DNS IP addresses is added to the NRPT table the settings are added to all the DirectAccess (DA) client Group Policy Objects (GPOs) in different domains.
-In multi-site deployment with firstref_client_7 clients, the added entries are added to both the Windows® 8 client GPOs and Windows® 7 client GPOs.
+In multi-site deployment with firstref_client_7 clients, the added entries are added to both the Windows?? 8 client GPOs and Windows?? 7 client GPOs.
 
 The NRPT configuration is applicable globally, to the entire DA deployment and therefore is not impacted by multi-site deployment.
 
@@ -226,7 +226,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -278,9 +278,10 @@ The DnsClientNRPTRule object consists of the following properties:
 
 ## RELATED LINKS
 
-[Get-DAClientDnsConfiguration](./Get-DAClientDnsConfiguration.md)
+[Get-DAClientDnsConfiguration](./get-daclientdnsconfiguration.md)
 
-[Remove-DAClientDnsConfiguration](./Remove-DAClientDnsConfiguration.md)
+[Remove-DAClientDnsConfiguration](./remove-daclientdnsconfiguration.md)
 
-[Set-DAClientDnsConfiguration](./Set-DAClientDnsConfiguration.md)
+[Set-DAClientDnsConfiguration](./set-daclientdnsconfiguration.md)
+
 

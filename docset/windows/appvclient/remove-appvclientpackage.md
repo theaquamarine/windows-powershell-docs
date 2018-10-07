@@ -154,19 +154,20 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-AppvClientPackage](./Add-AppvClientPackage.md)
+[Add-AppvClientPackage](./add-appvclientpackage.md)
 
-[Get-AppvClientPackage](./Get-AppvClientPackage.md)
+[Get-AppvClientPackage](./get-appvclientpackage.md)
 
-[Mount-AppvClientPackage](./Mount-AppvClientPackage.md)
+[Mount-AppvClientPackage](./mount-appvclientpackage.md)
 
-[Publish-AppvClientPackage](./Publish-AppvClientPackage.md)
+[Publish-AppvClientPackage](./publish-appvclientpackage.md)
 
-[Repair-AppvClientPackage](./Repair-AppvClientPackage.md)
+[Repair-AppvClientPackage](./repair-appvclientpackage.md)
 
-[Set-AppvClientPackage](./Set-AppvClientPackage.md)
+[Set-AppvClientPackage](./set-appvclientpackage.md)
 
-[Stop-AppvClientPackage](./Stop-AppvClientPackage.md)
+[Stop-AppvClientPackage](./stop-appvclientpackage.md)
 
-[Unpublish-AppvClientPackage](./Unpublish-AppvClientPackage.md)
+[Unpublish-AppvClientPackage](./unpublish-appvclientpackage.md)
+
 

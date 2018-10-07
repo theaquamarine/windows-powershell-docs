@@ -130,7 +130,7 @@ This option is useful for connections that must be monitored by network equipmen
 The initial connection is authenticated by IPsec by using AuthIP, but the quick mode SA permits clear-text traffic.
 To use this option, you must also configure an IPsec rule that specifies authentication with encapsulation none as a quick mode security method.
 In the Microsoft Management Console (MMC), authentication and encryption are combined into one set of radio buttons.
-In Windows Management Instrumentation (WMI) or Windows PowerShell®, authentication and encryption are given as two separate options. 
+In Windows Management Instrumentation (WMI) or Windows PowerShell??, authentication and encryption are given as two separate options. 
 
 The default value is Required. 
 A rule can be queried for this condition, or modified by using the security filter object.
@@ -208,7 +208,7 @@ Accept wildcard characters: False
 ### -GPOSession
 Targets the network GPO from which to retrieve the rules to be modified. 
 This parameter is used in the same way as the *PolicyStore* parameter.
-When modifying GPOs in Windows PowerShell®, each change to a GPO requires the entire GPO to be loaded, modified, and saved back.
+When modifying GPOs in Windows PowerShell??, each change to a GPO requires the entire GPO to be loaded, modified, and saved back.
 On a busy Domain Controller (DC), this can be a slow and resource-heavy operation.
 A GPO Session loads a domain GPO onto the local computer and makes all changes in a batch, before saving it back.
 This reduces the load on the DC and speeds up the Windows PowerShell cmdlets.
@@ -268,7 +268,7 @@ If the *Direction* parameter is set to Inbound, then this parameter is valid onl
 Network packets that match this rule and that are successfully authenticated against a computer account specified in the *RemoteUser* parameter and against a user account identified in the *RemoteMachine* parameter are permitted through the firewall. 
 If this parameter is specified, then the *Authentication* parameter cannot be set to *NotRequired*.
 This parameter is equivalent to the override block rules checkbox in the Windows Firewall with Advanced Security MMC snap-in. 
-For computers that are running Windows® 7 or nextref_server_7, this parameter is permitted on an outbound rule.
+For computers that are running Windows?? 7 or nextref_server_7, this parameter is permitted on an outbound rule.
 Selecting this parameter on an outbound rule causes matching traffic to be permitted through this rule even if other matching rules would block the traffic.
 No accounts are required in the *RemoteMachine* or *RemoteUser* parameter for an outbound bypass rule, however, if authorized or excepted computers are listed in those groups the rules will be enforced. 
 This parameter is not valid on outbound rules on computers that are running firstref_vista or earlier. 
@@ -323,7 +323,7 @@ Computer GPOs can be specified as follows.
 -------- `-PolicyStore corp.contoso.com\FirewallPolicy`
 ---- Active Directory GPOs can be created using the **New-GPO** cmdlet or the Group Policy Management Console. 
 - RSOP: This read-only store contains the sum of all GPOs applied to the local computer. 
-- SystemDefaults: This read-only store contains the default state of firewall rules that ship with Windows Server® 2012. 
+- SystemDefaults: This read-only store contains the default state of firewall rules that ship with Windows Server?? 2012. 
 - StaticServiceStore: This read-only store contains all the service restrictions that ship with Windows Server 2012.
 Optional and product-dependent features are considered part of Windows Server 2012 for the purposes of WFAS. 
 - ConfigurableServiceStore: This read-write store contains all the service restrictions that are added for third-party services.
@@ -382,7 +382,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -432,21 +432,22 @@ The path after the pound sign (`#`) provides the namespace and class name for th
 
 ## RELATED LINKS
 
-[Get-NetFirewallRule](./Get-NetFirewallRule.md)
+[Get-NetFirewallRule](./get-netfirewallrule.md)
 
-[Get-NetFirewallSecurityFilter](./Get-NetFirewallSecurityFilter.md)
+[Get-NetFirewallSecurityFilter](./get-netfirewallsecurityfilter.md)
 
-[Get-NetIPsecRule](./Get-NetIPsecRule.md)
+[Get-NetIPsecRule](./get-netipsecrule.md)
 
-[New-NetFirewallRule](./New-NetFirewallRule.md)
+[New-NetFirewallRule](./new-netfirewallrule.md)
 
-[New-NetIPsecRule](./New-NetIPsecRule.md)
+[New-NetIPsecRule](./new-netipsecrule.md)
 
-[Open-NetGPO](./Open-NetGPO.md)
+[Open-NetGPO](./open-netgpo.md)
 
-[Save-NetGPO](./Save-NetGPO.md)
+[Save-NetGPO](./save-netgpo.md)
 
-[Set-NetFirewallRule](./Set-NetFirewallRule.md)
+[Set-NetFirewallRule](./set-netfirewallrule.md)
 
-[Set-NetIPsecRule](./Set-NetIPsecRule.md)
+[Set-NetIPsecRule](./set-netipsecrule.md)
+
 

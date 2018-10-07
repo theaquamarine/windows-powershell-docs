@@ -128,7 +128,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -160,7 +160,8 @@ This cmdlet returns a CIM object that contains the DA client experience configur
 
 ## RELATED LINKS
 
-[Reset-DAClientExperienceConfiguration](./Reset-DAClientExperienceConfiguration.md)
+[Reset-DAClientExperienceConfiguration](./reset-daclientexperienceconfiguration.md)
 
-[Set-DAClientExperienceConfiguration](./Set-DAClientExperienceConfiguration.md)
+[Set-DAClientExperienceConfiguration](./set-daclientexperienceconfiguration.md)
+
 

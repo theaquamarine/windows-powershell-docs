@@ -287,11 +287,12 @@ A claim transform policy object is received by the *Identity* parameter.
 
 ## RELATED LINKS
 
-[New-ADClaimTransformPolicy](./New-ADClaimTransformPolicy.md)
+[New-ADClaimTransformPolicy](./new-adclaimtransformpolicy.md)
 
-[Remove-ADClaimTransformPolicy](./Remove-ADClaimTransformPolicy.md)
+[Remove-ADClaimTransformPolicy](./remove-adclaimtransformpolicy.md)
 
-[Set-ADClaimTransformPolicy](./Set-ADClaimTransformPolicy.md)
+[Set-ADClaimTransformPolicy](./set-adclaimtransformpolicy.md)
 
 [AD DS Administration Cmdlets in Windows PowerShell](./activedirectory.md)
+
 

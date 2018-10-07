@@ -115,9 +115,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Clear-BitLockerAutoUnlock](./Clear-BitLockerAutoUnlock.md)
+[Clear-BitLockerAutoUnlock](./clear-bitlockerautounlock.md)
 
-[Enable-BitLockerAutoUnlock](./Enable-BitLockerAutoUnlock.md)
+[Enable-BitLockerAutoUnlock](./enable-bitlockerautounlock.md)
 
-[Get-BitLockerVolume](./Get-BitLockerVolume.md)
+[Get-BitLockerVolume](./get-bitlockervolume.md)
+
 

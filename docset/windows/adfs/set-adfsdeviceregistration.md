@@ -270,7 +270,7 @@ Accept wildcard characters: False
 
 ### -ServiceAccountIdentifier
 Specifies the ID of the service account.
-The cmdlet grants this account read and write access to the Device Registration Service configuration and containers in Active Directory® Domain Services.
+The cmdlet grants this account read and write access to the Device Registration Service configuration and containers in Active Directory?? Domain Services.
 
 ```yaml
 Type: String
@@ -328,9 +328,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Disable-AdfsDeviceRegistration](./Disable-AdfsDeviceRegistration.md)
+[Disable-AdfsDeviceRegistration](./disable-adfsdeviceregistration.md)
 
-[Enable-AdfsDeviceRegistration](./Enable-AdfsDeviceRegistration.md)
+[Enable-AdfsDeviceRegistration](./enable-adfsdeviceregistration.md)
 
-[Get-AdfsDeviceRegistration](./Get-AdfsDeviceRegistration.md)
+[Get-AdfsDeviceRegistration](./get-adfsdeviceregistration.md)
+
 

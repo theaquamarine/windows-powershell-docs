@@ -27,10 +27,10 @@ Also see [DHCP Classes](http://go.microsoft.com/FWLink/p/?LinkId=260590).
 
 
 ## DhcpServer Cmdlets
-### [Add-DhcpServerInDC](./Add-DhcpServerInDC.md)
+### [Add-DhcpServerInDC](./add-dhcpserverindc.md)
 Adds the computer that runs the DHCP server service to the list of authorized DHCP server services in Active Directory.
 
-### [Add-DhcpServerSecurityGroup](./Add-DhcpServerSecurityGroup.md)
+### [Add-DhcpServerSecurityGroup](./add-dhcpserversecuritygroup.md)
 Adds security groups to a DHCP server.
 
 ### [Add-DhcpServerv4Class](./Add-DhcpServerv4Class.md)
@@ -93,25 +93,25 @@ Adds an IPv6 Reservation to an IPv6 prefix or scope.
 ### [Add-DhcpServerv6Scope](./Add-DhcpServerv6Scope.md)
 Adds an IPv6 scope to the DHCP server service with the specified parameters.
 
-### [Backup-DhcpServer](./Backup-DhcpServer.md)
+### [Backup-DhcpServer](./backup-dhcpserver.md)
 Backs up the DHCP database of DHCP server service.
 
-### [Export-DhcpServer](./Export-DhcpServer.md)
+### [Export-DhcpServer](./export-dhcpserver.md)
 Exports the DHCP server service configuration and lease data.
 
-### [Get-DhcpServerAuditLog](./Get-DhcpServerAuditLog.md)
+### [Get-DhcpServerAuditLog](./get-dhcpserverauditlog.md)
 Gets the configuration parameters related to the audit log of the DHCP server service.
 
-### [Get-DhcpServerDatabase](./Get-DhcpServerDatabase.md)
+### [Get-DhcpServerDatabase](./get-dhcpserverdatabase.md)
 Gets the configuration parameters related to the database of the DHCP server service.
 
-### [Get-DhcpServerDnsCredential](./Get-DhcpServerDnsCredential.md)
+### [Get-DhcpServerDnsCredential](./get-dhcpserverdnscredential.md)
 Gets an account that the DHCP Server service uses to register or deregister client records on a DNS server.
 
-### [Get-DhcpServerInDC](./Get-DhcpServerInDC.md)
+### [Get-DhcpServerInDC](./get-dhcpserverindc.md)
 Retrieves the list of authorized computers that run the DHCP server service from Active Directory.
 
-### [Get-DhcpServerSetting](./Get-DhcpServerSetting.md)
+### [Get-DhcpServerSetting](./get-dhcpserversetting.md)
 Gets the configuration parameters of the database of the DHCP server service.
 
 ### [Get-DhcpServerv4Binding](./Get-DhcpServerv4Binding.md)
@@ -225,19 +225,19 @@ Gets the properties of IPv6 stateless store for an IPv6 subnet.
 ### [Get-DhcpServerv6Statistics](./Get-DhcpServerv6Statistics.md)
 Gets the DHCP server service statistics for IPv6.
 
-### [Get-DhcpServerVersion](./Get-DhcpServerVersion.md)
+### [Get-DhcpServerVersion](./get-dhcpserverversion.md)
 Gets the version of the DHCP server service.
 
-### [Import-DhcpServer](./Import-DhcpServer.md)
+### [Import-DhcpServer](./import-dhcpserver.md)
 Imports the DHCP server service configuration, and optionally lease data, from a file.
 
 ### [Invoke-DhcpServerv4FailoverReplication](./Invoke-DhcpServerv4FailoverReplication.md)
 Replicates scope configuration between failover partner DHCP server services.
 
-### [Remove-DhcpServerDnsCredential](./Remove-DhcpServerDnsCredential.md)
+### [Remove-DhcpServerDnsCredential](./remove-dhcpserverdnscredential.md)
 Removes the credential that the DHCP Server service uses to register or deregister client records on a DNS server.
 
-### [Remove-DhcpServerInDC](./Remove-DhcpServerInDC.md)
+### [Remove-DhcpServerInDC](./remove-dhcpserverindc.md)
 Deletes the specified DHCP server service from the list of authorized DHCP server services in Active Directory.
 
 ### [Remove-DhcpServerv4Class](./Remove-DhcpServerv4Class.md)
@@ -315,19 +315,19 @@ Renames a superscope.
 ### [Repair-DhcpServerv4IPRecord](./Repair-DhcpServerv4IPRecord.md)
 Reconciles inconsistent lease records in the DHCP database.
 
-### [Restore-DhcpServer](./Restore-DhcpServer.md)
+### [Restore-DhcpServer](./restore-dhcpserver.md)
 Restores the database of the DHCP server service from the specified location.
 
-### [Set-DhcpServerAuditLog](./Set-DhcpServerAuditLog.md)
+### [Set-DhcpServerAuditLog](./set-dhcpserverauditlog.md)
 Sets the DHCP server service audit log configuration on the DHCP server service that runs on the computer.
 
-### [Set-DhcpServerDatabase](./Set-DhcpServerDatabase.md)
+### [Set-DhcpServerDatabase](./set-dhcpserverdatabase.md)
 Modifies one or more configuration parameters of the database of the DHCP server service.
 
-### [Set-DhcpServerDnsCredential](./Set-DhcpServerDnsCredential.md)
+### [Set-DhcpServerDnsCredential](./set-dhcpserverdnscredential.md)
 Sets credentials that the DHCP Server service uses to register or deregister client records on a DNS server.
 
-### [Set-DhcpServerSetting](./Set-DhcpServerSetting.md)
+### [Set-DhcpServerSetting](./set-dhcpserversetting.md)
 Sets server level configuration parameters for the DHCP server service.
 
 ### [Set-DhcpServerv4Binding](./Set-DhcpServerv4Binding.md)
@@ -386,5 +386,6 @@ Modifies the properties of the IPv6 scope on the DHCP server service.
 
 ### [Set-DhcpServerv6StatelessStore](./Set-DhcpServerv6StatelessStore.md)
 Sets properties of IPv6 stateless store for an IPv6 prefix.
+
 
 

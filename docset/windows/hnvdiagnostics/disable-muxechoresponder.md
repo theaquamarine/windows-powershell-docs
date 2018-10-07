@@ -81,5 +81,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Enable-MuxEchoResponder](./Enable-MuxEchoResponder.md)
+[Enable-MuxEchoResponder](./enable-muxechoresponder.md)
+
 

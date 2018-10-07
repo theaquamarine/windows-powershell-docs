@@ -137,9 +137,10 @@ This cmdlet returns an **AttestationPolicyInfo** object.
 
 ## RELATED LINKS
 
-[Enable-HgsAttestationPolicy](./Enable-HgsAttestationPolicy.md)
+[Enable-HgsAttestationPolicy](./enable-hgsattestationpolicy.md)
 
-[Get-HgsAttestationPolicy](./Get-HgsAttestationPolicy.md)
+[Get-HgsAttestationPolicy](./get-hgsattestationpolicy.md)
 
-[Remove-HgsAttestationPolicy](./Remove-HgsAttestationPolicy.md)
+[Remove-HgsAttestationPolicy](./remove-hgsattestationpolicy.md)
+
 

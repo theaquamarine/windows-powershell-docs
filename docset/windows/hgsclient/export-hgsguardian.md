@@ -86,11 +86,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-HgsGuardian](./Get-HgsGuardian.md)
+[Get-HgsGuardian](./get-hgsguardian.md)
 
-[Import-HgsGuardian](./Import-HgsGuardian.md)
+[Import-HgsGuardian](./import-hgsguardian.md)
 
-[New-HgsGuardian](./New-HgsGuardian.md)
+[New-HgsGuardian](./new-hgsguardian.md)
 
-[Remove-HgsGuardian](./Remove-HgsGuardian.md)
+[Remove-HgsGuardian](./remove-hgsguardian.md)
+
 

@@ -191,7 +191,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -239,7 +239,8 @@ The path after the pound sign (`#`) provides the namespace and class name for th
 
 ## RELATED LINKS
 
-[Get-BCDataCacheExtension](./Get-BCDataCacheExtension.md)
+[Get-BCDataCacheExtension](./get-bcdatacacheextension.md)
 
-[Remove-BCDataCacheExtension](./Remove-BCDataCacheExtension.md)
+[Remove-BCDataCacheExtension](./remove-bcdatacacheextension.md)
+
 

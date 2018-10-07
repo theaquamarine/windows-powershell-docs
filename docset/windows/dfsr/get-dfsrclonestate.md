@@ -98,9 +98,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Import-DfsrClone](./Import-DfsrClone.md)
+[Import-DfsrClone](./import-dfsrclone.md)
 
-[Export-DfsrClone](./Export-DfsrClone.md)
+[Export-DfsrClone](./export-dfsrclone.md)
 
-[Reset-DfsrCloneState](./Reset-DfsrCloneState.md)
+[Reset-DfsrCloneState](./reset-dfsrclonestate.md)
+
 

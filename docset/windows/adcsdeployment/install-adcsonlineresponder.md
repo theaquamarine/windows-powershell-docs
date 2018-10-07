@@ -138,7 +138,8 @@ To see parameters, run the following command: `Install-AdcsOnlineResponder -?`
 
 ## RELATED LINKS
 
-[Uninstall-AdcsOnlineResponder](./Uninstall-AdcsOnlineResponder.md)
+[Uninstall-AdcsOnlineResponder](./uninstall-adcsonlineresponder.md)
 
 [Get-Credential](http://go.microsoft.com/fwlink/?LinkID=293936)
+
 

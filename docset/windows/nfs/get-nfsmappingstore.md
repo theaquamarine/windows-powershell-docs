@@ -95,7 +95,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -123,21 +123,22 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-NfsMappedIdentity](./Get-NfsMappedIdentity.md)
+[Get-NfsMappedIdentity](./get-nfsmappedidentity.md)
 
-[Install-NfsMappingStore](./Install-NfsMappingStore.md)
+[Install-NfsMappingStore](./install-nfsmappingstore.md)
 
-[New-NfsMappedIdentity](./New-NfsMappedIdentity.md)
+[New-NfsMappedIdentity](./new-nfsmappedidentity.md)
 
-[Remove-NfsMappedIdentity](./Remove-NfsMappedIdentity.md)
+[Remove-NfsMappedIdentity](./remove-nfsmappedidentity.md)
 
-[Resolve-NfsMappedIdentity](./Resolve-NfsMappedIdentity.md)
+[Resolve-NfsMappedIdentity](./resolve-nfsmappedidentity.md)
 
-[Set-NfsMappedIdentity](./Set-NfsMappedIdentity.md)
+[Set-NfsMappedIdentity](./set-nfsmappedidentity.md)
 
-[Set-NfsMappingStore](./Set-NfsMappingStore.md)
+[Set-NfsMappingStore](./set-nfsmappingstore.md)
 
-[Test-NfsMappedIdentity](./Test-NfsMappedIdentity.md)
+[Test-NfsMappedIdentity](./test-nfsmappedidentity.md)
 
-[Test-NfsMappingStore](./Test-NfsMappingStore.md)
+[Test-NfsMappingStore](./test-nfsmappingstore.md)
+
 

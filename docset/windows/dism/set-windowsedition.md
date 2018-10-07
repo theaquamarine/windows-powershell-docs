@@ -197,7 +197,9 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-WindowsEdition](./Get-WindowsEdition.md)
+[Get-WindowsEdition](./get-windowsedition.md)
 
-[Set-WindowsProductKey](./Set-WindowsProductKey.md)
+[Set-WindowsProductKey](./set-windowsproductkey.md)
+
+
 

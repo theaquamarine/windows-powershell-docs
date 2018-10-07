@@ -156,7 +156,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Import-VamtData](./Import-VamtData.md)
+[Import-VamtData](./import-vamtdata.md)
 
-[Initialize-VamtData](./Initialize-VamtData.md)
+[Initialize-VamtData](./initialize-vamtdata.md)
+
 

@@ -55,5 +55,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Set-MsmqQueueManager](./Set-MsmqQueueManager.md)
+[Set-MsmqQueueManager](./set-msmqqueuemanager.md)
+
 

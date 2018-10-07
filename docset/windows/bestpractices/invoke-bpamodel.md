@@ -318,9 +318,10 @@ The output object contains information such as the BPA model ID, the success or 
 
 ## RELATED LINKS
 
-[Get-BpaModel](./Get-BpaModel.md)
+[Get-BpaModel](./get-bpamodel.md)
 
-[Get-BpaResult](./Get-BpaResult.md)
+[Get-BpaResult](./get-bparesult.md)
 
-[Set-BpaResult](./Set-BpaResult.md)
+[Set-BpaResult](./set-bparesult.md)
+
 

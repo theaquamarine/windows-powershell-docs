@@ -29,7 +29,7 @@ Show-WindowsDeveloperLicenseRegistration [<CommonParameters>]
 ```
 
 ## DESCRIPTION
-The **Show-WindowsDeveloperLicenseRegistration** cmdlet opens a dialog box that explains how to enable your device for development in the Windows 10® operating system.
+The **Show-WindowsDeveloperLicenseRegistration** cmdlet opens a dialog box that explains how to enable your device for development in the Windows 10?? operating system.
 The dialog box provides a link to the new settings page.
 For more information, see [Enable your device for development](https://msdn.microsoft.com/en-us/library/windows/apps/xaml/dn706236.aspx) (https://msdn.microsoft.com/en-us/library/windows/apps/xaml/dn706236.aspx) in the Microsoft Developer Network library.
 
@@ -60,7 +60,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 [Enable your device for development](https://msdn.microsoft.com/en-us/library/windows/apps/xaml/dn706236.aspx)
 
-[Get-WindowsDeveloperLicense](./Get-WindowsDeveloperLicense.md)
+[Get-WindowsDeveloperLicense](./get-windowsdeveloperlicense.md)
 
-[Unregister-WindowsDeveloperLicense](./Unregister-WindowsDeveloperLicense.md)
+[Unregister-WindowsDeveloperLicense](./unregister-windowsdeveloperlicense.md)
+
 

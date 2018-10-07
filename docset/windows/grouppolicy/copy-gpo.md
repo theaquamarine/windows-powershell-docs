@@ -349,13 +349,14 @@ Therefore, when this cmdlet is run from a startup or shutdown script, the defaul
 
 ## RELATED LINKS
 
-[Get-GPO](./Get-GPO.md)
+[Get-GPO](./get-gpo.md)
 
-[Import-GPO](./Import-GPO.md)
+[Import-GPO](./import-gpo.md)
 
-[New-GPO](./New-GPO.md)
+[New-GPO](./new-gpo.md)
 
-[Restore-GPO](./Restore-GPO.md)
+[Restore-GPO](./restore-gpo.md)
 
-[Set-GPLink](./Set-GPLink.md)
+[Set-GPLink](./set-gplink.md)
+
 

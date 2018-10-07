@@ -24,23 +24,24 @@ ms.assetid: 859B925B-6E44-40AA-8453-0BB77E592DDF
 This reference provides cmdlet descriptions and syntax for all App Background Task cmdlets. It lists the cmdlets in alphabetical order based on the verb at the beginning of the cmdlet.
 
 ## AppBackgroundTask Cmdlets
-### [Disable-AppBackgroundTaskDiagnosticLog](./Disable-AppBackgroundTaskDiagnosticLog.md)
+### [Disable-AppBackgroundTaskDiagnosticLog](./disable-appbackgroundtaskdiagnosticlog.md)
 Disables background task logging in Event Viewer.
 
-### [Enable-AppBackgroundTaskDiagnosticLog](./Enable-AppBackgroundTaskDiagnosticLog.md)
+### [Enable-AppBackgroundTaskDiagnosticLog](./enable-appbackgroundtaskdiagnosticlog.md)
 Enables background task logging in Event Viewer.
 
-### [Get-AppBackgroundTask](./Get-AppBackgroundTask.md)
+### [Get-AppBackgroundTask](./get-appbackgroundtask.md)
 Gets background task information.
 
-### [Set-AppBackgroundTaskResourcePolicy](./Set-AppBackgroundTaskResourcePolicy.md)
+### [Set-AppBackgroundTaskResourcePolicy](./set-appbackgroundtaskresourcepolicy.md)
 Configures the use of the global pool by background tasks.
 
-### [Start-AppBackgroundTask](./Start-AppBackgroundTask.md)
+### [Start-AppBackgroundTask](./start-appbackgroundtask.md)
 Starts a background task.
 
-### [Unregister-AppBackgroundTask](./Unregister-AppBackgroundTask.md)
+### [Unregister-AppBackgroundTask](./unregister-appbackgroundtask.md)
 Unregisters a background task.
+
 
 
 

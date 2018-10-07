@@ -47,7 +47,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Disable-AdfsCertificateAuthority](./Disable-AdfsCertificateAuthority.md)
+[Disable-AdfsCertificateAuthority](./disable-adfscertificateauthority.md)
 
-[Set-AdfsCertificateAuthority](./Set-AdfsCertificateAuthority.md)
+[Set-AdfsCertificateAuthority](./set-adfscertificateauthority.md)
+
 

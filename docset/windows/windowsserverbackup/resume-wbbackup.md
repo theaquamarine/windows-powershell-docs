@@ -79,5 +79,6 @@ If the device contains media, the cmdlet returns confirmation that the backup ha
 
 ## RELATED LINKS
 
-[Start-WBBackup](./Start-WBBackup.md)
+[Start-WBBackup](./start-wbbackup.md)
+
 

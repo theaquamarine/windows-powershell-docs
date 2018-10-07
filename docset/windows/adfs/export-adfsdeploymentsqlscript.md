@@ -60,7 +60,7 @@ Accept wildcard characters: False
 ```
 
 ### -ServiceAccountName
-Specifies the name of the Active Directory® Domain Services account under which the AD FS service runs. 
+Specifies the name of the Active Directory?? Domain Services account under which the AD FS service runs. 
 All nodes in the farm must use the same service account.
 
 ```yaml
@@ -116,4 +116,5 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 ## NOTES
 
 ## RELATED LINKS
+
 

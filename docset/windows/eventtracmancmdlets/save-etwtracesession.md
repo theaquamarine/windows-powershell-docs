@@ -187,15 +187,16 @@ This cmdlet returns a **CIM_DataFile** object when the current session is saved 
 
 ## RELATED LINKS
 
-[Get-EtwTraceSession](./Get-EtwTraceSession.md)
+[Get-EtwTraceSession](./get-etwtracesession.md)
 
-[New-EtwTraceSession](./New-EtwTraceSession.md)
+[New-EtwTraceSession](./new-etwtracesession.md)
 
-[Send-EtwTraceSession](./Send-EtwTraceSession.md)
+[Send-EtwTraceSession](./send-etwtracesession.md)
 
-[Start-EtwTraceSession](./Start-EtwTraceSession.md)
+[Start-EtwTraceSession](./start-etwtracesession.md)
 
-[Stop-EtwTraceSession](./Stop-EtwTraceSession.md)
+[Stop-EtwTraceSession](./stop-etwtracesession.md)
 
-[Update-EtwTraceSession](./Update-EtwTraceSession.md)
+[Update-EtwTraceSession](./update-etwtracesession.md)
+
 

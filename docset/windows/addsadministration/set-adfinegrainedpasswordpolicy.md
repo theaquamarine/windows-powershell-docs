@@ -739,11 +739,12 @@ By default, this cmdlet does not generate any output.
 
 ## RELATED LINKS
 
-[Get-ADFineGrainedPasswordPolicy](./Get-ADFineGrainedPasswordPolicy.md)
+[Get-ADFineGrainedPasswordPolicy](./get-adfinegrainedpasswordpolicy.md)
 
-[New-ADFineGrainedPasswordPolicy](./New-ADFineGrainedPasswordPolicy.md)
+[New-ADFineGrainedPasswordPolicy](./new-adfinegrainedpasswordpolicy.md)
 
-[Remove-ADFineGrainedPasswordPolicy](./Remove-ADFineGrainedPasswordPolicy.md)
+[Remove-ADFineGrainedPasswordPolicy](./remove-adfinegrainedpasswordpolicy.md)
 
 [AD DS Administration Cmdlets in Windows PowerShell](./activedirectory.md)
+
 

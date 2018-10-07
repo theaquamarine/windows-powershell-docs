@@ -30,7 +30,7 @@ Get-WBSystemState [-Policy] <WBPolicy> [<CommonParameters>]
 
 ## DESCRIPTION
 The **Get-WBSystemState** cmdlet gets a Boolean value that indicates whether the ability to perform system state recoveries along with the backups was added to the **WBPolicy** object.
-If the system state is not in the list of items to be backed up, use the [Add-WBSystemState](./Add-WBSystemState.md) cmdlet to add it to the list.
+If the system state is not in the list of items to be backed up, use the [Add-WBSystemState](./add-wbsystemstate.md) cmdlet to add it to the list.
 
 To use this cmdlet, you must be a member of the Administrators group or Backup Operators group.
 
@@ -45,7 +45,7 @@ PS C:\> Get-WBSystemState -Policy $Policy
 This example displays a Boolean value that indicates whether the system state setting was added to the **WBPolicy** object that is stored in the variable named $Policy.
 The system state setting enables you to use the backups to perform system state recoveries.
 
-The first command stores the result of the [Get-WBPolicy](./Get-WBPolicy.md) cmdlet to the variable named $Policy.
+The first command stores the result of the [Get-WBPolicy](./get-wbpolicy.md) cmdlet to the variable named $Policy.
 
 The second command displays the result of the **Get-WBSystemState** cmdlet using the variable named $Policy.
 
@@ -83,11 +83,12 @@ This cmdlet returns a Boolean value to indicate whether the system state is incl
 
 ## RELATED LINKS
 
-[Add-WBSystemState](./Add-WBSystemState.md)
+[Add-WBSystemState](./add-wbsystemstate.md)
 
-[Get-WBPolicy](./Get-WBPolicy.md)
+[Get-WBPolicy](./get-wbpolicy.md)
 
-[New-WBPolicy](./New-WBPolicy.md)
+[New-WBPolicy](./new-wbpolicy.md)
 
-[Remove-WBSystemState](./Remove-WBSystemState.md)
+[Remove-WBSystemState](./remove-wbsystemstate.md)
+
 

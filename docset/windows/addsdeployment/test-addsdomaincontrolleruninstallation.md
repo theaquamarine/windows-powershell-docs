@@ -288,9 +288,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 [AD DS Simplified Administration](http://go.microsoft.com/fwlink/?LinkID=237244)
 
-[Uninstall-ADDSDomainController](./Uninstall-ADDSDomainController.md)
+[Uninstall-ADDSDomainController](./uninstall-addsdomaincontroller.md)
 
 [Get-Credential](http://go.microsoft.com/fwlink/?LinkID=293936)
 
 [ConvertTo-SecureString](http://go.microsoft.com/fwlink/p/?LinkId=113291)
+
 

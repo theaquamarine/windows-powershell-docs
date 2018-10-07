@@ -343,21 +343,22 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-IpamCustomField](./Add-IpamCustomField.md)
+[Add-IpamCustomField](./add-ipamcustomfield.md)
 
-[Add-IpamCustomValue](./Add-IpamCustomValue.md)
+[Add-IpamCustomValue](./add-ipamcustomvalue.md)
 
-[Export-IpamAddress](./Export-IpamAddress.md)
+[Export-IpamAddress](./export-ipamaddress.md)
 
-[Export-IpamRange](./Export-IpamRange.md)
+[Export-IpamRange](./export-ipamrange.md)
 
-[Get-IpamConfiguration](./Get-IpamConfiguration.md)
+[Get-IpamConfiguration](./get-ipamconfiguration.md)
 
-[Get-IpamCustomField](./Get-IpamCustomField.md)
+[Get-IpamCustomField](./get-ipamcustomfield.md)
 
-[Import-IpamAddress](./Import-IpamAddress.md)
+[Import-IpamAddress](./import-ipamaddress.md)
 
-[Import-IpamRange](./Import-IpamRange.md)
+[Import-IpamRange](./import-ipamrange.md)
 
-[Set-IpamConfiguration](./Set-IpamConfiguration.md)
+[Set-IpamConfiguration](./set-ipamconfiguration.md)
+
 

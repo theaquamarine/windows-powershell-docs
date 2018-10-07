@@ -114,5 +114,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Update-VamtProduct](./Update-VamtProduct.md)
+[Update-VamtProduct](./update-vamtproduct.md)
+
 

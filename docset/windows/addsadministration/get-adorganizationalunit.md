@@ -446,9 +446,10 @@ To get a list of all the properties of an **ADOrganizational** object, use the f
 
 ## RELATED LINKS
 
-[New-ADOrganizationalUnit](./New-ADOrganizationalUnit.md)
+[New-ADOrganizationalUnit](./new-adorganizationalunit.md)
 
-[Remove-ADOrganizationalUnit](./Remove-ADOrganizationalUnit.md)
+[Remove-ADOrganizationalUnit](./remove-adorganizationalunit.md)
 
-[Set-ADOrganizationalUnit](./Set-ADOrganizationalUnit.md)
+[Set-ADOrganizationalUnit](./set-adorganizationalunit.md)
+
 

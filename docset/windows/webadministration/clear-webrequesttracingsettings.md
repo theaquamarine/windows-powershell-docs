@@ -101,7 +101,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Disable-WebRequestTracing](./Disable-WebRequestTracing.md)
+[Disable-WebRequestTracing](./disable-webrequesttracing.md)
 
-[Clear-WebRequestTracingSetting](./Clear-WebRequestTracingSetting.md)
+[Clear-WebRequestTracingSetting](./clear-webrequesttracingsetting.md)
+
 

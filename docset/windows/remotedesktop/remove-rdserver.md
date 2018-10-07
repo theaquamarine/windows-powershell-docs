@@ -133,7 +133,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-RDServer](./Add-RDServer.md)
+[Add-RDServer](./add-rdserver.md)
 
-[Get-RDServer](./Get-RDServer.md)
+[Get-RDServer](./get-rdserver.md)
+
 

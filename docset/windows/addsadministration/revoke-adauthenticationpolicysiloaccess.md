@@ -31,7 +31,7 @@ Revoke-ADAuthenticationPolicySiloAccess [-WhatIf] [-Confirm] [-Account] <ADAccou
 ```
 
 ## DESCRIPTION
-The **Revoke-ADAuthenticationPolicySiloAccess** cmdlet revokes the membership in an authentication policy silo for one or more accounts in Active Directory® Domain Services.
+The **Revoke-ADAuthenticationPolicySiloAccess** cmdlet revokes the membership in an authentication policy silo for one or more accounts in Active Directory?? Domain Services.
 
 The *Identity* parameter specifies the Active Directory Domain Services authentication policy silo that contains the user accounts to remove.
 You can identify an authentication policy silo by its distinguished name, GUID or name.
@@ -262,7 +262,8 @@ By default, this cmdlet does not generate any output.
 
 ## RELATED LINKS
 
-[Grant-ADAuthenticationPolicySiloAccess](./Grant-ADAuthenticationPolicySiloAccess.md)
+[Grant-ADAuthenticationPolicySiloAccess](./grant-adauthenticationpolicysiloaccess.md)
 
 [AD DS Administration Cmdlets in Windows PowerShell](./activedirectory.md)
+
 

@@ -383,9 +383,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-AdfsServerApplication](./Add-AdfsServerApplication.md)
+[Add-AdfsServerApplication](./add-adfsserverapplication.md)
 
-[Get-AdfsServerApplication](./Get-AdfsServerApplication.md)
+[Get-AdfsServerApplication](./get-adfsserverapplication.md)
 
-[Remove-AdfsServerApplication](./Remove-AdfsServerApplication.md)
+[Remove-AdfsServerApplication](./remove-adfsserverapplication.md)
+
 

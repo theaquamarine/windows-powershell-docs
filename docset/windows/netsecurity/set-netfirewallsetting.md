@@ -209,7 +209,7 @@ The acceptable values for this parameter are: None, Inbound, Forward, or NotConf
 - NotConfigured: Valid only when configuring a GPO.
 Removes the setting from the GPO, which results in the policy not changing the value on the computer when the policy is applied. 
 
-The default value when managing a computer running Windows Server® 2012 is None. 
+The default value when managing a computer running Windows Server?? 2012 is None. 
 When managing a Group Policy Object (GPO), the default setting is NotConfigured.
 
 ```yaml
@@ -289,12 +289,12 @@ The acceptable values for this parameter are: None, NeighborDiscovery, Icmp, Rou
 - None: No protocols are exempted. 
 - NeighborDiscovery: Exempt IPv6 Neighbor Discovery protocol traffic. 
 - Icmp: Exempt ICMP, for both IPv4 and IPv6, protocol traffic.
-This option is available on computers that are running Windows® 7 or nextref_server_7. 
+This option is available on computers that are running Windows?? 7 or nextref_server_7. 
 - RouterDiscovery: Exempt router discovery traffic. 
 - Dhcp: Exempt DHCP, for both IPv4 and IPv6, protocol traffic.
-This option is available on computers that are running Windows® 7 or nextref_server_7. 
-The default value when managing a local computer that is running Windows® 7 or nextref_server_7 is NeighborDiscovery,Dhcp. 
-The default value when managing a local computer that is running nextref_vista, nextref_longhorn, Windows XP®, or Windows Server® 2003 is NeighborDiscovery. 
+This option is available on computers that are running Windows?? 7 or nextref_server_7. 
+The default value when managing a local computer that is running Windows?? 7 or nextref_server_7 is NeighborDiscovery,Dhcp. 
+The default value when managing a local computer that is running nextref_vista, nextref_longhorn, Windows XP??, or Windows Server?? 2003 is NeighborDiscovery. 
 
 The default value when managing a GPO is NotConfigured.
 
@@ -314,7 +314,7 @@ Accept wildcard characters: False
 ### -GPOSession
 Specifies the network GPO from which to retrieve the rules to be modified. 
 This parameter is used in the same way as the *PolicyStore* parameter.
-When modifying GPOs in Windows PowerShell®, each change to a GPO requires the entire GPO to be loaded, modified, and saved back.
+When modifying GPOs in Windows PowerShell??, each change to a GPO requires the entire GPO to be loaded, modified, and saved back.
 On a busy Domain Controller (DC), this can be a slow and resource-heavy operation.
 A GPO Session loads a domain GPO onto the local computer and makes all changes in a batch, before saving it back.
 This reduces the load on the DC and speeds up the Windows PowerShell cmdlets.
@@ -455,7 +455,7 @@ The acceptable values for this parameter are:
 
 - None: Specifies that access to the tunnel is not restricted based on computer account. 
 - \<SDDL string\>: A string that identifies accounts and the permissions granted or denied to those accounts. 
-This parameter value is valid on computers that are running Windows® 7, nextref_server_7, and Windows Server 2012 only, and is ignored on earlier versions of Windows.
+This parameter value is valid on computers that are running Windows?? 7, nextref_server_7, and Windows Server 2012 only, and is ignored on earlier versions of Windows.
 
 ```yaml
 Type: String
@@ -476,7 +476,7 @@ The acceptable values for this parameter are:
 
 - None: Specifies that access to the tunnel is not restricted based on computer account. 
 - \<SDDL string\>: A string that identifies accounts and the permissions granted or denied to those accounts. 
-This parameter value is valid on computers that are running Windows® 7, nextref_server_7, and Windows Server 2012 only, and is ignored on earlier versions of Windows.
+This parameter value is valid on computers that are running Windows?? 7, nextref_server_7, and Windows Server 2012 only, and is ignored on earlier versions of Windows.
 
 ```yaml
 Type: String
@@ -497,7 +497,7 @@ The acceptable values for this parameter are:
 
 - None: Specifies that access to the tunnel is not restricted based on computer account. 
 - \<SDDL string\>: A string that identifies accounts and the permissions granted or denied to those accounts. 
-This parameter value is valid on computers that are running Windows® 7, nextref_server_7, and Windows Server 2012 only, and is ignored on earlier versions of Windows.
+This parameter value is valid on computers that are running Windows?? 7, nextref_server_7, and Windows Server 2012 only, and is ignored on earlier versions of Windows.
 
 ```yaml
 Type: String
@@ -518,7 +518,7 @@ The acceptable values for this parameter are:
 
 - None: Specifies that access to the tunnel is not restricted based on computer account. 
 - \<SDDL string\>: A string that identifies accounts and the permissions granted or denied to those accounts. 
-This parameter value is valid on computers that are running Windows® 7, nextref_server_7, and Windows Server 2012 only, and is ignored on earlier versions of Windows.
+This parameter value is valid on computers that are running Windows?? 7, nextref_server_7, and Windows Server 2012 only, and is ignored on earlier versions of Windows.
 
 ```yaml
 Type: String
@@ -534,7 +534,7 @@ Accept wildcard characters: False
 
 ### -RequireFullAuthSupport
 Ignores key modules that do not support all of the authentication types present in a rule.
-If this parameter is set to True, then the behavior is the same as nextref_vista and Windows® 7, that the key modules that do not support the entire authentication set will be ignored.
+If this parameter is set to True, then the behavior is the same as nextref_vista and Windows?? 7, that the key modules that do not support the entire authentication set will be ignored.
 If this parameter is set to False, then the keying modules will try with the subset of configured authentication types that are allowed.
 
 ```yaml
@@ -552,7 +552,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -602,15 +602,16 @@ The path after the pound sign (`#`) provides the namespace and class name for th
 
 ## RELATED LINKS
 
-[Copy-NetIPsecRule](./Copy-NetIPsecRule.md)
+[Copy-NetIPsecRule](./copy-netipsecrule.md)
 
-[Get-NetFirewallSetting](./Get-NetFirewallSetting.md)
+[Get-NetFirewallSetting](./get-netfirewallsetting.md)
 
-[New-NetIPsecRule](./New-NetIPsecRule.md)
+[New-NetIPsecRule](./new-netipsecrule.md)
 
-[Open-NetGPO](./Open-NetGPO.md)
+[Open-NetGPO](./open-netgpo.md)
 
-[Save-NetGPO](./Save-NetGPO.md)
+[Save-NetGPO](./save-netgpo.md)
 
-[Set-NetIPsecRule](./Set-NetIPsecRule.md)
+[Set-NetIPsecRule](./set-netipsecrule.md)
+
 

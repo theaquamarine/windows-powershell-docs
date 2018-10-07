@@ -46,7 +46,7 @@ ScriptName      : Latin
 InputMethodTip  : {0409:00000409}
 Handwriting     : False 
 LanguageTag     : fr-FR
-Autonym         : français (France) 
+Autonym         : fran??ais (France) 
 EnglishName     : French (France) 
 LocalizedName   : French (France) 
 ScriptName      : Latin
@@ -115,7 +115,8 @@ This value is either 0 (freehand) or 1 (write each character separately).
 
 ## RELATED LINKS
 
-[New-WinUserLanguageList](./New-WinUserLanguageList.md)
+[New-WinUserLanguageList](./new-winuserlanguagelist.md)
 
-[Set-WinUserLanguageList](./Set-WinUserLanguageList.md)
+[Set-WinUserLanguageList](./set-winuserlanguagelist.md)
+
 

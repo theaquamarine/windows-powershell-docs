@@ -135,7 +135,7 @@ Accept wildcard characters: False
 ```
 
 ### -FallbackEnterpriseID
-Specifies the fallback Enterprise ID that the Sync Share uses if it cannot successfully query Active Directory® Domain Services (nextref_adds).
+Specifies the fallback Enterprise ID that the Sync Share uses if it cannot successfully query Active Directory?? Domain Services (nextref_adds).
 If the server cannot successfully query nextref_adds, the server uses the fully qualified domain name (FQDN) of the sync server as the fallback Enterprise ID unless you specify a different Enterprise ID by using this parameter.
 The Enterprise ID is issued by the work folders client to encrypt data on the PC or device.
 
@@ -282,7 +282,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -380,13 +380,14 @@ This cmdlet outputs an object that represents the new Sync Share.
 
 ## RELATED LINKS
 
-[Disable-SyncShare](./Disable-SyncShare.md)
+[Disable-SyncShare](./disable-syncshare.md)
 
-[Enable-SyncShare](./Enable-SyncShare.md)
+[Enable-SyncShare](./enable-syncshare.md)
 
-[Get-SyncShare](./Get-SyncShare.md)
+[Get-SyncShare](./get-syncshare.md)
 
-[Remove-SyncShare](./Remove-SyncShare.md)
+[Remove-SyncShare](./remove-syncshare.md)
 
-[Set-SyncShare](./Set-SyncShare.md)
+[Set-SyncShare](./set-syncshare.md)
+
 

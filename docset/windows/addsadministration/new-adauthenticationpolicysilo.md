@@ -34,7 +34,7 @@ New-ADAuthenticationPolicySilo [-WhatIf] [-Confirm] [-AuthType <ADAuthType>]
 ```
 
 ## DESCRIPTION
-The **New-ADAuthenticationPolicySilo** cmdlet creates an authentication policy silo object in Active Directory® Domain Services.
+The **New-ADAuthenticationPolicySilo** cmdlet creates an authentication policy silo object in Active Directory?? Domain Services.
 
 ## EXAMPLES
 
@@ -348,11 +348,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-ADAuthenticationPolicySilo](./Get-ADAuthenticationPolicySilo.md)
+[Get-ADAuthenticationPolicySilo](./get-adauthenticationpolicysilo.md)
 
-[Remove-ADAuthenticationPolicySilo](./Remove-ADAuthenticationPolicySilo.md)
+[Remove-ADAuthenticationPolicySilo](./remove-adauthenticationpolicysilo.md)
 
-[Set-ADAuthenticationPolicySilo](./Set-ADAuthenticationPolicySilo.md)
+[Set-ADAuthenticationPolicySilo](./set-adauthenticationpolicysilo.md)
 
 [AD DS Administration Cmdlets in Windows PowerShell](./activedirectory.md)
+
 

@@ -24,101 +24,102 @@ ms.assetid: 394B60AC-9516-494B-86D7-50F767321820
 The Boot Event Collector module contains cmdlets to help you administer Boot Event Collector tasks in Windows Server 2016 Technical Preview.
 
 ## BootEventCollector Cmdlets
-### [Checkpoint-SbecActiveConfig](./Checkpoint-SbecActiveConfig.md)
+### [Checkpoint-SbecActiveConfig](./checkpoint-sbecactiveconfig.md)
 Creates a configuration checkpoint.
 
-### [Clear-SbecProviderCache](./Clear-SbecProviderCache.md)
+### [Clear-SbecProviderCache](./clear-sbecprovidercache.md)
 Clears the provider cache.
 
-### [Disable-SbecAutologger](./Disable-SbecAutologger.md)
+### [Disable-SbecAutologger](./disable-sbecautologger.md)
 Disables the forwarding of events to the Setup and Boot Event Collector in the AutoLogger settings.
 
-### [Disable-SbecBcd](./Disable-SbecBcd.md)
+### [Disable-SbecBcd](./disable-sbecbcd.md)
 Disables the event forwarding mode in BCD settings.
 
-### [Enable-SbecAutologger](./Enable-SbecAutologger.md)
+### [Enable-SbecAutologger](./enable-sbecautologger.md)
 Enables the forwarding of the events to the Setup and Boot Event Collector in the AutoLogger settings.
 
-### [Enable-SbecBcd](./Enable-SbecBcd.md)
+### [Enable-SbecBcd](./enable-sbecbcd.md)
 Enables and configures the event forwarding mode in the BCD settings.
 
-### [Enable-SbecBootImage](./Enable-SbecBootImage.md)
+### [Enable-SbecBootImage](./enable-sbecbootimage.md)
 Enables AutoLogger settings in offline WinPE Setup images.
 
-### [Enable-SbecWdsBcd](./Enable-SbecWdsBcd.md)
+### [Enable-SbecWdsBcd](./enable-sbecwdsbcd.md)
 Enables the BCD settings in the offline boot images imported into the WDS server.
 
-### [Get-SbecActiveConfig](./Get-SbecActiveConfig.md)
+### [Get-SbecActiveConfig](./get-sbecactiveconfig.md)
 Gets the current active configuration from the running Setup and Boot Event Collector.
 
-### [Get-SbecBackupConfig](./Get-SbecBackupConfig.md)
+### [Get-SbecBackupConfig](./get-sbecbackupconfig.md)
 Get the backup configuration files that are available to restore.
 
-### [Get-SbecDestination](./Get-SbecDestination.md)
+### [Get-SbecDestination](./get-sbecdestination.md)
 Get destination data files.
 
-### [Get-SbecForwarding](./Get-SbecForwarding.md)
+### [Get-SbecForwarding](./get-sbecforwarding.md)
 Gets the current connections and how data is forwarded.
 
-### [Get-SbecHistory](./Get-SbecHistory.md)
+### [Get-SbecHistory](./get-sbechistory.md)
 Gets the recent history of changes in connection status.
 
-### [Get-SbecLocalizedMessage](./Get-SbecLocalizedMessage.md)
+### [Get-SbecLocalizedMessage](./get-sbeclocalizedmessage.md)
 Gets a localized message string.
 
-### [Get-SbecLogSession](./Get-SbecLogSession.md)
+### [Get-SbecLogSession](./get-sbeclogsession.md)
 Gets the running log sessions.
 
-### [Get-SbecTraceProviders](./Get-SbecTraceProviders.md)
+### [Get-SbecTraceProviders](./get-sbectraceproviders.md)
 Gets the ETW trace providers.
 
-### [New-SbecUnattendFragment](./New-SbecUnattendFragment.md)
+### [New-SbecUnattendFragment](./new-sbecunattendfragment.md)
 Creates a fragment for Unattend.xml with post-install commands.
 
-### [Redo-SbecActiveConfig](./Redo-SbecActiveConfig.md)
+### [Redo-SbecActiveConfig](./redo-sbecactiveconfig.md)
 Redoes a change to the current active configuration.
 
-### [Restore-SbecBackupConfig](./Restore-SbecBackupConfig.md)
+### [Restore-SbecBackupConfig](./restore-sbecbackupconfig.md)
 Restores a configuration from a backup file.
 
-### [Save-SbecInstance](./Save-SbecInstance.md)
+### [Save-SbecInstance](./save-sbecinstance.md)
 Writes in-memory buffers to disk.
 
-### [Save-SbecLogSession](./Save-SbecLogSession.md)
+### [Save-SbecLogSession](./save-sbeclogsession.md)
 Flushes the buffers in a log session to disk.
 
-### [Set-SbecActiveConfig](./Set-SbecActiveConfig.md)
+### [Set-SbecActiveConfig](./set-sbecactiveconfig.md)
 Sets the new active configuration for the running Setup and Boot Event Collector.
 
-### [Set-SbecLogSession](./Set-SbecLogSession.md)
+### [Set-SbecLogSession](./set-sbeclogsession.md)
 Updates the settings for a log session.
 
-### [Start-SbecInstance](./Start-SbecInstance.md)
+### [Start-SbecInstance](./start-sbecinstance.md)
 Starts the Setup and Boot Event Collector service.
 
-### [Start-SbecLogSession](./Start-SbecLogSession.md)
+### [Start-SbecLogSession](./start-sbeclogsession.md)
 Starts an ETW log session.
 
-### [Start-SbecNtKernelLogSession](./Start-SbecNtKernelLogSession.md)
+### [Start-SbecNtKernelLogSession](./start-sbecntkernellogsession.md)
 Starts an NT Kernel Logger log session with forwarding of events to the Collector.
 
-### [Start-SbecSimpleLogSession](./Start-SbecSimpleLogSession.md)
+### [Start-SbecSimpleLogSession](./start-sbecsimplelogsession.md)
 Starts a log session with the forwarding of events to the Collector.
 
-### [Stop-SbecInstance](./Stop-SbecInstance.md)
+### [Stop-SbecInstance](./stop-sbecinstance.md)
 Stops the Setup and Boot Event Collector.
 
-### [Stop-SbecLogSession](./Stop-SbecLogSession.md)
+### [Stop-SbecLogSession](./stop-sbeclogsession.md)
 Stops a log session.
 
-### [Test-SbecActiveConfig](./Test-SbecActiveConfig.md)
+### [Test-SbecActiveConfig](./test-sbecactiveconfig.md)
 Tests the active Boot Event Collector configuration.
 
-### [Test-SbecConfig](./Test-SbecConfig.md)
+### [Test-SbecConfig](./test-sbecconfig.md)
 Validates a configuration.
 
-### [Undo-SbecActiveConfig](./Undo-SbecActiveConfig.md)
+### [Undo-SbecActiveConfig](./undo-sbecactiveconfig.md)
 Reverts a change to the active configuration.
+
 
 
 

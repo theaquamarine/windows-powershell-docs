@@ -183,5 +183,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-UevTemplate](./Get-UevTemplate.md)
+[Get-UevTemplate](./get-uevtemplate.md)
+
 

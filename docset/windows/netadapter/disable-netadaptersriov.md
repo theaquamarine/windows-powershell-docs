@@ -48,7 +48,7 @@ SR-IOV enables network traffic to bypass the software switch layer of the Hyper-
 As a result, the I/O overhead in the software emulation layer is reduced and can achieve network performance that is nearly the same performance as in non-virtualized environments.
 
 This cmdlet prevents the adapter from using SR-IOV until enabled again.
-While SR-IOV is disabled, Windows Server® 2012 and later does not attempt to allocate a virtual function to a virtual machine .
+While SR-IOV is disabled, Windows Server?? 2012 and later does not attempt to allocate a virtual function to a virtual machine .
 If virtual functions from this network adapter are allocated to any virtual machine, then the virtual functions are revoked and each virtual machine interface reverted to the synthetic network path.
 
 ## EXAMPLES
@@ -89,7 +89,7 @@ Use this parameter to run commands that take a long time to complete.
 You can continue to work in the session while the job completes.
 To manage the job, use the `*-Job` cmdlets.
 To get the job results, use the [Receive-Job](http://go.microsoft.com/fwlink/?LinkID=113372) cmdlet. 
- For more information about Windows PowerShell® background jobs, see [about_Jobs](http://go.microsoft.com/fwlink/?LinkID=113251).
+ For more information about Windows PowerShell?? background jobs, see [about_Jobs](http://go.microsoft.com/fwlink/?LinkID=113251).
 
 ```yaml
 Type: SwitchParameter
@@ -233,7 +233,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -285,13 +285,14 @@ The output object contains the network adapter object with SR-IOV disabled.
 
 ## RELATED LINKS
 
-[Enable-NetAdapterSriov](./Enable-NetAdapterSriov.md)
+[Enable-NetAdapterSriov](./enable-netadaptersriov.md)
 
-[Get-NetAdapter](./Get-NetAdapter.md)
+[Get-NetAdapter](./get-netadapter.md)
 
-[Get-NetAdapterSriov](./Get-NetAdapterSriov.md)
+[Get-NetAdapterSriov](./get-netadaptersriov.md)
 
-[Get-NetAdapterSriovVf](./Get-NetAdapterSriovVf.md)
+[Get-NetAdapterSriovVf](./get-netadaptersriovvf.md)
 
-[Get-NetAdapterSriov](./Get-NetAdapterSriov.md)
+[Get-NetAdapterSriov](./get-netadaptersriov.md)
+
 

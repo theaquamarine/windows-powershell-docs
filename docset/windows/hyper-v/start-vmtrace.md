@@ -109,5 +109,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Stop-VMTrace](./Stop-VMTrace.md)
+[Stop-VMTrace](./stop-vmtrace.md)
+
 

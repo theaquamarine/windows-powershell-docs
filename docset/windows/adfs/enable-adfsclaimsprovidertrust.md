@@ -187,13 +187,14 @@ A class structure that represents the claims provider trusts for the Federation 
 
 ## RELATED LINKS
 
-[Disable-AdfsClaimsProviderTrust](./Disable-AdfsClaimsProviderTrust.md)
+[Disable-AdfsClaimsProviderTrust](./disable-adfsclaimsprovidertrust.md)
 
-[Get-AdfsClaimsProviderTrust](./Get-AdfsClaimsProviderTrust.md)
+[Get-AdfsClaimsProviderTrust](./get-adfsclaimsprovidertrust.md)
 
-[Remove-AdfsClaimsProviderTrust](./Remove-AdfsClaimsProviderTrust.md)
+[Remove-AdfsClaimsProviderTrust](./remove-adfsclaimsprovidertrust.md)
 
-[Set-AdfsClaimsProviderTrust](./Set-AdfsClaimsProviderTrust.md)
+[Set-AdfsClaimsProviderTrust](./set-adfsclaimsprovidertrust.md)
 
-[Update-AdfsClaimsProviderTrust](./Update-AdfsClaimsProviderTrust.md)
+[Update-AdfsClaimsProviderTrust](./update-adfsclaimsprovidertrust.md)
+
 

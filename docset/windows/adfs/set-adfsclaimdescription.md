@@ -302,9 +302,10 @@ A class structure for representing a claim description object for the Federation
 
 ## RELATED LINKS
 
-[Add-AdfsClaimDescription](./Add-AdfsClaimDescription.md)
+[Add-AdfsClaimDescription](./add-adfsclaimdescription.md)
 
-[Get-AdfsClaimDescription](./Get-AdfsClaimDescription.md)
+[Get-AdfsClaimDescription](./get-adfsclaimdescription.md)
 
-[Remove-AdfsClaimDescription](./Remove-AdfsClaimDescription.md)
+[Remove-AdfsClaimDescription](./remove-adfsclaimdescription.md)
+
 

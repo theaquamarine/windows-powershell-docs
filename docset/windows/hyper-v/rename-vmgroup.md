@@ -227,9 +227,10 @@ This cmdlet returns a **Microsoft.HyperV.PowerShell.VMGroup** object, if you spe
 
 ## RELATED LINKS
 
-[Get-VMGroup](./Get-VMGroup.md)
+[Get-VMGroup](./get-vmgroup.md)
 
-[New-VMGroup](./New-VMGroup.md)
+[New-VMGroup](./new-vmgroup.md)
 
-[Remove-VMGroup](./Remove-VMGroup.md)
+[Remove-VMGroup](./remove-vmgroup.md)
+
 

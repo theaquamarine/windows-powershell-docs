@@ -120,15 +120,16 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Disable-BitLocker](./Disable-BitLocker.md)
+[Disable-BitLocker](./disable-bitlocker.md)
 
-[Enable-BitLocker](./Enable-BitLocker.md)
+[Enable-BitLocker](./enable-bitlocker.md)
 
-[Get-BitLockerVolume](./Get-BitLockerVolume.md)
+[Get-BitLockerVolume](./get-bitlockervolume.md)
 
-[Lock-BitLocker](./Lock-BitLocker.md)
+[Lock-BitLocker](./lock-bitlocker.md)
 
-[Suspend-BitLocker](./Suspend-BitLocker.md)
+[Suspend-BitLocker](./suspend-bitlocker.md)
 
-[Unlock-BitLocker](./Unlock-BitLocker.md)
+[Unlock-BitLocker](./unlock-bitlocker.md)
+
 

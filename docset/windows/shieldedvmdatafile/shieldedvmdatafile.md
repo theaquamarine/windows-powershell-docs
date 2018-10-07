@@ -11,22 +11,23 @@ Locale: en-US
 This reference provides cmdlet descriptions and syntax for shielded virtual machine provisioning file cmdlets. This table lists the cmdlets in alphabetical order.
 
 ## ShieldedVMDataFile Cmdlets
-### [Import-ShieldingDataFile](Import-ShieldingDataFile.md)
+### [Import-ShieldingDataFile](import-shieldingdatafile.md)
 Imports shielding data.
 
-### [New-ShieldingDataFile](New-ShieldingDataFile.md)
+### [New-ShieldingDataFile](new-shieldingdatafile.md)
 Creates a shielding data file.
 
-### [New-VolumeIDQualifier](New-VolumeIDQualifier.md)
+### [New-VolumeIDQualifier](new-volumeidqualifier.md)
 Creates a volume ID qualifier.
 
-### [Save-ShieldedVMRecoveryKey](Save-ShieldedVMRecoveryKey.md)
+### [Save-ShieldedVMRecoveryKey](save-shieldedvmrecoverykey.md)
 Extracts the encrypted BitLocker recovery key from a shielded virtual machine's operating system disk.
 
-### [Save-VolumeSignatureCatalog](Save-VolumeSignatureCatalog.md)
+### [Save-VolumeSignatureCatalog](save-volumesignaturecatalog.md)
 Extracts and saves a volume signature catalog file from a given shielded VM template disk.
 
-### [Unprotect-ShieldedVMRecoveryKey](Unprotect-ShieldedVMRecoveryKey.md)
-Decrypts an encrypted recovery key for a Windows shielded VM obtained from the [Save-ShieldedVMRecoveryKey](Save-ShieldedVMRecoveryKey.md) cmdlet.
+### [Unprotect-ShieldedVMRecoveryKey](unprotect-shieldedvmrecoverykey.md)
+Decrypts an encrypted recovery key for a Windows shielded VM obtained from the [Save-ShieldedVMRecoveryKey](save-shieldedvmrecoverykey.md) cmdlet.
+
 
 

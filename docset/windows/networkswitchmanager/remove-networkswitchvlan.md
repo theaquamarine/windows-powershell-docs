@@ -204,13 +204,14 @@ This cmdlet does not generate any output.
 
 ## RELATED LINKS
 
-[Disable-NetworkSwitchVlan](./Disable-NetworkSwitchVlan.md)
+[Disable-NetworkSwitchVlan](./disable-networkswitchvlan.md)
 
-[Enable-NetworkSwitchVlan](./Enable-NetworkSwitchVlan.md)
+[Enable-NetworkSwitchVlan](./enable-networkswitchvlan.md)
 
-[Get-NetworkSwitchVlan](./Get-NetworkSwitchVlan.md)
+[Get-NetworkSwitchVlan](./get-networkswitchvlan.md)
 
-[New-NetworkSwitchVlan](./New-NetworkSwitchVlan.md)
+[New-NetworkSwitchVlan](./new-networkswitchvlan.md)
 
-[Set-NetworkSwitchVlanProperty](./Set-NetworkSwitchVlanProperty.md)
+[Set-NetworkSwitchVlanProperty](./set-networkswitchvlanproperty.md)
+
 

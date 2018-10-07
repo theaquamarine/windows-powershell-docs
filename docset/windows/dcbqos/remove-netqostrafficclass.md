@@ -43,7 +43,7 @@ Remove-NetQosTrafficClass -InputObject <CimInstance[]> [-CimSession <CimSession[
 ```
 
 ## DESCRIPTION
-The **Remove-NetQosTrafficClass** cmdlet removes traffic classes in Windows Server® 2012 and later.
+The **Remove-NetQosTrafficClass** cmdlet removes traffic classes in Windows Server?? 2012 and later.
 If Windows Server 2012 or later is set to be **not willing** to accept configurations from a remote device, then Windows Server 2012 or later programs data center bridging (DCB)-capable network adapters to remove the specified traffic classes.
 
 For more information about remote device configurations, see the **Set-NetQosDcbxSetting** cmdlet.
@@ -234,11 +234,12 @@ Only if you specify the *PassThru* parameter does the cmdlet return the **MSFT_N
 
 ## RELATED LINKS
 
-[Get-NetQosTrafficClass](./Get-NetQosTrafficClass.md)
+[Get-NetQosTrafficClass](./get-netqostrafficclass.md)
 
-[New-NetQosTrafficClass](./New-NetQosTrafficClass.md)
+[New-NetQosTrafficClass](./new-netqostrafficclass.md)
 
-[Set-NetQosDcbxSetting](./Set-NetQosDcbxSetting.md)
+[Set-NetQosDcbxSetting](./set-netqosdcbxsetting.md)
 
-[Set-NetQosTrafficClass](./Set-NetQosTrafficClass.md)
+[Set-NetQosTrafficClass](./set-netqostrafficclass.md)
+
 

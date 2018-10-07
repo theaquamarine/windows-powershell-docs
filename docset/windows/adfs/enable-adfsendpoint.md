@@ -165,9 +165,10 @@ A class structure that represents the endpoints for the Federation Service.
 
 ## RELATED LINKS
 
-[Disable-AdfsEndpoint](./Disable-AdfsEndpoint.md)
+[Disable-AdfsEndpoint](./disable-adfsendpoint.md)
 
-[Get-AdfsEndpoint](./Get-AdfsEndpoint.md)
+[Get-AdfsEndpoint](./get-adfsendpoint.md)
 
-[Set-AdfsEndpoint](./Set-AdfsEndpoint.md)
+[Set-AdfsEndpoint](./set-adfsendpoint.md)
+
 

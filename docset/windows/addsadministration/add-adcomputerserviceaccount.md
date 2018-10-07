@@ -299,11 +299,12 @@ By default, this cmdlet does not generate any output.
 
 ## RELATED LINKS
 
-[Get-ADComputer](./Get-ADComputer.md)
+[Get-ADComputer](./get-adcomputer.md)
 
-[Get-ADComputerServiceAccount](./Get-ADComputerServiceAccount.md)
+[Get-ADComputerServiceAccount](./get-adcomputerserviceaccount.md)
 
-[Remove-ADComputerServiceAccount](./Remove-ADComputerServiceAccount.md)
+[Remove-ADComputerServiceAccount](./remove-adcomputerserviceaccount.md)
 
 [AD DS Administration Cmdlets in Windows PowerShell](./activedirectory.md)
+
 

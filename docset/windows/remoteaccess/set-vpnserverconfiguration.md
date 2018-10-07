@@ -481,5 +481,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-VpnServerConfiguration](./Get-VpnServerConfiguration.md)
+[Get-VpnServerConfiguration](./get-vpnserverconfiguration.md)
+
 

@@ -24,434 +24,435 @@ ms.assetid: DF62E18F-255B-4AD9-A6B8-05DA00853242
 This reference provides cmdlet descriptions and syntax for all Windows Storage Management-specific cmdlets. It lists the cmdlets in alphabetical order based on the verb at the beginning of the cmdlet.
 
 ## Storage Cmdlets
-### [Add-InitiatorIdToMaskingSet](./Add-InitiatorIdToMaskingSet.md)
+### [Add-InitiatorIdToMaskingSet](./add-initiatoridtomaskingset.md)
 Adds an initiator ID to an existing masking set, granting the host associated with the initiator ID access to the virtual disk and target port resources defined in the masking set.
 
-### [Add-PartitionAccessPath](./Add-PartitionAccessPath.md)
+### [Add-PartitionAccessPath](./add-partitionaccesspath.md)
 Adds an access path such as a drive letter or folder to a partition.
 
-### [Add-PhysicalDisk](./Add-PhysicalDisk.md)
+### [Add-PhysicalDisk](./add-physicaldisk.md)
 Adds a physical disk to the specified storage pool or manually assigns a physical disk to a specific virtual disk.
 
-### [Add-TargetPortToMaskingSet](./Add-TargetPortToMaskingSet.md)
+### [Add-TargetPortToMaskingSet](./add-targetporttomaskingset.md)
 Adds one or more target ports to a specified masking set, allowing a connection between the target ports, and any virtual disks and initiator IDs that the masking set contains.
 
-### [Add-VirtualDiskToMaskingSet](./Add-VirtualDiskToMaskingSet.md)
+### [Add-VirtualDiskToMaskingSet](./add-virtualdisktomaskingset.md)
 Adds a virtual disk to a specified masking set and grants access to the virtual disk to all initiator IDs defined in the masking set.
 
-### [Block-FileShareAccess](./Block-FileShareAccess.md)
+### [Block-FileShareAccess](./block-fileshareaccess.md)
 Blocks access to a file share.
 
-### [Clear-Disk](./Clear-Disk.md)
+### [Clear-Disk](./clear-disk.md)
 Cleans a disk by removing all partition information and un-initializing it, erasing all data on the disk.
 
-### [Clear-FileStorageTier](./Clear-FileStorageTier.md)
+### [Clear-FileStorageTier](./clear-filestoragetier.md)
 Unpins a file from the specified storage tier.
 
-### [Connect-VirtualDisk](./Connect-VirtualDisk.md)
+### [Connect-VirtualDisk](./connect-virtualdisk.md)
 Connects a disconnected virtual disk to the specified computer when using the Windows Storage subsystem.
 
-### [Debug-FileShare](./Debug-FileShare.md)
+### [Debug-FileShare](./debug-fileshare.md)
 Finds problems with a file share and recommends solutions.
 
-### [Debug-StorageSubSystem](./Debug-StorageSubSystem.md)
+### [Debug-StorageSubSystem](./debug-storagesubsystem.md)
 Finds problems with a storage subsystem and recommends solutions.
 
-### [Debug-Volume](./Debug-Volume.md)
+### [Debug-Volume](./debug-volume.md)
 Finds problems with a volume and recommends solutions.
 
-### [Disable-PhysicalDiskIdentification](./Disable-PhysicalDiskIdentification.md)
+### [Disable-PhysicalDiskIdentification](./disable-physicaldiskidentification.md)
 Turns off the identification LED on the specified physical disk.
 
-### [Disable-StorageEnclosureIdentification](./Disable-StorageEnclosureIdentification.md)
+### [Disable-StorageEnclosureIdentification](./disable-storageenclosureidentification.md)
 Turns off the identification LED on a storage enclosure or the slots for individual disks.
 
-### [Disable-StorageHighAvailability](./Disable-StorageHighAvailability.md)
+### [Disable-StorageHighAvailability](./disable-storagehighavailability.md)
 Disables a Storage resource.
 
-### [Disable-StorageMaintenanceMode](./Disable-StorageMaintenanceMode.md)
+### [Disable-StorageMaintenanceMode](./disable-storagemaintenancemode.md)
 Disables storage maintenance mode on a fault domain.
 
-### [Disconnect-VirtualDisk](./Disconnect-VirtualDisk.md)
+### [Disconnect-VirtualDisk](./disconnect-virtualdisk.md)
 Disconnects a virtual disk from the specified computer, revoking access to the virtual disk.
 
-### [Dismount-DiskImage](./Dismount-DiskImage.md)
+### [Dismount-DiskImage](./dismount-diskimage.md)
 Dismounts a disk image (virtual hard disk or ISO) so that it can no longer be accessed as a disk.
 
-### [Enable-PhysicalDiskIdentification](./Enable-PhysicalDiskIdentification.md)
+### [Enable-PhysicalDiskIdentification](./enable-physicaldiskidentification.md)
 Enables the identification LED on the specified physical disk.
 
-### [Enable-StorageEnclosureIdentification](./Enable-StorageEnclosureIdentification.md)
+### [Enable-StorageEnclosureIdentification](./enable-storageenclosureidentification.md)
 Enables the identification LED on a storage enclosure or the slots for individual disks.
 
-### [Enable-StorageHighAvailability](./Enable-StorageHighAvailability.md)
+### [Enable-StorageHighAvailability](./enable-storagehighavailability.md)
 Enables a disk to be added to the failover cluster.
 
-### [Enable-StorageMaintenanceMode](./Enable-StorageMaintenanceMode.md)
+### [Enable-StorageMaintenanceMode](./enable-storagemaintenancemode.md)
 Enables storage maintenance mode on a device.
 
-### [Format-Volume](./Format-Volume.md)
+### [Format-Volume](./format-volume.md)
 Formats one or more existing volumes or a new volume on an existing partition.
 
-### [Get-DedupProperties](./Get-DedupProperties.md)
+### [Get-DedupProperties](./get-dedupproperties.md)
 Gets Data Deduplication information.
 
-### [Get-Disk](./Get-Disk.md)
+### [Get-Disk](./get-disk.md)
 Gets one or more disks visible to the operating system.
 
-### [Get-DiskImage](./Get-DiskImage.md)
+### [Get-DiskImage](./get-diskimage.md)
 Gets one or more disk image objects (virtual hard disk or ISO).
 
-### [Get-DiskStorageNodeView](./Get-DiskStorageNodeView.md)
+### [Get-DiskStorageNodeView](./get-diskstoragenodeview.md)
 Gets the view of a disk from a storage node.
 
-### [Get-FileIntegrity](./Get-FileIntegrity.md)
+### [Get-FileIntegrity](./get-fileintegrity.md)
 Gets integrity information for a file on an ReFS volume.
 
-### [Get-FileShare](./Get-FileShare.md)
+### [Get-FileShare](./get-fileshare.md)
 Retrieves file share objects and their properties.
 
-### [Get-FileShareAccessControlEntry](./Get-FileShareAccessControlEntry.md)
+### [Get-FileShareAccessControlEntry](./get-fileshareaccesscontrolentry.md)
 Retrieves an access control entry for the share corresponding to a single account.
 
-### [Get-FileStorageTier](./Get-FileStorageTier.md)
+### [Get-FileStorageTier](./get-filestoragetier.md)
 Gets the files assigned to a Storage tier on a volume, and their status.
 
-### [Get-InitiatorId](./Get-InitiatorId.md)
+### [Get-InitiatorId](./get-initiatorid.md)
 Gets the InitiatorID objects for the specified iSCSI initiators.
 
-### [Get-InitiatorPort](./Get-InitiatorPort.md)
+### [Get-InitiatorPort](./get-initiatorport.md)
 Gets one or more host bus adapter (HBA) initiator ports.
 
-### [Get-MaskingSet](./Get-MaskingSet.md)
+### [Get-MaskingSet](./get-maskingset.md)
 Gets masking sets.
 
-### [Get-OffloadDataTransferSetting](./Get-OffloadDataTransferSetting.md)
+### [Get-OffloadDataTransferSetting](./get-offloaddatatransfersetting.md)
 Returns offloaded data transfer (ODX) settings for the specified subsystem.
 
-### [Get-Partition](./Get-Partition.md)
+### [Get-Partition](./get-partition.md)
 Returns a list of all partition objects visible on all disks, or optionally a filtered list using specified parameters.
 
-### [Get-PartitionSupportedSize](./Get-PartitionSupportedSize.md)
+### [Get-PartitionSupportedSize](./get-partitionsupportedsize.md)
 Returns information on supported partition sizes for the specified Disk object.
 
-### [Get-PhysicalDisk](./Get-PhysicalDisk.md)
+### [Get-PhysicalDisk](./get-physicaldisk.md)
 Gets a list of all PhysicalDisk objects visible across any available Storage Management Providers, or optionally a filtered list.
 
-### [Get-PhysicalDiskStorageNodeView](./Get-PhysicalDiskStorageNodeView.md)
+### [Get-PhysicalDiskStorageNodeView](./get-physicaldiskstoragenodeview.md)
 Gets the node view of a physical disk.
 
-### [Get-PhysicalExtent](./Get-PhysicalExtent.md)
+### [Get-PhysicalExtent](./get-physicalextent.md)
 Gets physical allocations for a physical disk, storage tier, or virtual disk.
 
-### [Get-PhysicalExtentAssociation](./Get-PhysicalExtentAssociation.md)
+### [Get-PhysicalExtentAssociation](./get-physicalextentassociation.md)
 Gets the physical disk, storage tier, or virtual disk that is associated with a physical extent.
 
-### [Get-ResiliencySetting](./Get-ResiliencySetting.md)
+### [Get-ResiliencySetting](./get-resiliencysetting.md)
 Gets the resiliency settings (also known as storage layouts) available for creating virtual disks on the specified storage subsystem.
 
-### [Get-StorageAdvancedProperty](./Get-StorageAdvancedProperty.md)
+### [Get-StorageAdvancedProperty](./get-storageadvancedproperty.md)
 Gets the advanced properties on a storage device.
 
-### [Get-StorageDiagnosticInfo](./Get-StorageDiagnosticInfo.md)
+### [Get-StorageDiagnosticInfo](./get-storagediagnosticinfo.md)
 Gets Storage diagnostic information.
 
-### [Get-StorageEnclosure](./Get-StorageEnclosure.md)
+### [Get-StorageEnclosure](./get-storageenclosure.md)
 Gets storage enclosures.
 
-### [Get-StorageEnclosureStorageNodeView](./Get-StorageEnclosureStorageNodeView.md)
+### [Get-StorageEnclosureStorageNodeView](./get-storageenclosurestoragenodeview.md)
 Gets the node view of a Storage enclosure.
 
-### [Get-StorageEnclosureVendorData](./Get-StorageEnclosureVendorData.md)
+### [Get-StorageEnclosureVendorData](./get-storageenclosurevendordata.md)
 Gets vendor-specific data for an enclosure.
 
-### [Get-StorageFaultDomain](./Get-StorageFaultDomain.md)
+### [Get-StorageFaultDomain](./get-storagefaultdomain.md)
 Gets a Storage fault domain object.
 
-### [Get-StorageFileServer](./Get-StorageFileServer.md)
+### [Get-StorageFileServer](./get-storagefileserver.md)
 Gets a storage file server.
 
-### [Get-StorageFirmwareInformation](./Get-StorageFirmwareInformation.md)
+### [Get-StorageFirmwareInformation](./get-storagefirmwareinformation.md)
 Gets information about firmware on a storage object.
 
-### [Get-StorageHealthAction](./Get-StorageHealthAction.md)
+### [Get-StorageHealthAction](./get-storagehealthaction.md)
 Gets health-related system activities.
 
-### [Get-StorageHealthReport](./Get-StorageHealthReport.md)
+### [Get-StorageHealthReport](./get-storagehealthreport.md)
 Gets a storage health report.
 
-### [Get-StorageHealthSetting](./Get-StorageHealthSetting.md)
+### [Get-StorageHealthSetting](./get-storagehealthsetting.md)
 Gets storage health service settings.
 
-### [Get-StorageJob](./Get-StorageJob.md)
+### [Get-StorageJob](./get-storagejob.md)
 Returns information about long-running Storage module jobs, such as a repair task.
 
-### [Get-StorageNode](./Get-StorageNode.md)
+### [Get-StorageNode](./get-storagenode.md)
 Gets storage nodes.
 
-### [Get-StoragePool](./Get-StoragePool.md)
+### [Get-StoragePool](./get-storagepool.md)
 Gets a specific storage pool, or a set of StoragePool objects either from all storage subsystems across all storage providers, or optionally a filtered subset based on specific parameters.
 
-### [Get-StorageProvider](./Get-StorageProvider.md)
+### [Get-StorageProvider](./get-storageprovider.md)
 Returns a list of the storage providers available on the local computer.
 
-### [Get-StorageReliabilityCounter](./Get-StorageReliabilityCounter.md)
+### [Get-StorageReliabilityCounter](./get-storagereliabilitycounter.md)
 Gets storage reliability counters.
 
-### [Get-StorageSetting](./Get-StorageSetting.md)
+### [Get-StorageSetting](./get-storagesetting.md)
 Gets a StorageSettings object.
 
-### [Get-StorageSubsystem](./Get-StorageSubsystem.md)
+### [Get-StorageSubsystem](./get-storagesubsystem.md)
 Gets one or more StorageSubsystem objects.
 
-### [Get-StorageTier](./Get-StorageTier.md)
+### [Get-StorageTier](./get-storagetier.md)
 Gets storage tiers on Windows Storage subsystems.
 
-### [Get-StorageTierSupportedSize](./Get-StorageTierSupportedSize.md)
+### [Get-StorageTierSupportedSize](./get-storagetiersupportedsize.md)
 Gets the minimum and maximum possible sizes of a storage tier.
 
-### [Get-SupportedClusterSizes](./Get-SupportedClusterSizes.md)
+### [Get-SupportedClusterSizes](./get-supportedclustersizes.md)
 Gets the supported cluster sizes.
 
-### [Get-SupportedFileSystems](./Get-SupportedFileSystems.md)
+### [Get-SupportedFileSystems](./get-supportedfilesystems.md)
 Gets the file system choices for a specified volume.
 
-### [Get-TargetPort](./Get-TargetPort.md)
+### [Get-TargetPort](./get-targetport.md)
 Returns a TargetPort object associated with a specific port address and connection type.
 
-### [Get-TargetPortal](./Get-TargetPortal.md)
+### [Get-TargetPortal](./get-targetportal.md)
 Returns a TargetPortal object.
 
-### [Get-VirtualDisk](./Get-VirtualDisk.md)
+### [Get-VirtualDisk](./get-virtualdisk.md)
 Returns a list of VirtualDisk objects, across all storage pools, across all providers, or optionally a filtered subset based on provided criteria.
 
-### [Get-VirtualDiskSupportedSize](./Get-VirtualDiskSupportedSize.md)
+### [Get-VirtualDiskSupportedSize](./get-virtualdisksupportedsize.md)
 Returns all sizes supported by a storage pool for virtual disk creation based on the specified resiliency setting name.
 
-### [Get-Volume](./Get-Volume.md)
+### [Get-Volume](./get-volume.md)
 Gets the specified Volume object, or all Volume objects if no filter is provided.
 
-### [Get-VolumeCorruptionCount](./Get-VolumeCorruptionCount.md)
+### [Get-VolumeCorruptionCount](./get-volumecorruptioncount.md)
 Gets a count of the file system errors on the NTFS volume.
 
-### [Get-VolumeScrubPolicy](./Get-VolumeScrubPolicy.md)
+### [Get-VolumeScrubPolicy](./get-volumescrubpolicy.md)
 Gets the status of the volume scrub policy.
 
-### [Grant-FileShareAccess](./Grant-FileShareAccess.md)
+### [Grant-FileShareAccess](./grant-fileshareaccess.md)
 Grants access to a file share.
 
-### [Hide-VirtualDisk](./Hide-VirtualDisk.md)
+### [Hide-VirtualDisk](./hide-virtualdisk.md)
 Hides the virtual disk from the host when the Storage Management Provider in use does not support masking sets.
 
-### [Initialize-Disk](./Initialize-Disk.md)
+### [Initialize-Disk](./initialize-disk.md)
 Initializes a RAW disk for first time use, enabling the disk to be formatted and used to store data.
 
-### [Mount-DiskImage](./Mount-DiskImage.md)
+### [Mount-DiskImage](./mount-diskimage.md)
 Mounts a previously created disk image (virtual hard disk or ISO), making it appear as a normal disk.
 
-### [New-FileShare](./New-FileShare.md)
+### [New-FileShare](./new-fileshare.md)
 Creates an access point for a remote file share.
 
-### [New-MaskingSet](./New-MaskingSet.md)
+### [New-MaskingSet](./new-maskingset.md)
 Creates a new masking set.
 
-### [New-Partition](./New-Partition.md)
+### [New-Partition](./new-partition.md)
 Creates a new partition on an existing Disk object.
 
-### [New-StorageFileServer](./New-StorageFileServer.md)
+### [New-StorageFileServer](./new-storagefileserver.md)
 Creates a storage file server.
 
-### [New-StoragePool](./New-StoragePool.md)
+### [New-StoragePool](./new-storagepool.md)
 Creates a new storage pool using a group of physical disks.
 
-### [New-StorageSubsystemVirtualDisk](./New-StorageSubsystemVirtualDisk.md)
+### [New-StorageSubsystemVirtualDisk](./new-storagesubsystemvirtualdisk.md)
 Allows the creation of a VirtualDisk object on a storage subsystem that does not support creation of storage pools.
 
-### [New-StorageTier](./New-StorageTier.md)
+### [New-StorageTier](./new-storagetier.md)
 Creates a storage tier.
 
-### [New-VirtualDisk](./New-VirtualDisk.md)
+### [New-VirtualDisk](./new-virtualdisk.md)
 Creates a new virtual disk in the specified storage pool.
 
-### [New-VirtualDiskClone](./New-VirtualDiskClone.md)
+### [New-VirtualDiskClone](./new-virtualdiskclone.md)
 Creates a new clone of a specified virtual disk.
 
-### [New-VirtualDiskSnapshot](./New-VirtualDiskSnapshot.md)
+### [New-VirtualDiskSnapshot](./new-virtualdisksnapshot.md)
 Creates a new snapshot of the specified virtual disk.
 
-### [New-Volume](./New-Volume.md)
+### [New-Volume](./new-volume.md)
 Creates a volume with the specified file system.
 
-### [Optimize-StoragePool](./Optimize-StoragePool.md)
+### [Optimize-StoragePool](./optimize-storagepool.md)
 Optimizes a Storage pool.
 
-### [Optimize-Volume](./Optimize-Volume.md)
+### [Optimize-Volume](./optimize-volume.md)
 Optimizes a volume.
 
-### [Register-StorageSubsystem](./Register-StorageSubsystem.md)
+### [Register-StorageSubsystem](./register-storagesubsystem.md)
 Connects to storage subsystems on a remote computer.
 
-### [Remove-FileShare](./Remove-FileShare.md)
+### [Remove-FileShare](./remove-fileshare.md)
 Removes a file share.
 
-### [Remove-InitiatorId](./Remove-InitiatorId.md)
+### [Remove-InitiatorId](./remove-initiatorid.md)
 Removes an initiator identifier (ID).
 
-### [Remove-InitiatorIdFromMaskingSet](./Remove-InitiatorIdFromMaskingSet.md)
+### [Remove-InitiatorIdFromMaskingSet](./remove-initiatoridfrommaskingset.md)
 Removes an initiator identifier (ID) from a masking set.
 
-### [Remove-MaskingSet](./Remove-MaskingSet.md)
+### [Remove-MaskingSet](./remove-maskingset.md)
 Removes a masking set.
 
-### [Remove-Partition](./Remove-Partition.md)
+### [Remove-Partition](./remove-partition.md)
 Deletes the specified Partition object on an existing disk and any underlying Volume objects.
 
-### [Remove-PartitionAccessPath](./Remove-PartitionAccessPath.md)
+### [Remove-PartitionAccessPath](./remove-partitionaccesspath.md)
 Removes an access path such as a drive letter or folder from a partition.
 
-### [Remove-PhysicalDisk](./Remove-PhysicalDisk.md)
+### [Remove-PhysicalDisk](./remove-physicaldisk.md)
 Removes a physical disk from a specified storage pool.
 
-### [Remove-StorageFileServer](./Remove-StorageFileServer.md)
+### [Remove-StorageFileServer](./remove-storagefileserver.md)
 Removes a file server.
 
-### [Remove-StorageHealthSetting](./Remove-StorageHealthSetting.md)
+### [Remove-StorageHealthSetting](./remove-storagehealthsetting.md)
 Removes a storage health service setting.
 
-### [Remove-StoragePool](./Remove-StoragePool.md)
+### [Remove-StoragePool](./remove-storagepool.md)
 Deletes a storage pool and associated VirtualDisk objects.
 
-### [Remove-StorageTier](./Remove-StorageTier.md)
+### [Remove-StorageTier](./remove-storagetier.md)
 Removes storage tiers from a storage pool.
 
-### [Remove-TargetPortFromMaskingSet](./Remove-TargetPortFromMaskingSet.md)
+### [Remove-TargetPortFromMaskingSet](./remove-targetportfrommaskingset.md)
 Removes a specified target port from a masking set.
 
-### [Remove-VirtualDisk](./Remove-VirtualDisk.md)
+### [Remove-VirtualDisk](./remove-virtualdisk.md)
 Deletes an existing virtual disk and reclaims the used space for use by other virtual disks in the same storage pool.
 
-### [Remove-VirtualDiskFromMaskingSet](./Remove-VirtualDiskFromMaskingSet.md)
+### [Remove-VirtualDiskFromMaskingSet](./remove-virtualdiskfrommaskingset.md)
 Removes a virtual disk from a specified masking set to block access to the virtual disk by an InitiatorIds object defined in the masking set.
 
-### [Rename-MaskingSet](./Rename-MaskingSet.md)
+### [Rename-MaskingSet](./rename-maskingset.md)
 Renames an existing masking set.
 
-### [Repair-FileIntegrity](./Repair-FileIntegrity.md)
+### [Repair-FileIntegrity](./repair-fileintegrity.md)
 Repairs a corrupted file on an NTFS or ReFS volume.
 
-### [Repair-VirtualDisk](./Repair-VirtualDisk.md)
+### [Repair-VirtualDisk](./repair-virtualdisk.md)
 Performs repairs on a virtual disk that is unhealthy.
 
-### [Repair-Volume](./Repair-Volume.md)
+### [Repair-Volume](./repair-volume.md)
 Performs repairs on a volume.
 
-### [Reset-PhysicalDisk](./Reset-PhysicalDisk.md)
+### [Reset-PhysicalDisk](./reset-physicaldisk.md)
 Resets the status of a physical disk.
 
-### [Reset-StorageReliabilityCounter](./Reset-StorageReliabilityCounter.md)
+### [Reset-StorageReliabilityCounter](./reset-storagereliabilitycounter.md)
 Resets storage reliability counters for a disk.
 
-### [Resize-Partition](./Resize-Partition.md)
+### [Resize-Partition](./resize-partition.md)
 Resizes a partition and the underlying file system.
 
-### [Resize-StorageTier](./Resize-StorageTier.md)
+### [Resize-StorageTier](./resize-storagetier.md)
 Increases the size of storage tiers.
 
-### [Resize-VirtualDisk](./Resize-VirtualDisk.md)
+### [Resize-VirtualDisk](./resize-virtualdisk.md)
 Resizes an existing virtual disk to be larger or smaller.
 
-### [Revoke-FileShareAccess](./Revoke-FileShareAccess.md)
+### [Revoke-FileShareAccess](./revoke-fileshareaccess.md)
 Revokes access to a file share.
 
-### [Set-Disk](./Set-Disk.md)
+### [Set-Disk](./set-disk.md)
 Takes a Disk object or unique disk identifiers and a set of attributes, and updates the physical disk on the system.
 
-### [Set-FileIntegrity](./Set-FileIntegrity.md)
+### [Set-FileIntegrity](./set-fileintegrity.md)
 Sets integrity for a file on an ReFS volume.
 
-### [Set-FileShare](./Set-FileShare.md)
+### [Set-FileShare](./set-fileshare.md)
 Modifies a file share.
 
-### [Set-FileStorageTier](./Set-FileStorageTier.md)
+### [Set-FileStorageTier](./set-filestoragetier.md)
 Assigns a file to a storage tier.
 
-### [Set-InitiatorPort](./Set-InitiatorPort.md)
+### [Set-InitiatorPort](./set-initiatorport.md)
 Sets properties on the InitiatorPort object.
 
-### [Set-Partition](./Set-Partition.md)
+### [Set-Partition](./set-partition.md)
 Sets attributes of a partition, such as active, read-only, and offline states.
 
-### [Set-PhysicalDisk](./Set-PhysicalDisk.md)
+### [Set-PhysicalDisk](./set-physicaldisk.md)
 Sets attributes on a specific physical disk.
 
-### [Set-ResiliencySetting](./Set-ResiliencySetting.md)
+### [Set-ResiliencySetting](./set-resiliencysetting.md)
 Modifies the properties of the specified resiliency setting name.
 
-### [Set-StorageFileServer](./Set-StorageFileServer.md)
+### [Set-StorageFileServer](./set-storagefileserver.md)
 Modifies a storage file server.
 
-### [Set-StorageHealthSetting](./Set-StorageHealthSetting.md)
+### [Set-StorageHealthSetting](./set-storagehealthsetting.md)
 Modifies a storage health service setting.
 
-### [Set-StoragePool](./Set-StoragePool.md)
+### [Set-StoragePool](./set-storagepool.md)
 Modifies the properties of the specified storage pool.
 
-### [Set-StorageProvider](./Set-StorageProvider.md)
+### [Set-StorageProvider](./set-storageprovider.md)
 Modifies whether to enable the SMP provider cache.
 
-### [Set-StorageSetting](./Set-StorageSetting.md)
+### [Set-StorageSetting](./set-storagesetting.md)
 Adjusts or configures current storage settings of the StorageSetting object.
 
-### [Set-StorageSubsystem](./Set-StorageSubsystem.md)
+### [Set-StorageSubsystem](./set-storagesubsystem.md)
 Modifies the properties of a StorageSubsystem object.
 
-### [Set-StorageTier](./Set-StorageTier.md)
+### [Set-StorageTier](./set-storagetier.md)
 Modifies a storage tier.
 
-### [Set-VirtualDisk](./Set-VirtualDisk.md)
+### [Set-VirtualDisk](./set-virtualdisk.md)
 Modifies the attributes of an existing virtual disk.
 
-### [Set-Volume](./Set-Volume.md)
+### [Set-Volume](./set-volume.md)
 Sets or changes the file system label of an existing volume.
 
-### [Set-VolumeScrubPolicy](./Set-VolumeScrubPolicy.md)
+### [Set-VolumeScrubPolicy](./set-volumescrubpolicy.md)
 Sets the status of the volume scrub policy.
 
-### [Show-VirtualDisk](./Show-VirtualDisk.md)
+### [Show-VirtualDisk](./show-virtualdisk.md)
 Makes a virtual disk available to a host.
 
-### [Start-StorageDiagnosticLog](./Start-StorageDiagnosticLog.md)
+### [Start-StorageDiagnosticLog](./start-storagediagnosticlog.md)
 Starts Storage diagnostic logging.
 
-### [Stop-StorageDiagnosticLog](./Stop-StorageDiagnosticLog.md)
+### [Stop-StorageDiagnosticLog](./stop-storagediagnosticlog.md)
 Stops a Storage diagnostic log.
 
-### [Stop-StorageJob](./Stop-StorageJob.md)
+### [Stop-StorageJob](./stop-storagejob.md)
 Stops storage job.
 
-### [Unblock-FileShareAccess](./Unblock-FileShareAccess.md)
+### [Unblock-FileShareAccess](./unblock-fileshareaccess.md)
 Unblocks access to a file share.
 
-### [Unregister-StorageSubsystem](./Unregister-StorageSubsystem.md)
+### [Unregister-StorageSubsystem](./unregister-storagesubsystem.md)
 Disconnects from storage subsystems on a remote computer.
 
-### [Update-Disk](./Update-Disk.md)
+### [Update-Disk](./update-disk.md)
 Updates cached information about the specified Disk object only
 
-### [Update-HostStorageCache](./Update-HostStorageCache.md)
+### [Update-HostStorageCache](./update-hoststoragecache.md)
 Initiates an update on the host storage cache to reflect the current status of storage.
 
-### [Update-StorageFirmware](./Update-StorageFirmware.md)
+### [Update-StorageFirmware](./update-storagefirmware.md)
 Updates the firmware on a storage device.
 
-### [Update-StoragePool](./Update-StoragePool.md)
+### [Update-StoragePool](./update-storagepool.md)
 Updates the metadata of a Windows Server 2012 R2 storage pool.
 
-### [Update-StorageProviderCache](./Update-StorageProviderCache.md)
+### [Update-StorageProviderCache](./update-storageprovidercache.md)
 Updates the cache of the service for a particular provider and associated child objects.
 
-### [Write-VolumeCache](./Write-VolumeCache.md)
+### [Write-VolumeCache](./write-volumecache.md)
 Writes the file system cache to disk.
+
 
 
 

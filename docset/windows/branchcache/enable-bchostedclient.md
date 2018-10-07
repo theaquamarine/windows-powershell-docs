@@ -47,7 +47,7 @@ PS C:\> Enable-BCHostedClient -ServerNames "HC.contoso.com" -UseVersion Windows7
 ```
 
 This command enables hosted cache client mode using the HC.contos.com computer as a hosted cache server.
-For HTTPS, use Windows® 7 mode (`Windows7`).
+For HTTPS, use Windows?? 7 mode (`Windows7`).
 
 ### Example 2: Enable host cache client mode for two servers
 ```
@@ -145,7 +145,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -189,10 +189,10 @@ The value `Windows7` specifies that the client uses HTTPS.
 If this parameter is not specified, and a hosted cache server name is provided, then a value of `Windows8` is used. 
 If the *UseSCP* parameter is used, then a value of `Windows7` is used.
 
-Hosted cache servers that are running Windows Server® 2012 do not need to enroll a certificate, and client computers can contact these servers to store or obtain content by using the HTTP protocol on the TCP port `80`.
-However, Windows® 7-based hosted cache servers must have a certificate enrolled, and can only be contacted when client computers use the HTTPS protocol on the TCP port `443`.
+Hosted cache servers that are running Windows Server?? 2012 do not need to enroll a certificate, and client computers can contact these servers to store or obtain content by using the HTTP protocol on the TCP port `80`.
+However, Windows?? 7-based hosted cache servers must have a certificate enrolled, and can only be contacted when client computers use the HTTPS protocol on the TCP port `443`.
 
-Note: Windows® 7-based computers can only contact hosted cache servers by using the HTTPS protocol; because of this, a hosted cache server that is running Windows Server 2012 can be configured to accept requests over both HTTP and HTTPS so that the hosted cache server can operate with Windows® 7-based computers and with client computers that are running Windows® 8.
+Note: Windows?? 7-based computers can only contact hosted cache servers by using the HTTPS protocol; because of this, a hosted cache server that is running Windows Server 2012 can be configured to accept requests over both HTTP and HTTPS so that the hosted cache server can operate with Windows?? 7-based computers and with client computers that are running Windows?? 8.
 
 ```yaml
 Type: HostedCacheVersion
@@ -238,5 +238,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Enable-BCHostedServer](./Enable-BCHostedServer.md)
+[Enable-BCHostedServer](./enable-bchostedserver.md)
+
 

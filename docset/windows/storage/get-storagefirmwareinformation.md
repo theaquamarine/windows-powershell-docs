@@ -177,5 +177,6 @@ Error information from the storage provider.
 
 ## RELATED LINKS
 
-[Update-StorageFirmware](./Update-StorageFirmware.md)
+[Update-StorageFirmware](./update-storagefirmware.md)
+
 

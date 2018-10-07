@@ -31,7 +31,7 @@ Get-DnsServer [-ComputerName <String>] [-CimSession <CimSession[]>] [-ThrottleLi
 
 ## DESCRIPTION
 The **Get-DnsServer** cmdlet retrieves a Domain Name System (DNS) server configuration.
-The DNS server must be running Windows Server® 2008 R2 operating system or above.
+The DNS server must be running Windows Server?? 2008 R2 operating system or above.
 
 You can pass the output of the **Get-DnsServer** cmdlet to the **Export-Clixml** cmdlet by using the pipeline operator.
 That cmdlet generates an XML file of the configuration.
@@ -113,7 +113,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -141,7 +141,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Set-DnsServer](./Set-DnsServer.md)
+[Set-DnsServer](./set-dnsserver.md)
 
-[Test-DnsServer](./Test-DnsServer.md)
+[Test-DnsServer](./test-dnsserver.md)
+
 

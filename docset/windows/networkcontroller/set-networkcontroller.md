@@ -329,9 +329,10 @@ This cmdlet returns an object that contains the following fields:
 
 ## RELATED LINKS
 
-[Get-NetworkController](./Get-NetworkController.md)
+[Get-NetworkController](./get-networkcontroller.md)
 
-[Install-NetworkController](./Install-NetworkController.md)
+[Install-NetworkController](./install-networkcontroller.md)
 
-[Uninstall-NetworkController](./Uninstall-NetworkController.md)
+[Uninstall-NetworkController](./uninstall-networkcontroller.md)
+
 

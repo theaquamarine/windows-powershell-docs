@@ -40,7 +40,7 @@ Get-UevAppxPackage [-CurrentComputerUser] [<CommonParameters>]
 ```
 
 ## DESCRIPTION
-The **Get-UevAppxPackage** cmdlet gets a list of Windows® 8 apps and the Microsoft User Experience Virtualization (UE-V) synchronization status for the apps.
+The **Get-UevAppxPackage** cmdlet gets a list of Windows?? 8 apps and the Microsoft User Experience Virtualization (UE-V) synchronization status for the apps.
 If you do not specify the **Computer** or **CurrentComputerUser** parameters, the cmdlet gets the list of Windows 8 apps for the current user.
 
 ## EXAMPLES
@@ -95,9 +95,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Clear-UevAppxPackage](./Clear-UevAppxPackage.md)
+[Clear-UevAppxPackage](./clear-uevappxpackage.md)
 
-[Disable-UevAppxPackage](./Disable-UevAppxPackage.md)
+[Disable-UevAppxPackage](./disable-uevappxpackage.md)
 
-[Enable-UevAppxPackage](./Enable-UevAppxPackage.md)
+[Enable-UevAppxPackage](./enable-uevappxpackage.md)
+
 

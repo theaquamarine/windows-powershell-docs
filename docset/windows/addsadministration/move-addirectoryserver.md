@@ -255,7 +255,8 @@ A directory server object is received by the *Identity* parameter.
 
 ## RELATED LINKS
 
-[Move-ADDirectoryServerOperationMasterRole](./Move-ADDirectoryServerOperationMasterRole.md)
+[Move-ADDirectoryServerOperationMasterRole](./move-addirectoryserveroperationmasterrole.md)
 
 [AD DS Administration Cmdlets in Windows PowerShell](./activedirectory.md)
+
 

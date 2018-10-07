@@ -123,7 +123,8 @@ This cmdlet does not generate any output.
 
 ## RELATED LINKS
 
-[Add-HgsKeyProtectionAttestationSignerCertificate](./Add-HgsKeyProtectionAttestationSignerCertificate.md)
+[Add-HgsKeyProtectionAttestationSignerCertificate](./add-hgskeyprotectionattestationsignercertificate.md)
 
-[Get-HgsKeyProtectionAttestationSignerCertificate](./Get-HgsKeyProtectionAttestationSignerCertificate.md)
+[Get-HgsKeyProtectionAttestationSignerCertificate](./get-hgskeyprotectionattestationsignercertificate.md)
+
 

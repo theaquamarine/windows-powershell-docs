@@ -254,13 +254,14 @@ A managed service account object is received by the *Identity* parameter.
 
 ## RELATED LINKS
 
-[Get-ADServiceAccount](./Get-ADServiceAccount.md)
+[Get-ADServiceAccount](./get-adserviceaccount.md)
 
-[Install-ADServiceAccount](./Install-ADServiceAccount.md)
+[Install-ADServiceAccount](./install-adserviceaccount.md)
 
-[New-ADServiceAccount](./New-ADServiceAccount.md)
+[New-ADServiceAccount](./new-adserviceaccount.md)
 
-[Set-ADServiceAccount](./Set-ADServiceAccount.md)
+[Set-ADServiceAccount](./set-adserviceaccount.md)
 
-[Uninstall-ADServiceAccount](./Uninstall-ADServiceAccount.md)
+[Uninstall-ADServiceAccount](./uninstall-adserviceaccount.md)
+
 

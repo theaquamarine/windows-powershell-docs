@@ -166,9 +166,10 @@ This cmdlet returns attestation policy information.
 
 ## RELATED LINKS
 
-[Disable-HgsAttestationPolicy](./Disable-HgsAttestationPolicy.md)
+[Disable-HgsAttestationPolicy](./disable-hgsattestationpolicy.md)
 
-[Enable-HgsAttestationPolicy](./Enable-HgsAttestationPolicy.md)
+[Enable-HgsAttestationPolicy](./enable-hgsattestationpolicy.md)
 
-[Remove-HgsAttestationPolicy](./Remove-HgsAttestationPolicy.md)
+[Remove-HgsAttestationPolicy](./remove-hgsattestationpolicy.md)
+
 

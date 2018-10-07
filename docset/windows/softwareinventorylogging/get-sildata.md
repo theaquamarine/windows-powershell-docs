@@ -30,7 +30,7 @@ Get-SilData [[-FileName] <String>] [-CimSession <CimSession[]>] [-ThrottleLimit 
 
 ## DESCRIPTION
 **The Get-SilData** cmdlet displays a point in time collection from all Software Inventory Logging data sources.
-If this cmdlet runs on a Hyper-V Windows Server host that is running at least Windows ServerÂ® 2012 R2, it will also display data from all guests that are also running at least Windows Server 2012 R2 running in virtual machines on that host.
+If this cmdlet runs on a Hyper-V Windows Server host that is running at least Windows Server???? 2012 R2, it will also display data from all guests that are also running at least Windows Server 2012 R2 running in virtual machines on that host.
 Data is collected at the point in time when the cmdlet runs.
 
 Windows Server running in guest virtual machines needs to have Software Inventory Logging started and inventory collection run at least once.
@@ -109,7 +109,7 @@ Use this parameter to run commands that take a long time to complete.
 You can continue to work in the session while the job completes.
 To manage the job, use the `*-Job` cmdlets.
 To get the job results, use the [Receive-Job](http://go.microsoft.com/fwlink/?LinkID=113372) cmdlet. 
- For more information about Windows PowerShellÂ® background jobs, see [about_Jobs](http://go.microsoft.com/fwlink/?LinkID=113251).
+ For more information about Windows PowerShell???? background jobs, see [about_Jobs](http://go.microsoft.com/fwlink/?LinkID=113251).
 
 ```yaml
 Type: SwitchParameter
@@ -159,7 +159,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShellÂ® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell???? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -197,5 +197,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Publish-SilData](./Publish-SilData.md)
+[Publish-SilData](./publish-sildata.md)
+
 

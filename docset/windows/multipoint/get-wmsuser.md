@@ -127,5 +127,6 @@ This cmdlet returns a **WmsUser** collection as **PSObject** collection.
 
 [Remove-WmsUser]()
 
-[Set-WmsUser](./Set-WmsUser.md)
+[Set-WmsUser](./set-wmsuser.md)
+
 

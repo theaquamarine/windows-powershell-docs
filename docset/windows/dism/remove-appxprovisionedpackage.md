@@ -219,9 +219,11 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 [Remove-AppxPackage](http://go.microsoft.com/fwlink/?LinkId=215772)
 
-[Add-AppxProvisionedPackage](./Add-AppxProvisionedPackage.md)
+[Add-AppxProvisionedPackage](./add-appxprovisionedpackage.md)
 
-[Get-AppxProvisionedPackage](./Get-AppxProvisionedPackage.md)
+[Get-AppxProvisionedPackage](./get-appxprovisionedpackage.md)
 
-[Set-AppXProvisionedDataFile](./Set-AppXProvisionedDataFile.md)
+[Set-AppXProvisionedDataFile](./set-appxprovisioneddatafile.md)
+
+
 

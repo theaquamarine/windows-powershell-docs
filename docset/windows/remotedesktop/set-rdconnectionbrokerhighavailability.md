@@ -148,5 +148,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-RDConnectionBrokerHighAvailability](./Get-RDConnectionBrokerHighAvailability.md)
+[Get-RDConnectionBrokerHighAvailability](./get-rdconnectionbrokerhighavailability.md)
+
 

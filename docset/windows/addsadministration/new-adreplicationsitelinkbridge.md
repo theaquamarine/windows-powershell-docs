@@ -333,9 +333,10 @@ A site link bridge object that is a template for the new site link bridge object
 
 ## RELATED LINKS
 
-[Get-ADReplicationSiteLinkBridge](./Get-ADReplicationSiteLinkBridge.md)
+[Get-ADReplicationSiteLinkBridge](./get-adreplicationsitelinkbridge.md)
 
-[Remove-ADReplicationSiteLinkBridge](./Remove-ADReplicationSiteLinkBridge.md)
+[Remove-ADReplicationSiteLinkBridge](./remove-adreplicationsitelinkbridge.md)
 
-[Set-ADReplicationSiteLinkBridge](./Set-ADReplicationSiteLinkBridge.md)
+[Set-ADReplicationSiteLinkBridge](./set-adreplicationsitelinkbridge.md)
+
 

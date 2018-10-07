@@ -267,15 +267,16 @@ A group object is received by the *Identity* parameter.
 
 ## RELATED LINKS
 
-[Add-ADGroupMember](./Add-ADGroupMember.md)
+[Add-ADGroupMember](./add-adgroupmember.md)
 
-[Get-ADGroup](./Get-ADGroup.md)
+[Get-ADGroup](./get-adgroup.md)
 
-[Get-ADGroupMember](./Get-ADGroupMember.md)
+[Get-ADGroupMember](./get-adgroupmember.md)
 
-[New-ADGroup](./New-ADGroup.md)
+[New-ADGroup](./new-adgroup.md)
 
-[Remove-ADGroupMember](./Remove-ADGroupMember.md)
+[Remove-ADGroupMember](./remove-adgroupmember.md)
 
-[Set-ADGroup](./Set-ADGroup.md)
+[Set-ADGroup](./set-adgroup.md)
+
 

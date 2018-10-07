@@ -150,11 +150,12 @@ The path after the pound sign (`#`) provides the namespace and class name for th
 
 ## RELATED LINKS
 
-[Export-HgsGuardian](./Export-HgsGuardian.md)
+[Export-HgsGuardian](./export-hgsguardian.md)
 
-[Get-HgsGuardian](./Get-HgsGuardian.md)
+[Get-HgsGuardian](./get-hgsguardian.md)
 
-[New-HgsGuardian](./New-HgsGuardian.md)
+[New-HgsGuardian](./new-hgsguardian.md)
 
-[Remove-HgsGuardian](./Remove-HgsGuardian.md)
+[Remove-HgsGuardian](./remove-hgsguardian.md)
+
 

@@ -30,7 +30,7 @@ Remove-WBCatalog [-Force] [<CommonParameters>]
 
 ## DESCRIPTION
 The **Remove-WBCatalog** cmdlet removes the backup catalog from the local computer.
-Use this cmdlet when the backup catalog is corrupted and you cannot restore it by using the [Restore-WBCatalog](./Restore-WBCatalog.md) cmdlet.
+Use this cmdlet when the backup catalog is corrupted and you cannot restore it by using the [Restore-WBCatalog](./restore-wbcatalog.md) cmdlet.
 
 If you remove the backup catalog for a computer, you cannot access the backups of that computer by using Windows Server Backup.
 In this case, if you can access another backup location, use **Restore-WBCatalog** to restore the backup catalog from that location, and then create a new backup from that backup catalog.
@@ -84,5 +84,6 @@ This cmdlet returns a string that indicates that the cmdlet has removed the cata
 
 ## RELATED LINKS
 
-[Restore-WBCatalog](./Restore-WBCatalog.md)
+[Restore-WBCatalog](./restore-wbcatalog.md)
+
 

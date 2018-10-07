@@ -30,7 +30,7 @@ Remove-ADAuthenticationPolicySilo [-WhatIf] [-Confirm] [-AuthType <ADAuthType>] 
 ```
 
 ## DESCRIPTION
-The **Remove-ADAuthenticationPolicySilo** cmdlet removes an Active Directory® Domain Services authentication policy silo object.
+The **Remove-ADAuthenticationPolicySilo** cmdlet removes an Active Directory?? Domain Services authentication policy silo object.
 
 The *Identity* parameter specifies the Active Directory Domain Services authentication policy silo to remove.
 You can identify an authentication policy silo by its distinguished name, GUID or name.
@@ -216,11 +216,12 @@ This cmdlet accepts an authentication policy silo object.
 
 ## RELATED LINKS
 
-[Get-ADAuthenticationPolicySilo](./Get-ADAuthenticationPolicySilo.md)
+[Get-ADAuthenticationPolicySilo](./get-adauthenticationpolicysilo.md)
 
-[New-ADAuthenticationPolicySilo](./New-ADAuthenticationPolicySilo.md)
+[New-ADAuthenticationPolicySilo](./new-adauthenticationpolicysilo.md)
 
-[Set-ADAuthenticationPolicySilo](./Set-ADAuthenticationPolicySilo.md)
+[Set-ADAuthenticationPolicySilo](./set-adauthenticationpolicysilo.md)
 
 [AD DS Administration Cmdlets in Windows PowerShell](./activedirectory.md)
+
 

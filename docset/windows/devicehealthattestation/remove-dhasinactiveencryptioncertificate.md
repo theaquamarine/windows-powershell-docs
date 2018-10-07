@@ -117,5 +117,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-DHASInactiveEncryptionCertificate](./Get-DHASInactiveEncryptionCertificate.md)
+[Get-DHASInactiveEncryptionCertificate](./get-dhasinactiveencryptioncertificate.md)
+
 

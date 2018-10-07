@@ -157,9 +157,10 @@ This cmdlet returns an object that contains the following fields:
 
 ## RELATED LINKS
 
-[Install-NetworkController](./Install-NetworkController.md)
+[Install-NetworkController](./install-networkcontroller.md)
 
-[Set-NetworkController](./Set-NetworkController.md)
+[Set-NetworkController](./set-networkcontroller.md)
 
-[Uninstall-NetworkController](./Uninstall-NetworkController.md)
+[Uninstall-NetworkController](./uninstall-networkcontroller.md)
+
 

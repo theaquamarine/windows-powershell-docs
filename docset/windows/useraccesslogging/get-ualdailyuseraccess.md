@@ -191,7 +191,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -232,11 +232,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-UalDailyAccess](./Get-UalDailyAccess.md)
+[Get-UalDailyAccess](./get-ualdailyaccess.md)
 
-[Get-UalDailyDeviceAccess](./Get-UalDailyDeviceAccess.md)
+[Get-UalDailyDeviceAccess](./get-ualdailydeviceaccess.md)
 
-[Get-UalDeviceAccess](./Get-UalDeviceAccess.md)
+[Get-UalDeviceAccess](./get-ualdeviceaccess.md)
 
-[Get-UalUserAccess](./Get-UalUserAccess.md)
+[Get-UalUserAccess](./get-ualuseraccess.md)
+
 

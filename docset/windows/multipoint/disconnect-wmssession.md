@@ -143,11 +143,12 @@ None.
 
 ## RELATED LINKS
 
-[Close-WmsSession](./Close-WmsSession.md)
+[Close-WmsSession](./close-wmssession.md)
 
-[Get-WmsSession](./Get-WmsSession.md)
+[Get-WmsSession](./get-wmssession.md)
 
-[Lock-WmsSession](./Lock-WmsSession.md)
+[Lock-WmsSession](./lock-wmssession.md)
 
-[Unlock-WmsSession](./Unlock-WmsSession.md)
+[Unlock-WmsSession](./unlock-wmssession.md)
+
 

@@ -24,25 +24,26 @@ ms.assetid: 86F7C9A7-92BA-48A0-BE1A-BE6D933DB8C2
 This reference provides cmdlet descriptions and syntax for all Windows Hardware Certification Kit (HCK) cmdlets. It lists the cmdlets in alphabetical order based on the verb at the beginning of the cmdlet.
 
 ## HardwareCertification Cmdlets
-### [Export-HwCertTestCollectionToXml](./Export-HwCertTestCollectionToXml.md)
+### [Export-HwCertTestCollectionToXml](./export-hwcerttestcollectiontoxml.md)
 Exports a test collection to an .xml file.
 
-### [Import-HwCertTestCollectionFromXml](./Import-HwCertTestCollectionFromXml.md)
+### [Import-HwCertTestCollectionFromXml](./import-hwcerttestcollectionfromxml.md)
 Imports a test collection from an .xml file.
 
-### [Merge-HwCertTestCollectionFromPackage](./Merge-HwCertTestCollectionFromPackage.md)
+### [Merge-HwCertTestCollectionFromPackage](./merge-hwcerttestcollectionfrompackage.md)
 Merges test result information from several .hckx package files into a single test collection.
 
-### [Merge-HwCertTestCollectionFromXml](./Merge-HwCertTestCollectionFromXml.md)
+### [Merge-HwCertTestCollectionFromXml](./merge-hwcerttestcollectionfromxml.md)
 Merges test result information from several test collection files into a single test collection.
 
-### [New-HwCertProjectDefinitionFile](./New-HwCertProjectDefinitionFile.md)
+### [New-HwCertProjectDefinitionFile](./new-hwcertprojectdefinitionfile.md)
 Creates an HCK project definition file.
 
-### [New-HwCertTestCollection](./New-HwCertTestCollection.md)
+### [New-HwCertTestCollection](./new-hwcerttestcollection.md)
 Creates a test collection file from a project definition file.
 
-### [New-HwCertTestCollectionExcelReport](./New-HwCertTestCollectionExcelReport.md)
+### [New-HwCertTestCollectionExcelReport](./new-hwcerttestcollectionexcelreport.md)
 Creates an HCK test summary report.
+
 
 

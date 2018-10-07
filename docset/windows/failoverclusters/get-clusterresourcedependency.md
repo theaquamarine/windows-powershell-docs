@@ -58,7 +58,7 @@ IP Address 2001:4898:9:2::
 IP Address 2002:9d38:31ca:8::
 ```
 
-This example displays the dependencies for each resource in the clustered file server ─resource group─ called cluster1FS12.
+This example displays the dependencies for each resource in the clustered file server ???resource group??? called cluster1FS12.
 Some resources do not have dependencies.
 
 ## PARAMETERS
@@ -139,13 +139,14 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-ClusterResourceDependency](./Add-ClusterResourceDependency.md)
+[Add-ClusterResourceDependency](./add-clusterresourcedependency.md)
 
-[Get-ClusterGroup](./Get-ClusterGroup.md)
+[Get-ClusterGroup](./get-clustergroup.md)
 
-[Get-ClusterResource](./Get-ClusterResource.md)
+[Get-ClusterResource](./get-clusterresource.md)
 
-[Remove-ClusterResourceDependency](./Remove-ClusterResourceDependency.md)
+[Remove-ClusterResourceDependency](./remove-clusterresourcedependency.md)
 
-[Set-ClusterResourceDependency](./Set-ClusterResourceDependency.md)
+[Set-ClusterResourceDependency](./set-clusterresourcedependency.md)
+
 

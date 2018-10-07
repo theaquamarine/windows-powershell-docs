@@ -840,7 +840,7 @@ The object identifiers of some common extensions are as follows:
 2.5.29.17
 
 Application Policy
-1.3.6.1.4.1.311.21.10={text}token=value&token=value…
+1.3.6.1.4.1.311.21.10={text}token=value&token=value???
 The tokens have the following possible values: 
 
 - Flags.
@@ -859,10 +859,10 @@ These entries are subordinate to the preceding object identifier.
 Specify subsequent object identifiers, each followed by its subordinate **token=value** entries.
 
 Application Policy Mappings
-1.3.6.1.4.1.311.21.11={text}oid=oid&oid=oid…
+1.3.6.1.4.1.311.21.11={text}oid=oid&oid=oid???
 
 Certificate Policies
-2.5.29.32={text}token=value&token=value…
+2.5.29.32={text}token=value&token=value???
 The tokens have the following possible values: 
 
 - Flags.
@@ -879,7 +879,7 @@ The URL of a host, such as this example: http://computer07.contoso.com
 To specify a Certificate Policies extension, follow the same syntax as an Application Policy extension.
 
 Enhanced Key Usage Object Identifiers
-2.5.29.37={text}oid,oid…
+2.5.29.37={text}oid,oid???
 These key usages have the following object identifiers: 
 
 - Client Authentication.
@@ -894,7 +894,7 @@ These key usages have the following object identifiers:
 1.3.6.1.5.5.7.3.8
 
 Name Constraints
-2.5.29.30={text}subtree=subtreeValue&token=value&token=value& …&subtree=subtreeValue&token=value&token=value…
+2.5.29.30={text}subtree=subtreeValue&token=value&token=value& ???&subtree=subtreeValue&token=value&token=value???
 The subtreeValue can have the following values: 
 
 - Include.
@@ -920,10 +920,10 @@ A user principal name in the following format: admin@contoso.com
 The URL of a host, such as this example: http://computer07.contoso.com/index.html
 
 Policy Mapping
-2.5.29.33={text}oid=oid&oid=oid…
+2.5.29.33={text}oid=oid&oid=oid???
 
 Subject Alternative Name Syntax
-2.5.29.17={text}token=value&token=value…
+2.5.29.17={text}token=value&token=value???
 The tokens have the following possible values: 
 
 - UPN.
@@ -1010,4 +1010,5 @@ An **X509Certificate2** object for the certificate that has been created.
 ## NOTES
 
 ## RELATED LINKS
+
 

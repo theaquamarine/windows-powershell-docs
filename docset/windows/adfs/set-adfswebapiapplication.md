@@ -560,9 +560,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-AdfsWebApiApplication](./Add-AdfsWebApiApplication.md)
+[Add-AdfsWebApiApplication](./add-adfswebapiapplication.md)
 
-[Get-AdfsWebApiApplication](./Get-AdfsWebApiApplication.md)
+[Get-AdfsWebApiApplication](./get-adfswebapiapplication.md)
 
-[Remove-AdfsWebApiApplication](./Remove-AdfsWebApiApplication.md)
+[Remove-AdfsWebApiApplication](./remove-adfswebapiapplication.md)
+
 

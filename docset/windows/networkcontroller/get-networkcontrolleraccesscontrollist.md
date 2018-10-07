@@ -146,5 +146,6 @@ Each access control list contains multiple ACL rules. Each rule contains the fol
 
 ## RELATED LINKS
 
-[New-NetworkControllerAccessControlList](./New-NetworkControllerAccessControlList.md)
+[New-NetworkControllerAccessControlList](./new-networkcontrolleraccesscontrollist.md)
+
 

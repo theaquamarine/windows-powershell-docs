@@ -24,106 +24,107 @@ ms.assetid: 4FF8EEDB-5AB8-4C70-8290-4B11A6D04791
 This reference provides cmdlet descriptions and syntax for all Network Transition-specific cmdlets. It lists the cmdlets in alphabetical order based on the verb at the beginning of the cmdlet.
 
 ## NetworkTransition Cmdlets
-### [Add-NetIPHttpsCertBinding](./Add-NetIPHttpsCertBinding.md)
+### [Add-NetIPHttpsCertBinding](./add-netiphttpscertbinding.md)
 Binds an SSL certificate to an IP-HTTPS server.
 
-### [Disable-NetDnsTransitionConfiguration](./Disable-NetDnsTransitionConfiguration.md)
+### [Disable-NetDnsTransitionConfiguration](./disable-netdnstransitionconfiguration.md)
 Disables the DNS64 configuration on a computer.
 
-### [Disable-NetIPHttpsProfile](./Disable-NetIPHttpsProfile.md)
+### [Disable-NetIPHttpsProfile](./disable-netiphttpsprofile.md)
 Disables the currently active IP-HTTPS profile.
 
-### [Disable-NetNatTransitionConfiguration](./Disable-NetNatTransitionConfiguration.md)
+### [Disable-NetNatTransitionConfiguration](./disable-netnattransitionconfiguration.md)
 Disables the NAT64 configuration on a computer.
 
-### [Enable-NetDnsTransitionConfiguration](./Enable-NetDnsTransitionConfiguration.md)
+### [Enable-NetDnsTransitionConfiguration](./enable-netdnstransitionconfiguration.md)
 Enables the DNS64 configuration on a computer.
 
-### [Enable-NetIPHttpsProfile](./Enable-NetIPHttpsProfile.md)
+### [Enable-NetIPHttpsProfile](./enable-netiphttpsprofile.md)
 Enables an IP-HTTPS configuration profile.
 
-### [Enable-NetNatTransitionConfiguration](./Enable-NetNatTransitionConfiguration.md)
+### [Enable-NetNatTransitionConfiguration](./enable-netnattransitionconfiguration.md)
 Enables the NAT64 configuration on a computer.
 
 ### [Get-Net6to4Configuration](./Get-Net6to4Configuration.md)
 Retrieves the 6to4 configuration of a computer or a GPO.
 
-### [Get-NetDnsTransitionConfiguration](./Get-NetDnsTransitionConfiguration.md)
+### [Get-NetDnsTransitionConfiguration](./get-netdnstransitionconfiguration.md)
 Retrieves the DNS64 configuration of a computer.
 
-### [Get-NetDnsTransitionMonitoring](./Get-NetDnsTransitionMonitoring.md)
+### [Get-NetDnsTransitionMonitoring](./get-netdnstransitionmonitoring.md)
 Retrieves the DNS64 configuration of a computer.
 
-### [Get-NetIPHttpsConfiguration](./Get-NetIPHttpsConfiguration.md)
+### [Get-NetIPHttpsConfiguration](./get-netiphttpsconfiguration.md)
 Gets the IP-HTTPS configuration from a computer or a GPO.
 
-### [Get-NetIPHttpsState](./Get-NetIPHttpsState.md)
+### [Get-NetIPHttpsState](./get-netiphttpsstate.md)
 Gets the active IP-HTTPS state of a computer.
 
-### [Get-NetIsatapConfiguration](./Get-NetIsatapConfiguration.md)
+### [Get-NetIsatapConfiguration](./get-netisatapconfiguration.md)
 Gets the ISATAP configuration of a computer or a GPO.
 
-### [Get-NetNatTransitionConfiguration](./Get-NetNatTransitionConfiguration.md)
+### [Get-NetNatTransitionConfiguration](./get-netnattransitionconfiguration.md)
 Retrieves the NAT64 configuration of a computer.
 
-### [Get-NetNatTransitionMonitoring](./Get-NetNatTransitionMonitoring.md)
+### [Get-NetNatTransitionMonitoring](./get-netnattransitionmonitoring.md)
 Retrieves the NAT64 mappings on a computer.
 
-### [Get-NetTeredoConfiguration](./Get-NetTeredoConfiguration.md)
+### [Get-NetTeredoConfiguration](./get-netteredoconfiguration.md)
 Gets the Teredo configuration of a computer or a GPO.
 
-### [Get-NetTeredoState](./Get-NetTeredoState.md)
+### [Get-NetTeredoState](./get-netteredostate.md)
 Retrieves the active Teredo state of the local computer.
 
-### [New-NetIPHttpsConfiguration](./New-NetIPHttpsConfiguration.md)
+### [New-NetIPHttpsConfiguration](./new-netiphttpsconfiguration.md)
 Creates an IP-HTTPS configuration.
 
-### [New-NetNatTransitionConfiguration](./New-NetNatTransitionConfiguration.md)
+### [New-NetNatTransitionConfiguration](./new-netnattransitionconfiguration.md)
 Creates an instance of the NAT64 and its associated configuration on a computer.
 
-### [Remove-NetIPHttpsCertBinding](./Remove-NetIPHttpsCertBinding.md)
+### [Remove-NetIPHttpsCertBinding](./remove-netiphttpscertbinding.md)
 Removes all of the IP-HTTPS certificate bindings.
 
-### [Remove-NetIPHttpsConfiguration](./Remove-NetIPHttpsConfiguration.md)
+### [Remove-NetIPHttpsConfiguration](./remove-netiphttpsconfiguration.md)
 Removes an IP-HTTPS configuration profile.
 
-### [Remove-NetNatTransitionConfiguration](./Remove-NetNatTransitionConfiguration.md)
+### [Remove-NetNatTransitionConfiguration](./remove-netnattransitionconfiguration.md)
 Removes the NAT64 configuration for one or more instances on a computer.
 
-### [Rename-NetIPHttpsConfiguration](./Rename-NetIPHttpsConfiguration.md)
+### [Rename-NetIPHttpsConfiguration](./rename-netiphttpsconfiguration.md)
 Renames an IP-HTTPS profile.
 
 ### [Reset-Net6to4Configuration](./Reset-Net6to4Configuration.md)
 Resets the GPO settings for a 6to4 configuration.
 
-### [Reset-NetDnsTransitionConfiguration](./Reset-NetDnsTransitionConfiguration.md)
+### [Reset-NetDnsTransitionConfiguration](./reset-netdnstransitionconfiguration.md)
 Resets the DNS64 configuration on a computer.
 
-### [Reset-NetIPHttpsConfiguration](./Reset-NetIPHttpsConfiguration.md)
+### [Reset-NetIPHttpsConfiguration](./reset-netiphttpsconfiguration.md)
 Resets the IP-HTTPS configuration elements in a GPO.
 
-### [Reset-NetIsatapConfiguration](./Reset-NetIsatapConfiguration.md)
+### [Reset-NetIsatapConfiguration](./reset-netisatapconfiguration.md)
 Resets ISATAP configuration elements contained in a GPO.
 
-### [Reset-NetTeredoConfiguration](./Reset-NetTeredoConfiguration.md)
+### [Reset-NetTeredoConfiguration](./reset-netteredoconfiguration.md)
 Resets the Teredo configuration elements in a Group Policy Object (GPO).
 
 ### [Set-Net6to4Configuration](./Set-Net6to4Configuration.md)
 Sets the 6to4 configuration for both client computers and servers.
 
-### [Set-NetDnsTransitionConfiguration](./Set-NetDnsTransitionConfiguration.md)
+### [Set-NetDnsTransitionConfiguration](./set-netdnstransitionconfiguration.md)
 Sets the DNS64 configuration on a computer.
 
-### [Set-NetIPHttpsConfiguration](./Set-NetIPHttpsConfiguration.md)
+### [Set-NetIPHttpsConfiguration](./set-netiphttpsconfiguration.md)
 Modifies an IP-HTTPS configuration.
 
-### [Set-NetIsatapConfiguration](./Set-NetIsatapConfiguration.md)
+### [Set-NetIsatapConfiguration](./set-netisatapconfiguration.md)
 Sets an ISATAP configuration on a computer or on a Group Policy Object (GPO).
 
-### [Set-NetNatTransitionConfiguration](./Set-NetNatTransitionConfiguration.md)
+### [Set-NetNatTransitionConfiguration](./set-netnattransitionconfiguration.md)
 Sets the NAT64 configuration on a computer.
 
-### [Set-NetTeredoConfiguration](./Set-NetTeredoConfiguration.md)
+### [Set-NetTeredoConfiguration](./set-netteredoconfiguration.md)
 Modifies the Teredo configuration of a computer or a Group Policy object (GPO).
+
 
 

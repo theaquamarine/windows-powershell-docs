@@ -130,7 +130,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-WebVirtualDirectory](./Get-WebVirtualDirectory.md)
+[Get-WebVirtualDirectory](./get-webvirtualdirectory.md)
 
-[New-WebVirtualDirectory](./New-WebVirtualDirectory.md)
+[New-WebVirtualDirectory](./new-webvirtualdirectory.md)
+
 

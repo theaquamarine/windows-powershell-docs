@@ -156,7 +156,8 @@ This cmdlet returns the desktop sharing invitation string that is used to initia
 
 ## RELATED LINKS
 
-[Show-WmsDesktop](./Show-WmsDesktop.md)
+[Show-WmsDesktop](./show-wmsdesktop.md)
 
-[Unpublish-WmsDesktop](./Unpublish-WmsDesktop.md)
+[Unpublish-WmsDesktop](./unpublish-wmsdesktop.md)
+
 

@@ -239,11 +239,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-AppLockerFileInformation](./Get-AppLockerFileInformation.md)
+[Get-AppLockerFileInformation](./get-applockerfileinformation.md)
 
-[Get-AppLockerPolicy](./Get-AppLockerPolicy.md)
+[Get-AppLockerPolicy](./get-applockerpolicy.md)
 
-[Set-AppLockerPolicy](./Set-AppLockerPolicy.md)
+[Set-AppLockerPolicy](./set-applockerpolicy.md)
 
-[Test-AppLockerPolicy](./Test-AppLockerPolicy.md)
+[Test-AppLockerPolicy](./test-applockerpolicy.md)
+
 

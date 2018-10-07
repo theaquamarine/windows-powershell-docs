@@ -143,7 +143,8 @@ This cmdlet returns an array of strings.
 
 ## RELATED LINKS
 
-[Add-HgsAttestationTpmHost](./Add-HgsAttestationTpmHost.md)
+[Add-HgsAttestationTpmHost](./add-hgsattestationtpmhost.md)
 
-[Remove-HgsAttestationTpmHost](./Remove-HgsAttestationTpmHost.md)
+[Remove-HgsAttestationTpmHost](./remove-hgsattestationtpmhost.md)
+
 

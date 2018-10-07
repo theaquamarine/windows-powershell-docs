@@ -98,7 +98,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[New-WebVirtualDirectory](./New-WebVirtualDirectory.md)
+[New-WebVirtualDirectory](./new-webvirtualdirectory.md)
 
-[Remove-WebVirtualDirectory](./Remove-WebVirtualDirectory.md)
+[Remove-WebVirtualDirectory](./remove-webvirtualdirectory.md)
+
 

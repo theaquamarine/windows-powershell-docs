@@ -24,10 +24,11 @@ ms.assetid: ECA5B1BF-C761-4D9B-A8B3-CCA27F1A3E5F
 This reference provides cmdlet descriptions and syntax for all Server Core cmdlets. It lists the cmdlets in alphabetical order based on the verb at the beginning of the cmdlet.
 
 ## ServerCore Cmdlets
-### [Get-DisplayResolution](./Get-DisplayResolution.md)
+### [Get-DisplayResolution](./get-displayresolution.md)
 Shows the current display resolution for a Server Core server.
 
-### [Set-DisplayResolution](./Set-DisplayResolution.md)
+### [Set-DisplayResolution](./set-displayresolution.md)
 Changes the display resolution for a Server Core server.
+
 
 

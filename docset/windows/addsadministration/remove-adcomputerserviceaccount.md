@@ -298,11 +298,12 @@ By default, this cmdlet does not generate any output.
 
 ## RELATED LINKS
 
-[Add-ADComputerServiceAccount](./Add-ADComputerServiceAccount.md)
+[Add-ADComputerServiceAccount](./add-adcomputerserviceaccount.md)
 
-[Get-ADComputerServiceAccount](./Get-ADComputerServiceAccount.md)
+[Get-ADComputerServiceAccount](./get-adcomputerserviceaccount.md)
 
-[Get-ADComputer](./Get-ADComputer.md)
+[Get-ADComputer](./get-adcomputer.md)
 
 [AD DS Administration Cmdlets in Windows PowerShell](./activedirectory.md)
+
 

@@ -106,7 +106,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-AdfsRegistrationHosts](./Get-AdfsRegistrationHosts.md)
+[Get-AdfsRegistrationHosts](./get-adfsregistrationhosts.md)
 
-[Set-AdfsDeviceRegistrationUpnSuffix](./Set-AdfsDeviceRegistrationUpnSuffix.md)
+[Set-AdfsDeviceRegistrationUpnSuffix](./set-adfsdeviceregistrationupnsuffix.md)
+
 

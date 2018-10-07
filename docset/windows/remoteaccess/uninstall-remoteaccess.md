@@ -98,7 +98,7 @@ PS C:\>Uninstall-RemoteAccess
 Confirm 
 If Remote Access is uninstalled, remote clients will not be able to connect to the corporate network via DirectAccess. The network location server running on the Remote Access server will be disabled, and DirectAccess clients will not be able to use it to detect their location. This will cause loss of connectivity to internal resources for clients located in the corporate network. Do you want to continue? 
  
-[Y] Yes  [N] No  [S] Suspend  [?] Help  (default is ꞌYꞌ): Y
+[Y] Yes  [N] No  [S] Suspend  [?] Help  (default is ???Y???): Y
 ```
 
 This example uninstalls DA from all sites.
@@ -111,7 +111,7 @@ PS C:\>Uninstall-RemoteAccess -VPNType VPN
 Confirm 
 If RemoteAccess is uninstalled, remote clients will not be able to connect to corporate network via VPN. Do you want to continue? 
  
-[Y] Yes  [N] No  [S] Suspend  [?] Help  (default is ꞌYꞌ): Y
+[Y] Yes  [N] No  [S] Suspend  [?] Help  (default is ???Y???): Y
 ```
 
 This example removes a VPN.
@@ -124,7 +124,7 @@ Confirm
 If Remote Access is uninstalled, remote clients will not be able to connect to the corporate network via 
 DirectAccess + Vpn. Do you want to continue? 
  
-[Y] Yes  [N] No  [S] Suspend  [?] Help  (default is ꞌYꞌ): Y
+[Y] Yes  [N] No  [S] Suspend  [?] Help  (default is ???Y???): Y
 ```
 
 This example uninstalls DA and VPN in a single site installation.
@@ -241,7 +241,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -308,13 +308,14 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-RemoteAccess](./Get-RemoteAccess.md)
+[Get-RemoteAccess](./get-remoteaccess.md)
 
-[Install-RemoteAccess](./Install-RemoteAccess.md)
+[Install-RemoteAccess](./install-remoteaccess.md)
 
-[Remove-DAEntryPoint](./Remove-DAEntryPoint.md)
+[Remove-DAEntryPoint](./remove-daentrypoint.md)
 
-[Remove-RemoteAccessLoadBalancerNode](./Remove-RemoteAccessLoadBalancerNode.md)
+[Remove-RemoteAccessLoadBalancerNode](./remove-remoteaccessloadbalancernode.md)
 
-[Set-RemoteAccess](./Set-RemoteAccess.md)
+[Set-RemoteAccess](./set-remoteaccess.md)
+
 

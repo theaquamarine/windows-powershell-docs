@@ -38,7 +38,7 @@ If the **DNSName** parameter is used, then the DNS subject alternative name is u
 If the **EKU** parameter is used, then the specified application policy object identifiers are used to verify the chain.
 If the **User** parameter is used, then the specified user context is used is to build and verify the chain.
 
-Delegation may be required when using this cmdlet with Windows PowerShell® remoting and changing user configuration.
+Delegation may be required when using this cmdlet with Windows PowerShell?? remoting and changing user configuration.
 
 ## EXAMPLES
 
@@ -180,4 +180,5 @@ If the verification succeeds, then the return value is True; otherwise the retur
 ## RELATED LINKS
 
 [Get-ChildItem](http://go.microsoft.com/fwlink/p/?LinkId=290488)
+
 

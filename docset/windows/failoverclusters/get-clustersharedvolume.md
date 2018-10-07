@@ -128,9 +128,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-ClusterSharedVolume](./Add-ClusterSharedVolume.md)
+[Add-ClusterSharedVolume](./add-clustersharedvolume.md)
 
-[Move-ClusterSharedVolume](./Move-ClusterSharedVolume.md)
+[Move-ClusterSharedVolume](./move-clustersharedvolume.md)
 
-[Remove-ClusterSharedVolume](./Remove-ClusterSharedVolume.md)
+[Remove-ClusterSharedVolume](./remove-clustersharedvolume.md)
+
 

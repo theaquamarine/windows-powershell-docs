@@ -113,7 +113,7 @@ Accept wildcard characters: False
 
 ### -SharedSecret
 Specifies a shared secret key that is configured at the RADIUS client.
-Windows Server® 2012 uses the shared secret key to validate messages between the RADIUS client and NPS.
+Windows Server?? 2012 uses the shared secret key to validate messages between the RADIUS client and NPS.
 
 ```yaml
 Type: String
@@ -156,9 +156,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-NpsRadiusClient](./Get-NpsRadiusClient.md)
+[Get-NpsRadiusClient](./get-npsradiusclient.md)
 
-[New-NpsRadiusClient](./New-NpsRadiusClient.md)
+[New-NpsRadiusClient](./new-npsradiusclient.md)
 
-[Remove-NpsRadiusClient](./Remove-NpsRadiusClient.md)
+[Remove-NpsRadiusClient](./remove-npsradiusclient.md)
+
 

@@ -194,5 +194,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 [Using Windows PowerShell with AD RMS](http://go.microsoft.com/fwlink/?LinkId=136806)
 
-[Export-RmsTPD](./Export-RmsTPD.md)
+[Export-RmsTPD](./export-rmstpd.md)
+
 

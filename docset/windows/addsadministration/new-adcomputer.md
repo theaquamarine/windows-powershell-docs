@@ -1020,21 +1020,22 @@ By default, this cmdlet does not generate any output.
 
 ## RELATED LINKS
 
-[Add-ADComputerServiceAccount](./Add-ADComputerServiceAccount.md)
+[Add-ADComputerServiceAccount](./add-adcomputerserviceaccount.md)
 
-[Get-ADComputer](./Get-ADComputer.md)
+[Get-ADComputer](./get-adcomputer.md)
 
-[Get-ADComputerServiceAccount](./Get-ADComputerServiceAccount.md)
+[Get-ADComputerServiceAccount](./get-adcomputerserviceaccount.md)
 
-[Remove-ADComputer](./Remove-ADComputer.md)
+[Remove-ADComputer](./remove-adcomputer.md)
 
-[Remove-ADComputerServiceAccount](./Remove-ADComputerServiceAccount.md)
+[Remove-ADComputerServiceAccount](./remove-adcomputerserviceaccount.md)
 
-[Set-ADComputer](./Set-ADComputer.md)
+[Set-ADComputer](./set-adcomputer.md)
 
-[Set-ADAccountPassword](./Set-ADAccountPassword.md)
+[Set-ADAccountPassword](./set-adaccountpassword.md)
 
-[New-ADUser](./New-ADUser.md)
+[New-ADUser](./new-aduser.md)
 
 [AD DS Administration Cmdlets in Windows PowerShell](./activedirectory.md)
+
 

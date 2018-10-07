@@ -93,9 +93,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-IISConfigAttributeValue](./Get-IISConfigAttributeValue.md)
+[Get-IISConfigAttributeValue](./get-iisconfigattributevalue.md)
 
-[Set-IISConfigAttributeValue](./Set-IISConfigAttributeValue.md)
+[Set-IISConfigAttributeValue](./set-iisconfigattributevalue.md)
 
 [IIS Administration Cmdlets for Windows PowerShell](./iisadministration.md)
+
 

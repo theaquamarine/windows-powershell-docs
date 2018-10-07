@@ -132,13 +132,14 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Export-IscsiVirtualDiskSnapshot](./Export-IscsiVirtualDiskSnapshot.md)
+[Export-IscsiVirtualDiskSnapshot](./export-iscsivirtualdisksnapshot.md)
 
-[Get-IscsiVirtualDiskSnapshot](./Get-IscsiVirtualDiskSnapshot.md)
+[Get-IscsiVirtualDiskSnapshot](./get-iscsivirtualdisksnapshot.md)
 
-[Mount-IscsiVirtualDiskSnapshot](./Mount-IscsiVirtualDiskSnapshot.md)
+[Mount-IscsiVirtualDiskSnapshot](./mount-iscsivirtualdisksnapshot.md)
 
-[Remove-IscsiVirtualDiskSnapshot](./Remove-IscsiVirtualDiskSnapshot.md)
+[Remove-IscsiVirtualDiskSnapshot](./remove-iscsivirtualdisksnapshot.md)
 
-[Set-IscsiVirtualDiskSnapshot](./Set-IscsiVirtualDiskSnapshot.md)
+[Set-IscsiVirtualDiskSnapshot](./set-iscsivirtualdisksnapshot.md)
+
 

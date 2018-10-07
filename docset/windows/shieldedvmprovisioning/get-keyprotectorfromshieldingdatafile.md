@@ -85,3 +85,4 @@ This cmdlet returns a Byte\[\] array that represents the raw key protector struc
 
 [Shielded Virtual Machine Provioning Cmdlets in Windows PowerShell](./shieldedvmprovisioning.md)
 
+

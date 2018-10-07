@@ -98,7 +98,7 @@ PS C:\> Set-RDSessionCollectionConfiguration -CollectionName "Session Collection
 
 This example configures load balancing for a session collection named Session Collection 07 that has an RD Connection Broker server named RDCB.Contoso.com.
 
-The first five commands use standard Windows PowerShell® syntax to create an array of objects to define load balancing guidelines, and store those guidelines in the **$LoadBalanceObjectsArray** variable.
+The first five commands use standard Windows PowerShell?? syntax to create an array of objects to define load balancing guidelines, and store those guidelines in the **$LoadBalanceObjectsArray** variable.
 This example configuration uses two RD Session Host servers named RDSH-1.Contoso.com and RDSH-2.Contoso.com
 
 The final command specifies load balancing settings for the session collection that has the name Session Collection 07 and the RD Connection Broker server named RDCB.Contoso.com.
@@ -628,11 +628,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-RDSessionCollectionConfiguration](./Get-RDSessionCollectionConfiguration.md)
+[Get-RDSessionCollectionConfiguration](./get-rdsessioncollectionconfiguration.md)
 
-[Get-RDSessionCollection](./Get-RDSessionCollection.md)
+[Get-RDSessionCollection](./get-rdsessioncollection.md)
 
-[New-RDSessionCollection](./New-RDSessionCollection.md)
+[New-RDSessionCollection](./new-rdsessioncollection.md)
 
-[Remove-RDSessionCollection](./Remove-RDSessionCollection.md)
+[Remove-RDSessionCollection](./remove-rdsessioncollection.md)
+
 

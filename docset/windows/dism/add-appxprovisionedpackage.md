@@ -45,8 +45,8 @@ The **Add-AppxProvisionedPackage** cmdlet adds an app package (.appx) that will 
 If the package has dependencies that are architecture-specific, you must install the applicable architectures for the dependency on the target image.
 For example, you must install the x86 dependency on the x86 image.
 
-You cannot install an app package (.appx) on an operating system that does not support Windows® 8 apps.
-Apps are not supported on Server Core installations of Windows Server® 2012, Windows® Preinstallation Environment (Windows PE) 4.0, or on any versions of Windows older than Windows 8 and Windows Server 2012.
+You cannot install an app package (.appx) on an operating system that does not support Windows?? 8 apps.
+Apps are not supported on Server Core installations of Windows Server?? 2012, Windows?? Preinstallation Environment (Windows PE) 4.0, or on any versions of Windows older than Windows 8 and Windows Server 2012.
 
 To install and run apps on Windows Server 2012, you must install the [Desktop Experience](http://go.microsoft.com/fwlink/?LinkId=247330).
 
@@ -328,9 +328,11 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 [Add-AppxPackage](http://go.microsoft.com/fwlink/?LinkId=215769)
 
-[Get-AppxProvisionedPackage](./Get-AppxProvisionedPackage.md)
+[Get-AppxProvisionedPackage](./get-appxprovisionedpackage.md)
 
-[Remove-AppxProvisionedPackage](./Remove-AppxProvisionedPackage.md)
+[Remove-AppxProvisionedPackage](./remove-appxprovisionedpackage.md)
 
-[Set-AppXProvisionedDataFile](./Set-AppXProvisionedDataFile.md)
+[Set-AppXProvisionedDataFile](./set-appxprovisioneddatafile.md)
+
+
 

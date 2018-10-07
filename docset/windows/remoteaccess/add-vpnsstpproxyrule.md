@@ -170,13 +170,14 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-VpnSstpProxyRule](./Get-VpnSstpProxyRule.md)
+[Get-VpnSstpProxyRule](./get-vpnsstpproxyrule.md)
 
-[New-VpnSstpProxyRule](./New-VpnSstpProxyRule.md)
+[New-VpnSstpProxyRule](./new-vpnsstpproxyrule.md)
 
-[Remove-VpnSstpProxyRule](./Remove-VpnSstpProxyRule.md)
+[Remove-VpnSstpProxyRule](./remove-vpnsstpproxyrule.md)
 
-[Set-VpnSstpProxyRule](./Set-VpnSstpProxyRule.md)
+[Set-VpnSstpProxyRule](./set-vpnsstpproxyrule.md)
 
 [Remote Access Cmdlets](./remoteaccess.md)
+
 

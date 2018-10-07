@@ -221,7 +221,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -298,9 +298,10 @@ The DAOtpAuth object contains the following OTP authentication configuration set
 
 ## RELATED LINKS
 
-[Disable-DAOtpAuthentication](./Disable-DAOtpAuthentication.md)
+[Disable-DAOtpAuthentication](./disable-daotpauthentication.md)
 
-[Enable-DAOtpAuthentication](./Enable-DAOtpAuthentication.md)
+[Enable-DAOtpAuthentication](./enable-daotpauthentication.md)
 
-[Get-DAOtpAuthentication](./Get-DAOtpAuthentication.md)
+[Get-DAOtpAuthentication](./get-daotpauthentication.md)
+
 

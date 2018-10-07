@@ -170,7 +170,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -215,17 +215,18 @@ This cmdlet returns the address space that the cmdlet removed from the IPAM serv
 
 ## RELATED LINKS
 
-[Get-IpamAddressSpace](./Get-IpamAddressSpace.md)
+[Get-IpamAddressSpace](./get-ipamaddressspace.md)
 
-[Set-IpamAddressSpace](./Set-IpamAddressSpace.md)
+[Set-IpamAddressSpace](./set-ipamaddressspace.md)
 
-[Add-IpamAddressSpace](./Add-IpamAddressSpace.md)
+[Add-IpamAddressSpace](./add-ipamaddressspace.md)
 
-[Remove-IpamAddress](./Remove-IpamAddress.md)
+[Remove-IpamAddress](./remove-ipamaddress.md)
 
-[Remove-IpamBlock](./Remove-IpamBlock.md)
+[Remove-IpamBlock](./remove-ipamblock.md)
 
-[Remove-IpamRange](./Remove-IpamRange.md)
+[Remove-IpamRange](./remove-ipamrange.md)
 
-[Remove-IpamSubnet](./Remove-IpamSubnet.md)
+[Remove-IpamSubnet](./remove-ipamsubnet.md)
+
 

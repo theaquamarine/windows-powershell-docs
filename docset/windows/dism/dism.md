@@ -48,121 +48,123 @@ catch
 For more information about error handling, see the [about_Try_Catch_Finally](http://go.microsoft.com/fwlink/p/?LinkID=317390).
 
 ## DISM Cmdlets
-### [Add-AppxProvisionedPackage](./Add-AppxProvisionedPackage.md)
+### [Add-AppxProvisionedPackage](./add-appxprovisionedpackage.md)
 Adds an app package (.appx) that will install for each new user to a Windows image.
 
-### [Add-WindowsCapability](./Add-WindowsCapability.md)
+### [Add-WindowsCapability](./add-windowscapability.md)
 Installs a Windows capability package on the specified operating system image.
 
-### [Add-WindowsDriver](./Add-WindowsDriver.md)
+### [Add-WindowsDriver](./add-windowsdriver.md)
 Adds a driver to an offline Windows image.
 
-### [Add-WindowsImage](./Add-WindowsImage.md)
+### [Add-WindowsImage](./add-windowsimage.md)
 Adds an additional image to an existing image (.wim) file.
 
-### [Add-WindowsPackage](./Add-WindowsPackage.md)
+### [Add-WindowsPackage](./add-windowspackage.md)
 Adds a single .cab or .msu file to a Windows image.
 
-### [Clear-WindowsCorruptMountPoint](./Clear-WindowsCorruptMountPoint.md)
+### [Clear-WindowsCorruptMountPoint](./clear-windowscorruptmountpoint.md)
 Deletes all of the resources associated with a mounted image that has been corrupted.
 
-### [Disable-WindowsOptionalFeature](./Disable-WindowsOptionalFeature.md)
+### [Disable-WindowsOptionalFeature](./disable-windowsoptionalfeature.md)
 Disables a feature in a Windows image.
 
-### [Dismount-WindowsImage](./Dismount-WindowsImage.md)
+### [Dismount-WindowsImage](./dismount-windowsimage.md)
 Dismounts a Windows image from the directory it is mapped to.
 
-### [Enable-WindowsOptionalFeature](./Enable-WindowsOptionalFeature.md)
+### [Enable-WindowsOptionalFeature](./enable-windowsoptionalfeature.md)
 Enables a feature in a Windows image.
 
-### [Expand-WindowsCustomDataImage](./Expand-WindowsCustomDataImage.md)
+### [Expand-WindowsCustomDataImage](./expand-windowscustomdataimage.md)
 Expands a custom data image.
 
-### [Expand-WindowsImage](./Expand-WindowsImage.md)
+### [Expand-WindowsImage](./expand-windowsimage.md)
 Applies an image to a specified location.
 
-### [Export-WindowsDriver](./Export-WindowsDriver.md)
+### [Export-WindowsDriver](./export-windowsdriver.md)
 Exports all third-party drivers from a Windows image to a destination folder.
 
-### [Export-WindowsImage](./Export-WindowsImage.md)
+### [Export-WindowsImage](./export-windowsimage.md)
 Exports a copy of the specified image to another image file.
 
-### [Get-AppxProvisionedPackage](./Get-AppxProvisionedPackage.md)
+### [Get-AppxProvisionedPackage](./get-appxprovisionedpackage.md)
 Gets information about app packages (.appx) in an image that will be installed for each new user.
 
-### [Get-WIMBootEntry](./Get-WIMBootEntry.md)
+### [Get-WIMBootEntry](./get-wimbootentry.md)
 Displays the Windows image file boot (WIMBoot) configuration entries for a specified disk volume.
 
-### [Get-WindowsCapability](./Get-WindowsCapability.md)
+### [Get-WindowsCapability](./get-windowscapability.md)
 Gets Windows capabilities for an image or a running operating system.
 
-### [Get-WindowsDriver](./Get-WindowsDriver.md)
+### [Get-WindowsDriver](./get-windowsdriver.md)
 Displays information about drivers in a Windows image.
 
-### [Get-WindowsEdition](./Get-WindowsEdition.md)
+### [Get-WindowsEdition](./get-windowsedition.md)
 Gets edition information about a Windows image.
 
-### [Get-WindowsImage](./Get-WindowsImage.md)
+### [Get-WindowsImage](./get-windowsimage.md)
 Gets information about a Windows image in a WIM or VHD file.
 
-### [Get-WindowsImageContent](./Get-WindowsImageContent.md)
+### [Get-WindowsImageContent](./get-windowsimagecontent.md)
 Displays a list of the files and folders in a specified image.
 
-### [Get-WindowsOptionalFeature](./Get-WindowsOptionalFeature.md)
+### [Get-WindowsOptionalFeature](./get-windowsoptionalfeature.md)
 Gets information about optional features in a Windows image.
 
-### [Get-WindowsPackage](./Get-WindowsPackage.md)
+### [Get-WindowsPackage](./get-windowspackage.md)
 Gets information about packages in a Windows image.
 
-### [Mount-WindowsImage](./Mount-WindowsImage.md)
+### [Mount-WindowsImage](./mount-windowsimage.md)
 Mounts a Windows image in a WIM or VHD file to a directory on the local computer.
 
-### [New-WindowsCustomImage](./New-WindowsCustomImage.md)
+### [New-WindowsCustomImage](./new-windowscustomimage.md)
 Captures an image of customized or serviced Windows components on a Windows Image File Boot (WIMBoot) configured device.
 
-### [New-WindowsImage](./New-WindowsImage.md)
+### [New-WindowsImage](./new-windowsimage.md)
 Captures an image of a drive to a new WIM file.
 
-### [Optimize-WindowsImage](./Optimize-WindowsImage.md)
+### [Optimize-WindowsImage](./optimize-windowsimage.md)
 Configures a Windows image with specified optimizations.
 
-### [Remove-AppxProvisionedPackage](./Remove-AppxProvisionedPackage.md)
+### [Remove-AppxProvisionedPackage](./remove-appxprovisionedpackage.md)
 Removes an app package (.appx) from a Windows image.
 
-### [Remove-WindowsCapability](./Remove-WindowsCapability.md)
+### [Remove-WindowsCapability](./remove-windowscapability.md)
 Uninstalls a Windows capability package from an image.
 
-### [Remove-WindowsDriver](./Remove-WindowsDriver.md)
+### [Remove-WindowsDriver](./remove-windowsdriver.md)
 Removes a driver from an offline Windows image.
 
-### [Remove-WindowsImage](./Remove-WindowsImage.md)
+### [Remove-WindowsImage](./remove-windowsimage.md)
 Deletes the specified volume image from a WIM file that has multiple volume images.
 
-### [Remove-WindowsPackage](./Remove-WindowsPackage.md)
+### [Remove-WindowsPackage](./remove-windowspackage.md)
 Removes a package from a Windows image.
 
-### [Repair-WindowsImage](./Repair-WindowsImage.md)
+### [Repair-WindowsImage](./repair-windowsimage.md)
 Repairs a Windows image in a WIM or VHD file.
 
-### [Save-WindowsImage](./Save-WindowsImage.md)
+### [Save-WindowsImage](./save-windowsimage.md)
 Applies changes made to a mounted image to its WIM or VHD file.
 
-### [Set-AppXProvisionedDataFile](./Set-AppXProvisionedDataFile.md)
+### [Set-AppXProvisionedDataFile](./set-appxprovisioneddatafile.md)
 Adds custom data into the specified app (.appx) package that has been provisioned in a Windows image.
 
-### [Set-WindowsEdition](./Set-WindowsEdition.md)
+### [Set-WindowsEdition](./set-windowsedition.md)
 Changes a Windows image to a higher edition.
 
-### [Set-WindowsProductKey](./Set-WindowsProductKey.md)
+### [Set-WindowsProductKey](./set-windowsproductkey.md)
 Sets the product key for the Windows image.
 
-### [Split-WindowsImage](./Split-WindowsImage.md)
+### [Split-WindowsImage](./split-windowsimage.md)
 Splits an existing .wim file into multiple read-only split .wim files.
 
-### [Update-WIMBootEntry](./Update-WIMBootEntry.md)
+### [Update-WIMBootEntry](./update-wimbootentry.md)
 Updates the Windows image file boot (WIMBoot) configuration entry, associated with either the specified data source ID, the renamed image file path or the moved image file path.
 
-### [Use-WindowsUnattend](./Use-WindowsUnattend.md)
+### [Use-WindowsUnattend](./use-windowsunattend.md)
 Applies an unattended answer file to a Windows image.
+
+
 
 

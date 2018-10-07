@@ -28,48 +28,49 @@ ms.assetid: 38D4C333-40CC-4E35-943F-5AC57EEB53A7
 The System Insights module contains the PowerShell cmdlets for [System Insights](https://aka.ms/SystemInsights), a predictive analytics feature for Windows Server 2019. 
 
 ## systeminsights Cmdlets
-### [Add-InsightsCapability](Add-InsightsCapability.md)
+### [Add-InsightsCapability](add-insightscapability.md)
 The **Add-InsightsCapability** cmdlet dynamically adds a new capability using the specified capability name and capability library.
 
-### [Disable-InsightsCapability](Disable-InsightsCapability.md)
+### [Disable-InsightsCapability](disable-insightscapability.md)
 The **Disable-InsightsCapability** cmdlet deactivates a capability, which stops data collection for that capability and prevents the capability from being invoked.
 
-### [Disable-InsightsCapabilitySchedule](Disable-InsightsCapabilitySchedule.md)
+### [Disable-InsightsCapabilitySchedule](disable-insightscapabilityschedule.md)
 The **Disable-InsightsCapabilitySchedule** cmdlet disables periodic predictions for the specified capabilities.
 
-### [Enable-InsightsCapability](Enable-InsightsCapability.md)
+### [Enable-InsightsCapability](enable-insightscapability.md)
 The **Enable-InsightsCapability** cmdlet activates a capability, which starts all data collection for that capability, allows the capability to be invoked, and enables users to set custom configuration information.
 
-### [Enable-InsightsCapabilitySchedule](Enable-InsightsCapabilitySchedule.md)
+### [Enable-InsightsCapabilitySchedule](enable-insightscapabilityschedule.md)
 The **Enable-InsightsCapabilitySchedule** cmdlet enables periodic predictions for the specified capabilities.
 
-### [Get-InsightsCapability](Get-InsightsCapability.md)
+### [Get-InsightsCapability](get-insightscapability.md)
 The **Get-InsightsCapability** cmdlet gets the specified capability, or all available capabilities if left unspecified.
 
-### [Get-InsightsCapabilityAction](Get-InsightsCapabilityAction.md)
+### [Get-InsightsCapabilityAction](get-insightscapabilityaction.md)
 The **Get-InsightsCapabilityAction** cmdlet gets the actions for the specified capabilities. 
 
-### [Get-InsightsCapabilityResult](Get-InsightsCapabilityResult.md)
+### [Get-InsightsCapabilityResult](get-insightscapabilityresult.md)
 The **Get-InsightsCapabilityResult** cmdlet gets the most recent prediction or the last 30 predictions from the specified capabilities.
 
-### [Get-InsightsCapabilitySchedule](Get-InsightsCapabilitySchedule.md)
+### [Get-InsightsCapabilitySchedule](get-insightscapabilityschedule.md)
 The **Get-InsightsCapabilitySchedule** cmdlet gets the schedule for the specified capabilities.
 
-### [Invoke-InsightsCapability](Invoke-InsightsCapability.md)
+### [Invoke-InsightsCapability](invoke-insightscapability.md)
 The **Invoke-InsightsCapability** cmdlet invokes the specified capability.
 
-### [Remove-InsightsCapability](Remove-InsightsCapability.md)
+### [Remove-InsightsCapability](remove-insightscapability.md)
 The **Remove-InsightsCapability** cmdlet permanently removes a capability from System Insights. 
 
-### [Remove-InsightsCapabilityAction](Remove-InsightsCapabilityAction.md)
+### [Remove-InsightsCapabilityAction](remove-insightscapabilityaction.md)
 The **Remove-InsightsCapabilityAction** cmdlet removes the action(s) associated with a capability.
 
-### [Set-InsightsCapabilityAction](Set-InsightsCapabilityAction.md)
+### [Set-InsightsCapabilityAction](set-insightscapabilityaction.md)
 The **Set-InsightsCapabilityAction** cmdlet sets a remediation action that is tied to a prediction result.
 
-### [Set-InsightsCapabilitySchedule](Set-InsightsCapabilitySchedule.md)
+### [Set-InsightsCapabilitySchedule](set-insightscapabilityschedule.md)
 The **Set-InsightsCapabilitySchedule** cmdlet sets a prediction schedule for the specified capabilities.
 
-### [Update-InsightsCapability](Update-InsightsCapability.md)
+### [Update-InsightsCapability](update-insightscapability.md)
 The **Update-InsightsCapability** cmdlet updates an existing System Insights capability. Updating a capability will preserve all of the custom configuration information associated with a capability.
+
 

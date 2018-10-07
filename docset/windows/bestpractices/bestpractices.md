@@ -24,16 +24,17 @@ ms.assetid: F8643E33-1240-44C1-A3E3-08A355A4E190
 This reference provides cmdlet descriptions and syntax for all -specific cmdlets. It lists the cmdlets in alphabetical order based on the verb at the beginning of the cmdlet.
 
 ## BestPractices Cmdlets
-### [Get-BpaModel](./Get-BpaModel.md)
+### [Get-BpaModel](./get-bpamodel.md)
 Retrieves and displays the list of BPA models installed on the system.
 
-### [Get-BpaResult](./Get-BpaResult.md)
+### [Get-BpaResult](./get-bparesult.md)
 Retrieves and displays the results of the most recent Best Practices Analyzer (BPA) scan for a specific model.
 
-### [Invoke-BpaModel](./Invoke-BpaModel.md)
+### [Invoke-BpaModel](./invoke-bpamodel.md)
 Starts a BPA scan for a specific model that is installed on a computer.
 
-### [Set-BpaResult](./Set-BpaResult.md)
+### [Set-BpaResult](./set-bparesult.md)
 Excludes or includes existing results of a BPA scan to display only the specified scan results.
+
 
 

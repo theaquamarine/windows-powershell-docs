@@ -64,7 +64,8 @@ This cmdlet does not generate any output.
 
 ## RELATED LINKS
 
-[Clear-AssignedAccess](./Clear-AssignedAccess.md)
+[Clear-AssignedAccess](./clear-assignedaccess.md)
 
-[Set-AssignedAccess](./Set-AssignedAccess.md)
+[Set-AssignedAccess](./set-assignedaccess.md)
+
 

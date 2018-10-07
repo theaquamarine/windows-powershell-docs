@@ -171,7 +171,8 @@ None.
 
 ## RELATED LINKS
 
-[Get-WmsApp](./Get-WmsApp.md)
+[Get-WmsApp](./get-wmsapp.md)
 
-[Open-WmsApp](./Open-WmsApp.md)
+[Open-WmsApp](./open-wmsapp.md)
+
 

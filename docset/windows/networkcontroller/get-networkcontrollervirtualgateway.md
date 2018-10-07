@@ -177,7 +177,8 @@ This cmdlet returns objects that contain the following fields.
 
 ## RELATED LINKS
 
-[New-NetworkControllerVirtualGateway](./New-NetworkControllerVirtualGateway.md)
+[New-NetworkControllerVirtualGateway](./new-networkcontrollervirtualgateway.md)
 
-[Remove-NetworkControllerVirtualGateway](./Remove-NetworkControllerVirtualGateway.md)
+[Remove-NetworkControllerVirtualGateway](./remove-networkcontrollervirtualgateway.md)
+
 

@@ -199,7 +199,9 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-WindowsDriver](./Get-WindowsDriver.md)
+[Get-WindowsDriver](./get-windowsdriver.md)
 
-[Add-WindowsDriver](./Add-WindowsDriver.md)
+[Add-WindowsDriver](./add-windowsdriver.md)
+
+
 

@@ -33,7 +33,7 @@ Get-ClusteredScheduledTask [[-TaskName] <String>] [[-Cluster] <String>] [[-TaskT
 The **Get-ClusteredScheduledTask** cmdlet gets the clustered scheduled tasks registered on a failover cluster.
 You can specify task name or task type.
 
-For more information about the Windows Server® 2012 Task Scheduler, see the [Task Scheduler Overview](http://technet.microsoft.com/en-us/library/cc721871.aspx) topic in the TechNet Library at http://technet.microsoft.com/en-us/library/cc721871.aspx.
+For more information about the Windows Server?? 2012 Task Scheduler, see the [Task Scheduler Overview](http://technet.microsoft.com/en-us/library/cc721871.aspx) topic in the TechNet Library at http://technet.microsoft.com/en-us/library/cc721871.aspx.
 
 ## EXAMPLES
 
@@ -135,7 +135,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -163,9 +163,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Register-ClusteredScheduledTask](./Register-ClusteredScheduledTask.md)
+[Register-ClusteredScheduledTask](./register-clusteredscheduledtask.md)
 
-[Set-ClusteredScheduledTask](./Set-ClusteredScheduledTask.md)
+[Set-ClusteredScheduledTask](./set-clusteredscheduledtask.md)
 
-[Unregister-ClusteredScheduledTask](./Unregister-ClusteredScheduledTask.md)
+[Unregister-ClusteredScheduledTask](./unregister-clusteredscheduledtask.md)
+
 

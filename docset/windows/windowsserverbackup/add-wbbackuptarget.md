@@ -34,14 +34,14 @@ To use this cmdlet, you must first use the New-WBBackupTarget cmdlet to create a
 You can then use the Add-WBBackupTarget cmdlet to specify the storage location by using a disk, a volume, or a remote shared folder (network) location.
 
 Before you can add a backup target to a **WBPolicy** object, you must make sure that the **WBPolicy** object is in edit mode.
-To put the **WBPolicy** object in edit mode for a policy that you have set as the scheduled backup policy, use the [Get-WBPolicy](./Get-WBPolicy.md) cmdlet with the *Editable* parameter.
-The [New-WBPolicy](./New-WBPolicy.md) cmdlet creates a new **WBPolicy** object that is already in edit mode.
+To put the **WBPolicy** object in edit mode for a policy that you have set as the scheduled backup policy, use the [Get-WBPolicy](./get-wbpolicy.md) cmdlet with the *Editable* parameter.
+The [New-WBPolicy](./new-wbpolicy.md) cmdlet creates a new **WBPolicy** object that is already in edit mode.
 
 If you specify a disk as a storage location for backups, the server formats the disk before it uses the disk and permanently deletes any existing data on the disk.
 
 You can add only one storage type at a time to a policy.
 If you specify a shared folder as the storage location, you cannot add more locations because you can specify only one shared folder as a storage location at any time.
-However, you can specify multiple disks or volumes at one time by calling [Add-WBBackupTarget](./Add-WBBackupTarget.md) for each location.
+However, you can specify multiple disks or volumes at one time by calling [Add-WBBackupTarget](./add-wbbackuptarget.md) for each location.
 
 To use this cmdlet, you must be a member of the Administrators group or Backup Operators group.
 
@@ -58,7 +58,7 @@ This example adds a backup storage location to a backup policy.
 The first command gets the current backup policy and stores it in a variable named $Policy.
 
 The second command adds the backup storage location in the variable named $BackupLocation to the **WBPolicy** object in the variable named $Policy.
-You can create the backup target that you add to the location in the $BackupLocation variable by using the [New-WBBackupTarget](./New-WBBackupTarget.md) cmdlet.
+You can create the backup target that you add to the location in the $BackupLocation variable by using the [New-WBBackupTarget](./new-wbbackuptarget.md) cmdlet.
 
 ## PARAMETERS
 
@@ -126,13 +126,14 @@ This cmdlet returns a list of storage locations from the **WBPolicy** objects th
 
 ## RELATED LINKS
 
-[Get-WBBackupTarget](./Get-WBBackupTarget.md)
+[Get-WBBackupTarget](./get-wbbackuptarget.md)
 
-[Get-WBPolicy](./Get-WBPolicy.md)
+[Get-WBPolicy](./get-wbpolicy.md)
 
-[New-WBBackupTarget](./New-WBBackupTarget.md)
+[New-WBBackupTarget](./new-wbbackuptarget.md)
 
-[New-WBPolicy](./New-WBPolicy.md)
+[New-WBPolicy](./new-wbpolicy.md)
 
-[Remove-WBBackupTarget](./Remove-WBBackupTarget.md)
+[Remove-WBBackupTarget](./remove-wbbackuptarget.md)
+
 

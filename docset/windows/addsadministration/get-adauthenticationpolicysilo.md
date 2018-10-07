@@ -52,7 +52,7 @@ You can identify an authentication policy silo by its distinguished name (DN), G
 You can also use the *Identity* parameter to specify a variable that contains an authentication policy silo object, or you can use the pipeline operator to pass an authentication policy silo object to the *Identity* parameter.
 
 You can search for and use multiple authentication policies by specifying the *Filter* parameter or the *LDAPFilter* parameter.
-The *Filter* parameter uses the Windows PowerShell® expression language to write query strings for Active Directory Domain Services.
+The *Filter* parameter uses the Windows PowerShell?? expression language to write query strings for Active Directory Domain Services.
 Windows PowerShell expression language syntax provides rich type conversion support for value types received by the *Filter* parameter.
 For more information about the *Filter* parameter syntax, type `Get-Help about_ActiveDirectory_Filter`.
 If you have existing Lightweight Directory Access Protocol (LDAP) query strings, you can use the *LDAPFilter* parameter.
@@ -319,11 +319,12 @@ To retrieve additional **ADAuthenticationPolicySilo** properties, use the *Prope
 
 ## RELATED LINKS
 
-[New-ADAuthenticationPolicySilo](./New-ADAuthenticationPolicySilo.md)
+[New-ADAuthenticationPolicySilo](./new-adauthenticationpolicysilo.md)
 
-[Remove-ADAuthenticationPolicySilo](./Remove-ADAuthenticationPolicySilo.md)
+[Remove-ADAuthenticationPolicySilo](./remove-adauthenticationpolicysilo.md)
 
-[Set-ADAuthenticationPolicySilo](./Set-ADAuthenticationPolicySilo.md)
+[Set-ADAuthenticationPolicySilo](./set-adauthenticationpolicysilo.md)
 
 [AD DS Administration Cmdlets in Windows PowerShell](./activedirectory.md)
+
 

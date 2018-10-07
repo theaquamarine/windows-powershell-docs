@@ -24,61 +24,62 @@ ms.assetid: 71B470A7-DC58-4A30-9F5E-AB0B25A64625
 This reference provides cmdlet descriptions and syntax for all VPN Client-specific cmdlets. It lists the cmdlets in alphabetical order.
 
 ## VpnClient Cmdlets
-### [Add-VpnConnection](./Add-VpnConnection.md)
+### [Add-VpnConnection](./add-vpnconnection.md)
 Adds a VPN connection to the Connection Manager phone book.
 
-### [Add-VpnConnectionRoute](./Add-VpnConnectionRoute.md)
+### [Add-VpnConnectionRoute](./add-vpnconnectionroute.md)
 Adds a route to a VPN connection.
 
-### [Add-VpnConnectionTriggerApplication](./Add-VpnConnectionTriggerApplication.md)
+### [Add-VpnConnectionTriggerApplication](./add-vpnconnectiontriggerapplication.md)
 Adds applications that automatically trigger a VPN connection when launched.
 
-### [Add-VpnConnectionTriggerDnsConfiguration](./Add-VpnConnectionTriggerDnsConfiguration.md)
+### [Add-VpnConnectionTriggerDnsConfiguration](./add-vpnconnectiontriggerdnsconfiguration.md)
 Adds a DNS suffix or name to VPN connection trigger properties.
 
-### [Add-VpnConnectionTriggerTrustedNetwork](./Add-VpnConnectionTriggerTrustedNetwork.md)
+### [Add-VpnConnectionTriggerTrustedNetwork](./add-vpnconnectiontriggertrustednetwork.md)
 Adds DNS suffixes as trusted networks to the VPN profile.
 
-### [Get-VpnConnection](./Get-VpnConnection.md)
+### [Get-VpnConnection](./get-vpnconnection.md)
 Retrieves the specified VPN connection profile information.
 
-### [Get-VpnConnectionTrigger](./Get-VpnConnectionTrigger.md)
+### [Get-VpnConnectionTrigger](./get-vpnconnectiontrigger.md)
 Gets trigger properties of a VPN connection.
 
-### [New-EapConfiguration](./New-EapConfiguration.md)
+### [New-EapConfiguration](./new-eapconfiguration.md)
 Generates an XML file with the specified EAP configuration.
 
-### [New-VpnServerAddress](./New-VpnServerAddress.md)
+### [New-VpnServerAddress](./new-vpnserveraddress.md)
 Creates a VPN server address object.
 
-### [Remove-VpnConnection](./Remove-VpnConnection.md)
+### [Remove-VpnConnection](./remove-vpnconnection.md)
 Removes specified VPN connection profiles.
 
-### [Remove-VpnConnectionRoute](./Remove-VpnConnectionRoute.md)
+### [Remove-VpnConnectionRoute](./remove-vpnconnectionroute.md)
 Removes a route from a VPN connection.
 
-### [Remove-VpnConnectionTriggerApplication](./Remove-VpnConnectionTriggerApplication.md)
+### [Remove-VpnConnectionTriggerApplication](./remove-vpnconnectiontriggerapplication.md)
 Removes a trigger application from a VPN connection object.
 
-### [Remove-VpnConnectionTriggerDnsConfiguration](./Remove-VpnConnectionTriggerDnsConfiguration.md)
+### [Remove-VpnConnectionTriggerDnsConfiguration](./remove-vpnconnectiontriggerdnsconfiguration.md)
 Removes DNS suffixes from VPN connection DNS trigger properties.
 
-### [Remove-VpnConnectionTriggerTrustedNetwork](./Remove-VpnConnectionTriggerTrustedNetwork.md)
+### [Remove-VpnConnectionTriggerTrustedNetwork](./remove-vpnconnectiontriggertrustednetwork.md)
 Removes DNS suffixes previously configured as trusted networks from the VPN profile.
 
-### [Set-VpnConnection](./Set-VpnConnection.md)
+### [Set-VpnConnection](./set-vpnconnection.md)
 Changes the configuration settings of an existing VPN connection profile.
 
-### [Set-VpnConnectionIPsecConfiguration](./Set-VpnConnectionIPsecConfiguration.md)
+### [Set-VpnConnectionIPsecConfiguration](./set-vpnconnectionipsecconfiguration.md)
 Sets the IPsec parameters of a VPN connection.
 
-### [Set-VpnConnectionProxy](./Set-VpnConnectionProxy.md)
+### [Set-VpnConnectionProxy](./set-vpnconnectionproxy.md)
 Configures web proxy information for the specified VPN connection.
 
-### [Set-VpnConnectionTriggerDnsConfiguration](./Set-VpnConnectionTriggerDnsConfiguration.md)
+### [Set-VpnConnectionTriggerDnsConfiguration](./set-vpnconnectiontriggerdnsconfiguration.md)
 Changes DNS servers for an existing DNS suffix.
 
-### [Set-VpnConnectionTriggerTrustedNetwork](./Set-VpnConnectionTriggerTrustedNetwork.md)
+### [Set-VpnConnectionTriggerTrustedNetwork](./set-vpnconnectiontriggertrustednetwork.md)
 Sets the trusted network list.
+
 
 

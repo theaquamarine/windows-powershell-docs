@@ -24,130 +24,131 @@ ms.assetid: 68C7868F-B038-4DBC-8EC0-744F671B3BA7
 This reference provides cmdlet descriptions and syntax for all NFS cmdlets. It lists the cmdlets in alphabetical order based on the verb at the beginning of the cmdlet.
 
 ## NFS Cmdlets
-### [Disconnect-NfsSession](./Disconnect-NfsSession.md)
+### [Disconnect-NfsSession](./disconnect-nfssession.md)
 Disconnects NFS sessions that a client computer established on an NFS server.
 
-### [Get-NfsClientConfiguration](./Get-NfsClientConfiguration.md)
+### [Get-NfsClientConfiguration](./get-nfsclientconfiguration.md)
 Gets configuration settings for an NFS client.
 
-### [Get-NfsClientgroup](./Get-NfsClientgroup.md)
+### [Get-NfsClientgroup](./get-nfsclientgroup.md)
 Gets client groups configured on an NFS server.
 
-### [Get-NfsClientLock](./Get-NfsClientLock.md)
+### [Get-NfsClientLock](./get-nfsclientlock.md)
 Gets file locks that a client computer holds on an NFS server.
 
-### [Get-NfsMappedIdentity](./Get-NfsMappedIdentity.md)
+### [Get-NfsMappedIdentity](./get-nfsmappedidentity.md)
 Gets an NFS mapped identity.
 
-### [Get-NfsMappingStore](./Get-NfsMappingStore.md)
+### [Get-NfsMappingStore](./get-nfsmappingstore.md)
 Gets configuration settings for an identity mapping store.
 
-### [Get-NfsMountedClient](./Get-NfsMountedClient.md)
+### [Get-NfsMountedClient](./get-nfsmountedclient.md)
 Gets clients that are connected to an NFS server.
 
-### [Get-NfsNetgroup](./Get-NfsNetgroup.md)
+### [Get-NfsNetgroup](./get-nfsnetgroup.md)
 Gets a netgroup.
 
-### [Get-NfsNetgroupStore](./Get-NfsNetgroupStore.md)
+### [Get-NfsNetgroupStore](./get-nfsnetgroupstore.md)
 Gets settings for a netgroup store.
 
-### [Get-NfsOpenFile](./Get-NfsOpenFile.md)
+### [Get-NfsOpenFile](./get-nfsopenfile.md)
 Gets information about files that are open on an NFS server for a client computer.
 
-### [Get-NfsServerConfiguration](./Get-NfsServerConfiguration.md)
+### [Get-NfsServerConfiguration](./get-nfsserverconfiguration.md)
 Gets configuration settings for an NFS server.
 
-### [Get-NfsSession](./Get-NfsSession.md)
+### [Get-NfsSession](./get-nfssession.md)
 Gets information about which client computers are currently connected to one or more shares on an NFS server.
 
-### [Get-NfsShare](./Get-NfsShare.md)
+### [Get-NfsShare](./get-nfsshare.md)
 Gets NFS shares on an NFS server.
 
-### [Get-NfsSharePermission](./Get-NfsSharePermission.md)
+### [Get-NfsSharePermission](./get-nfssharepermission.md)
 Gets information about permissions that an NFS server grants to exported NFS shares.
 
-### [Get-NfsStatistics](./Get-NfsStatistics.md)
+### [Get-NfsStatistics](./get-nfsstatistics.md)
 Gets RPC call statistics that an NFS server maintains.
 
-### [Grant-NfsSharePermission](./Grant-NfsSharePermission.md)
+### [Grant-NfsSharePermission](./grant-nfssharepermission.md)
 Grants permission to access shares that an NFS server exports.
 
-### [Install-NfsMappingStore](./Install-NfsMappingStore.md)
+### [Install-NfsMappingStore](./install-nfsmappingstore.md)
 Installs and initializes an AD LDS instance as an identity mapping store.
 
-### [New-NfsClientgroup](./New-NfsClientgroup.md)
+### [New-NfsClientgroup](./new-nfsclientgroup.md)
 Creates a client group on an NFS server.
 
-### [New-NfsMappedIdentity](./New-NfsMappedIdentity.md)
+### [New-NfsMappedIdentity](./new-nfsmappedidentity.md)
 Creates a new NFS mapped identity.
 
-### [New-NfsNetgroup](./New-NfsNetgroup.md)
+### [New-NfsNetgroup](./new-nfsnetgroup.md)
 Creates a netgroup.
 
-### [New-NfsShare](./New-NfsShare.md)
+### [New-NfsShare](./new-nfsshare.md)
 Creates an NFS file share.
 
-### [Remove-NfsClientgroup](./Remove-NfsClientgroup.md)
+### [Remove-NfsClientgroup](./remove-nfsclientgroup.md)
 Removes a client group from an NFS server.
 
-### [Remove-NfsMappedIdentity](./Remove-NfsMappedIdentity.md)
+### [Remove-NfsMappedIdentity](./remove-nfsmappedidentity.md)
 Removes a mapping between a UNIX account and a Windows account.
 
-### [Remove-NfsNetgroup](./Remove-NfsNetgroup.md)
+### [Remove-NfsNetgroup](./remove-nfsnetgroup.md)
 Removes a netgroup.
 
-### [Remove-NfsShare](./Remove-NfsShare.md)
+### [Remove-NfsShare](./remove-nfsshare.md)
 Stops sharing NFS shares.
 
-### [Rename-NfsClientgroup](./Rename-NfsClientgroup.md)
+### [Rename-NfsClientgroup](./rename-nfsclientgroup.md)
 Renames a client group on an NFS server.
 
-### [Reset-NfsStatistics](./Reset-NfsStatistics.md)
+### [Reset-NfsStatistics](./reset-nfsstatistics.md)
 Resets RPC call statistics that an NFS server maintains.
 
-### [Resolve-NfsMappedIdentity](./Resolve-NfsMappedIdentity.md)
+### [Resolve-NfsMappedIdentity](./resolve-nfsmappedidentity.md)
 Resolves the mapping of a Windows user account or group account to a UNIX identifier.
 
-### [Revoke-NfsClientLock](./Revoke-NfsClientLock.md)
+### [Revoke-NfsClientLock](./revoke-nfsclientlock.md)
 Releases file locks that a client computer holds on an NFS server.
 
-### [Revoke-NfsMountedClient](./Revoke-NfsMountedClient.md)
+### [Revoke-NfsMountedClient](./revoke-nfsmountedclient.md)
 Revokes a mounted client from an NFS server.
 
-### [Revoke-NfsOpenFile](./Revoke-NfsOpenFile.md)
+### [Revoke-NfsOpenFile](./revoke-nfsopenfile.md)
 Revokes open files on an NFS server for a client computer.
 
-### [Revoke-NfsSharePermission](./Revoke-NfsSharePermission.md)
+### [Revoke-NfsSharePermission](./revoke-nfssharepermission.md)
 Revokes permission to access shares that an NFS server exports.
 
-### [Set-NfsClientConfiguration](./Set-NfsClientConfiguration.md)
+### [Set-NfsClientConfiguration](./set-nfsclientconfiguration.md)
 Changes configuration settings for an NFS client.
 
-### [Set-NfsClientgroup](./Set-NfsClientgroup.md)
+### [Set-NfsClientgroup](./set-nfsclientgroup.md)
 Adds and removes client computers from a client group.
 
-### [Set-NfsMappedIdentity](./Set-NfsMappedIdentity.md)
+### [Set-NfsMappedIdentity](./set-nfsmappedidentity.md)
 Modifies a mapped identity.
 
-### [Set-NfsMappingStore](./Set-NfsMappingStore.md)
+### [Set-NfsMappingStore](./set-nfsmappingstore.md)
 Modifies configuration settings for an identity mapping store.
 
-### [Set-NfsNetgroup](./Set-NfsNetgroup.md)
+### [Set-NfsNetgroup](./set-nfsnetgroup.md)
 Modifies a netgroup.
 
-### [Set-NfsNetgroupStore](./Set-NfsNetgroupStore.md)
+### [Set-NfsNetgroupStore](./set-nfsnetgroupstore.md)
 Modifies netgroup configuration settings.
 
-### [Set-NfsServerConfiguration](./Set-NfsServerConfiguration.md)
+### [Set-NfsServerConfiguration](./set-nfsserverconfiguration.md)
 Changes configuration settings for an NFS server.
 
-### [Set-NfsShare](./Set-NfsShare.md)
+### [Set-NfsShare](./set-nfsshare.md)
 Changes configuration settings of an NFS share.
 
-### [Test-NfsMappedIdentity](./Test-NfsMappedIdentity.md)
+### [Test-NfsMappedIdentity](./test-nfsmappedidentity.md)
 Verifies that a mapped identity is correctly configured.
 
-### [Test-NfsMappingStore](./Test-NfsMappingStore.md)
+### [Test-NfsMappingStore](./test-nfsmappingstore.md)
 Verifies that an identity mapping store is configured correctly.
+
 
 

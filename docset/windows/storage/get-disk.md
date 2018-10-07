@@ -284,7 +284,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -393,17 +393,18 @@ This cmdlet outputs one or more objects representing disks.
 
 [Where-Object](http://go.microsoft.com/fwlink/p/?LinkID=113423)
 
-[Clear-Disk](./Clear-Disk.md)
+[Clear-Disk](./clear-disk.md)
 
-[Get-Partition](./Get-Partition.md)
+[Get-Partition](./get-partition.md)
 
-[Get-StorageJob](./Get-StorageJob.md)
+[Get-StorageJob](./get-storagejob.md)
 
-[Get-StorageSubSystem](./Get-StorageSubsystem.md)
+[Get-StorageSubSystem](./get-storagesubsystem.md)
 
-[Initialize-Disk](./Initialize-Disk.md)
+[Initialize-Disk](./initialize-disk.md)
 
-[Set-Disk](./Set-Disk.md)
+[Set-Disk](./set-disk.md)
 
-[Update-Disk](./Update-Disk.md)
+[Update-Disk](./update-disk.md)
+
 

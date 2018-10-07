@@ -47,7 +47,7 @@ Set-NetQosTrafficClass -InputObject <CimInstance[]> [-Algorithm <Algorithm>] [-B
 
 ## DESCRIPTION
 The **Set-NetQosTrafficClass** cmdlet modifies the settings of a traffic class, such as the mapping between 802.1p priority and traffic class, the transmission algorithm that must be used, and the bandwidth allocation to the traffic class.
-If Windows Server® 2012 or later is set to be **not willing** to accept configurations from a remote device, then Windows Server 2012 or later sends the updated settings to data center bridging (DCB)-capable network adapters in the computer.
+If Windows Server?? 2012 or later is set to be **not willing** to accept configurations from a remote device, then Windows Server 2012 or later sends the updated settings to data center bridging (DCB)-capable network adapters in the computer.
 
 For more information about remote device configurations, see the **Set-NetQosDcbxSetting** cmdlet.
 
@@ -286,13 +286,14 @@ Only if you specify the *PassThru* parameter does the cmdlet return the **MSFT_N
 
 ## RELATED LINKS
 
-[Get-NetQosTrafficClass](./Get-NetQosTrafficClass.md)
+[Get-NetQosTrafficClass](./get-netqostrafficclass.md)
 
-[New-NetQosTrafficClass](./New-NetQosTrafficClass.md)
+[New-NetQosTrafficClass](./new-netqostrafficclass.md)
 
-[Remove-NetQosTrafficClass](./Remove-NetQosTrafficClass.md)
+[Remove-NetQosTrafficClass](./remove-netqostrafficclass.md)
 
-[Set-NetQosDcbxSetting](./Set-NetQosDcbxSetting.md)
+[Set-NetQosDcbxSetting](./set-netqosdcbxsetting.md)
 
-[Set-NetQosTrafficClass](./Set-NetQosTrafficClass.md)
+[Set-NetQosTrafficClass](./set-netqostrafficclass.md)
+
 

@@ -110,9 +110,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Invoke-AdfsFarmBehaviorLevelRaise](./Invoke-AdfsFarmBehaviorLevelRaise.md)
+[Invoke-AdfsFarmBehaviorLevelRaise](./invoke-adfsfarmbehaviorlevelraise.md)
 
-[Restore-AdfsFarmBehaviorLevel](./Restore-AdfsFarmBehaviorLevel.md)
+[Restore-AdfsFarmBehaviorLevel](./restore-adfsfarmbehaviorlevel.md)
 
-[Test-AdfsFarmBehaviorLevelRaise](./Test-AdfsFarmBehaviorLevelRaise.md)
+[Test-AdfsFarmBehaviorLevelRaise](./test-adfsfarmbehaviorlevelraise.md)
+
 

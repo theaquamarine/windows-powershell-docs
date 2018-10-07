@@ -206,9 +206,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-WebBinding](./Get-WebBinding.md)
+[Get-WebBinding](./get-webbinding.md)
 
-[New-WebBinding](./New-WebBinding.md)
+[New-WebBinding](./new-webbinding.md)
 
-[Set-WebBinding](./Set-WebBinding.md)
+[Set-WebBinding](./set-webbinding.md)
+
 

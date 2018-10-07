@@ -32,7 +32,7 @@ Get-WBJob [[-Previous] <UInt32>] [<CommonParameters>]
 The **Get-WBJob** cmdlet gets the current backup operation (if one is running) or the previous backup or recovery operation.
 A **WBJob** object contains the backup or recovery operation.
 
-To start a backup, use the [Start-WBBackup](./Start-WBBackup.md) cmdlet.
+To start a backup, use the [Start-WBBackup](./start-wbbackup.md) cmdlet.
 
 To use this cmdlet, you must be a member of the Administrators group or Backup Operators group.
 
@@ -98,7 +98,8 @@ This cmdlet returns a **WBJob** object that contains the currently or previously
 
 ## RELATED LINKS
 
-[Start-WBBackup](./Start-WBBackup.md)
+[Start-WBBackup](./start-wbbackup.md)
 
-[Stop-WBJob](./Stop-WBJob.md)
+[Stop-WBJob](./stop-wbjob.md)
+
 

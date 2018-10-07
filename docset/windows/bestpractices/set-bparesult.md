@@ -134,11 +134,12 @@ The input object specified by the *Results* parameter.
 
 ## RELATED LINKS
 
-[Get-BpaModel](./Get-BpaModel.md)
+[Get-BpaModel](./get-bpamodel.md)
 
-[Get-BpaResult](./Get-BpaResult.md)
+[Get-BpaResult](./get-bparesult.md)
 
-[Invoke-BpaModel](./Invoke-BpaModel.md)
+[Invoke-BpaModel](./invoke-bpamodel.md)
 
 [Where-Object](http://go.microsoft.com/fwlink/?LinkID=113423)
+
 

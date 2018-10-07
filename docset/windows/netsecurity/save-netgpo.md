@@ -39,7 +39,7 @@ When the policy store is a GPO on a busy domain controller, an administrator wil
 Modifications are performed through the use of the *GPOSession* parameter.
 
 This cmdlet does not batch individual changes, it loads and saves the entire GPO at once.
-If any other changes were made by another administrator, or in a different Windows PowerShell® session, saving the GPO would overwrite those changes.
+If any other changes were made by another administrator, or in a different Windows PowerShell?? session, saving the GPO would overwrite those changes.
 
 ## EXAMPLES
 
@@ -99,7 +99,7 @@ Accept wildcard characters: False
 ### -GPOSession
 Specifies the GPO session to be saved. 
 This parameter is used in the same way as the *PolicyStore* parameter.
-When modifying GPOs in Windows PowerShell®, each change to a GPO requires the entire GPO to be loaded, modified, and saved back.
+When modifying GPOs in Windows PowerShell??, each change to a GPO requires the entire GPO to be loaded, modified, and saved back.
 On a busy Domain Controller (DC), this can be a slow and resource-heavy operation.
 A GPO session loads a domain GPO onto the local computer and makes all changes in a batch, before saving it back.
 This reduces the load on the DC and speeds up the Windows PowerShell cmdlets.
@@ -120,7 +120,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -152,9 +152,10 @@ The path after the pound sign (`#`) provides the namespace and class name for th
 
 ## RELATED LINKS
 
-[New-NetFirewallRule](./New-NetFirewallRule.md)
+[New-NetFirewallRule](./new-netfirewallrule.md)
 
-[Open-NetGPO](./Open-NetGPO.md)
+[Open-NetGPO](./open-netgpo.md)
 
-[Remove-NetFirewallRule](./Remove-NetFirewallRule.md)
+[Remove-NetFirewallRule](./remove-netfirewallrule.md)
+
 

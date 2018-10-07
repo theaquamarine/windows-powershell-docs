@@ -99,13 +99,14 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Disable-WebGlobalModule](./Disable-WebGlobalModule.md)
+[Disable-WebGlobalModule](./disable-webglobalmodule.md)
 
-[Enable-WebGlobalModule](./Enable-WebGlobalModule.md)
+[Enable-WebGlobalModule](./enable-webglobalmodule.md)
 
-[Get-WebGlobalModule](./Get-WebGlobalModule.md)
+[Get-WebGlobalModule](./get-webglobalmodule.md)
 
-[New-WebGlobalModule](./New-WebGlobalModule.md)
+[New-WebGlobalModule](./new-webglobalmodule.md)
 
-[Set-WebGlobalModule](./Set-WebGlobalModule.md)
+[Set-WebGlobalModule](./set-webglobalmodule.md)
+
 

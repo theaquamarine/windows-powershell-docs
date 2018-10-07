@@ -49,7 +49,7 @@ Virtual Machine1           node2                              Online
 ```
 
 This example performs a live migration of the clustered virtual machine named Virtual Machine1 to the node named node2.
-The Windows PowerShell® prompt does not return until the action is complete.
+The Windows PowerShell?? prompt does not return until the action is complete.
 
 ### Example 2
 ```
@@ -60,7 +60,7 @@ Virtual Machine1           node2                              Online
 ```
 
 This example performs a live migration of clustered virtual machine named Virtual Machine1 to the node named node2.
-The Windows PowerShell® prompt returns as soon as the action has been initiated.
+The Windows PowerShell?? prompt returns as soon as the action has been initiated.
 
 ### Example 3
 ```
@@ -258,7 +258,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-ClusterVirtualMachineRole](./Add-ClusterVirtualMachineRole.md)
+[Add-ClusterVirtualMachineRole](./add-clustervirtualmachinerole.md)
 
-[Update-ClusterVirtualMachineConfiguration](./Update-ClusterVirtualMachineConfiguration.md)
+[Update-ClusterVirtualMachineConfiguration](./update-clustervirtualmachineconfiguration.md)
+
 

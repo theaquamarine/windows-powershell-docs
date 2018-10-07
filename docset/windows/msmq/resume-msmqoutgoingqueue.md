@@ -74,9 +74,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Clear-MsmqOutgoingQueue](./Clear-MSMQOutgoingQueue.md)
+[Clear-MsmqOutgoingQueue](./clear-msmqoutgoingqueue.md)
 
-[Get-MsmqOutgoingQueue](./Get-MSMQOutgoingQueue.md)
+[Get-MsmqOutgoingQueue](./get-msmqoutgoingqueue.md)
 
-[Suspend-MsmqOutgoingQueue](./Suspend-MsmqOutgoingQueue.md)
+[Suspend-MsmqOutgoingQueue](./suspend-msmqoutgoingqueue.md)
+
 

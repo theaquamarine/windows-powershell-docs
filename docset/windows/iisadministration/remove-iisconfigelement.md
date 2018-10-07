@@ -99,9 +99,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-IISConfigElement](./Get-IISConfigElement.md)
+[Get-IISConfigElement](./get-iisconfigelement.md)
 
-[Remove-IISConfigCollectionElement](./Remove-IISConfigCollectionElement.md)
+[Remove-IISConfigCollectionElement](./remove-iisconfigcollectionelement.md)
 
 [IIS Administration Cmdlets for Windows PowerShell](./iisadministration.md)
+
 

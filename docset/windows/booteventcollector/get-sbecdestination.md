@@ -121,7 +121,8 @@ Otherwise will be empty.
 
 ## RELATED LINKS
 
-[Get-SbecForwarding](./Get-SbecForwarding.md)
+[Get-SbecForwarding](./get-sbecforwarding.md)
 
-[Get-SbecHistory](./Get-SbecHistory.md)
+[Get-SbecHistory](./get-sbechistory.md)
+
 

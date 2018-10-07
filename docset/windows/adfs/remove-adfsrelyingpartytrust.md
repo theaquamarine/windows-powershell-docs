@@ -166,15 +166,16 @@ You can pipe a class structure that represents a relying party trust.
 
 ## RELATED LINKS
 
-[Add-AdfsRelyingPartyTrust](./Add-AdfsRelyingPartyTrust.md)
+[Add-AdfsRelyingPartyTrust](./add-adfsrelyingpartytrust.md)
 
-[Disable-AdfsRelyingPartyTrust](./Disable-AdfsRelyingPartyTrust.md)
+[Disable-AdfsRelyingPartyTrust](./disable-adfsrelyingpartytrust.md)
 
-[Enable-AdfsRelyingPartyTrust](./Enable-AdfsRelyingPartyTrust.md)
+[Enable-AdfsRelyingPartyTrust](./enable-adfsrelyingpartytrust.md)
 
-[Get-AdfsRelyingPartyTrust](./Get-AdfsRelyingPartyTrust.md)
+[Get-AdfsRelyingPartyTrust](./get-adfsrelyingpartytrust.md)
 
-[Set-AdfsRelyingPartyTrust](./Set-AdfsRelyingPartyTrust.md)
+[Set-AdfsRelyingPartyTrust](./set-adfsrelyingpartytrust.md)
 
-[Update-AdfsRelyingPartyTrust](./Update-AdfsRelyingPartyTrust.md)
+[Update-AdfsRelyingPartyTrust](./update-adfsrelyingpartytrust.md)
+
 

@@ -149,7 +149,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-WebConfigurationLock](./Add-WebConfigurationLock.md)
+[Add-WebConfigurationLock](./add-webconfigurationlock.md)
 
-[Get-WebConfigurationLock](./Get-WebConfigurationLock.md)
+[Get-WebConfigurationLock](./get-webconfigurationlock.md)
+
 

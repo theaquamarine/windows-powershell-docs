@@ -71,7 +71,8 @@ When this setting is set to false, the input method is selected for all applicat
 
 ## RELATED LINKS
 
-[Get-WinDefaultInputMethodOverride](./Get-WinDefaultInputMethodOverride.md)
+[Get-WinDefaultInputMethodOverride](./get-windefaultinputmethodoverride.md)
 
-[Set-WinLanguageBarOption](./Set-WinLanguageBarOption.md)
+[Set-WinLanguageBarOption](./set-winlanguagebaroption.md)
+
 

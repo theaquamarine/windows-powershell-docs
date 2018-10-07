@@ -78,9 +78,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Disable-WmsScheduledUpdate](./Disable-WmsScheduledUpdate.md)
+[Disable-WmsScheduledUpdate](./disable-wmsscheduledupdate.md)
 
-[Enable-WmsScheduledUpdate](./Enable-WmsScheduledUpdate.md)
+[Enable-WmsScheduledUpdate](./enable-wmsscheduledupdate.md)
 
-[Set-WmsScheduledUpdate](./Set-WmsScheduledUpdate.md)
+[Set-WmsScheduledUpdate](./set-wmsscheduledupdate.md)
+
 

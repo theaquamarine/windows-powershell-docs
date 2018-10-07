@@ -32,8 +32,8 @@ Set-WBSchedule [-Policy] <WBPolicy> [-Schedule] <DateTime[]> [<CommonParameters>
 The **Set-WBSchedule** cmdlet sets the current schedule for backups and saves the settings in the **WBPolicy** object.
 
 The **WBPolicy** object must be in edit mode.
-To put the **WBPolicy** object in edit mode, use the [Get-WBPolicy](./Get-WBPolicy.md) cmdlet with the *Editable* parameter.
-The [New-WBPolicy](./New-WBPolicy.md) cmdlet creates a **WBPolicy** object that is already in edit mode.
+To put the **WBPolicy** object in edit mode, use the [Get-WBPolicy](./get-wbpolicy.md) cmdlet with the *Editable* parameter.
+The [New-WBPolicy](./new-wbpolicy.md) cmdlet creates a **WBPolicy** object that is already in edit mode.
 
 To use this cmdlet, you must be a member of the Administrators group or Backup Operators group.
 
@@ -103,7 +103,8 @@ This cmdlet returns the **Datetime** list that you use to update the policy.
 
 ## RELATED LINKS
 
-[Get-WBPolicy](./Get-WBPolicy.md)
+[Get-WBPolicy](./get-wbpolicy.md)
 
-[Get-WBSchedule](./Get-WBSchedule.md)
+[Get-WBSchedule](./get-wbschedule.md)
+
 

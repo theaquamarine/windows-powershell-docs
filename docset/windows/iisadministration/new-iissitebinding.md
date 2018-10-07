@@ -207,10 +207,11 @@ Accept wildcard characters: False
 
 ## RELATED LINKS
 
-[Get-IISSiteBinding](./Get-IISSiteBinding.md)
+[Get-IISSiteBinding](./get-iissitebinding.md)
 
-[Remove-IISSiteBinding](./Remove-IISSiteBinding.md)
+[Remove-IISSiteBinding](./remove-iissitebinding.md)
 
-[New-IISSite](./New-IISSite.md)
+[New-IISSite](./new-iissite.md)
 
 [IIS Administration Cmdlets for Windows PowerShell](./iisadministration.md)
+

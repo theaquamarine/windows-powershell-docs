@@ -197,7 +197,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Start-DfsrPropagationTest](./Start-DfsrPropagationTest.md)
+[Start-DfsrPropagationTest](./start-dfsrpropagationtest.md)
 
-[Write-DfsrPropagationReport](./Write-DfsrPropagationReport.md)
+[Write-DfsrPropagationReport](./write-dfsrpropagationreport.md)
+
 

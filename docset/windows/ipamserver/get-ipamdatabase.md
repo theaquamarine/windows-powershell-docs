@@ -123,7 +123,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -152,7 +152,8 @@ An object that represents the database settings used by IPAM to connect to the d
 
 ## RELATED LINKS
 
-[Move-IpamDatabase](./Move-IpamDatabase.md)
+[Move-IpamDatabase](./move-ipamdatabase.md)
 
-[Set-IpamDatabase](./Set-IpamDatabase.md)
+[Set-IpamDatabase](./set-ipamdatabase.md)
+
 

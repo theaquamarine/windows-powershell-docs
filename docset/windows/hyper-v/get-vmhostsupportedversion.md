@@ -133,5 +133,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-VMHost](./Get-VMHost.md)
+[Get-VMHost](./get-vmhost.md)
+
 

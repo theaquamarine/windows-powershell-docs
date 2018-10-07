@@ -143,3 +143,4 @@ The **Remove-InsightsCapability** can't remove the default System Insights capab
 [Get-InsightsCapability](get-insightscapability.md)<br>
 [Add-InsightsCapability](add-insightscapability.md)<br>
 [Update-InsightsCapability](update-insightscapability.md)
+

@@ -108,13 +108,14 @@ This cmdlet returns whether the root key can be used to generate derived keys.
 
 ## RELATED LINKS
 
-[Add-KdsRootKey](./Add-KdsRootKey.md)
+[Add-KdsRootKey](./add-kdsrootkey.md)
 
-[Clear-KdsCache](./Clear-KdsCache.md)
+[Clear-KdsCache](./clear-kdscache.md)
 
-[Get-KdsConfiguration](./Get-KdsConfiguration.md)
+[Get-KdsConfiguration](./get-kdsconfiguration.md)
 
-[Set-KdsConfiguration](./Set-KdsConfiguration.md)
+[Set-KdsConfiguration](./set-kdsconfiguration.md)
 
-[Add-KdsRootKey](./Add-KdsRootKey.md)
+[Add-KdsRootKey](./add-kdsrootkey.md)
+
 

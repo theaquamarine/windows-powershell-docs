@@ -308,7 +308,7 @@ If you also disable Remote Differential Compression (RDC), files smaller than th
 On high-bandwidth, low-latency networks like LANs and high-speed WANs, this typically results in faster replication, at the cost of higher bandwidth saturation.
 You can use the **Set-DfsrConnection** cmdlet to disable or enable RDC.
 
-Windows Server® 2012 and previous versions of the Windows operating system do not support the file size setting.
+Windows Server?? 2012 and previous versions of the Windows operating system do not support the file size setting.
 Previous versions of the Windows operating system that support DFS Replication use a hard-coded 256 KB minimum staging size.
 
 The acceptable values for this parameter are:
@@ -487,23 +487,24 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-DfsrMembership](./Get-DfsrMembership.md)
+[Get-DfsrMembership](./get-dfsrmembership.md)
 
-[Add-DfsrMember](./Add-DfsrMember.md)
+[Add-DfsrMember](./add-dfsrmember.md)
 
-[Set-DfsrServiceConfiguration](./Set-DfsrServiceConfiguration.md)
+[Set-DfsrServiceConfiguration](./set-dfsrserviceconfiguration.md)
 
-[Restore-DfsrPreservedFiles](./Restore-DfsrPreservedFiles.md)
+[Restore-DfsrPreservedFiles](./restore-dfsrpreservedfiles.md)
 
-[Suspend-DfsReplicationGroup](./Suspend-DfsReplicationGroup.md)
+[Suspend-DfsReplicationGroup](./suspend-dfsreplicationgroup.md)
 
-[Add-DfsrConnection](./Add-DfsrConnection.md)
+[Add-DfsrConnection](./add-dfsrconnection.md)
 
-[Remove-DfsrConnection](./Remove-DfsrConnection.md)
+[Remove-DfsrConnection](./remove-dfsrconnection.md)
 
-[Set-DfsrConnection](./Set-DfsrConnection.md)
+[Set-DfsrConnection](./set-dfsrconnection.md)
 
-[New-DfsReplicationGroup](./New-DfsReplicationGroup.md)
+[New-DfsReplicationGroup](./new-dfsreplicationgroup.md)
 
-[New-DfsReplicatedFolder](./New-DfsReplicatedFolder.md)
+[New-DfsReplicatedFolder](./new-dfsreplicatedfolder.md)
+
 

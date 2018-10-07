@@ -24,70 +24,71 @@ ms.assetid: 85AAA420-97F3-423E-AE94-080BC32A8A27
 This reference provides cmdlet descriptions and syntax for all MSMQ-specific cmdlets. It lists the cmdlets in alphabetical order based on the verb at the beginning of the cmdlet.
 
 ## MSMQ Cmdlets
-### [Clear-MSMQOutgoingQueue](./Clear-MSMQOutgoingQueue.md)
+### [Clear-MSMQOutgoingQueue](./clear-msmqoutgoingqueue.md)
 Clears outgoing queues.
 
-### [Clear-MSMQQueue](./Clear-MSMQQueue.md)
+### [Clear-MSMQQueue](./clear-msmqqueue.md)
 Clears queues.
 
-### [Enable-MSMQCertificate](./Enable-MSMQCertificate.md)
+### [Enable-MSMQCertificate](./enable-msmqcertificate.md)
 Registers a certificate with Active Directory Domain Services.
 
-### [Get-MSMQCertificate](./Get-MSMQCertificate.md)
+### [Get-MSMQCertificate](./get-msmqcertificate.md)
 Gets certificates registered in Active Directory Domain Services.
 
-### [Get-MSMQOutgoingQueue](./Get-MSMQOutgoingQueue.md)
+### [Get-MSMQOutgoingQueue](./get-msmqoutgoingqueue.md)
 Gets outgoing message queues.
 
-### [Get-MsmqQueue](./Get-MsmqQueue.md)
+### [Get-MsmqQueue](./get-msmqqueue.md)
 Gets message queues.
 
-### [Get-MsmqQueueACL](./Get-MsmqQueueACL.md)
+### [Get-MsmqQueueACL](./get-msmqqueueacl.md)
 Gets queue access control lists.
 
-### [Get-MsmqQueueManager](./Get-MsmqQueueManager.md)
+### [Get-MsmqQueueManager](./get-msmqqueuemanager.md)
 Gets a queue manager.
 
-### [Get-MsmqQueueManagerACL](./Get-MsmqQueueManagerACL.md)
+### [Get-MsmqQueueManagerACL](./get-msmqqueuemanageracl.md)
 Gets access control lists for the local queue manager.
 
-### [Move-MsmqMessage](./Move-MsmqMessage.md)
+### [Move-MsmqMessage](./move-msmqmessage.md)
 Moves messages between subqueues or between the main queue and a subqueue.
 
-### [New-MsmqMessage](./New-MsmqMessage.md)
+### [New-MsmqMessage](./new-msmqmessage.md)
 Creates a message object.
 
-### [New-MsmqQueue](./New-MsmqQueue.md)
+### [New-MsmqQueue](./new-msmqqueue.md)
 Creates public or private queues.
 
-### [Receive-MsmqQueue](./Receive-MsmqQueue.md)
+### [Receive-MsmqQueue](./receive-msmqqueue.md)
 Does a destructive read from a queue.
 
-### [Remove-MsmqCertificate](./Remove-MsmqCertificate.md)
+### [Remove-MsmqCertificate](./remove-msmqcertificate.md)
 Removes personal certificates.
 
-### [Remove-MsmqQueue](./Remove-MsmqQueue.md)
+### [Remove-MsmqQueue](./remove-msmqqueue.md)
 Deletes queues.
 
-### [Resume-MsmqOutgoingQueue](./Resume-MsmqOutgoingQueue.md)
+### [Resume-MsmqOutgoingQueue](./resume-msmqoutgoingqueue.md)
 Resumes outgoing queues.
 
-### [Send-MsmqQueue](./Send-MsmqQueue.md)
+### [Send-MsmqQueue](./send-msmqqueue.md)
 Sends a test message to remote queues.
 
-### [Set-MsmqQueue](./Set-MsmqQueue.md)
+### [Set-MsmqQueue](./set-msmqqueue.md)
 Sets properties of queues.
 
-### [Set-MsmqQueueACL](./Set-MsmqQueueACL.md)
+### [Set-MsmqQueueACL](./set-msmqqueueacl.md)
 Modifies the access rights of queues.
 
-### [Set-MsmqQueueManager](./Set-MsmqQueueManager.md)
+### [Set-MsmqQueueManager](./set-msmqqueuemanager.md)
 Configures the queue manager.
 
-### [Set-MsmqQueueManagerACL](./Set-MsmqQueueManagerACL.md)
+### [Set-MsmqQueueManagerACL](./set-msmqqueuemanageracl.md)
 Modifies the access rights of a queue manager.
 
-### [Suspend-MsmqOutgoingQueue](./Suspend-MsmqOutgoingQueue.md)
+### [Suspend-MsmqOutgoingQueue](./suspend-msmqoutgoingqueue.md)
 Pauses outgoing queues.
+
 
 

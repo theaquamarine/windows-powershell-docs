@@ -125,7 +125,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[New-ADDCCloneConfigFile](./New-ADDCCloneConfigFile.md)
+[New-ADDCCloneConfigFile](./new-addccloneconfigfile.md)
 
 [AD DS Administration Cmdlets in Windows PowerShell](./activedirectory.md)
+
 

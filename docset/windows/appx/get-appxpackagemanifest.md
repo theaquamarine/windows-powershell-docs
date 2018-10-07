@@ -119,7 +119,10 @@ This cmdlet returns a read-only .xml document that contains information about th
 
 [How to Add and Remove Apps](http://go.microsoft.com/fwlink/?LinkID=231020)
 
-[Get-AppxPackage](./Get-AppxPackage.md)
+[Get-AppxPackage](./get-appxpackage.md)
 
-[Add-AppxPackage](./Add-AppxPackage.md)
+[Add-AppxPackage](./add-appxpackage.md)
+
+
+
 

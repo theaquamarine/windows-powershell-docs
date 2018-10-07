@@ -11,10 +11,11 @@ Locale: en-US
 This reference provides cmdlet descriptions and syntax for shielded virtual machine template cmdlets. This table lists the cmdlets in alphabetical order.
 
 ## ShieldedVMTemplate Cmdlets
-### [Initialize-VMShieldingHelperVHD](Initialize-VMShieldingHelperVHD.md)
+### [Initialize-VMShieldingHelperVHD](initialize-vmshieldinghelpervhd.md)
 Initializes a VHD for use as a shielding utility disk in a guarded fabric.
 
-### [Protect-TemplateDisk](Protect-TemplateDisk.md)
+### [Protect-TemplateDisk](protect-templatedisk.md)
 Prepares a signed template disk (.VHDX) which can be used to provision new shielded virtual machines.
+
 
 

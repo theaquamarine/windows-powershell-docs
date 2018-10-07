@@ -322,11 +322,12 @@ By default, this cmdlet does not generate any output.
 
 ## RELATED LINKS
 
-[Get-ADCentralAccessRule](./Get-ADCentralAccessRule.md)
+[Get-ADCentralAccessRule](./get-adcentralaccessrule.md)
 
-[Remove-ADCentralAccessRule](./Remove-ADCentralAccessRule.md)
+[Remove-ADCentralAccessRule](./remove-adcentralaccessrule.md)
 
-[Set-ADCentralAccessRule](./Set-ADCentralAccessRule.md)
+[Set-ADCentralAccessRule](./set-adcentralaccessrule.md)
 
 [AD DS Administration Cmdlets in Windows PowerShell](./activedirectory.md)
+
 

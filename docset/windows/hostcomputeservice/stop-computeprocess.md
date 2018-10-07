@@ -130,5 +130,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-ComputeProcess](./Get-ComputeProcess.md)
+[Get-ComputeProcess](./get-computeprocess.md)
+
 

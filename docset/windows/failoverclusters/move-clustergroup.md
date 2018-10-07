@@ -191,13 +191,14 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-ClusterGroup](./Add-ClusterGroup.md)
+[Add-ClusterGroup](./add-clustergroup.md)
 
-[Get-ClusterGroup](./Get-ClusterGroup.md)
+[Get-ClusterGroup](./get-clustergroup.md)
 
-[Remove-ClusterGroup](./Remove-ClusterGroup.md)
+[Remove-ClusterGroup](./remove-clustergroup.md)
 
-[Start-ClusterGroup](./Start-ClusterGroup.md)
+[Start-ClusterGroup](./start-clustergroup.md)
 
-[Stop-ClusterGroup](./Stop-ClusterGroup.md)
+[Stop-ClusterGroup](./stop-clustergroup.md)
+
 

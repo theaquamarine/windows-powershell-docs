@@ -210,21 +210,22 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-NlbCluster](./Get-NlbCluster.md)
+[Get-NlbCluster](./get-nlbcluster.md)
 
-[Get-NlbClusterNodeNetworkInterface](./Get-NlbClusterNodeNetworkInterface.md)
+[Get-NlbClusterNodeNetworkInterface](./get-nlbclusternodenetworkinterface.md)
 
 [New-NlbClusterIpv6Address](./New-NlbClusterIpv6Address.md)
 
-[Remove-NlbCluster](./Remove-NlbCluster.md)
+[Remove-NlbCluster](./remove-nlbcluster.md)
 
-[Resume-NlbCluster](./Resume-NlbCluster.md)
+[Resume-NlbCluster](./resume-nlbcluster.md)
 
-[Set-NlbCluster](./Set-NlbCluster.md)
+[Set-NlbCluster](./set-nlbcluster.md)
 
-[Start-NlbCluster](./Start-NlbCluster.md)
+[Start-NlbCluster](./start-nlbcluster.md)
 
-[Stop-NlbCluster](./Stop-NlbCluster.md)
+[Stop-NlbCluster](./stop-nlbcluster.md)
 
-[Suspend-NlbCluster](./Suspend-NlbCluster.md)
+[Suspend-NlbCluster](./suspend-nlbcluster.md)
+
 

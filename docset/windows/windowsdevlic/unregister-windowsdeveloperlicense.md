@@ -110,7 +110,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 [Enable your device for development](https://msdn.microsoft.com/en-us/library/windows/apps/xaml/dn706236.aspx)
 
-[Get-WindowsDeveloperLicense](./Get-WindowsDeveloperLicense.md)
+[Get-WindowsDeveloperLicense](./get-windowsdeveloperlicense.md)
 
-[Show-WindowsDeveloperLicenseRegistration](./Show-WindowsDeveloperLicenseRegistration.md)
+[Show-WindowsDeveloperLicenseRegistration](./show-windowsdeveloperlicenseregistration.md)
+
 

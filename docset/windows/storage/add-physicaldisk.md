@@ -239,7 +239,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -376,11 +376,12 @@ You can pipe an MSFT_VirtualDisk object to the *VirtualDisk* parameter.
 
 [Where-Object](http://go.microsoft.com/fwlink/p/?LinkID=809329)
 
-[Get-PhysicalDisk](./Get-PhysicalDisk.md)
+[Get-PhysicalDisk](./get-physicaldisk.md)
 
-[Remove-PhysicalDisk](./Remove-PhysicalDisk.md)
+[Remove-PhysicalDisk](./remove-physicaldisk.md)
 
-[Reset-PhysicalDisk](./Reset-PhysicalDisk.md)
+[Reset-PhysicalDisk](./reset-physicaldisk.md)
 
-[Set-PhysicalDisk](./Set-PhysicalDisk.md)
+[Set-PhysicalDisk](./set-physicaldisk.md)
+
 

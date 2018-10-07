@@ -207,7 +207,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-RDCertificate](./Get-RDCertificate.md)
+[Get-RDCertificate](./get-rdcertificate.md)
 
-[Set-RDCertificate](./Set-RDCertificate.md)
+[Set-RDCertificate](./set-rdcertificate.md)
+
 

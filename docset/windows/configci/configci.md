@@ -25,49 +25,50 @@ This reference provides cmdlet descriptions and syntax for the Configurable Code
 These cmdlets belong to the **ConfigCI** module. 
 
 ## ConfigCI Cmdlets
-### [Add-SignerRule](./Add-SignerRule.md)
+### [Add-SignerRule](./add-signerrule.md)
 Creates a signer rule and adds it to a policy.
 
-### [ConvertFrom-CIPolicy](./ConvertFrom-CIPolicy.md)
+### [ConvertFrom-CIPolicy](./convertfrom-cipolicy.md)
 Converts an .xml file that contains a Code Integrity policy into binary format.
 
-### [Edit-CIPolicyRule](./Edit-CIPolicyRule.md)
+### [Edit-CIPolicyRule](./edit-cipolicyrule.md)
 This cmdlet is not supported.
 
-### [Get-CIPolicy](./Get-CIPolicy.md)
+### [Get-CIPolicy](./get-cipolicy.md)
 Gets the rules in a Code Integrity policy.
 
-### [Get-CIPolicyIdInfo](./Get-CIPolicyIdInfo.md)
+### [Get-CIPolicyIdInfo](./get-cipolicyidinfo.md)
 Displays Code Integrity policy information.
 
-### [Get-CIPolicyInfo](./Get-CIPolicyInfo.md)
+### [Get-CIPolicyInfo](./get-cipolicyinfo.md)
 This cmdlet is not supported.
 
-### [Get-SystemDriver](./Get-SystemDriver.md)
+### [Get-SystemDriver](./get-systemdriver.md)
 Scans for drivers on the system.
 
-### [Merge-CIPolicy](./Merge-CIPolicy.md)
+### [Merge-CIPolicy](./merge-cipolicy.md)
 Combines the rules in several Code Integrity policy files.
 
-### [New-CIPolicy](./New-CIPolicy.md)
+### [New-CIPolicy](./new-cipolicy.md)
 Creates a Code Integrity policy as an .xml file.
 
-### [New-CIPolicyRule](./New-CIPolicyRule.md)
+### [New-CIPolicyRule](./new-cipolicyrule.md)
 Generates Code Integrity policy rules for drivers.
 
-### [Remove-CIPolicyRule](./Remove-CIPolicyRule.md)
+### [Remove-CIPolicyRule](./remove-cipolicyrule.md)
 This cmdlet is not supported.
 
-### [Set-CIPolicyIdInfo](./Set-CIPolicyIdInfo.md)
+### [Set-CIPolicyIdInfo](./set-cipolicyidinfo.md)
 Modifies the name and ID of a Code Integrity policy.
 
-### [Set-CIPolicyVersion](./Set-CIPolicyVersion.md)
+### [Set-CIPolicyVersion](./set-cipolicyversion.md)
 Updates the version number of the policy.
 
-### [Set-HVCIOptions](./Set-HVCIOptions.md)
+### [Set-HVCIOptions](./set-hvcioptions.md)
 Modifies hypervisor Code Integrity options for a policy.
 
-### [Set-RuleOption](./Set-RuleOption.md)
+### [Set-RuleOption](./set-ruleoption.md)
 Modifies rule options in a Code Integrity policy.
+
 
 

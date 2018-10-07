@@ -140,7 +140,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-AdfsAuthenticationProviderWebContent](./Get-AdfsAuthenticationProviderWebContent.md)
+[Get-AdfsAuthenticationProviderWebContent](./get-adfsauthenticationproviderwebcontent.md)
 
-[Set-AdfsAuthenticationProviderWebContent](./Set-AdfsAuthenticationProviderWebContent.md)
+[Set-AdfsAuthenticationProviderWebContent](./set-adfsauthenticationproviderwebcontent.md)
+
 

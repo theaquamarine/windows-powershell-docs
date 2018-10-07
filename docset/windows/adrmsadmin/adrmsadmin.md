@@ -24,67 +24,68 @@ ms.assetid: 3CC98C40-7578-4C90-9F53-A5CD7DDA1574
 This topic contains brief descriptions of the Windows PowerShell cmdlets that are for use in administering Active Directory Rights Management Services (AD RMS) in Windows Server 2016. Each cmdlet in the table is linked to additional information about that cmdlet. These cmdlets give you the ability to administer an AD RMS cluster using PowerShell.
 
 ## ADRMSAdmin Cmdlets
-### [Export-RmsReportDefinitionLanguage](./Export-RmsReportDefinitionLanguage.md)
+### [Export-RmsReportDefinitionLanguage](./export-rmsreportdefinitionlanguage.md)
 Exports all report definition (.rdl) files.
 
-### [Export-RmsTPD](./Export-RmsTPD.md)
+### [Export-RmsTPD](./export-rmstpd.md)
 Exports a TPD in AD RMS.
 
-### [Export-RmsTUD](./Export-RmsTUD.md)
+### [Export-RmsTUD](./export-rmstud.md)
 Exports a TUD.
 
-### [Get-RmsCertChain](./Get-RmsCertChain.md)
+### [Get-RmsCertChain](./get-rmscertchain.md)
 Generates a report about the certificate chain of a particular user request for the AD RMS cluster.
 
-### [Get-RmsCertInfo](./Get-RmsCertInfo.md)
+### [Get-RmsCertInfo](./get-rmscertinfo.md)
 Generates a report about a certificate used in a user request for the AD RMS cluster.
 
-### [Get-RmsChildCert](./Get-RmsChildCert.md)
+### [Get-RmsChildCert](./get-rmschildcert.md)
 Returns all child certificates from a parent certificate used in a user request for the AD RMS cluster.
 
-### [Get-RmsEncryptedIL](./Get-RmsEncryptedIL.md)
+### [Get-RmsEncryptedIL](./get-rmsencryptedil.md)
 Returns use-license information from an issuance license used in a user request for the Active Directory Rights Management Services (AD RMS) cluster.
 
-### [Get-RmsRequestInfo](./Get-RmsRequestInfo.md)
+### [Get-RmsRequestInfo](./get-rmsrequestinfo.md)
 Generates a report about a particular user request for the AD RMS cluster.
 
-### [Get-RmsSvcAccount](./Get-RmsSvcAccount.md)
+### [Get-RmsSvcAccount](./get-rmssvcaccount.md)
 Gets service account credentials for an Active Directory Rights Management Services (AD RMS) cluster.
 
-### [Get-RmsSystemHealthReport](./Get-RmsSystemHealthReport.md)
+### [Get-RmsSystemHealthReport](./get-rmssystemhealthreport.md)
 Generates a system health report of the Active Directory Rights Management Services (AD RMS) cluster.
 
-### [Get-RmsUserRequestReport](./Get-RmsUserRequestReport.md)
+### [Get-RmsUserRequestReport](./get-rmsuserrequestreport.md)
 Generates a user requests statistical report for the AD RMS cluster.
 
-### [Import-RmsTPD](./Import-RmsTPD.md)
+### [Import-RmsTPD](./import-rmstpd.md)
 Imports a TPD from a file in AD RMS.
 
-### [Import-RmsTUD](./Import-RmsTUD.md)
+### [Import-RmsTUD](./import-rmstud.md)
 Imports a TUD from a file in AD RMS or specifies to trust Microsoft account IDs.
 
 ### [Initialize-RmsCryptoMode2](./Initialize-RmsCryptoMode2.md)
 Prepares an AD RMS server for transitioning to Cryptographic Mode 2.
 
-### [Install-RmsMfgEnrollment](./Install-RmsMfgEnrollment.md)
+### [Install-RmsMfgEnrollment](./install-rmsmfgenrollment.md)
 Enrolls an AD RMS server with Microsoft Federation Gateway.
 
-### [Install-RmsMfgSupport](./Install-RmsMfgSupport.md)
+### [Install-RmsMfgSupport](./install-rmsmfgsupport.md)
 Adds Microsoft Federation Gateway support to an AD RMS server.
 
-### [Set-RmsSvcAccount](./Set-RmsSvcAccount.md)
+### [Set-RmsSvcAccount](./set-rmssvcaccount.md)
 Sets the service account for an AD RMS cluster.
 
-### [Uninstall-RmsMfgEnrollment](./Uninstall-RmsMfgEnrollment.md)
+### [Uninstall-RmsMfgEnrollment](./uninstall-rmsmfgenrollment.md)
 Terminates the enrollment of an AD RMS server with the Microsoft Federation Gateway.
 
-### [Uninstall-RmsMfgSupport](./Uninstall-RmsMfgSupport.md)
+### [Uninstall-RmsMfgSupport](./uninstall-rmsmfgsupport.md)
 Removes Microsoft Federation Gateway support from an AD RMS server.
 
-### [Update-RmsCluster](./Update-RmsCluster.md)
+### [Update-RmsCluster](./update-rmscluster.md)
 Updates the AD RMS cluster information.
 
-### [Update-RmsMfgEnrollment](./Update-RmsMfgEnrollment.md)
+### [Update-RmsMfgEnrollment](./update-rmsmfgenrollment.md)
 Updates enrollment information for an AD RMS server enrolled with the Microsoft Federation Gateway service.
+
 
 

@@ -145,11 +145,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-AdfsCertificate](./Add-AdfsCertificate.md)
+[Add-AdfsCertificate](./add-adfscertificate.md)
 
-[Get-AdfsCertificate](./Get-AdfsCertificate.md)
+[Get-AdfsCertificate](./get-adfscertificate.md)
 
-[Remove-AdfsCertificate](./Remove-AdfsCertificate.md)
+[Remove-AdfsCertificate](./remove-adfscertificate.md)
 
-[Set-AdfsCertificate](./Set-AdfsCertificate.md)
+[Set-AdfsCertificate](./set-adfscertificate.md)
+
 

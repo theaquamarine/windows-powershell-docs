@@ -130,7 +130,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -174,15 +174,16 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Enable-ScheduledTask](./Enable-ScheduledTask.md)
+[Enable-ScheduledTask](./enable-scheduledtask.md)
 
-[Get-ScheduledTaskInfo](./Get-ScheduledTaskInfo.md)
+[Get-ScheduledTaskInfo](./get-scheduledtaskinfo.md)
 
-[New-ScheduledTask](./New-ScheduledTask.md)
+[New-ScheduledTask](./new-scheduledtask.md)
 
-[New-ScheduledTaskPrincipal](./New-ScheduledTaskPrincipal.md)
+[New-ScheduledTaskPrincipal](./new-scheduledtaskprincipal.md)
 
-[Register-ScheduledTask](./Register-ScheduledTask.md)
+[Register-ScheduledTask](./register-scheduledtask.md)
 
-[Start-ScheduledTask](./Start-ScheduledTask.md)
+[Start-ScheduledTask](./start-scheduledtask.md)
+
 

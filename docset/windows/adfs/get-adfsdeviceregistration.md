@@ -73,9 +73,10 @@ The object includes the following properties:
 
 ## RELATED LINKS
 
-[Disable-AdfsDeviceRegistration](./Disable-AdfsDeviceRegistration.md)
+[Disable-AdfsDeviceRegistration](./disable-adfsdeviceregistration.md)
 
-[Enable-AdfsDeviceRegistration](./Enable-AdfsDeviceRegistration.md)
+[Enable-AdfsDeviceRegistration](./enable-adfsdeviceregistration.md)
 
-[Set-AdfsDeviceRegistration](./Set-AdfsDeviceRegistration.md)
+[Set-AdfsDeviceRegistration](./set-adfsdeviceregistration.md)
+
 

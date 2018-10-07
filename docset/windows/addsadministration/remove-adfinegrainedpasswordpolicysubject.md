@@ -301,7 +301,8 @@ By default, this cmdlet does not generate any output.
 
 ## RELATED LINKS
 
-[Add-ADFineGrainedPasswordPolicySubject](./Add-ADFineGrainedPasswordPolicySubject.md)
+[Add-ADFineGrainedPasswordPolicySubject](./add-adfinegrainedpasswordpolicysubject.md)
 
-[Get-ADFineGrainedPasswordPolicySubject](./Get-ADFineGrainedPasswordPolicySubject.md)
+[Get-ADFineGrainedPasswordPolicySubject](./get-adfinegrainedpasswordpolicysubject.md)
+
 

@@ -33,7 +33,7 @@ Get-ClusterAccess [[-User] <StringCollection>] [-InputObject <PSObject>] [-Clust
 The **Get-ClusterAccess** cmdlet gets information about permissions that control access to a failover cluster.
 
 A cluster can allow full access or read-only access.
-Read-only access limits the user to Windows PowerShell® cmdlets that provide information about the cluster.
+Read-only access limits the user to Windows PowerShell?? cmdlets that provide information about the cluster.
 
 ## EXAMPLES
 
@@ -115,9 +115,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Block-ClusterAccess](./Block-ClusterAccess.md)
+[Block-ClusterAccess](./block-clusteraccess.md)
 
-[Grant-ClusterAccess](./Grant-ClusterAccess.md)
+[Grant-ClusterAccess](./grant-clusteraccess.md)
 
-[Remove-ClusterAccess](./Remove-ClusterAccess.md)
+[Remove-ClusterAccess](./remove-clusteraccess.md)
+
 

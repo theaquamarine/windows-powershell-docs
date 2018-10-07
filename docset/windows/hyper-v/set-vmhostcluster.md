@@ -163,5 +163,6 @@ This cmdlet returns a **VMHostCluster** object, if you specify the **Passthru** 
 
 ## RELATED LINKS
 
-[Get-VMHostCluster](./Get-VMHostCluster.md)
+[Get-VMHostCluster](./get-vmhostcluster.md)
+
 

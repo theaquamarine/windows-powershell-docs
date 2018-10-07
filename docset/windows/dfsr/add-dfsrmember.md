@@ -218,15 +218,16 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-DfsrMember](./Get-DfsrMember.md)
+[Get-DfsrMember](./get-dfsrmember.md)
 
-[Remove-DfsrMember](./Remove-DfsrMember.md)
+[Remove-DfsrMember](./remove-dfsrmember.md)
 
-[Set-DfsrMember](./Set-DfsrMember.md)
+[Set-DfsrMember](./set-dfsrmember.md)
 
-[New-DfsReplicationGroup](./New-DfsReplicationGroup.md)
+[New-DfsReplicationGroup](./new-dfsreplicationgroup.md)
 
-[New-DfsReplicatedFolder](./New-DfsReplicatedFolder.md)
+[New-DfsReplicatedFolder](./new-dfsreplicatedfolder.md)
 
-[Set-DfsrMembership](./Set-DfsrMembership.md)
+[Set-DfsrMembership](./set-dfsrmembership.md)
+
 

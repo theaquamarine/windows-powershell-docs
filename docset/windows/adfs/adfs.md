@@ -11,517 +11,518 @@ Locale: en-US
 This reference provides command-line reference documentation for the IT professional of the Windows PowerShell cmdlets that you can use to deploy and administer Active Directory Federation Services (AD FS) in Windows Server.
 
 ## ADFS Cmdlets
-### [Add-AdfsAttributeStore](Add-AdfsAttributeStore.md)
+### [Add-AdfsAttributeStore](add-adfsattributestore.md)
 Adds an attribute store to the Federation Service.
 
-### [Add-AdfsCertificate](Add-AdfsCertificate.md)
+### [Add-AdfsCertificate](add-adfscertificate.md)
 Adds a new certificate to AD FS for signing, decrypting, or securing communications.
 
-### [Add-AdfsClaimDescription](Add-AdfsClaimDescription.md)
+### [Add-AdfsClaimDescription](add-adfsclaimdescription.md)
 Adds a claim description to the Federation Service.
 
-### [Add-AdfsClaimsProviderTrust](Add-AdfsClaimsProviderTrust.md)
+### [Add-AdfsClaimsProviderTrust](add-adfsclaimsprovidertrust.md)
 Adds a new claims provider trust to the Federation Service.
 
-### [Add-AdfsClaimsProviderTrustsGroup](Add-AdfsClaimsProviderTrustsGroup.md)
+### [Add-AdfsClaimsProviderTrustsGroup](add-adfsclaimsprovidertrustsgroup.md)
 Creates a claims provider trust group based on metadata that contains multiple entities.
 
-### [Add-AdfsClient](Add-AdfsClient.md)
+### [Add-AdfsClient](add-adfsclient.md)
 Registers an OAuth 2.0 client with AD FS.
 
-### [Add-AdfsDeviceRegistrationUpnSuffix](Add-AdfsDeviceRegistrationUpnSuffix.md)
+### [Add-AdfsDeviceRegistrationUpnSuffix](add-adfsdeviceregistrationupnsuffix.md)
 Adds a custom UPN suffix.
 
-### [Add-AdfsFarmNode](Add-AdfsFarmNode.md)
+### [Add-AdfsFarmNode](add-adfsfarmnode.md)
 Adds this computer to an existing federation server farm.
 
-### [Add-AdfsLocalClaimsProviderTrust](Add-AdfsLocalClaimsProviderTrust.md)
+### [Add-AdfsLocalClaimsProviderTrust](add-adfslocalclaimsprovidertrust.md)
 Creates a local claims provider trust.
 
-### [Add-AdfsNativeClientApplication](Add-AdfsNativeClientApplication.md)
+### [Add-AdfsNativeClientApplication](add-adfsnativeclientapplication.md)
 Adds a native client application role to an application in AD FS.
 
-### [Add-AdfsNonClaimsAwareRelyingPartyTrust](Add-AdfsNonClaimsAwareRelyingPartyTrust.md)
+### [Add-AdfsNonClaimsAwareRelyingPartyTrust](add-adfsnonclaimsawarerelyingpartytrust.md)
 Adds a relying party trust that represents a non-claims-aware web application or service to the Federation Service.
 
-### [Add-AdfsRelyingPartyTrust](Add-AdfsRelyingPartyTrust.md)
+### [Add-AdfsRelyingPartyTrust](add-adfsrelyingpartytrust.md)
 Adds a new relying party trust to the Federation Service.
 
-### [Add-AdfsRelyingPartyTrustsGroup](Add-AdfsRelyingPartyTrustsGroup.md)
+### [Add-AdfsRelyingPartyTrustsGroup](add-adfsrelyingpartytrustsgroup.md)
 Creates a relying party trusts group.
 
-### [Add-AdfsScopeDescription](Add-AdfsScopeDescription.md)
+### [Add-AdfsScopeDescription](add-adfsscopedescription.md)
 Adds a scope description in AD FS.
 
-### [Add-AdfsServerApplication](Add-AdfsServerApplication.md)
+### [Add-AdfsServerApplication](add-adfsserverapplication.md)
 Adds a server application role to an application in AD FS.
 
-### [Add-AdfsTrustedFederationPartner](Add-AdfsTrustedFederationPartner.md)
+### [Add-AdfsTrustedFederationPartner](add-adfstrustedfederationpartner.md)
 Adds configuration settings for trusted federation partners in AD FS.
 
-### [Add-AdfsWebApiApplication](Add-AdfsWebApiApplication.md)
+### [Add-AdfsWebApiApplication](add-adfswebapiapplication.md)
 Adds a Web API application role to an application in AD FS.
 
-### [Add-AdfsWebApplicationProxyRelyingPartyTrust](Add-AdfsWebApplicationProxyRelyingPartyTrust.md)
+### [Add-AdfsWebApplicationProxyRelyingPartyTrust](add-adfswebapplicationproxyrelyingpartytrust.md)
 Adds a relying party trust for the Web Application Proxy.
 
-### [Disable-AdfsApplicationGroup](Disable-AdfsApplicationGroup.md)
+### [Disable-AdfsApplicationGroup](disable-adfsapplicationgroup.md)
 Disables an application group.
 
-### [Disable-AdfsCertificateAuthority](Disable-AdfsCertificateAuthority.md)
+### [Disable-AdfsCertificateAuthority](disable-adfscertificateauthority.md)
 Disables a certificate authority.
 
-### [Disable-AdfsClaimsProviderTrust](Disable-AdfsClaimsProviderTrust.md)
+### [Disable-AdfsClaimsProviderTrust](disable-adfsclaimsprovidertrust.md)
 Disables a claims provider trust in the Federation Service.
 
-### [Disable-AdfsClient](Disable-AdfsClient.md)
+### [Disable-AdfsClient](disable-adfsclient.md)
 Disables an OAuth 2.0 client that is currently registered with AD FS.
 
-### [Disable-AdfsDeviceRegistration](Disable-AdfsDeviceRegistration.md)
+### [Disable-AdfsDeviceRegistration](disable-adfsdeviceregistration.md)
 Marks the Device Registration Service as disabled on an AD FS server.
 
-### [Disable-AdfsEndpoint](Disable-AdfsEndpoint.md)
+### [Disable-AdfsEndpoint](disable-adfsendpoint.md)
 Disables an endpoint of AD FS.
 
-### [Disable-AdfsLocalClaimsProviderTrust](Disable-AdfsLocalClaimsProviderTrust.md)
+### [Disable-AdfsLocalClaimsProviderTrust](disable-adfslocalclaimsprovidertrust.md)
 Disables a local claims provider trust.
 
-### [Disable-AdfsNonClaimsAwareRelyingPartyTrust](Disable-AdfsNonClaimsAwareRelyingPartyTrust.md)
+### [Disable-AdfsNonClaimsAwareRelyingPartyTrust](disable-adfsnonclaimsawarerelyingpartytrust.md)
 Disables a relying party trust for a non-claims-aware web application or service from the Federation Service.
 
-### [Disable-AdfsRelyingPartyTrust](Disable-AdfsRelyingPartyTrust.md)
+### [Disable-AdfsRelyingPartyTrust](disable-adfsrelyingpartytrust.md)
 Disables a relying party trust of the Federation Service.
 
-### [Disable-AdfsWebApplicationProxyRelyingPartyTrust](Disable-AdfsWebApplicationProxyRelyingPartyTrust.md)
+### [Disable-AdfsWebApplicationProxyRelyingPartyTrust](disable-adfswebapplicationproxyrelyingpartytrust.md)
 Disables the relying party trust for the Web Application Proxy.
 
-### [Enable-AdfsApplicationGroup](Enable-AdfsApplicationGroup.md)
+### [Enable-AdfsApplicationGroup](enable-adfsapplicationgroup.md)
 Enables an application group in AD FS.
 
-### [Enable-AdfsClaimsProviderTrust](Enable-AdfsClaimsProviderTrust.md)
+### [Enable-AdfsClaimsProviderTrust](enable-adfsclaimsprovidertrust.md)
 Enables a claims provider trust in the Federation Service.
 
-### [Enable-AdfsClient](Enable-AdfsClient.md)
+### [Enable-AdfsClient](enable-adfsclient.md)
 Enables the use of an OAuth 2.0 client registration by AD FS.
 
-### [Enable-AdfsDeviceRegistration](Enable-AdfsDeviceRegistration.md)
+### [Enable-AdfsDeviceRegistration](enable-adfsdeviceregistration.md)
 This cmdlet has been deprecated.
 
-### [Enable-AdfsEndpoint](Enable-AdfsEndpoint.md)
+### [Enable-AdfsEndpoint](enable-adfsendpoint.md)
 Enables an endpoint in AD FS.
 
-### [Enable-AdfsLocalClaimsProviderTrust](Enable-AdfsLocalClaimsProviderTrust.md)
+### [Enable-AdfsLocalClaimsProviderTrust](enable-adfslocalclaimsprovidertrust.md)
 Enables a local claims provider trust.
 
-### [Enable-AdfsNonClaimsAwareRelyingPartyTrust](Enable-AdfsNonClaimsAwareRelyingPartyTrust.md)
+### [Enable-AdfsNonClaimsAwareRelyingPartyTrust](enable-adfsnonclaimsawarerelyingpartytrust.md)
 Enables a relying party trust for a non-claims-aware web application or service from the Federation Service.
 
-### [Enable-AdfsRelyingPartyTrust](Enable-AdfsRelyingPartyTrust.md)
+### [Enable-AdfsRelyingPartyTrust](enable-adfsrelyingpartytrust.md)
 Enables a relying party trust of the Federation Service.
 
-### [Enable-AdfsWebApplicationProxyRelyingPartyTrust](Enable-AdfsWebApplicationProxyRelyingPartyTrust.md)
+### [Enable-AdfsWebApplicationProxyRelyingPartyTrust](enable-adfswebapplicationproxyrelyingpartytrust.md)
 Enables the relying party trust object for the Web Application Proxy.
 
-### [Export-AdfsAuthenticationProviderConfigurationData](Export-AdfsAuthenticationProviderConfigurationData.md)
+### [Export-AdfsAuthenticationProviderConfigurationData](export-adfsauthenticationproviderconfigurationdata.md)
 Returns a file containing the tenant ID for which the AD FS farm is configured for Azure MFA, as well as the well-known client ID for Azure MFA.
 
-### [Export-AdfsDeploymentSQLScript](Export-AdfsDeploymentSQLScript.md)
+### [Export-AdfsDeploymentSQLScript](export-adfsdeploymentsqlscript.md)
 Generates SQL scripts to create the AD FS database and to grant permissions.
 
-### [Export-AdfsWebContent](Export-AdfsWebContent.md)
+### [Export-AdfsWebContent](export-adfswebcontent.md)
 Exports properties of all web content objects in a specific locale to a specified file.
 
-### [Export-AdfsWebTheme](Export-AdfsWebTheme.md)
+### [Export-AdfsWebTheme](export-adfswebtheme.md)
 Exports a web theme to a folder.
 
-### [Get-AdfsAccessControlPolicy](Get-AdfsAccessControlPolicy.md)
+### [Get-AdfsAccessControlPolicy](get-adfsaccesscontrolpolicy.md)
 Gets an AD FS access control policy.
 
-### [Get-AdfsAdditionalAuthenticationRule](Get-AdfsAdditionalAuthenticationRule.md)
+### [Get-AdfsAdditionalAuthenticationRule](get-adfsadditionalauthenticationrule.md)
 Retrieves the global rules that trigger additional authentication providers to be invoked.
 
-### [Get-AdfsApplicationGroup](Get-AdfsApplicationGroup.md)
+### [Get-AdfsApplicationGroup](get-adfsapplicationgroup.md)
 Gets an application group.
 
-### [Get-AdfsApplicationPermission](Get-AdfsApplicationPermission.md)
+### [Get-AdfsApplicationPermission](get-adfsapplicationpermission.md)
 Gets permission for an application.
 
-### [Get-AdfsAttributeStore](Get-AdfsAttributeStore.md)
+### [Get-AdfsAttributeStore](get-adfsattributestore.md)
 Gets the attribute stores of the Federation Service.
 
-### [Get-AdfsAuthenticationProvider](Get-AdfsAuthenticationProvider.md)
+### [Get-AdfsAuthenticationProvider](get-adfsauthenticationprovider.md)
 Gets a list of all authentication providers in AD FS.
 
-### [Get-AdfsAuthenticationProviderWebContent](Get-AdfsAuthenticationProviderWebContent.md)
+### [Get-AdfsAuthenticationProviderWebContent](get-adfsauthenticationproviderwebcontent.md)
 Retrieves web content objects for authentication providers.
 
-### [Get-AdfsAzureMfaConfigured](Get-AdfsAzureMfaConfigured.md)
+### [Get-AdfsAzureMfaConfigured](get-adfsazuremfaconfigured.md)
 Gets whether Azure MFA is enabled.
 
-### [Get-AdfsCertificate](Get-AdfsCertificate.md)
+### [Get-AdfsCertificate](get-adfscertificate.md)
 Retrieves the certificates from AD FS.
 
-### [Get-AdfsCertificateAuthority](Get-AdfsCertificateAuthority.md)
+### [Get-AdfsCertificateAuthority](get-adfscertificateauthority.md)
 Gets a certificate authority.
 
-### [Get-AdfsClaimDescription](Get-AdfsClaimDescription.md)
+### [Get-AdfsClaimDescription](get-adfsclaimdescription.md)
 Gets claim descriptions from the Federation Service.
 
-### [Get-AdfsClaimsProviderTrust](Get-AdfsClaimsProviderTrust.md)
+### [Get-AdfsClaimsProviderTrust](get-adfsclaimsprovidertrust.md)
 Gets the claims provider trusts in the Federation Service.
 
-### [Get-AdfsClaimsProviderTrustsGroup](Get-AdfsClaimsProviderTrustsGroup.md)
+### [Get-AdfsClaimsProviderTrustsGroup](get-adfsclaimsprovidertrustsgroup.md)
 Gets an AD FS claims provider trust group.
 
-### [Get-AdfsClient](Get-AdfsClient.md)
+### [Get-AdfsClient](get-adfsclient.md)
 Retrieves registration information for an OAuth 2.0 client.
 
-### [Get-AdfsDeviceRegistration](Get-AdfsDeviceRegistration.md)
+### [Get-AdfsDeviceRegistration](get-adfsdeviceregistration.md)
 Gets the administrative polices of the Device Registration Service.
 
-### [Get-AdfsDeviceRegistrationUpnSuffix](Get-AdfsDeviceRegistrationUpnSuffix.md)
+### [Get-AdfsDeviceRegistrationUpnSuffix](get-adfsdeviceregistrationupnsuffix.md)
 Gets the UPN suffixes that can be used with device registration.
 
-### [Get-AdfsEndpoint](Get-AdfsEndpoint.md)
+### [Get-AdfsEndpoint](get-adfsendpoint.md)
 Retrieves an endpoint in AD FS.
 
-### [Get-AdfsFarmInformation](Get-AdfsFarmInformation.md)
+### [Get-AdfsFarmInformation](get-adfsfarminformation.md)
 Gets AD FS behavior level and farm node information.
 
-### [Get-AdfsGlobalAuthenticationPolicy](Get-AdfsGlobalAuthenticationPolicy.md)
+### [Get-AdfsGlobalAuthenticationPolicy](get-adfsglobalauthenticationpolicy.md)
 Displays the AD FS global policy.
 
-### [Get-AdfsGlobalWebContent](Get-AdfsGlobalWebContent.md)
+### [Get-AdfsGlobalWebContent](get-adfsglobalwebcontent.md)
 Gets global web content objects.
 
-### [Get-AdfsLocalClaimsProviderTrust](Get-AdfsLocalClaimsProviderTrust.md)
+### [Get-AdfsLocalClaimsProviderTrust](get-adfslocalclaimsprovidertrust.md)
 Gets local claims provider trusts.
 
-### [Get-AdfsNativeClientApplication](Get-AdfsNativeClientApplication.md)
+### [Get-AdfsNativeClientApplication](get-adfsnativeclientapplication.md)
 Gets native client application roles from an application in AD FS.
 
-### [Get-AdfsNonClaimsAwareRelyingPartyTrust](Get-AdfsNonClaimsAwareRelyingPartyTrust.md)
+### [Get-AdfsNonClaimsAwareRelyingPartyTrust](get-adfsnonclaimsawarerelyingpartytrust.md)
 Gets the properties of a relying party trust for a non-claims-aware web application or service.
 
-### [Get-AdfsProperties](Get-AdfsProperties.md)
+### [Get-AdfsProperties](get-adfsproperties.md)
 Gets all the associated properties for the AD FS service.
 
-### [Get-AdfsRegistrationHosts](Get-AdfsRegistrationHosts.md)
+### [Get-AdfsRegistrationHosts](get-adfsregistrationhosts.md)
 The Get-AdfsRegistrationHosts cmdlet is deprecated.
 Instead, use the Get-AdfsDeviceRegistrationUpnSuffix cmdlet.
 
-### [Get-AdfsRelyingPartyTrust](Get-AdfsRelyingPartyTrust.md)
+### [Get-AdfsRelyingPartyTrust](get-adfsrelyingpartytrust.md)
 Gets the relying party trusts of the Federation Service.
 
-### [Get-AdfsRelyingPartyTrustsGroup](Get-AdfsRelyingPartyTrustsGroup.md)
+### [Get-AdfsRelyingPartyTrustsGroup](get-adfsrelyingpartytrustsgroup.md)
 Gets a relying party trust group.
 
-### [Get-AdfsRelyingPartyWebContent](Get-AdfsRelyingPartyWebContent.md)
+### [Get-AdfsRelyingPartyWebContent](get-adfsrelyingpartywebcontent.md)
 Gets web content objects for relying parties.
 
-### [Get-AdfsRelyingPartyWebTheme](Get-AdfsRelyingPartyWebTheme.md)
+### [Get-AdfsRelyingPartyWebTheme](get-adfsrelyingpartywebtheme.md)
 Gets properties of web themes applied to relying party trusts.
 
-### [Get-AdfsScopeDescription](Get-AdfsScopeDescription.md)
+### [Get-AdfsScopeDescription](get-adfsscopedescription.md)
 Gets a description for a scope in AD FS.
 
-### [Get-AdfsServerApplication](Get-AdfsServerApplication.md)
+### [Get-AdfsServerApplication](get-adfsserverapplication.md)
 Gets configuration settings for a server application role for an application in AD FS.
 
-### [Get-AdfsSslCertificate](Get-AdfsSslCertificate.md)
+### [Get-AdfsSslCertificate](get-adfssslcertificate.md)
 Gets the host name, port, and certificate hash for SSL bindings configured for AD FS and the device registration service.
 
-### [Get-AdfsSyncProperties](Get-AdfsSyncProperties.md)
+### [Get-AdfsSyncProperties](get-adfssyncproperties.md)
 Gets synchronization properties the configuration database of AD FS.
 
-### [Get-AdfsTrustedFederationPartner](Get-AdfsTrustedFederationPartner.md)
+### [Get-AdfsTrustedFederationPartner](get-adfstrustedfederationpartner.md)
 Gets a trusted federation partner in AD FS.
 
-### [Get-AdfsWebApiApplication](Get-AdfsWebApiApplication.md)
+### [Get-AdfsWebApiApplication](get-adfswebapiapplication.md)
 Gets Web API application roles in AD FS.
 
-### [Get-AdfsWebApplicationProxyRelyingPartyTrust](Get-AdfsWebApplicationProxyRelyingPartyTrust.md)
+### [Get-AdfsWebApplicationProxyRelyingPartyTrust](get-adfswebapplicationproxyrelyingpartytrust.md)
 Gets the relying party trust object for the Web Application Proxy.
 
-### [Get-AdfsWebConfig](Get-AdfsWebConfig.md)
+### [Get-AdfsWebConfig](get-adfswebconfig.md)
 Gets AD FS web customization configuration settings.
 
-### [Get-AdfsWebTheme](Get-AdfsWebTheme.md)
+### [Get-AdfsWebTheme](get-adfswebtheme.md)
 Gets web themes.
 
-### [Grant-AdfsApplicationPermission](Grant-AdfsApplicationPermission.md)
+### [Grant-AdfsApplicationPermission](grant-adfsapplicationpermission.md)
 Grants application permission.
 
-### [Import-AdfsAuthenticationProviderConfigurationData](Import-AdfsAuthenticationProviderConfigurationData.md)
+### [Import-AdfsAuthenticationProviderConfigurationData](import-adfsauthenticationproviderconfigurationdata.md)
 Imports the custom configuration for an authentication provider.
 
-### [Import-AdfsWebContent](Import-AdfsWebContent.md)
+### [Import-AdfsWebContent](import-adfswebcontent.md)
 Imports properties from a resource file into global and relying party web content objects.
 
-### [Initialize-ADDeviceRegistration](Initialize-ADDeviceRegistration.md)
+### [Initialize-ADDeviceRegistration](initialize-addeviceregistration.md)
 Initializes the Device Registration Service configuration in the Active Directory forest.
 
-### [Install-AdfsFarm](Install-AdfsFarm.md)
+### [Install-AdfsFarm](install-adfsfarm.md)
 Creates the first node of a new federation server farm.
 
-### [Invoke-AdfsFarmBehaviorLevelRaise](Invoke-AdfsFarmBehaviorLevelRaise.md)
+### [Invoke-AdfsFarmBehaviorLevelRaise](invoke-adfsfarmbehaviorlevelraise.md)
 Raises the behavior level of a farm.
 
-### [New-AdfsAccessControlPolicy](New-AdfsAccessControlPolicy.md)
+### [New-AdfsAccessControlPolicy](new-adfsaccesscontrolpolicy.md)
 Creates an AD FS access control policy.
 
-### [New-AdfsApplicationGroup](New-AdfsApplicationGroup.md)
+### [New-AdfsApplicationGroup](new-adfsapplicationgroup.md)
 Creates an application group.
 
-### [New-AdfsAzureMfaTenantCertificate](New-AdfsAzureMfaTenantCertificate.md)
+### [New-AdfsAzureMfaTenantCertificate](new-adfsazuremfatenantcertificate.md)
 Creates a certificate for the AD FS farm to use to connect to Azure MFA, or returns the currently configured certificate.
 
-### [New-AdfsClaimRuleSet](New-AdfsClaimRuleSet.md)
+### [New-AdfsClaimRuleSet](new-adfsclaimruleset.md)
 Creates a set of claim rules.
 
-### [New-AdfsContactPerson](New-AdfsContactPerson.md)
+### [New-AdfsContactPerson](new-adfscontactperson.md)
 Creates a contact person object.
 
-### [New-AdfsLdapAttributeToClaimMapping](New-AdfsLdapAttributeToClaimMapping.md)
+### [New-AdfsLdapAttributeToClaimMapping](new-adfsldapattributetoclaimmapping.md)
 Creates a mapping between an attribute of an LDAP folder and an AD FS claim type.
 
-### [New-AdfsLdapServerConnection](New-AdfsLdapServerConnection.md)
+### [New-AdfsLdapServerConnection](new-adfsldapserverconnection.md)
 Creates a connection object.
 
-### [New-AdfsOrganization](New-AdfsOrganization.md)
+### [New-AdfsOrganization](new-adfsorganization.md)
 Creates a new organization information object.
 
-### [New-AdfsSamlEndpoint](New-AdfsSamlEndpoint.md)
+### [New-AdfsSamlEndpoint](new-adfssamlendpoint.md)
 Creates a SAML protocol endpoint object.
 
-### [New-AdfsWebTheme](New-AdfsWebTheme.md)
+### [New-AdfsWebTheme](new-adfswebtheme.md)
 Creates an AD FS web theme.
 
-### [Publish-SslCertificate](Publish-SslCertificate.md)
+### [Publish-SslCertificate](publish-sslcertificate.md)
 The Publish-SslCertificate cmdlet is deprecated.
 Instead, use the Set-AdfsSslCertificate cmdlet.
 
-### [Register-AdfsAuthenticationProvider](Register-AdfsAuthenticationProvider.md)
+### [Register-AdfsAuthenticationProvider](register-adfsauthenticationprovider.md)
 Registers an external authentication provider in AD FS.
 
-### [Remove-AdfsAccessControlPolicy](Remove-AdfsAccessControlPolicy.md)
+### [Remove-AdfsAccessControlPolicy](remove-adfsaccesscontrolpolicy.md)
 Removes an AD FS access control policy.
 
-### [Remove-AdfsApplicationGroup](Remove-AdfsApplicationGroup.md)
+### [Remove-AdfsApplicationGroup](remove-adfsapplicationgroup.md)
 Removes an application group.
 
-### [Remove-AdfsAttributeStore](Remove-AdfsAttributeStore.md)
+### [Remove-AdfsAttributeStore](remove-adfsattributestore.md)
 Removes an attribute store from the Federation Service.
 
-### [Remove-AdfsAuthenticationProviderWebContent](Remove-AdfsAuthenticationProviderWebContent.md)
+### [Remove-AdfsAuthenticationProviderWebContent](remove-adfsauthenticationproviderwebcontent.md)
 Removes web content customization of the authentication provider in the user sign-in web pages from AD FS.
 
-### [Remove-AdfsCertificate](Remove-AdfsCertificate.md)
+### [Remove-AdfsCertificate](remove-adfscertificate.md)
 Removes a certificate from AD FS.
 
-### [Remove-AdfsClaimDescription](Remove-AdfsClaimDescription.md)
+### [Remove-AdfsClaimDescription](remove-adfsclaimdescription.md)
 Removes a claim description from the Federation Service.
 
-### [Remove-AdfsClaimsProviderTrust](Remove-AdfsClaimsProviderTrust.md)
+### [Remove-AdfsClaimsProviderTrust](remove-adfsclaimsprovidertrust.md)
 Removes a claims provider trust from the Federation Service.
 
-### [Remove-AdfsClaimsProviderTrustsGroup](Remove-AdfsClaimsProviderTrustsGroup.md)
+### [Remove-AdfsClaimsProviderTrustsGroup](remove-adfsclaimsprovidertrustsgroup.md)
 Removes an AD FS claims provider trust group.
 
-### [Remove-AdfsClient](Remove-AdfsClient.md)
+### [Remove-AdfsClient](remove-adfsclient.md)
 Deletes registration information for an OAuth 2.0 client that is currently registered with AD FS.
 
-### [Remove-AdfsDeviceRegistrationUpnSuffix](Remove-AdfsDeviceRegistrationUpnSuffix.md)
+### [Remove-AdfsDeviceRegistrationUpnSuffix](remove-adfsdeviceregistrationupnsuffix.md)
 Removes a custom UPN suffix.
 
-### [Remove-AdfsFarmNode](Remove-AdfsFarmNode.md)
+### [Remove-AdfsFarmNode](remove-adfsfarmnode.md)
 The Remove-AdfsFarmNode cmdlet is deprecated.
 Instead, use the Uninstall-WindowsFeature cmdlet.
 
-### [Remove-AdfsGlobalWebContent](Remove-AdfsGlobalWebContent.md)
+### [Remove-AdfsGlobalWebContent](remove-adfsglobalwebcontent.md)
 Removes a global web content object.
 
-### [Remove-AdfsLocalClaimsProviderTrust](Remove-AdfsLocalClaimsProviderTrust.md)
+### [Remove-AdfsLocalClaimsProviderTrust](remove-adfslocalclaimsprovidertrust.md)
 Removes a local claims provider trust.
 
-### [Remove-AdfsNativeClientApplication](Remove-AdfsNativeClientApplication.md)
+### [Remove-AdfsNativeClientApplication](remove-adfsnativeclientapplication.md)
 Removes a native client application role from an application in AD FS.
 
-### [Remove-AdfsNonClaimsAwareRelyingPartyTrust](Remove-AdfsNonClaimsAwareRelyingPartyTrust.md)
+### [Remove-AdfsNonClaimsAwareRelyingPartyTrust](remove-adfsnonclaimsawarerelyingpartytrust.md)
 Removes a relying party trust for a non-claims-aware web application or service from the Federation Service.
 
-### [Remove-AdfsRelyingPartyTrust](Remove-AdfsRelyingPartyTrust.md)
+### [Remove-AdfsRelyingPartyTrust](remove-adfsrelyingpartytrust.md)
 Removes a relying party trust from the Federation Service.
 
-### [Remove-AdfsRelyingPartyTrustsGroup](Remove-AdfsRelyingPartyTrustsGroup.md)
+### [Remove-AdfsRelyingPartyTrustsGroup](remove-adfsrelyingpartytrustsgroup.md)
 Removes a relying party trusts group.
 
-### [Remove-AdfsRelyingPartyWebContent](Remove-AdfsRelyingPartyWebContent.md)
+### [Remove-AdfsRelyingPartyWebContent](remove-adfsrelyingpartywebcontent.md)
 Removes a relying party web content object.
 
-### [Remove-AdfsRelyingPartyWebTheme](Remove-AdfsRelyingPartyWebTheme.md)
+### [Remove-AdfsRelyingPartyWebTheme](remove-adfsrelyingpartywebtheme.md)
 Removes a web theme to a relying party.
 
-### [Remove-AdfsScopeDescription](Remove-AdfsScopeDescription.md)
+### [Remove-AdfsScopeDescription](remove-adfsscopedescription.md)
 Removes a scope description in AD FS.
 
-### [Remove-AdfsServerApplication](Remove-AdfsServerApplication.md)
+### [Remove-AdfsServerApplication](remove-adfsserverapplication.md)
 Removes a server application role from an application in AD FS.
 
-### [Remove-AdfsTrustedFederationPartner](Remove-AdfsTrustedFederationPartner.md)
+### [Remove-AdfsTrustedFederationPartner](remove-adfstrustedfederationpartner.md)
 Removes a trusted federation partner in AD FS.
 
-### [Remove-AdfsWebApiApplication](Remove-AdfsWebApiApplication.md)
+### [Remove-AdfsWebApiApplication](remove-adfswebapiapplication.md)
 Removes a Web API application role from an application in AD FS.
 
-### [Remove-AdfsWebApplicationProxyRelyingPartyTrust](Remove-AdfsWebApplicationProxyRelyingPartyTrust.md)
+### [Remove-AdfsWebApplicationProxyRelyingPartyTrust](remove-adfswebapplicationproxyrelyingpartytrust.md)
 Removes the relying party trust object for the Web Application Proxy.
 
-### [Remove-AdfsWebTheme](Remove-AdfsWebTheme.md)
+### [Remove-AdfsWebTheme](remove-adfswebtheme.md)
 Removes a web theme.
 
-### [Restore-AdfsFarmBehaviorLevel](Restore-AdfsFarmBehaviorLevel.md)
+### [Restore-AdfsFarmBehaviorLevel](restore-adfsfarmbehaviorlevel.md)
 Restores the farm to a previous behavior level.
 
-### [Revoke-AdfsApplicationPermission](Revoke-AdfsApplicationPermission.md)
+### [Revoke-AdfsApplicationPermission](revoke-adfsapplicationpermission.md)
 Revokes permission for an application.
 
-### [Revoke-AdfsProxyTrust](Revoke-AdfsProxyTrust.md)
+### [Revoke-AdfsProxyTrust](revoke-adfsproxytrust.md)
 Revokes trust for all federation server proxies configured for the Federation Service.
 
-### [Set-AdfsAccessControlPolicy](Set-AdfsAccessControlPolicy.md)
+### [Set-AdfsAccessControlPolicy](set-adfsaccesscontrolpolicy.md)
 Modifies an AD FS access control policy.
 
-### [Set-AdfsAdditionalAuthenticationRule](Set-AdfsAdditionalAuthenticationRule.md)
+### [Set-AdfsAdditionalAuthenticationRule](set-adfsadditionalauthenticationrule.md)
 Sets the global rules that provide the trigger for additional authentication providers to be invoked.
 
-### [Set-AdfsAlternateTlsClientBinding](Set-AdfsAlternateTlsClientBinding.md)
+### [Set-AdfsAlternateTlsClientBinding](set-adfsalternatetlsclientbinding.md)
 Configures an existing AD FS deployment to use the same port for both device certificate and client certificate authentication.
 
-### [Set-AdfsApplicationGroup](Set-AdfsApplicationGroup.md)
+### [Set-AdfsApplicationGroup](set-adfsapplicationgroup.md)
 Modifies an application group.
 
-### [Set-AdfsApplicationPermission](Set-AdfsApplicationPermission.md)
+### [Set-AdfsApplicationPermission](set-adfsapplicationpermission.md)
 Modifies application permissions.
 
-### [Set-AdfsAttributeStore](Set-AdfsAttributeStore.md)
+### [Set-AdfsAttributeStore](set-adfsattributestore.md)
 Modifies properties of an attribute store.
 
-### [Set-AdfsAuthenticationProviderWebContent](Set-AdfsAuthenticationProviderWebContent.md)
+### [Set-AdfsAuthenticationProviderWebContent](set-adfsauthenticationproviderwebcontent.md)
 Modifies a display name and description.
 
-### [Set-AdfsAzureMfaTenant](Set-AdfsAzureMfaTenant.md)
+### [Set-AdfsAzureMfaTenant](set-adfsazuremfatenant.md)
 Enables an AD FS farm to use MFA.
 
-### [Set-AdfsCertificate](Set-AdfsCertificate.md)
+### [Set-AdfsCertificate](set-adfscertificate.md)
 Sets the properties of an existing certificate that AD FS uses to sign, decrypt, or secure communications.
 
-### [Set-AdfsCertificateAuthority](Set-AdfsCertificateAuthority.md)
+### [Set-AdfsCertificateAuthority](set-adfscertificateauthority.md)
 Modifies a certificate authority.
 
-### [Set-AdfsCertSharingContainer](Set-AdfsCertSharingContainer.md)
+### [Set-AdfsCertSharingContainer](set-adfscertsharingcontainer.md)
 Sets the account that is used for sharing managed certificates in a federation server farm.
 
-### [Set-AdfsClaimDescription](Set-AdfsClaimDescription.md)
+### [Set-AdfsClaimDescription](set-adfsclaimdescription.md)
 Modifies the properties of a claim description.
 
-### [Set-AdfsClaimsProviderTrust](Set-AdfsClaimsProviderTrust.md)
+### [Set-AdfsClaimsProviderTrust](set-adfsclaimsprovidertrust.md)
 Sets the properties of a claims provider trust.
 
-### [Set-AdfsClient](Set-AdfsClient.md)
+### [Set-AdfsClient](set-adfsclient.md)
 Modifies registration settings for an OAuth 2.0 client registered with AD FS.
 
-### [Set-AdfsDeviceRegistration](Set-AdfsDeviceRegistration.md)
+### [Set-AdfsDeviceRegistration](set-adfsdeviceregistration.md)
 Configures the administrative policies for the Device Registration Service.
 
-### [Set-AdfsDeviceRegistrationUpnSuffix](Set-AdfsDeviceRegistrationUpnSuffix.md)
+### [Set-AdfsDeviceRegistrationUpnSuffix](set-adfsdeviceregistrationupnsuffix.md)
 Sets the list of UPN suffixes.
 
-### [Set-AdfsEndpoint](Set-AdfsEndpoint.md)
+### [Set-AdfsEndpoint](set-adfsendpoint.md)
 Sets the endpoint on a Web Application Proxy.
 
-### [Set-AdfsFarmInformation](Set-AdfsFarmInformation.md)
+### [Set-AdfsFarmInformation](set-adfsfarminformation.md)
 Removes a stale or offline farm node from the farm information table.
 
-### [Set-AdfsGlobalAuthenticationPolicy](Set-AdfsGlobalAuthenticationPolicy.md)
+### [Set-AdfsGlobalAuthenticationPolicy](set-adfsglobalauthenticationpolicy.md)
 Modifies the AD FS global policy.
 
-### [Set-AdfsGlobalWebContent](Set-AdfsGlobalWebContent.md)
+### [Set-AdfsGlobalWebContent](set-adfsglobalwebcontent.md)
 Sets properties for global web content objects.
 
-### [Set-AdfsLocalClaimsProviderTrust](Set-AdfsLocalClaimsProviderTrust.md)
+### [Set-AdfsLocalClaimsProviderTrust](set-adfslocalclaimsprovidertrust.md)
 Modifies a local claims provider trust.
 
-### [Set-AdfsNativeClientApplication](Set-AdfsNativeClientApplication.md)
+### [Set-AdfsNativeClientApplication](set-adfsnativeclientapplication.md)
 Modifies configuration settings for a server native client application role of an application in AD FS.
 
-### [Set-AdfsNonClaimsAwareRelyingPartyTrust](Set-AdfsNonClaimsAwareRelyingPartyTrust.md)
+### [Set-AdfsNonClaimsAwareRelyingPartyTrust](set-adfsnonclaimsawarerelyingpartytrust.md)
 Sets the properties of a relying party trust for a non-claims-aware web application or service.
 
-### [Set-AdfsProperties](Set-AdfsProperties.md)
+### [Set-AdfsProperties](set-adfsproperties.md)
 Sets the properties that control global behaviors in AD FS.
 
-### [Set-AdfsRegistrationHosts](Set-AdfsRegistrationHosts.md)
+### [Set-AdfsRegistrationHosts](set-adfsregistrationhosts.md)
 The Set-AdfsRegistrationHosts cmdlet is deprecated.
 Instead, use the **Set-AdfsDeviceRegistrationUpnSuffix** cmdlet.
 
-### [Set-AdfsRelyingPartyTrust](Set-AdfsRelyingPartyTrust.md)
+### [Set-AdfsRelyingPartyTrust](set-adfsrelyingpartytrust.md)
 Sets the properties of a relying party trust.
 
-### [Set-AdfsRelyingPartyWebContent](Set-AdfsRelyingPartyWebContent.md)
+### [Set-AdfsRelyingPartyWebContent](set-adfsrelyingpartywebcontent.md)
 Sets properties for the relying party web content objects.
 
-### [Set-AdfsRelyingPartyWebTheme](Set-AdfsRelyingPartyWebTheme.md)
+### [Set-AdfsRelyingPartyWebTheme](set-adfsrelyingpartywebtheme.md)
 Applies a web theme to a relying party.
 
-### [Set-AdfsScopeDescription](Set-AdfsScopeDescription.md)
+### [Set-AdfsScopeDescription](set-adfsscopedescription.md)
 Modifies a scope description in AD FS.
 
-### [Set-AdfsServerApplication](Set-AdfsServerApplication.md)
+### [Set-AdfsServerApplication](set-adfsserverapplication.md)
 Modifies configuration settings for a server application role of an application in AD FS.
 
-### [Set-AdfsSslCertificate](Set-AdfsSslCertificate.md)
+### [Set-AdfsSslCertificate](set-adfssslcertificate.md)
 Sets an SSL certificate for HTTPS bindings for AD FS.
 
-### [Set-AdfsSyncProperties](Set-AdfsSyncProperties.md)
+### [Set-AdfsSyncProperties](set-adfssyncproperties.md)
 Modifies the frequency of synchronization for the AD FS configuration database and which server is primary in the farm.
 
-### [Set-AdfsTrustedFederationPartner](Set-AdfsTrustedFederationPartner.md)
+### [Set-AdfsTrustedFederationPartner](set-adfstrustedfederationpartner.md)
 Modifies configuration settings for trusted federation partners in AD FS.
 
-### [Set-AdfsWebApiApplication](Set-AdfsWebApiApplication.md)
+### [Set-AdfsWebApiApplication](set-adfswebapiapplication.md)
 Modifies configuration settings for a Web API application in AD FS.
 
-### [Set-AdfsWebApplicationProxyRelyingPartyTrust](Set-AdfsWebApplicationProxyRelyingPartyTrust.md)
+### [Set-AdfsWebApplicationProxyRelyingPartyTrust](set-adfswebapplicationproxyrelyingpartytrust.md)
 Modifies properties of the relying party trust object for the Web Application Proxy.
 
-### [Set-AdfsWebConfig](Set-AdfsWebConfig.md)
+### [Set-AdfsWebConfig](set-adfswebconfig.md)
 Modifies web customization configuration settings.
 
-### [Set-AdfsWebTheme](Set-AdfsWebTheme.md)
+### [Set-AdfsWebTheme](set-adfswebtheme.md)
 Modifies properties of a web theme.
 
-### [Test-AdfsFarmBehaviorLevelRaise](Test-AdfsFarmBehaviorLevelRaise.md)
+### [Test-AdfsFarmBehaviorLevelRaise](test-adfsfarmbehaviorlevelraise.md)
 Tests whether you can raise the behavior level of a farm.
 
-### [Test-AdfsFarmBehaviorLevelRestore](Test-AdfsFarmBehaviorLevelRestore.md)
+### [Test-AdfsFarmBehaviorLevelRestore](test-adfsfarmbehaviorlevelrestore.md)
 Tests whether you can restore an AD FS farm to a previous behavior level.
 
-### [Test-AdfsFarmInstallation](Test-AdfsFarmInstallation.md)
+### [Test-AdfsFarmInstallation](test-adfsfarminstallation.md)
 Runs prerequisite checks for installing a new federation server farm.
 
-### [Test-AdfsFarmJoin](Test-AdfsFarmJoin.md)
+### [Test-AdfsFarmJoin](test-adfsfarmjoin.md)
 Runs prerequisite checks for adding the server computer to a federation server farm.
 
-### [Unregister-AdfsAuthenticationProvider](Unregister-AdfsAuthenticationProvider.md)
+### [Unregister-AdfsAuthenticationProvider](unregister-adfsauthenticationprovider.md)
 Deletes an external authentication provider from AD FS.
 
-### [Update-AdfsCertificate](Update-AdfsCertificate.md)
+### [Update-AdfsCertificate](update-adfscertificate.md)
 Updates the certificates of AD FS.
 
-### [Update-AdfsClaimsProviderTrust](Update-AdfsClaimsProviderTrust.md)
+### [Update-AdfsClaimsProviderTrust](update-adfsclaimsprovidertrust.md)
 Updates the claims provider trust from federation metadata.
 
-### [Update-AdfsRelyingPartyTrust](Update-AdfsRelyingPartyTrust.md)
+### [Update-AdfsRelyingPartyTrust](update-adfsrelyingpartytrust.md)
 Updates the relying party trust from federation metadata.
+
 

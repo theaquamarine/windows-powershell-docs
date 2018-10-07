@@ -244,7 +244,9 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-WindowsPackage](./Add-WindowsPackage.md)
+[Add-WindowsPackage](./add-windowspackage.md)
 
-[Remove-WindowsPackage](./Remove-WindowsPackage.md)
+[Remove-WindowsPackage](./remove-windowspackage.md)
+
+
 

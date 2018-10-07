@@ -290,7 +290,8 @@ An RODC object is received by the *Identity* parameter.
 
 ## RELATED LINKS
 
-[Get-ADDomainController](./Get-ADDomainController.md)
+[Get-ADDomainController](./get-addomaincontroller.md)
 
-[Get-ADDomainControllerPasswordReplicationPolicy](./Get-ADDomainControllerPasswordReplicationPolicy.md)
+[Get-ADDomainControllerPasswordReplicationPolicy](./get-addomaincontrollerpasswordreplicationpolicy.md)
+
 

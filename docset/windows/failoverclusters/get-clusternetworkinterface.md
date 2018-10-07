@@ -155,5 +155,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-ClusterNetwork](./Get-ClusterNetwork.md)
+[Get-ClusterNetwork](./get-clusternetwork.md)
+
 

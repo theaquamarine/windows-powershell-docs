@@ -156,7 +156,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-IISServerManager](./Get-IISServerManager.md)
+[Get-IISServerManager](./get-iisservermanager.md)
 
 [IIS Administration Cmdlets for Windows PowerShell](./iisadministration.md)
+
 

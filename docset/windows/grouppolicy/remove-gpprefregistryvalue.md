@@ -351,9 +351,10 @@ Therefore, when this cmdlet is run from a startup or shutdown script, the defaul
 
 ## RELATED LINKS
 
-[Get-GPO](./Get-GPO.md)
+[Get-GPO](./get-gpo.md)
 
-[Get-GPPrefRegistryValue](./Get-GPPrefRegistryValue.md)
+[Get-GPPrefRegistryValue](./get-gpprefregistryvalue.md)
 
-[Set-GPPrefRegistryValue](./Set-GPPrefRegistryValue.md)
+[Set-GPPrefRegistryValue](./set-gpprefregistryvalue.md)
+
 

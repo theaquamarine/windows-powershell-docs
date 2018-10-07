@@ -355,17 +355,18 @@ Derived types, such as the following, are also accepted:
 
 ## RELATED LINKS
 
-[Get-ADObject](./Get-ADObject.md)
+[Get-ADObject](./get-adobject.md)
 
-[New-ADObject](./New-ADObject.md)
+[New-ADObject](./new-adobject.md)
 
-[Remove-ADObject](./Remove-ADObject.md)
+[Remove-ADObject](./remove-adobject.md)
 
-[Rename-ADObject](./Rename-ADObject.md)
+[Rename-ADObject](./rename-adobject.md)
 
-[Restore-ADObject](./Restore-ADObject.md)
+[Restore-ADObject](./restore-adobject.md)
 
-[Set-ADObject](./Set-ADObject.md)
+[Set-ADObject](./set-adobject.md)
 
-[Sync-ADObject](./Sync-ADObject.md)
+[Sync-ADObject](./sync-adobject.md)
+
 

@@ -222,11 +222,12 @@ Returns one or more objects that represent the service accounts hosted by the sp
 
 ## RELATED LINKS
 
-[Add-ADComputerServiceAccount](./Add-ADComputerServiceAccount.md)
+[Add-ADComputerServiceAccount](./add-adcomputerserviceaccount.md)
 
-[Get-ADComputer](./Get-ADComputer.md)
+[Get-ADComputer](./get-adcomputer.md)
 
-[Remove-ADComputerServiceAccount](./Remove-ADComputerServiceAccount.md)
+[Remove-ADComputerServiceAccount](./remove-adcomputerserviceaccount.md)
 
 [AD DS Administration Cmdlets in Windows PowerShell](./activedirectory.md)
+
 

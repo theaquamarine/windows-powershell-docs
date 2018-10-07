@@ -286,7 +286,8 @@ This cmdlet outputs the following information:
 
 ## RELATED LINKS
 
-[Get-NetworkControllerVirtualGatewayBgpRouter](./Get-NetworkControllerVirtualGatewayBgpRouter.md)
+[Get-NetworkControllerVirtualGatewayBgpRouter](./get-networkcontrollervirtualgatewaybgprouter.md)
 
-[Remove-NetworkControllerVirtualGatewayBgpRouter](./Remove-NetworkControllerVirtualGatewayBgpRouter.md)
+[Remove-NetworkControllerVirtualGatewayBgpRouter](./remove-networkcontrollervirtualgatewaybgprouter.md)
+
 

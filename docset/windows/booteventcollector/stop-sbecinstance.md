@@ -165,13 +165,14 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-SbecActiveConfig](./Get-SbecActiveConfig.md)
+[Get-SbecActiveConfig](./get-sbecactiveconfig.md)
 
-[Save-SbecInstance](./Save-SbecInstance.md)
+[Save-SbecInstance](./save-sbecinstance.md)
 
-[Set-SbecActiveConfig](./Set-SbecActiveConfig.md)
+[Set-SbecActiveConfig](./set-sbecactiveconfig.md)
 
-[Start-SbecInstance](./Start-SbecInstance.md)
+[Start-SbecInstance](./start-sbecinstance.md)
 
-[Test-SbecActiveConfig](./Test-SbecActiveConfig.md)
+[Test-SbecActiveConfig](./test-sbecactiveconfig.md)
+
 

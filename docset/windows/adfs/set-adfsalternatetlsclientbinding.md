@@ -136,5 +136,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Set-AdfsSslCertificate](./Set-AdfsSslCertificate.md)
+[Set-AdfsSslCertificate](./set-adfssslcertificate.md)
+
 

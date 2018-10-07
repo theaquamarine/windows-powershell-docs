@@ -266,9 +266,10 @@ This cmdlet returns a **VMGroup** object, if you specify the **Passthru** parame
 
 ## RELATED LINKS
 
-[Add-VMGroupMember](./Add-VMGroupMember.md)
+[Add-VMGroupMember](./add-vmgroupmember.md)
 
-[Get-VM](./Get-VM.md)
+[Get-VM](./get-vm.md)
 
-[Get-VMGroup](./Get-VMGroup.md)
+[Get-VMGroup](./get-vmgroup.md)
+
 

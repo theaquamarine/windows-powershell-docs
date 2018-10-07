@@ -361,13 +361,14 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 [AD DS Simplified Administration](http://go.microsoft.com/fwlink/?LinkID=237244)
 
-[Install-ADDSForest](./Install-ADDSForest.md)
+[Install-ADDSForest](./install-addsforest.md)
 
-[Test-ADDSDomainInstallation](./Test-ADDSDomainInstallation.md)
+[Test-ADDSDomainInstallation](./test-addsdomaininstallation.md)
 
-[Test-ADDSDomainControllerInstallation](./Test-ADDSDomainControllerInstallation.md)
+[Test-ADDSDomainControllerInstallation](./test-addsdomaincontrollerinstallation.md)
 
-[Install-ADDSDomainController](./Install-ADDSDomainController.md)
+[Install-ADDSDomainController](./install-addsdomaincontroller.md)
 
 [ConvertTo-SecureString](http://go.microsoft.com/fwlink/p/?LinkId=113291)
+
 

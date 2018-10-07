@@ -66,5 +66,6 @@ This cmdlet returns a 32-bit signed number that uniquely identifies a geographic
 
 [RegionInfo.GeoId Property](http://go.microsoft.com/fwlink/?LinkID=242310)
 
-[Set-WinHomeLocation](./Set-WinHomeLocation.md)
+[Set-WinHomeLocation](./set-winhomelocation.md)
+
 

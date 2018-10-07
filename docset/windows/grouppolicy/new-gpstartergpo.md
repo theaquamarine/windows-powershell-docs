@@ -174,7 +174,8 @@ This cmdlet returns the Starter GPO that was created.
 
 ## RELATED LINKS
 
-[Get-GPStarterGPO](./Get-GPStarterGPO.md)
+[Get-GPStarterGPO](./get-gpstartergpo.md)
 
-[New-GPO](./New-GPO.md)
+[New-GPO](./new-gpo.md)
+
 

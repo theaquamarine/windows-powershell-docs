@@ -152,9 +152,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-IscsiServerTarget](./Get-IscsiServerTarget.md)
+[Get-IscsiServerTarget](./get-iscsiservertarget.md)
 
-[Remove-IscsiServerTarget](./Remove-IscsiServerTarget.md)
+[Remove-IscsiServerTarget](./remove-iscsiservertarget.md)
 
-[Set-IscsiServerTarget](./Set-IscsiServerTarget.md)
+[Set-IscsiServerTarget](./set-iscsiservertarget.md)
+
 

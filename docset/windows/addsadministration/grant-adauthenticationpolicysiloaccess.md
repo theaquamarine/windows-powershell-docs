@@ -31,7 +31,7 @@ Grant-ADAuthenticationPolicySiloAccess [-WhatIf] [-Confirm] [-Account] <ADAccoun
 ```
 
 ## DESCRIPTION
-The **Grant-ADAuthenticationPolicySiloAccess** cmdlet grants permission to an account to join an authentication policy silo in Active Directory® Domain Services.
+The **Grant-ADAuthenticationPolicySiloAccess** cmdlet grants permission to an account to join an authentication policy silo in Active Directory?? Domain Services.
 
 ## EXAMPLES
 
@@ -243,7 +243,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Revoke-ADAuthenticationPolicySiloAccess](./Revoke-ADAuthenticationPolicySiloAccess.md)
+[Revoke-ADAuthenticationPolicySiloAccess](./revoke-adauthenticationpolicysiloaccess.md)
 
 [AD DS Administration Cmdlets in Windows PowerShell](./activedirectory.md)
+
 

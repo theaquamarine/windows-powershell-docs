@@ -61,5 +61,6 @@ This cmdlet returns the configuration of Key Protection Service set up on the lo
 
 ## RELATED LINKS
 
-[Set-HgsKeyProtectionConfiguration](./Set-HgsKeyProtectionConfiguration.md)
+[Set-HgsKeyProtectionConfiguration](./set-hgskeyprotectionconfiguration.md)
+
 

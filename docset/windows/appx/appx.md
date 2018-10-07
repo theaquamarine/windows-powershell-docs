@@ -22,47 +22,50 @@ ms.assetid: 1848DCF8-9EA3-4E54-9DFC-C40A6CC14BB6
 The Windows PowerShell cmdlets for AppX are designed to streamline the administration of AppX package management.
 
 ## Appx Cmdlets
-### [Add-AppxPackage](Add-AppxPackage.md)
+### [Add-AppxPackage](add-appxpackage.md)
 Adds a signed app package to a user account.
 
-### [Add-AppxVolume](Add-AppxVolume.md)
+### [Add-AppxVolume](add-appxvolume.md)
 Adds an appx volume to the Package Manager.
 
-### [Dismount-AppxVolume](Dismount-AppxVolume.md)
+### [Dismount-AppxVolume](dismount-appxvolume.md)
 Dismounts an appx volume.
 
-### [Get-AppxDefaultVolume](Get-AppxDefaultVolume.md)
+### [Get-AppxDefaultVolume](get-appxdefaultvolume.md)
 Gets the default appx volume.
 
-### [Get-AppxLastError](Get-AppxLastError.md)
+### [Get-AppxLastError](get-appxlasterror.md)
 Get the last error reported in the app package installation logs.
 
-### [Get-AppxLog](Get-AppxLog.md)
+### [Get-AppxLog](get-appxlog.md)
 Gets an app package installation log.
 
-### [Get-AppxPackage](Get-AppxPackage.md)
+### [Get-AppxPackage](get-appxpackage.md)
 Gets a list of the app packages that are installed in a user profile.
 
-### [Get-AppxPackageManifest](Get-AppxPackageManifest.md)
+### [Get-AppxPackageManifest](get-appxpackagemanifest.md)
 Gets the manifest of an app package.
 
-### [Get-AppxVolume](Get-AppxVolume.md)
+### [Get-AppxVolume](get-appxvolume.md)
 Gets appx volumes for the computer.
 
-### [Mount-AppxVolume](Mount-AppxVolume.md)
+### [Mount-AppxVolume](mount-appxvolume.md)
 Mounts an appx volume.
 
-### [Move-AppxPackage](Move-AppxPackage.md)
+### [Move-AppxPackage](move-appxpackage.md)
 Moves a package from its current location to another appx volume.
 
-### [Remove-AppxPackage](Remove-AppxPackage.md)
+### [Remove-AppxPackage](remove-appxpackage.md)
 Removes an app package from a user account.
 
-### [Remove-AppxVolume](Remove-AppxVolume.md)
+### [Remove-AppxVolume](remove-appxvolume.md)
 Removes an appx volume.
 
-### [Set-AppxDefaultVolume](Set-AppxDefaultVolume.md)
+### [Set-AppxDefaultVolume](set-appxdefaultvolume.md)
 Specifies a default appx volume.
+
+
+
 
 
 

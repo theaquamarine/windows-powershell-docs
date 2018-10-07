@@ -126,11 +126,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-ClusterResourceDependency](./Get-ClusterResourceDependency.md)
+[Get-ClusterResourceDependency](./get-clusterresourcedependency.md)
 
-[Get-ClusterResourceDependencyReport](./Get-ClusterResourceDependencyReport.md)
+[Get-ClusterResourceDependencyReport](./get-clusterresourcedependencyreport.md)
 
-[Remove-ClusterResourceDependency](./Remove-ClusterResourceDependency.md)
+[Remove-ClusterResourceDependency](./remove-clusterresourcedependency.md)
 
-[Set-ClusterResourceDependency](./Set-ClusterResourceDependency.md)
+[Set-ClusterResourceDependency](./set-clusterresourcedependency.md)
+
 

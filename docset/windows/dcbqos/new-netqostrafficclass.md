@@ -42,7 +42,7 @@ New-NetQosTrafficClass [-Name] <String> [-Algorithm] <Algorithm> [-BandwidthPerc
 This **New-NetQosTrafficClass** cmdlet creates a traffic class.
 Traffic class is specified in the enhanced transmission selection (ETS) specification in the IEEE data center bridging (DCB) standard.
 In creating a traffic class, the user specifies which types of traffic, differentiated by the IEEE 802.1p priority, are mapped to the traffic class, what transmission algorithm it uses, and how much bandwidth it gets.
-If Windows Server® 2012 or later is set to be **not willing** to accept DCB configurations from a remote device, then Windows Server 2012 or later programs DCB capable network adapters to add this new traffic class.
+If Windows Server?? 2012 or later is set to be **not willing** to accept DCB configurations from a remote device, then Windows Server 2012 or later programs DCB capable network adapters to add this new traffic class.
 
 For more information about remote device configurations, see the **Set-NetQosDcbxSetting** cmdlet.
 
@@ -250,7 +250,8 @@ This cmdlet returns a **MSFT_NetQosTrafficClassSettingData** object that contain
 
 ## RELATED LINKS
 
-[Get-NetQosTrafficClass](./Get-NetQosTrafficClass.md)
+[Get-NetQosTrafficClass](./get-netqostrafficclass.md)
 
-[Set-NetQosTrafficClass](./Set-NetQosTrafficClass.md)
+[Set-NetQosTrafficClass](./set-netqostrafficclass.md)
+
 

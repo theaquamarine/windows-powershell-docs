@@ -261,9 +261,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-WebConfigurationProperty](./Get-WebConfigurationProperty.md)
+[Get-WebConfigurationProperty](./get-webconfigurationproperty.md)
 
-[Remove-WebConfigurationProperty](./Remove-WebConfigurationProperty.md)
+[Remove-WebConfigurationProperty](./remove-webconfigurationproperty.md)
 
-[Set-WebConfigurationProperty](./Set-WebConfigurationProperty.md)
+[Set-WebConfigurationProperty](./set-webconfigurationproperty.md)
+
 

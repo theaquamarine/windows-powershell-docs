@@ -882,15 +882,16 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Disable-AdfsRelyingPartyTrust](./Disable-AdfsRelyingPartyTrust.md)
+[Disable-AdfsRelyingPartyTrust](./disable-adfsrelyingpartytrust.md)
 
-[Enable-AdfsRelyingPartyTrust](./Enable-AdfsRelyingPartyTrust.md)
+[Enable-AdfsRelyingPartyTrust](./enable-adfsrelyingpartytrust.md)
 
-[Get-AdfsRelyingPartyTrust](./Get-AdfsRelyingPartyTrust.md)
+[Get-AdfsRelyingPartyTrust](./get-adfsrelyingpartytrust.md)
 
-[Remove-AdfsRelyingPartyTrust](./Remove-AdfsRelyingPartyTrust.md)
+[Remove-AdfsRelyingPartyTrust](./remove-adfsrelyingpartytrust.md)
 
-[Set-AdfsRelyingPartyTrust](./Set-AdfsRelyingPartyTrust.md)
+[Set-AdfsRelyingPartyTrust](./set-adfsrelyingpartytrust.md)
 
-[Update-AdfsRelyingPartyTrust](./Update-AdfsRelyingPartyTrust.md)
+[Update-AdfsRelyingPartyTrust](./update-adfsrelyingpartytrust.md)
+
 

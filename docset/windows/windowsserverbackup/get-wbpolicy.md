@@ -87,9 +87,10 @@ The cmdlet returns a null value if no backup policy is set.
 
 ## RELATED LINKS
 
-[New-WBPolicy](./New-WBPolicy.md)
+[New-WBPolicy](./new-wbpolicy.md)
 
-[Remove-WBPolicy](./Remove-WBPolicy.md)
+[Remove-WBPolicy](./remove-wbpolicy.md)
 
-[Set-WBPolicy](./Set-WBPolicy.md)
+[Set-WBPolicy](./set-wbpolicy.md)
+
 

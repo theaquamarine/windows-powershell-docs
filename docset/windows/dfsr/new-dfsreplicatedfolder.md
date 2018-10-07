@@ -332,9 +332,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-DfsReplicatedFolder](./Get-DfsReplicatedFolder.md)
+[Get-DfsReplicatedFolder](./get-dfsreplicatedfolder.md)
 
-[Set-DfsReplicatedFolder](./Set-DfsReplicatedFolder.md)
+[Set-DfsReplicatedFolder](./set-dfsreplicatedfolder.md)
 
-[Remove-DfsReplicatedFolder](./Remove-DfsReplicatedFolder.md)
+[Remove-DfsReplicatedFolder](./remove-dfsreplicatedfolder.md)
+
 

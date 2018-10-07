@@ -24,10 +24,11 @@ ms.assetid: 4F9928C1-F895-4015-8C58-BB0DA8A99EF7
 This reference provides cmdlet descriptions and syntax for all Troubleshooting Pack cmdlets. It lists the cmdlets in alphabetical order based on the verb at the beginning of the cmdlet.
 
 ## TroubleshootingPack Cmdlets
-### [Get-TroubleshootingPack](./Get-TroubleshootingPack.md)
+### [Get-TroubleshootingPack](./get-troubleshootingpack.md)
 Gets a troubleshooting pack or generates an answer file.
 
-### [Invoke-TroubleshootingPack](./Invoke-TroubleshootingPack.md)
+### [Invoke-TroubleshootingPack](./invoke-troubleshootingpack.md)
 Runs a troubleshooting pack.
+
 
 

@@ -213,5 +213,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-MPIOSetting](./Get-MPIOSetting.md)
+[Get-MPIOSetting](./get-mpiosetting.md)
+
 

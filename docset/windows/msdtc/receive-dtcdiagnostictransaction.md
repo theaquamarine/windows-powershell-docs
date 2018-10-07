@@ -31,7 +31,7 @@ Receive-DtcDiagnosticTransaction [[-ComputerName] <String>] [[-Port] <Int32>]
 
 ## DESCRIPTION
 The **Receive-DtcDiagnosticTransaction** cmdlet propagates a transaction from a specified diagnostic Resource Manager (RM).
-A transaction is created on the specified RM and propagated to the Windows PowerShell® client using either pull or push propagation.
+A transaction is created on the specified RM and propagated to the Windows PowerShell?? client using either pull or push propagation.
 Use the **PropagationMethod** parameter to specify the propagation mechanism.
 
 ## EXAMPLES
@@ -108,11 +108,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Complete-DtcDiagnosticTransaction](./Complete-DtcDiagnosticTransaction.md)
+[Complete-DtcDiagnosticTransaction](./complete-dtcdiagnostictransaction.md)
 
-[New-DtcDiagnosticTransaction](./New-DtcDiagnosticTransaction.md)
+[New-DtcDiagnosticTransaction](./new-dtcdiagnostictransaction.md)
 
-[Send-DtcDiagnosticTransaction](./Send-DtcDiagnosticTransaction.md)
+[Send-DtcDiagnosticTransaction](./send-dtcdiagnostictransaction.md)
 
-[Undo-DtcDiagnosticTransaction](./Undo-DtcDiagnosticTransaction.md)
+[Undo-DtcDiagnosticTransaction](./undo-dtcdiagnostictransaction.md)
+
 

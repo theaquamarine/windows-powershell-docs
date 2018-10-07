@@ -51,7 +51,7 @@ PS C:\> Set-AdfsWebTheme -TargetName "Theme01" -Illustration @{Locale="";Path="c
 ```
 
 This command modifies a web theme named Theme01.
-The command uses standard Windows PowerShell® syntax to create hash tables.
+The command uses standard Windows PowerShell?? syntax to create hash tables.
 For more information, type `Get-Help about_Hash_Tables`.
 The command specifies an illustration image, a logo image, an RTL style sheet, and a cascading style sheet for Theme01.
 The command specifies no value for **Locale** for any of these parameters, and, therefore, the illustration, logo, and style sheet all use the invariant locale.
@@ -288,11 +288,12 @@ This object includes the following properties:
 
 ## RELATED LINKS
 
-[Export-AdfsWebTheme](./Export-AdfsWebTheme.md)
+[Export-AdfsWebTheme](./export-adfswebtheme.md)
 
-[Get-AdfsWebTheme](./Get-AdfsWebTheme.md)
+[Get-AdfsWebTheme](./get-adfswebtheme.md)
 
-[New-AdfsWebTheme](./New-AdfsWebTheme.md)
+[New-AdfsWebTheme](./new-adfswebtheme.md)
 
-[Remove-AdfsWebTheme](./Remove-AdfsWebTheme.md)
+[Remove-AdfsWebTheme](./remove-adfswebtheme.md)
+
 

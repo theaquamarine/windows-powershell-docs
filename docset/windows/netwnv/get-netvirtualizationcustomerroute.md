@@ -31,7 +31,7 @@ Get-NetVirtualizationCustomerRoute [-RoutingDomainID <String[]>] [-VirtualSubnet
 ```
 
 ## DESCRIPTION
-The **Get-NetVirtualizationCustomerRoute** cmdlet gets virtual network routes in a Microsoft® Hyper-V® Server 2016 virtual network.
+The **Get-NetVirtualizationCustomerRoute** cmdlet gets virtual network routes in a Microsoft?? Hyper-V?? Server 2016 virtual network.
 Network Virtualization allows for more than one virtual network to exist on the same physical network.
 Computers can exchange network traffic with a virtual machine by using a Customer Address in a virtual network.
 This command gets Customer Routes that Network Virtualization use to manage traffic on a virtual network.
@@ -158,7 +158,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -200,9 +200,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[New-NetVirtualizationCustomerRoute](./New-NetVirtualizationCustomerRoute.md)
+[New-NetVirtualizationCustomerRoute](./new-netvirtualizationcustomerroute.md)
 
-[Remove-NetVirtualizationCustomerRoute](./Remove-NetVirtualizationCustomerRoute.md)
+[Remove-NetVirtualizationCustomerRoute](./remove-netvirtualizationcustomerroute.md)
 
-[Set-NetVirtualizationCustomerRoute](./Set-NetVirtualizationCustomerRoute.md)
+[Set-NetVirtualizationCustomerRoute](./set-netvirtualizationcustomerroute.md)
+
 

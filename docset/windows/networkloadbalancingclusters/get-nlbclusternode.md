@@ -152,15 +152,16 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 [Format-List](http://go.microsoft.com/fwlink/?LinkID=113302)
 
-[Add-NlbClusterNode](./Add-NlbClusterNode.md)
+[Add-NlbClusterNode](./add-nlbclusternode.md)
 
-[Remove-NlbClusterNode](./Remove-NlbClusterNode.md)
+[Remove-NlbClusterNode](./remove-nlbclusternode.md)
 
-[Resume-NlbClusterNode](./Resume-NlbClusterNode.md)
+[Resume-NlbClusterNode](./resume-nlbclusternode.md)
 
-[Set-NlbClusterNode](./Set-NlbClusterNode.md)
+[Set-NlbClusterNode](./set-nlbclusternode.md)
 
-[Stop-NlbClusterNode](./Stop-NlbClusterNode.md)
+[Stop-NlbClusterNode](./stop-nlbclusternode.md)
 
-[Suspend-NlbClusterNode](./Suspend-NlbClusterNode.md)
+[Suspend-NlbClusterNode](./suspend-nlbclusternode.md)
+
 

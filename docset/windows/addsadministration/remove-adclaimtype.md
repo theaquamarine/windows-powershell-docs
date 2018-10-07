@@ -220,11 +220,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-ADClaimType](./Get-ADClaimType.md)
+[Get-ADClaimType](./get-adclaimtype.md)
 
-[New-ADClaimType](./New-ADClaimType.md)
+[New-ADClaimType](./new-adclaimtype.md)
 
-[Set-ADClaimType](./Set-ADClaimType.md)
+[Set-ADClaimType](./set-adclaimtype.md)
 
 [AD DS Administration Cmdlets in Windows PowerShell](./activedirectory.md)
+
 

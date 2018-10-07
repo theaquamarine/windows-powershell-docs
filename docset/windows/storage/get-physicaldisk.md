@@ -514,23 +514,24 @@ The Get-PhysicalDisk cmdlet returns objects that represent physical disks.
 
 ## RELATED LINKS
 
-[Add-PhysicalDisk](./Add-PhysicalDisk.md)
+[Add-PhysicalDisk](./add-physicaldisk.md)
 
-[Get-StorageEnclosure](./Get-StorageEnclosure.md)
+[Get-StorageEnclosure](./get-storageenclosure.md)
 
-[Get-StoragePool](./Get-StoragePool.md)
+[Get-StoragePool](./get-storagepool.md)
 
-[Get-StorageSubSystem](./Get-StorageSubsystem.md)
+[Get-StorageSubSystem](./get-storagesubsystem.md)
 
-[New-StoragePool](./New-StoragePool.md)
+[New-StoragePool](./new-storagepool.md)
 
-[Remove-PhysicalDisk](./Remove-PhysicalDisk.md)
+[Remove-PhysicalDisk](./remove-physicaldisk.md)
 
-[Reset-PhysicalDisk](./Reset-PhysicalDisk.md)
+[Reset-PhysicalDisk](./reset-physicaldisk.md)
 
-[Set-PhysicalDisk](./Set-PhysicalDisk.md)
+[Set-PhysicalDisk](./set-physicaldisk.md)
 
-[New-VirtualDisk](./New-VirtualDisk.md)
+[New-VirtualDisk](./new-virtualdisk.md)
 
-[Get-StorageNode](./Get-StorageNode.md)
+[Get-StorageNode](./get-storagenode.md)
+
 

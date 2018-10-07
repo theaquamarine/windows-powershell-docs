@@ -24,238 +24,239 @@ ms.assetid: E202D545-2B83-4532-B016-BD96727B4DBE
 This reference provides cmdlet descriptions and syntax for all Web Administration cmdlets. It lists the cmdlets in alphabetical order based on the verb at the beginning of the cmdlet.
 
 ## WebAdministration Cmdlets
-### [Add-WebConfiguration](./Add-WebConfiguration.md)
+### [Add-WebConfiguration](./add-webconfiguration.md)
 Adds a collection element to an IIS configuration collection.
 
-### [Add-WebConfigurationLock](./Add-WebConfigurationLock.md)
+### [Add-WebConfigurationLock](./add-webconfigurationlock.md)
 Locks an IIS configuration section or element.
 
-### [Add-WebConfigurationProperty](./Add-WebConfigurationProperty.md)
+### [Add-WebConfigurationProperty](./add-webconfigurationproperty.md)
 Adds a property to an IIS configuration section.
 
-### [Backup-WebConfiguration](./Backup-WebConfiguration.md)
+### [Backup-WebConfiguration](./backup-webconfiguration.md)
 Creates a backup of an IIS configuration.
 
-### [Clear-WebCentralCertProvider](./Clear-WebCentralCertProvider.md)
+### [Clear-WebCentralCertProvider](./clear-webcentralcertprovider.md)
 Removes all settings for the central certificate provider.
 
-### [Clear-WebConfiguration](./Clear-WebConfiguration.md)
+### [Clear-WebConfiguration](./clear-webconfiguration.md)
 Removes configuration settings from a configuration location.
 
-### [Clear-WebRequestTracingSetting](./Clear-WebRequestTracingSetting.md)
+### [Clear-WebRequestTracingSetting](./clear-webrequesttracingsetting.md)
 Clears the request tracing configuration from a website.
 
-### [Clear-WebRequestTracingSettings](./Clear-WebRequestTracingSettings.md)
+### [Clear-WebRequestTracingSettings](./clear-webrequesttracingsettings.md)
 Clears the request tracing configuration from a website.
 
-### [ConvertTo-WebApplication](./ConvertTo-WebApplication.md)
+### [ConvertTo-WebApplication](./convertto-webapplication.md)
 Converts an IIS virtual directory to an IIS web application.
 
-### [Disable-WebCentralCertProvider](./Disable-WebCentralCertProvider.md)
+### [Disable-WebCentralCertProvider](./disable-webcentralcertprovider.md)
 Takes the central certificate provider offline.
 
-### [Disable-WebGlobalModule](./Disable-WebGlobalModule.md)
+### [Disable-WebGlobalModule](./disable-webglobalmodule.md)
 Disables an IIS module.
 
-### [Disable-WebRequestTracing](./Disable-WebRequestTracing.md)
+### [Disable-WebRequestTracing](./disable-webrequesttracing.md)
 Disables request tracing for a website.
 
-### [Enable-WebCentralCertProvider](./Enable-WebCentralCertProvider.md)
+### [Enable-WebCentralCertProvider](./enable-webcentralcertprovider.md)
 Enables a central certificate provider.
 
-### [Enable-WebGlobalModule](./Enable-WebGlobalModule.md)
+### [Enable-WebGlobalModule](./enable-webglobalmodule.md)
 Enables an IIS module.
 
-### [Enable-WebRequestTracing](./Enable-WebRequestTracing.md)
+### [Enable-WebRequestTracing](./enable-webrequesttracing.md)
 Enables request tracing for a website.
 
-### [Get-WebAppDomain](./Get-WebAppDomain.md)
+### [Get-WebAppDomain](./get-webappdomain.md)
 Gets the application domains in which the specified IIS worker process is running.
 
-### [Get-WebApplication](./Get-WebApplication.md)
+### [Get-WebApplication](./get-webapplication.md)
 Gets the web applications associated with a specific site or with a specified name.
 
-### [Get-WebAppPoolState](./Get-WebAppPoolState.md)
+### [Get-WebAppPoolState](./get-webapppoolstate.md)
 Gets the run-time state of an IIS application pool.
 
-### [Get-WebBinding](./Get-WebBinding.md)
+### [Get-WebBinding](./get-webbinding.md)
 Gets the bindings on an IIS site.
 
-### [Get-WebCentralCertProvider](./Get-WebCentralCertProvider.md)
+### [Get-WebCentralCertProvider](./get-webcentralcertprovider.md)
 Retrieves the configuration settings of the central certificate provider.
 
-### [Get-WebConfigFile](./Get-WebConfigFile.md)
+### [Get-WebConfigFile](./get-webconfigfile.md)
 Gets the file system path of the web.config file.
 
-### [Get-WebConfiguration](./Get-WebConfiguration.md)
+### [Get-WebConfiguration](./get-webconfiguration.md)
 Gets an IIS configuration element.
 
-### [Get-WebConfigurationBackup](./Get-WebConfigurationBackup.md)
+### [Get-WebConfigurationBackup](./get-webconfigurationbackup.md)
 Gets a list of available IIS configuration backups.
 
-### [Get-WebConfigurationLocation](./Get-WebConfigurationLocation.md)
+### [Get-WebConfigurationLocation](./get-webconfigurationlocation.md)
 Gets the location of a configuration setting.
 
-### [Get-WebConfigurationLock](./Get-WebConfigurationLock.md)
+### [Get-WebConfigurationLock](./get-webconfigurationlock.md)
 Gets the lock status of an IIS configuration location.
 
-### [Get-WebConfigurationProperty](./Get-WebConfigurationProperty.md)
+### [Get-WebConfigurationProperty](./get-webconfigurationproperty.md)
 Gets an IIS configuration property at a path.
 
-### [Get-WebFilePath](./Get-WebFilePath.md)
+### [Get-WebFilePath](./get-webfilepath.md)
 Gets the physical path to the location of the specified IIS module.
 
-### [Get-WebGlobalModule](./Get-WebGlobalModule.md)
+### [Get-WebGlobalModule](./get-webglobalmodule.md)
 Gets the global modules configured in IIS, or information about a specific module.
 
-### [Get-WebHandler](./Get-WebHandler.md)
+### [Get-WebHandler](./get-webhandler.md)
 Gets IIS request handlers.
 
-### [Get-WebItemState](./Get-WebItemState.md)
+### [Get-WebItemState](./get-webitemstate.md)
 Gets the run-time state of a site or an application pool.
 
-### [Get-WebManagedModule](./Get-WebManagedModule.md)
+### [Get-WebManagedModule](./get-webmanagedmodule.md)
 Gets the managed modules that are configured for a particular application.
 
-### [Get-WebRequest](./Get-WebRequest.md)
+### [Get-WebRequest](./get-webrequest.md)
 Gets the IIS requests that are currently being run.
 
-### [Get-Website](./Get-Website.md)
+### [Get-Website](./get-website.md)
 Gets configuration information for an IIS website.
 
-### [Get-WebsiteState](./Get-WebsiteState.md)
+### [Get-WebsiteState](./get-websitestate.md)
 Gets the state of an IIS website.
 
-### [Get-WebURL](./Get-WebURL.md)
+### [Get-WebURL](./get-weburl.md)
 Gets information about the URL associated with a website.
 
-### [Get-WebVirtualDirectory](./Get-WebVirtualDirectory.md)
+### [Get-WebVirtualDirectory](./get-webvirtualdirectory.md)
 Gets a list of the virtual directories on the specified site.
 
-### [New-WebApplication](./New-WebApplication.md)
+### [New-WebApplication](./new-webapplication.md)
 Creates an IIS web application.
 
-### [New-WebAppPool](./New-WebAppPool.md)
+### [New-WebAppPool](./new-webapppool.md)
 Creates an IIS application pool.
 
-### [New-WebBinding](./New-WebBinding.md)
+### [New-WebBinding](./new-webbinding.md)
 Adds a binding to a website.
 
-### [New-WebFtpSite](./New-WebFtpSite.md)
+### [New-WebFtpSite](./new-webftpsite.md)
 Creates an FTP 7 Site.
 
-### [New-WebGlobalModule](./New-WebGlobalModule.md)
+### [New-WebGlobalModule](./new-webglobalmodule.md)
 Creates an IIS global module.
 
-### [New-WebHandler](./New-WebHandler.md)
+### [New-WebHandler](./new-webhandler.md)
 Creates an IIS request handler.
 
-### [New-WebManagedModule](./New-WebManagedModule.md)
+### [New-WebManagedModule](./new-webmanagedmodule.md)
 Adds a new managed module to the IIS request pipeline.
 
-### [New-Website](./New-Website.md)
+### [New-Website](./new-website.md)
 Creates an IIS website.
 
-### [New-WebVirtualDirectory](./New-WebVirtualDirectory.md)
+### [New-WebVirtualDirectory](./new-webvirtualdirectory.md)
 Creates a virtual directory in IIS.
 
-### [Remove-WebApplication](./Remove-WebApplication.md)
+### [Remove-WebApplication](./remove-webapplication.md)
 Removes a web application from an IIS website.
 
-### [Remove-WebAppPool](./Remove-WebAppPool.md)
+### [Remove-WebAppPool](./remove-webapppool.md)
 Removes an application pool from IIS.
 
-### [Remove-WebBinding](./Remove-WebBinding.md)
+### [Remove-WebBinding](./remove-webbinding.md)
 Removes a binding from an IIS website.
 
-### [Remove-WebConfigurationBackup](./Remove-WebConfigurationBackup.md)
+### [Remove-WebConfigurationBackup](./remove-webconfigurationbackup.md)
 Removes an existing IIS configuration backup.
 
-### [Remove-WebConfigurationLocation](./Remove-WebConfigurationLocation.md)
+### [Remove-WebConfigurationLocation](./remove-webconfigurationlocation.md)
 Removes an IIS configuration location.
 
-### [Remove-WebConfigurationLock](./Remove-WebConfigurationLock.md)
+### [Remove-WebConfigurationLock](./remove-webconfigurationlock.md)
 Removes a lock on configuration settings.
 
-### [Remove-WebConfigurationProperty](./Remove-WebConfigurationProperty.md)
+### [Remove-WebConfigurationProperty](./remove-webconfigurationproperty.md)
 Removes an IIS configuration property.
 
-### [Remove-WebGlobalModule](./Remove-WebGlobalModule.md)
+### [Remove-WebGlobalModule](./remove-webglobalmodule.md)
 Removes an IIS module.
 
-### [Remove-WebHandler](./Remove-WebHandler.md)
+### [Remove-WebHandler](./remove-webhandler.md)
 Removes a request handler from IIS.
 
-### [Remove-WebManagedModule](./Remove-WebManagedModule.md)
+### [Remove-WebManagedModule](./remove-webmanagedmodule.md)
 Removes a managed module from IIS.
 
-### [Remove-Website](./Remove-Website.md)
+### [Remove-Website](./remove-website.md)
 Removes an IIS website.
 
-### [Remove-WebVirtualDirectory](./Remove-WebVirtualDirectory.md)
+### [Remove-WebVirtualDirectory](./remove-webvirtualdirectory.md)
 Removes an IIS virtual directory.
 
-### [Rename-WebConfigurationLocation](./Rename-WebConfigurationLocation.md)
+### [Rename-WebConfigurationLocation](./rename-webconfigurationlocation.md)
 Renames a configuration location.
 
-### [Restart-WebAppPool](./Restart-WebAppPool.md)
+### [Restart-WebAppPool](./restart-webapppool.md)
 Restarts an application pool.
 
-### [Restart-WebItem](./Restart-WebItem.md)
+### [Restart-WebItem](./restart-webitem.md)
 Restarts an application pool or a website.
 
-### [Restore-WebConfiguration](./Restore-WebConfiguration.md)
+### [Restore-WebConfiguration](./restore-webconfiguration.md)
 Restores an IIS configuration backup.
 
-### [Select-WebConfiguration](./Select-WebConfiguration.md)
+### [Select-WebConfiguration](./select-webconfiguration.md)
 Returns IIS configuration objects.
 
-### [Set-WebBinding](./Set-WebBinding.md)
+### [Set-WebBinding](./set-webbinding.md)
 Changes a property of an IIS site binding.
 
-### [Set-WebCentralCertProvider](./Set-WebCentralCertProvider.md)
+### [Set-WebCentralCertProvider](./set-webcentralcertprovider.md)
 Changes the configuration settings for the central certificate provider.
 
-### [Set-WebCentralCertProviderCredential](./Set-WebCentralCertProviderCredential.md)
+### [Set-WebCentralCertProviderCredential](./set-webcentralcertprovidercredential.md)
 Changes the user-account credentials for the central certificate provider.
 
-### [Set-WebConfiguration](./Set-WebConfiguration.md)
+### [Set-WebConfiguration](./set-webconfiguration.md)
 Changes the value of an IIS configuration element.
 
-### [Set-WebConfigurationProperty](./Set-WebConfigurationProperty.md)
+### [Set-WebConfigurationProperty](./set-webconfigurationproperty.md)
 Changes the value of an IIS configuration property.
 
-### [Set-WebGlobalModule](./Set-WebGlobalModule.md)
+### [Set-WebGlobalModule](./set-webglobalmodule.md)
 Specifies configuration settings for an IIS module.
 
-### [Set-WebHandler](./Set-WebHandler.md)
+### [Set-WebHandler](./set-webhandler.md)
 Configures an IIS request handler.
 
-### [Set-WebManagedModule](./Set-WebManagedModule.md)
+### [Set-WebManagedModule](./set-webmanagedmodule.md)
 Configures an IIS managed module.
 
-### [Start-WebAppPool](./Start-WebAppPool.md)
+### [Start-WebAppPool](./start-webapppool.md)
 Starts an application pool.
 
-### [Start-WebCommitDelay](./Start-WebCommitDelay.md)
+### [Start-WebCommitDelay](./start-webcommitdelay.md)
 Instructs the IIS configuration system to delay the commitment of changes.
 
-### [Start-WebItem](./Start-WebItem.md)
+### [Start-WebItem](./start-webitem.md)
 Starts an application pool or a website.
 
-### [Start-Website](./Start-Website.md)
+### [Start-Website](./start-website.md)
 Starts an IIS website.
 
-### [Stop-WebAppPool](./Stop-WebAppPool.md)
+### [Stop-WebAppPool](./stop-webapppool.md)
 Stops an application pool.
 
-### [Stop-WebCommitDelay](./Stop-WebCommitDelay.md)
+### [Stop-WebCommitDelay](./stop-webcommitdelay.md)
 Instructs the IIS configuration system to resume the commitment of changes.
 
-### [Stop-WebItem](./Stop-WebItem.md)
+### [Stop-WebItem](./stop-webitem.md)
 Stops a site or an application pool.
 
-### [Stop-Website](./Stop-Website.md)
+### [Stop-Website](./stop-website.md)
 Stops an IIS website.
+
 
 

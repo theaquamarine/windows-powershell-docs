@@ -24,70 +24,71 @@ ms.assetid: 600B93F2-5D7E-4E65-992F-C0BA34104DDE
 This reference provides the cmdlet description and syntax for the Storage Replica cmdlets.
 
 ## StorageReplica Cmdlets
-### [Clear-SRMetadata](./Clear-SRMetadata.md)
+### [Clear-SRMetadata](./clear-srmetadata.md)
 Removes unreferenced Storage Replica metadata.
 
-### [Export-SRConfiguration](./Export-SRConfiguration.md)
+### [Export-SRConfiguration](./export-srconfiguration.md)
 Exports replication configuration to a Windows PowerShell script.
 
-### [Get-SRAccess](./Get-SRAccess.md)
+### [Get-SRAccess](./get-sraccess.md)
 Gets security access between failover clusters.
 
-### [Get-SRDelegation](./Get-SRDelegation.md)
+### [Get-SRDelegation](./get-srdelegation.md)
 Gets security delegation on a Storage Replica server.
 
-### [Get-SRGroup](./Get-SRGroup.md)
+### [Get-SRGroup](./get-srgroup.md)
 Gets replication groups.
 
-### [Get-SRNetworkConstraint](./Get-SRNetworkConstraint.md)
+### [Get-SRNetworkConstraint](./get-srnetworkconstraint.md)
 Gets replication network constraints for Storage Replica partnerships.
 
-### [Get-SRPartnership](./Get-SRPartnership.md)
+### [Get-SRPartnership](./get-srpartnership.md)
 Gets replication partnerships.
 
-### [Grant-SRAccess](./Grant-SRAccess.md)
+### [Grant-SRAccess](./grant-sraccess.md)
 Grants security access between failover clusters to enable replication.
 
-### [Grant-SRDelegation](./Grant-SRDelegation.md)
+### [Grant-SRDelegation](./grant-srdelegation.md)
 Creates a security delegation on a Storage Replica server.
 
-### [New-SRGroup](./New-SRGroup.md)
+### [New-SRGroup](./new-srgroup.md)
 Creates a replication group.
 
-### [New-SRPartnership](./New-SRPartnership.md)
+### [New-SRPartnership](./new-srpartnership.md)
 Creates a replication partnership between two replication groups.
 
-### [Remove-SRGroup](./Remove-SRGroup.md)
+### [Remove-SRGroup](./remove-srgroup.md)
 Removes a replication group.
 
-### [Remove-SRNetworkConstraint](./Remove-SRNetworkConstraint.md)
+### [Remove-SRNetworkConstraint](./remove-srnetworkconstraint.md)
 Removes all existing replication network constraints.
 
-### [Remove-SRPartnership](./Remove-SRPartnership.md)
+### [Remove-SRPartnership](./remove-srpartnership.md)
 Removes a replication partnership.
 
-### [Revoke-SRAccess](./Revoke-SRAccess.md)
+### [Revoke-SRAccess](./revoke-sraccess.md)
 Revokes security access between failover clusters that allowed replication.
 
-### [Revoke-SRDelegation](./Revoke-SRDelegation.md)
+### [Revoke-SRDelegation](./revoke-srdelegation.md)
 Revokes a security delegation on a Storage Replica server.
 
-### [Set-SRGroup](./Set-SRGroup.md)
+### [Set-SRGroup](./set-srgroup.md)
 Modifies settings of a replication group.
 
-### [Set-SRNetworkConstraint](./Set-SRNetworkConstraint.md)
+### [Set-SRNetworkConstraint](./set-srnetworkconstraint.md)
 Creates or modifies a replication network constraint for servers and partnerships.
 
-### [Set-SRPartnership](./Set-SRPartnership.md)
+### [Set-SRPartnership](./set-srpartnership.md)
 Modifies a replication partnership between two replication groups.
 
-### [Suspend-SRGroup](./Suspend-SRGroup.md)
+### [Suspend-SRGroup](./suspend-srgroup.md)
 Pauses replication for a replication group.
 
-### [Sync-SRGroup](./Sync-SRGroup.md)
+### [Sync-SRGroup](./sync-srgroup.md)
 Starts or resumes replication for a replication group.
 
-### [Test-SRTopology](./Test-SRTopology.md)
+### [Test-SRTopology](./test-srtopology.md)
 Validates a potential replication partnership.
+
 
 

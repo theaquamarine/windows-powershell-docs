@@ -144,9 +144,10 @@ You can pipe a class structure that represents an AD FS 2.0 attribute store obje
 
 ## RELATED LINKS
 
-[Get-AdfsAttributeStore](./Get-AdfsAttributeStore.md)
+[Get-AdfsAttributeStore](./get-adfsattributestore.md)
 
-[Add-AdfsAttributeStore](./Add-AdfsAttributeStore.md)
+[Add-AdfsAttributeStore](./add-adfsattributestore.md)
 
-[Set-AdfsAttributeStore](./Set-AdfsAttributeStore.md)
+[Set-AdfsAttributeStore](./set-adfsattributestore.md)
+
 

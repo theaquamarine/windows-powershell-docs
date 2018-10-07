@@ -105,5 +105,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Set-ClusterQuorum](./Set-ClusterQuorum.md)
+[Set-ClusterQuorum](./set-clusterquorum.md)
+
 

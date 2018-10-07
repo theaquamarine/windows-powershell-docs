@@ -24,13 +24,14 @@ ms.assetid: 0F41B8F3-2E3E-4B6E-B3D6-018C8C4C07FD
 This reference provides cmdlet descriptions and syntax for all Start screen cmdlets. It lists the cmdlets in alphabetical order based on the verb at the beginning of the cmdlet.
 
 ## StartLayout Cmdlets
-### [Export-StartLayout](./Export-StartLayout.md)
+### [Export-StartLayout](./export-startlayout.md)
 Exports the layout of the Start screen.
 
-### [Get-StartApps](./Get-StartApps.md)
+### [Get-StartApps](./get-startapps.md)
 Gets the names and AppIDs of installed apps.
 
-### [Import-StartLayout](./Import-StartLayout.md)
+### [Import-StartLayout](./import-startlayout.md)
 Imports the layout of the Start into a mounted Windows image.
+
 
 

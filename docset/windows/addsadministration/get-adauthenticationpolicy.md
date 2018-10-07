@@ -52,7 +52,7 @@ You can identify an authentication policy by its distinguished name, GUID or nam
 You can also use the *Identity* parameter to specify a variable that contains an authentication policy object, or you can use the pipeline operator to pass an authentication policy object to the *Identity* parameter.
 
 You can search for and use multiple authentication policies by specifying the *Filter* parameter or the *LDAPFilter* parameter.
-The *Filter* parameter uses the Windows PowerShell® expression language to write query strings for Active Directory Domain Services.
+The *Filter* parameter uses the Windows PowerShell?? expression language to write query strings for Active Directory Domain Services.
 Windows PowerShell expression language syntax provides rich type conversion support for value types received by the *Filter* parameter.
 For more information about the *Filter* parameter syntax, type `Get-Help  about_ActiveDirectory_Filter`.
 If you have existing Lightweight Directory Access Protocol (LDAP) query strings, you can use the *LDAPFilter* parameter.
@@ -335,11 +335,12 @@ To retrieve additional **ADAuthenticationPolicy** properties, use the *Propertie
 
 ## RELATED LINKS
 
-[New-ADAuthenticationPolicy](./New-ADAuthenticationPolicy.md)
+[New-ADAuthenticationPolicy](./new-adauthenticationpolicy.md)
 
-[Remove-ADAuthenticationPolicy](./Remove-ADAuthenticationPolicy.md)
+[Remove-ADAuthenticationPolicy](./remove-adauthenticationpolicy.md)
 
-[Set-ADAuthenticationPolicy](./Set-ADAuthenticationPolicy.md)
+[Set-ADAuthenticationPolicy](./set-adauthenticationpolicy.md)
 
 [AD DS Administration Cmdlets in Windows PowerShell](./activedirectory.md)
+
 

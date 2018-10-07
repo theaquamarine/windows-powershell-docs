@@ -405,15 +405,16 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Enable-ScheduledTask](./Enable-ScheduledTask.md)
+[Enable-ScheduledTask](./enable-scheduledtask.md)
 
-[Get-ScheduledTaskInfo](./Get-ScheduledTaskInfo.md)
+[Get-ScheduledTaskInfo](./get-scheduledtaskinfo.md)
 
-[New-ScheduledTask](./New-ScheduledTask.md)
+[New-ScheduledTask](./new-scheduledtask.md)
 
-[New-ScheduledTaskAction](./New-ScheduledTaskAction.md)
+[New-ScheduledTaskAction](./new-scheduledtaskaction.md)
 
-[Register-ScheduledTask](./Register-ScheduledTask.md)
+[Register-ScheduledTask](./register-scheduledtask.md)
 
-[Start-ScheduledTask](./Start-ScheduledTask.md)
+[Start-ScheduledTask](./start-scheduledtask.md)
+
 

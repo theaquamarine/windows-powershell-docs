@@ -203,7 +203,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 [ConvertTo-SecureString](http://go.microsoft.com/fwlink/p/?LinkId=113291)
 
-[Search-SmisProvider](./Search-SmisProvider.md)
+[Search-SmisProvider](./search-smisprovider.md)
 
-[Unregister-SmisProvider](./Unregister-SmisProvider.md)
+[Unregister-SmisProvider](./unregister-smisprovider.md)
+
 

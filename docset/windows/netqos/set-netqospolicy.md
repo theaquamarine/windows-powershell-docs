@@ -100,7 +100,7 @@ Another alias is *MaxBw*.
 ## PARAMETERS
 
 ### -AppPathNameMatchCondition
-Specifies the name by which an application is run in Windows Server® 2012, such as `application.exe` or `%ProgramFiles%\application.exe`.
+Specifies the name by which an application is run in Windows Server?? 2012, such as `application.exe` or `%ProgramFiles%\application.exe`.
 
 ```yaml
 Type: String
@@ -507,7 +507,7 @@ Accept wildcard characters: False
 ```
 
 ### -TemplateMatchCondition
-Specifies a number of filters built in Windows Server® 2012.
+Specifies a number of filters built in Windows Server?? 2012.
 The acceptable values for this parameter are: FCoE, iSCSI, LiveMigration, NFS, SMB, or Cluster.
 For more information, see the New-NetQosPolicy cmdlet.
 
@@ -526,7 +526,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -643,9 +643,10 @@ Only if the *PassThru* parameter is specified does this cmdlet return the **MSFT
 
 ## RELATED LINKS
 
-[Get-NetQosPolicy](./Get-NetQosPolicy.md)
+[Get-NetQosPolicy](./get-netqospolicy.md)
 
-[New-NetQosPolicy](./New-NetQosPolicy.md)
+[New-NetQosPolicy](./new-netqospolicy.md)
 
-[Remove-NetQosPolicy](./Remove-NetQosPolicy.md)
+[Remove-NetQosPolicy](./remove-netqospolicy.md)
+
 

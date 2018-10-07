@@ -40,8 +40,8 @@ If you add the ability to perform a bare metal recovery to a policy, you also ad
 This is true even though the **SystemState** property of the bare metal recovery policy has a value of False.
 
 Before you can add a backup target to a **WBPolicy** object, you must put the **WBPolicy** object in edit mode.
-To put the **WBPolicy** object in edit mode for a policy that you have set as the scheduled backup policy, use the [Get-WBPolicy](./Get-WBPolicy.md) cmdlet with the *Editable* parameter.
-The [New-WBPolicy](./New-WBPolicy.md) cmdlet creates a new **WBPolicy** object that is already in edit mode.
+To put the **WBPolicy** object in edit mode for a policy that you have set as the scheduled backup policy, use the [Get-WBPolicy](./get-wbpolicy.md) cmdlet with the *Editable* parameter.
+The [New-WBPolicy](./new-wbpolicy.md) cmdlet creates a new **WBPolicy** object that is already in edit mode.
 
 To use this cmdlet, you must be a member of the Administrators group or Backup Operators group.
 
@@ -88,11 +88,12 @@ None
 
 ## RELATED LINKS
 
-[Get-WBBareMetalRecovery](./Get-WBBareMetalRecovery.md)
+[Get-WBBareMetalRecovery](./get-wbbaremetalrecovery.md)
 
-[Get-WBPolicy](./Get-WBPolicy.md)
+[Get-WBPolicy](./get-wbpolicy.md)
 
-[Get-WBVolume](./Get-WBVolume.md)
+[Get-WBVolume](./get-wbvolume.md)
 
-[Remove-WBBareMetalRecovery](./Remove-WBBareMetalRecovery.md)
+[Remove-WBBareMetalRecovery](./remove-wbbaremetalrecovery.md)
+
 

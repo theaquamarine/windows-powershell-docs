@@ -103,5 +103,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Remove-NetworkControllerNode](./Remove-NetworkControllerNode.md)
+[Remove-NetworkControllerNode](./remove-networkcontrollernode.md)
+
 

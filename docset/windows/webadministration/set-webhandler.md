@@ -263,9 +263,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-WebHandler](./Get-WebHandler.md)
+[Get-WebHandler](./get-webhandler.md)
 
-[New-WebHandler](./New-WebHandler.md)
+[New-WebHandler](./new-webhandler.md)
 
-[Remove-WebHandler](./Remove-WebHandler.md)
+[Remove-WebHandler](./remove-webhandler.md)
+
 

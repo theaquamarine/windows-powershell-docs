@@ -137,7 +137,8 @@ You can pipe a fault domain object, **PhysicalDisk**, **Enclosure**, or **SSU** 
 
 ## RELATED LINKS
 
-[Enable-StorageMaintenanceMode](./Enable-StorageMaintenanceMode.md)
+[Enable-StorageMaintenanceMode](./enable-storagemaintenancemode.md)
 
-[Get-PhysicalDisk](./Get-PhysicalDisk.md)
+[Get-PhysicalDisk](./get-physicaldisk.md)
+
 

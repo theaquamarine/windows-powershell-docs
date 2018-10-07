@@ -213,9 +213,10 @@ You can also specify a manually constructed hash table instead of an object if i
 
 ## RELATED LINKS
 
-[Enable-SbecBcd](./Enable-SbecBcd.md)
+[Enable-SbecBcd](./enable-sbecbcd.md)
 
-[Enable-SbecBootImage](./Enable-SbecBootImage.md)
+[Enable-SbecBootImage](./enable-sbecbootimage.md)
 
-[New-SbecUnattendFragment](./New-SbecUnattendFragment.md)
+[New-SbecUnattendFragment](./new-sbecunattendfragment.md)
+
 

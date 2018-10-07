@@ -37,7 +37,7 @@ Get-AppxLog [-ActivityId <String>] [<CommonParameters>]
 ## DESCRIPTION
 The **Get-AppxLog** cmdlet gets the app package installation log created during the deployment of an app package.
 An app package has an .appx file name extension.
-The log contains errors, warnings, and additional information about the processes initiated by cmdlets in the Appx Windows PowerShell® module.
+The log contains errors, warnings, and additional information about the processes initiated by cmdlets in the Appx Windows PowerShell?? module.
 
 When Add-AppxPackage or Remove-AppxPackage report a failure, they return the **ActivityID** to use with **Get-AppxLog**.
 
@@ -114,9 +114,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 [Troubleshooting packaging, deployment, and query of Windows Store apps](http://go.microsoft.com/fwlink/?LinkId=271201)
 
-[Get-AppxPackage](./Get-AppxPackage.md)
+[Get-AppxPackage](./get-appxpackage.md)
 
-[Get-AppxPackageManifest](./Get-AppxPackageManifest.md)
+[Get-AppxPackageManifest](./get-appxpackagemanifest.md)
 
-[Get-AppxLastError](./Get-AppxLastError.md)
+[Get-AppxLastError](./get-appxlasterror.md)
+
+
+
 

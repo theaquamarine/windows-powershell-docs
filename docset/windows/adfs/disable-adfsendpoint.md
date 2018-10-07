@@ -166,9 +166,10 @@ A class that represents an endpoint for the Federation Service.
 
 ## RELATED LINKS
 
-[Enable-AdfsEndpoint](./Enable-AdfsEndpoint.md)
+[Enable-AdfsEndpoint](./enable-adfsendpoint.md)
 
-[Get-AdfsEndpoint](./Get-AdfsEndpoint.md)
+[Get-AdfsEndpoint](./get-adfsendpoint.md)
 
-[Set-AdfsEndpoint](./Set-AdfsEndpoint.md)
+[Set-AdfsEndpoint](./set-adfsendpoint.md)
+
 

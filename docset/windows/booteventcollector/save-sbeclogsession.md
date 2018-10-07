@@ -89,15 +89,16 @@ This cmdlet accepts **SbecEtwTrace.TraceSessionInfo** objects as the sessions to
 
 ## RELATED LINKS
 
-[Get-SbecLogSession](./Get-SbecLogSession.md)
+[Get-SbecLogSession](./get-sbeclogsession.md)
 
-[Set-SbecLogSession](./Set-SbecLogSession.md)
+[Set-SbecLogSession](./set-sbeclogsession.md)
 
-[Start-SbecLogSession](./Start-SbecLogSession.md)
+[Start-SbecLogSession](./start-sbeclogsession.md)
 
-[Start-SbecSimpleLogSession](./Start-SbecSimpleLogSession.md)
+[Start-SbecSimpleLogSession](./start-sbecsimplelogsession.md)
 
-[Start-SbecNtKernelLogSession](./Start-SbecNtKernelLogSession.md)
+[Start-SbecNtKernelLogSession](./start-sbecntkernellogsession.md)
 
-[Stop-SbecLogSession](./Stop-SbecLogSession.md)
+[Stop-SbecLogSession](./stop-sbeclogsession.md)
+
 

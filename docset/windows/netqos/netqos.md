@@ -24,16 +24,17 @@ ms.assetid: C7CB3606-F583-4B89-BAAB-C0FEA48D0678
 This reference provides cmdlet descriptions and syntax for all Network Quality of Service (QoS)-specific cmdlets. It lists the cmdlets in alphabetical order.
 
 ## NetQoS Cmdlets
-### [Get-NetQosPolicy](./Get-NetQosPolicy.md)
+### [Get-NetQosPolicy](./get-netqospolicy.md)
 Retrieves network Quality of Service (QoS) policies.
 
-### [New-NetQosPolicy](./New-NetQosPolicy.md)
+### [New-NetQosPolicy](./new-netqospolicy.md)
 Creates a new network QoS policy.
 
-### [Remove-NetQosPolicy](./Remove-NetQosPolicy.md)
+### [Remove-NetQosPolicy](./remove-netqospolicy.md)
 Removes a network Quality of Service (QoS) policy.
 
-### [Set-NetQosPolicy](./Set-NetQosPolicy.md)
+### [Set-NetQosPolicy](./set-netqospolicy.md)
 Updates the QoS policy settings.
+
 
 

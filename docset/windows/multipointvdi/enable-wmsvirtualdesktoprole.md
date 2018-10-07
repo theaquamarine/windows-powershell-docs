@@ -105,5 +105,6 @@ None.
 
 ## RELATED LINKS
 
-[Disable-WmsVirtualDesktopRole](./Disable-WmsVirtualDesktopRole.md)
+[Disable-WmsVirtualDesktopRole](./disable-wmsvirtualdesktoprole.md)
+
 

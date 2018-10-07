@@ -148,5 +148,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-AdfsLocalClaimsProviderTrust](./Add-AdfsLocalClaimsProviderTrust.md)
+[Add-AdfsLocalClaimsProviderTrust](./add-adfslocalclaimsprovidertrust.md)
+
 

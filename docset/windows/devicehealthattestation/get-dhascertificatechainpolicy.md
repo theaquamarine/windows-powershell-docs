@@ -68,5 +68,6 @@ A .NET [TimeSpan structure](http://go.microsoft.com/fwlink/?LinkId=821155).
 
 ## RELATED LINKS
 
-[Set-DHASCertificateChainPolicy](./Set-DHASCertificateChainPolicy.md)
+[Set-DHASCertificateChainPolicy](./set-dhascertificatechainpolicy.md)
+
 

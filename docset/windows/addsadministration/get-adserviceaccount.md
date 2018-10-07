@@ -459,13 +459,14 @@ To get a list of all the properties of an ADService account object, use the foll
 
 ## RELATED LINKS
 
-[Install-ADServiceAccount](./Install-ADServiceAccount.md)
+[Install-ADServiceAccount](./install-adserviceaccount.md)
 
-[New-ADServiceAccount](./New-ADServiceAccount.md)
+[New-ADServiceAccount](./new-adserviceaccount.md)
 
-[Remove-ADServiceAccount](./Remove-ADServiceAccount.md)
+[Remove-ADServiceAccount](./remove-adserviceaccount.md)
 
-[Set-ADServiceAccount](./Set-ADServiceAccount.md)
+[Set-ADServiceAccount](./set-adserviceaccount.md)
 
-[Uninstall-ADServiceAccount](./Uninstall-ADServiceAccount.md)
+[Uninstall-ADServiceAccount](./uninstall-adserviceaccount.md)
+
 

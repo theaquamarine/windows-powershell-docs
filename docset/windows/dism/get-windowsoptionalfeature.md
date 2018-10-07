@@ -284,9 +284,11 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-WindowsPackage](./Add-WindowsPackage.md)
+[Add-WindowsPackage](./add-windowspackage.md)
 
-[Enable-WindowsOptionalFeature](./Enable-WindowsOptionalFeature.md)
+[Enable-WindowsOptionalFeature](./enable-windowsoptionalfeature.md)
 
-[Get-WindowsPackage](./Get-WindowsPackage.md)
+[Get-WindowsPackage](./get-windowspackage.md)
+
+
 

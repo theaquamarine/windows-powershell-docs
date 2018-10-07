@@ -245,9 +245,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-AdfsNativeClientApplication](./Add-AdfsNativeClientApplication.md)
+[Add-AdfsNativeClientApplication](./add-adfsnativeclientapplication.md)
 
-[Get-AdfsNativeClientApplication](./Get-AdfsNativeClientApplication.md)
+[Get-AdfsNativeClientApplication](./get-adfsnativeclientapplication.md)
 
-[Remove-AdfsNativeClientApplication](./Remove-AdfsNativeClientApplication.md)
+[Remove-AdfsNativeClientApplication](./remove-adfsnativeclientapplication.md)
+
 

@@ -234,9 +234,10 @@ Returns the default domain password policy object for the specified domain.
 
 ## RELATED LINKS
 
-[Set-ADDefaultDomainPasswordPolicy](./Set-ADDefaultDomainPasswordPolicy.md)
+[Set-ADDefaultDomainPasswordPolicy](./set-addefaultdomainpasswordpolicy.md)
 
-[Get-ADDomain](./Get-ADDomain.md)
+[Get-ADDomain](./get-addomain.md)
 
 [AD DS Administration Cmdlets in Windows PowerShell](./activedirectory.md)
+
 

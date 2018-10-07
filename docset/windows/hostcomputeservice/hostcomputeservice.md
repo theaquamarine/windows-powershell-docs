@@ -24,10 +24,11 @@ ms.assetid: 6BE9E974-A772-474D-A27E-5F15E9FAC8C8
 This reference provides cmdlet descriptions and syntax for the Host Compute Service cmdlets. This table lists the cmdlets in alphabetical order.
 
 ## HostComputeService Cmdlets
-### [Get-ComputeProcess](./Get-ComputeProcess.md)
+### [Get-ComputeProcess](./get-computeprocess.md)
 Gets a list of running compute systems from the Hyper-V Host Compute Service.
 
-### [Stop-ComputeProcess](./Stop-ComputeProcess.md)
+### [Stop-ComputeProcess](./stop-computeprocess.md)
 Stops a running compute system in the Hyper-V Host Compute Service.
+
 
 

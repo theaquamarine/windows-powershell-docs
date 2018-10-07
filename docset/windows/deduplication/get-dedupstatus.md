@@ -33,7 +33,7 @@ Get-DedupStatus [[-Volume] <String[]>] [-CimSession <CimSession[]>] [-ThrottleLi
 The **Get-DedupStatus** cmdlet returns a deduplication status object for every volume that has data deduplication metadata.
 A **DeduplicationStatus** object includes read-only properties that describe capacity, free or used space and optimization savings and status on the volume, times, and completion status for the last jobs on the volume.
 
-To run this cmdlet, you must start Windows PowerShell® with the **Run as administrator** option.
+To run this cmdlet, you must start Windows PowerShell?? with the **Run as administrator** option.
 
 ## EXAMPLES
 
@@ -87,7 +87,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -142,5 +142,6 @@ The path after the pound sign (`#`) provides the namespace and class name for th
 
 ## RELATED LINKS
 
-[Update-DedupStatus](./Update-DedupStatus.md)
+[Update-DedupStatus](./update-dedupstatus.md)
+
 

@@ -327,13 +327,14 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Disable-AdfsClient](./Disable-AdfsClient.md)
+[Disable-AdfsClient](./disable-adfsclient.md)
 
-[Enable-AdfsClient](./Enable-AdfsClient.md)
+[Enable-AdfsClient](./enable-adfsclient.md)
 
-[Get-AdfsClient](./Get-AdfsClient.md)
+[Get-AdfsClient](./get-adfsclient.md)
 
-[Remove-AdfsClient](./Remove-AdfsClient.md)
+[Remove-AdfsClient](./remove-adfsclient.md)
 
-[Set-AdfsClient](./Set-AdfsClient.md)
+[Set-AdfsClient](./set-adfsclient.md)
+
 

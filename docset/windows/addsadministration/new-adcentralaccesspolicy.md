@@ -318,11 +318,12 @@ By default, this cmdlet does not generate any output.
 
 ## RELATED LINKS
 
-[Get-ADCentralAccessPolicy](./Get-ADCentralAccessPolicy.md)
+[Get-ADCentralAccessPolicy](./get-adcentralaccesspolicy.md)
 
-[Remove-ADCentralAccessPolicy](./Remove-ADCentralAccessPolicy.md)
+[Remove-ADCentralAccessPolicy](./remove-adcentralaccesspolicy.md)
 
-[Set-ADCentralAccessPolicy](./Set-ADCentralAccessPolicy.md)
+[Set-ADCentralAccessPolicy](./set-adcentralaccesspolicy.md)
 
 [AD DS Administration Cmdlets in Windows PowerShell](./activedirectory.md)
+
 

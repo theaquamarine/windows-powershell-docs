@@ -183,11 +183,12 @@ This cmdlet returns an object that contains the destination and the next hop for
 
 ## RELATED LINKS
 
-[Install-NetworkController](./Install-NetworkController.md)
+[Install-NetworkController](./install-networkcontroller.md)
 
-[New-NetworkControllerFabricRoute](./New-NetworkControllerFabricRoute.md)
+[New-NetworkControllerFabricRoute](./new-networkcontrollerfabricroute.md)
 
-[Remove-NetworkControllerFabricRoute](./Remove-NetworkControllerFabricRoute.md)
+[Remove-NetworkControllerFabricRoute](./remove-networkcontrollerfabricroute.md)
 
-[Set-NetworkController](./Set-NetworkController.md)
+[Set-NetworkController](./set-networkcontroller.md)
+
 

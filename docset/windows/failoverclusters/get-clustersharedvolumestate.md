@@ -140,5 +140,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-ClusterSharedVolume](./Get-ClusterSharedVolume.md)
+[Get-ClusterSharedVolume](./get-clustersharedvolume.md)
+
 

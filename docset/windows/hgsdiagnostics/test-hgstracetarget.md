@@ -21,7 +21,7 @@ title: Test-HgsTraceTarget
 # Test-HgsTraceTarget
 
 ## SYNOPSIS
-Verifies that a remote Windows PowerShell® session can be opened to the provided target.
+Verifies that a remote Windows PowerShell?? session can be opened to the provided target.
 
 ## SYNTAX
 
@@ -30,7 +30,7 @@ Test-HgsTraceTarget -Target <InputTarget> [<CommonParameters>]
 ```
 
 ## DESCRIPTION
-The **Test-HgsTraceTarget** cmdlet verifies that a remote Windows PowerShell® session can be opened to the specified target and that a compatible version of the diagnostic module is available.
+The **Test-HgsTraceTarget** cmdlet verifies that a remote Windows PowerShell?? session can be opened to the specified target and that a compatible version of the diagnostic module is available.
 
 ## EXAMPLES
 
@@ -69,5 +69,6 @@ The cmdlet reports a detailed error if the test fails.
 
 ## RELATED LINKS
 
-[New-HgsTraceTarget](./New-HgsTraceTarget.md)
+[New-HgsTraceTarget](./new-hgstracetarget.md)
+
 

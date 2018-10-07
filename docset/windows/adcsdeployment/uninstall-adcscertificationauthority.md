@@ -104,5 +104,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Install-AdcsCertificationAuthority](./Install-AdcsCertificationAuthority.md)
+[Install-AdcsCertificationAuthority](./install-adcscertificationauthority.md)
+
 

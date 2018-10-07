@@ -30,7 +30,7 @@ Export-IpamRange -AddressFamily <AddressFamily> [-NetworkType <VirtualizationTyp
 ```
 
 ## DESCRIPTION
-The **Export-IpamRange** cmdlet exports all of the IP address ranges of the specified address family from the computer running the IP Address Management (IPAM) server as a comma-separated values (.csv) file or as an array of Windows PowerShell® objects or both.
+The **Export-IpamRange** cmdlet exports all of the IP address ranges of the specified address family from the computer running the IP Address Management (IPAM) server as a comma-separated values (.csv) file or as an array of Windows PowerShell?? objects or both.
 
 At least one of the *Path* or *PassThru* parameters must be specified with the cmdlet.
 The object array returned using the *PassThru* parameter can be pipelined for further filtering, if required.
@@ -253,7 +253,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -284,5 +284,6 @@ This cmdlet returns an array of objects that contain an IPAM IP address range.
 
 ## RELATED LINKS
 
-[Import-IpamRange](./Import-IpamRange.md)
+[Import-IpamRange](./import-ipamrange.md)
+
 

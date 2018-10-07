@@ -191,5 +191,6 @@ An HGS client configuration object containing information about the operating mo
 
 ## RELATED LINKS
 
-[Get-HgsClientConfiguration](./Get-HgsClientConfiguration.md)
+[Get-HgsClientConfiguration](./get-hgsclientconfiguration.md)
+
 

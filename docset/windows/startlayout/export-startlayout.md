@@ -131,5 +131,6 @@ Export as an .xml file.
 
 ## RELATED LINKS
 
-[Import-StartLayout](./Import-StartLayout.md)
+[Import-StartLayout](./import-startlayout.md)
+
 

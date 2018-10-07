@@ -25,27 +25,28 @@ Locale: en-US
 {{Manually Enter Description Here}}
 
 ## provisioning Cmdlets
-### [Export-ProvisioningPackage](Export-ProvisioningPackage.md)
+### [Export-ProvisioningPackage](export-provisioningpackage.md)
 {{Manually Enter Export-ProvisioningPackage Description Here}}
 
-### [Export-Trace](Export-Trace.md)
+### [Export-Trace](export-trace.md)
 {{Manually Enter Export-Trace Description Here}}
 
-### [Get-ProvisioningPackage](Get-ProvisioningPackage.md)
+### [Get-ProvisioningPackage](get-provisioningpackage.md)
 {{Manually Enter Get-ProvisioningPackage Description Here}}
 
-### [Get-TrustedProvisioningCertificate](Get-TrustedProvisioningCertificate.md)
+### [Get-TrustedProvisioningCertificate](get-trustedprovisioningcertificate.md)
 {{Manually Enter Get-TrustedProvisioningCertificate Description Here}}
 
-### [Install-ProvisioningPackage](Install-ProvisioningPackage.md)
+### [Install-ProvisioningPackage](install-provisioningpackage.md)
 {{Manually Enter Install-ProvisioningPackage Description Here}}
 
-### [Install-TrustedProvisioningCertificate](Install-TrustedProvisioningCertificate.md)
+### [Install-TrustedProvisioningCertificate](install-trustedprovisioningcertificate.md)
 {{Manually Enter Install-TrustedProvisioningCertificate Description Here}}
 
-### [Uninstall-ProvisioningPackage](Uninstall-ProvisioningPackage.md)
+### [Uninstall-ProvisioningPackage](uninstall-provisioningpackage.md)
 {{Manually Enter Uninstall-ProvisioningPackage Description Here}}
 
-### [Uninstall-TrustedProvisioningCertificate](Uninstall-TrustedProvisioningCertificate.md)
+### [Uninstall-TrustedProvisioningCertificate](uninstall-trustedprovisioningcertificate.md)
 {{Manually Enter Uninstall-TrustedProvisioningCertificate Description Here}}
+
 

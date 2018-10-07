@@ -63,5 +63,6 @@ For more information about the CultureInfo object, see [CultureInfo Class](http:
 
 [Configurable Language and Cultural Settings](http://go.microsoft.com/fwlink/?LinkID=242307)
 
-[Set-WinSystemLocale](./Set-WinSystemLocale.md)
+[Set-WinSystemLocale](./set-winsystemlocale.md)
+
 

@@ -252,7 +252,8 @@ This cmdlet returns a **DriverFile** object that contains all properties and cer
 
 ## RELATED LINKS
 
-[New-CIPolicy](./New-CIPolicy.md)
+[New-CIPolicy](./new-cipolicy.md)
 
-[New-CIPolicyRule](./New-CIPolicyRule.md)
+[New-CIPolicyRule](./new-cipolicyrule.md)
+
 

@@ -75,5 +75,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 [RegionInfo.GeoId Property](http://go.microsoft.com/fwlink/?LinkID=242310)
 
-[Get-WinHomeLocation](./Get-WinHomeLocation.md)
+[Get-WinHomeLocation](./get-winhomelocation.md)
+
 

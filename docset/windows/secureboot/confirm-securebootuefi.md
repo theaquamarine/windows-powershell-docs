@@ -39,7 +39,7 @@ If the computer does not support Secure Boot or is a BIOS (non-UEFI) computer, t
 
 `Cmdlet not supported on this platform.`
 
-If Windows PowerShell® is not run in administrator mode, this cmdlet displays the following: 
+If Windows PowerShell?? is not run in administrator mode, this cmdlet displays the following: 
 
 `Unable to set proper privileges.
 Access was denied.`
@@ -81,11 +81,12 @@ If the computer does not support Secure Boot or is a BIOS (non-UEFI) computer, t
 
 ## RELATED LINKS
 
-[Format-SecureBootUEFI](./Format-SecureBootUEFI.md)
+[Format-SecureBootUEFI](./format-securebootuefi.md)
 
-[Get-SecureBootPolicy](./Get-SecureBootPolicy.md)
+[Get-SecureBootPolicy](./get-securebootpolicy.md)
 
-[Get-SecureBootUEFI](./Get-SecureBootUEFI.md)
+[Get-SecureBootUEFI](./get-securebootuefi.md)
 
-[Set-SecureBootUEFI](./Set-SecureBootUEFI.md)
+[Set-SecureBootUEFI](./set-securebootuefi.md)
+
 

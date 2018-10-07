@@ -21,43 +21,44 @@ ms.assetid: C8A2C20B-27E4-4A1B-BFEB-12B4C3BC6133
 
 # ADCSDeployment Module
 ## Description
-This topic contains the brief descriptions of the Windows PowerShell® cmdlets that are for use in deploying Active Directory Certificate Services (AD CS). Each cmdlet in the table is linked to additional information about that cmdlet.
+This topic contains the brief descriptions of the Windows PowerShell?? cmdlets that are for use in deploying Active Directory Certificate Services (AD CS). Each cmdlet in the table is linked to additional information about that cmdlet.
 
 ## ADCSDeployment Cmdlets
-### [Install-AdcsCertificationAuthority](./Install-AdcsCertificationAuthority.md)
+### [Install-AdcsCertificationAuthority](./install-adcscertificationauthority.md)
 Performs installation and configuration of the AD CS Certification Authority role service.
 
-### [Install-AdcsEnrollmentPolicyWebService](./Install-AdcsEnrollmentPolicyWebService.md)
+### [Install-AdcsEnrollmentPolicyWebService](./install-adcsenrollmentpolicywebservice.md)
 Performs the configuration of Certificate Enrollment Policy Web service.
 
-### [Install-AdcsEnrollmentWebService](./Install-AdcsEnrollmentWebService.md)
+### [Install-AdcsEnrollmentWebService](./install-adcsenrollmentwebservice.md)
 Performs the initial configuration of the Certificate Enrollment Web service.
 
-### [Install-AdcsNetworkDeviceEnrollmentService](./Install-AdcsNetworkDeviceEnrollmentService.md)
+### [Install-AdcsNetworkDeviceEnrollmentService](./install-adcsnetworkdeviceenrollmentservice.md)
 Installs the NDES role service.
 
-### [Install-AdcsOnlineResponder](./Install-AdcsOnlineResponder.md)
+### [Install-AdcsOnlineResponder](./install-adcsonlineresponder.md)
 Installs the Online Responder service.
 
-### [Install-AdcsWebEnrollment](./Install-AdcsWebEnrollment.md)
+### [Install-AdcsWebEnrollment](./install-adcswebenrollment.md)
 Installs the Certification Authority Web Enrollment.
 
-### [Uninstall-AdcsCertificationAuthority](./Uninstall-AdcsCertificationAuthority.md)
+### [Uninstall-AdcsCertificationAuthority](./uninstall-adcscertificationauthority.md)
 Uninstalls the CA role service and removes the configuration information.
 
-### [Uninstall-AdcsEnrollmentPolicyWebService](./Uninstall-AdcsEnrollmentPolicyWebService.md)
+### [Uninstall-AdcsEnrollmentPolicyWebService](./uninstall-adcsenrollmentpolicywebservice.md)
 Uninstalls the Certificate Enrollment Policy Web service.
 
-### [Uninstall-AdcsEnrollmentWebService](./Uninstall-AdcsEnrollmentWebService.md)
+### [Uninstall-AdcsEnrollmentWebService](./uninstall-adcsenrollmentwebservice.md)
 Uninstalls the Certificate Enrollment Web service or individual instances of it.
 
-### [Uninstall-AdcsNetworkDeviceEnrollmentService](./Uninstall-AdcsNetworkDeviceEnrollmentService.md)
+### [Uninstall-AdcsNetworkDeviceEnrollmentService](./uninstall-adcsnetworkdeviceenrollmentservice.md)
 Uninstalls the NDES role service.
 
-### [Uninstall-AdcsOnlineResponder](./Uninstall-AdcsOnlineResponder.md)
+### [Uninstall-AdcsOnlineResponder](./uninstall-adcsonlineresponder.md)
 Uninstalls the Online Responder service.
 
-### [Uninstall-AdcsWebEnrollment](./Uninstall-AdcsWebEnrollment.md)
+### [Uninstall-AdcsWebEnrollment](./uninstall-adcswebenrollment.md)
 Uninstalls the CA Web Enrollment role service.
+
 
 

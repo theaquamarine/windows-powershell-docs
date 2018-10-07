@@ -49,7 +49,7 @@ Update-StoragePool -InputObject <CimInstance[]> [-CimSession <CimSession[]>] [-T
 ```
 
 ## DESCRIPTION
-The **Update-StoragePool** cmdlet updates the metadata of a previous Windows Server® storage pool to a new Windows Server® storage pool. This is a required step for upgrading from Windows Server 2012 to either Windows Server 2012 R2, or Windows Server 2016, and from Windows Server 2012 R2 to Windows Server 2016.
+The **Update-StoragePool** cmdlet updates the metadata of a previous Windows Server?? storage pool to a new Windows Server?? storage pool. This is a required step for upgrading from Windows Server 2012 to either Windows Server 2012 R2, or Windows Server 2016, and from Windows Server 2012 R2 to Windows Server 2016.
 If you upgrade Windows Server without running this command, storage pools hosted on that server continue to work, but new Storage Spaces functionality, such as storage tiers, is not available. Some other functions and commands may not behave as expected, as well.
 
 ## EXAMPLES
@@ -176,7 +176,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -240,11 +240,12 @@ This cmdlet generates an object that represents the storage pools that you updat
 
 ## RELATED LINKS
 
-[Get-StoragePool](./Get-StoragePool.md)
+[Get-StoragePool](./get-storagepool.md)
 
-[New-StoragePool](./New-StoragePool.md)
+[New-StoragePool](./new-storagepool.md)
 
-[Remove-StoragePool](./Remove-StoragePool.md)
+[Remove-StoragePool](./remove-storagepool.md)
 
-[Set-StoragePool](./Set-StoragePool.md)
+[Set-StoragePool](./set-storagepool.md)
+
 

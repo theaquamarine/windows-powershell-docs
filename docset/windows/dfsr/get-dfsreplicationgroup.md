@@ -143,13 +143,14 @@ This cmdlet returns an object that contains the properties of a DFS Replication 
 
 ## RELATED LINKS
 
-[New-DfsReplicationGroup](./New-DfsReplicationGroup.md)
+[New-DfsReplicationGroup](./new-dfsreplicationgroup.md)
 
-[Remove-DfsReplicationGroup](./Remove-DfsReplicationGroup.md)
+[Remove-DfsReplicationGroup](./remove-dfsreplicationgroup.md)
 
-[Set-DfsReplicationGroup](./Set-DfsReplicationGroup.md)
+[Set-DfsReplicationGroup](./set-dfsreplicationgroup.md)
 
-[Suspend-DfsReplicationGroup](./Suspend-DfsReplicationGroup.md)
+[Suspend-DfsReplicationGroup](./suspend-dfsreplicationgroup.md)
 
-[Sync-DfsReplicationGroup](./Sync-DfsReplicationGroup.md)
+[Sync-DfsReplicationGroup](./sync-dfsreplicationgroup.md)
+
 

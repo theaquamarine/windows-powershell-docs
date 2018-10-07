@@ -167,9 +167,10 @@ None.
 
 ## RELATED LINKS
 
-[Disable-WmsScheduledUpdate](./Disable-WmsScheduledUpdate.md)
+[Disable-WmsScheduledUpdate](./disable-wmsscheduledupdate.md)
 
-[Enable-WmsScheduledUpdate](./Enable-WmsScheduledUpdate.md)
+[Enable-WmsScheduledUpdate](./enable-wmsscheduledupdate.md)
 
-[Get-WmsScheduledUpdate](./Get-WmsScheduledUpdate.md)
+[Get-WmsScheduledUpdate](./get-wmsscheduledupdate.md)
+
 

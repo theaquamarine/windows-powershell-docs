@@ -155,9 +155,10 @@ System.Uri[]
 
 ## RELATED LINKS
 
-[Add-AdfsNativeClientApplication](./Add-AdfsNativeClientApplication.md)
+[Add-AdfsNativeClientApplication](./add-adfsnativeclientapplication.md)
 
-[Remove-AdfsNativeClientApplication](./Remove-AdfsNativeClientApplication.md)
+[Remove-AdfsNativeClientApplication](./remove-adfsnativeclientapplication.md)
 
-[Set-AdfsNativeClientApplication](./Set-AdfsNativeClientApplication.md)
+[Set-AdfsNativeClientApplication](./set-adfsnativeclientapplication.md)
+
 

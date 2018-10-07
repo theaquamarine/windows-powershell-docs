@@ -150,7 +150,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-CATemplate](./Add-CATemplate.md)
+[Add-CATemplate](./add-catemplate.md)
 
-[Get-CATemplate](./Get-CATemplate.md)
+[Get-CATemplate](./get-catemplate.md)
+
 

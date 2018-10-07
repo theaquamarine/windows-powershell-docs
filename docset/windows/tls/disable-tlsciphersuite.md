@@ -102,7 +102,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Enable-TlsCipherSuite](./Enable-TlsCipherSuite.md)
+[Enable-TlsCipherSuite](./enable-tlsciphersuite.md)
 
-[Get-TlsCipherSuite](./Get-TlsCipherSuite.md)
+[Get-TlsCipherSuite](./get-tlsciphersuite.md)
+
 

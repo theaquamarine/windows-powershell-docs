@@ -44,7 +44,7 @@ Set-ADAuthenticationPolicy [-WhatIf] [-Confirm] [-AuthType <ADAuthType>] [-Crede
 ```
 
 ## DESCRIPTION
-The **Set-ADAuthenticationPolicy** cmdlet modifies the properties of an Active Directory® Domain Services authentication policy.
+The **Set-ADAuthenticationPolicy** cmdlet modifies the properties of an Active Directory?? Domain Services authentication policy.
 Commonly used attributes of the object can be specified by the parameters of this cmdlet.
 Property values that are not associated with cmdlet parameters can be modified by using the *Add*, *Remove*, *Replace*, and *Clear* parameters.
 
@@ -615,11 +615,12 @@ Returns one or more objects.
 
 ## RELATED LINKS
 
-[Get-ADAuthenticationPolicy](./Get-ADAuthenticationPolicy.md)
+[Get-ADAuthenticationPolicy](./get-adauthenticationpolicy.md)
 
-[New-ADAuthenticationPolicy](./New-ADAuthenticationPolicy.md)
+[New-ADAuthenticationPolicy](./new-adauthenticationpolicy.md)
 
-[Remove-ADAuthenticationPolicy](./Remove-ADAuthenticationPolicy.md)
+[Remove-ADAuthenticationPolicy](./remove-adauthenticationpolicy.md)
 
 [AD DS Administration Cmdlets in Windows PowerShell](./activedirectory.md)
+
 

@@ -240,7 +240,7 @@ Accept wildcard characters: False
 ### -GPOSession
 Specifies the network GPO from which to retrieve the rules to be created. 
 This parameter is used in the same way as the *PolicyStore* parameter.
-When modifying GPOs in Windows PowerShell®, each change to a GPO requires the entire GPO to be loaded, modified, and saved back.
+When modifying GPOs in Windows PowerShell??, each change to a GPO requires the entire GPO to be loaded, modified, and saved back.
 On a busy Domain Controller (DC), this can be a slow and resource-heavy operation.
 A GPO Session loads a domain GPO onto the local computer and makes all changes in a batch, before saving it back.
 This reduces the load on the DC and speeds up the Windows PowerShell cmdlets.
@@ -376,7 +376,7 @@ Accept wildcard characters: False
 ### -Platform
 Specifies which version of Windows the associated rule applies. 
 The acceptable format for this parameter is a number in the Major.Minor format. 
-The version number of 6.0 corresponds to Vista (nextref_vista), 6.1 corresponds to Win7 (Windows® 7 or firstref_longhorn), and 6.2 corresponds to Win8 (Windows® 8 or Windows Server 2012). 
+The version number of 6.0 corresponds to Vista (nextref_vista), 6.1 corresponds to Win7 (Windows?? 7 or firstref_longhorn), and 6.2 corresponds to Win8 (Windows?? 8 or Windows Server 2012). 
 If + is not specified, then only that version is associated. 
 If + is specified, then that version and later are associated. 
 Querying for rules with this parameter with the Get-NetIPsecMainModeRule cmdlet cannot be performed.
@@ -413,7 +413,7 @@ Computer GPOs can be specified as follows.
 -------- `-PolicyStore corp.contoso.com\FirewallPolicy`
 --- Active Directory GPOs can be created using the New-GPO cmdlet or the Group Policy Management Console. 
 - RSOP: This read-only store contains the sum of all GPOs applied to the local computer. 
-- SystemDefaults: This read-only store contains the default state of firewall rules that ship with Windows Server® 2012. 
+- SystemDefaults: This read-only store contains the default state of firewall rules that ship with Windows Server?? 2012. 
 - StaticServiceStore: This read-only store contains all the service restrictions that ship with Windows Server 2012.
 Optional and product-dependent features are considered part of Windows Server 2012 for the purposes of WFAS. 
 - ConfigurableServiceStore: This read-write store contains all the service restrictions that are added for third-party services.
@@ -486,7 +486,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -538,31 +538,32 @@ The path after the pound sign (`#`) provides the namespace and class name for th
 
 ## RELATED LINKS
 
-[Get-NetFirewallAddressFilter](./Get-NetFirewallAddressFilter.md)
+[Get-NetFirewallAddressFilter](./get-netfirewalladdressfilter.md)
 
-[Get-NetIPsecMainModeCryptoSet](./Get-NetIPsecMainModeCryptoSet.md)
+[Get-NetIPsecMainModeCryptoSet](./get-netipsecmainmodecryptoset.md)
 
-[Get-NetIPsecMainModeRule](./Get-NetIPsecMainModeRule.md)
+[Get-NetIPsecMainModeRule](./get-netipsecmainmoderule.md)
 
-[Get-NetIPsecMainModeSA](./Get-NetIPsecMainModeSA.md)
+[Get-NetIPsecMainModeSA](./get-netipsecmainmodesa.md)
 
-[Get-NetIPsecQuickModeSA](./Get-NetIPsecQuickModeSA.md)
+[Get-NetIPsecQuickModeSA](./get-netipsecquickmodesa.md)
 
-[New-NetFirewallRule](./New-NetFirewallRule.md)
+[New-NetFirewallRule](./new-netfirewallrule.md)
 
-[New-NetIPsecMainModeCryptoSet](./New-NetIPsecMainModeCryptoSet.md)
+[New-NetIPsecMainModeCryptoSet](./new-netipsecmainmodecryptoset.md)
 
 [New-NetIPsecPhase1AuthSet](./New-NetIPsecPhase1AuthSet.md)
 
-[Open-NetGPO](./Open-NetGPO.md)
+[Open-NetGPO](./open-netgpo.md)
 
-[Save-NetGPO](./Save-NetGPO.md)
+[Save-NetGPO](./save-netgpo.md)
 
-[Set-NetFirewallRule](./Set-NetFirewallRule.md)
+[Set-NetFirewallRule](./set-netfirewallrule.md)
 
-[Set-NetIPsecMainModeCryptoSet](./Set-NetIPsecMainModeCryptoSet.md)
+[Set-NetIPsecMainModeCryptoSet](./set-netipsecmainmodecryptoset.md)
 
-[New-NetIPsecAuthProposal](./New-NetIPsecAuthProposal.md)
+[New-NetIPsecAuthProposal](./new-netipsecauthproposal.md)
 
-[New-NetIPsecMainModeCryptoProposal](./New-NetIPsecMainModeCryptoProposal.md)
+[New-NetIPsecMainModeCryptoProposal](./new-netipsecmainmodecryptoproposal.md)
+
 

@@ -217,7 +217,8 @@ Therefore, when this cmdlet is run from a startup or shutdown script, the defaul
 
 ## RELATED LINKS
 
-[New-GPO](./New-GPO.md)
+[New-GPO](./new-gpo.md)
 
-[New-GPStarterGPO](./New-GPStarterGPO.md)
+[New-GPStarterGPO](./new-gpstartergpo.md)
+
 

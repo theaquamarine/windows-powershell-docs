@@ -290,11 +290,12 @@ The **UEFIFormattedVariable** object can be used to pipe to the Set-SecureBootUE
 
 ## RELATED LINKS
 
-[Confirm-SecureBootUEFI](./Confirm-SecureBootUEFI.md)
+[Confirm-SecureBootUEFI](./confirm-securebootuefi.md)
 
-[Get-SecureBootPolicy](./Get-SecureBootPolicy.md)
+[Get-SecureBootPolicy](./get-securebootpolicy.md)
 
-[Get-SecureBootUEFI](./Get-SecureBootUEFI.md)
+[Get-SecureBootUEFI](./get-securebootuefi.md)
 
-[Set-SecureBootUEFI](./Set-SecureBootUEFI.md)
+[Set-SecureBootUEFI](./set-securebootuefi.md)
+
 

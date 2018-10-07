@@ -298,7 +298,8 @@ An optional feature object is received by the *Identity* parameter.
 
 ## RELATED LINKS
 
-[Enable-ADOptionalFeature](./Enable-ADOptionalFeature.md)
+[Enable-ADOptionalFeature](./enable-adoptionalfeature.md)
 
-[Get-ADOptionalFeature](./Get-ADOptionalFeature.md)
+[Get-ADOptionalFeature](./get-adoptionalfeature.md)
+
 

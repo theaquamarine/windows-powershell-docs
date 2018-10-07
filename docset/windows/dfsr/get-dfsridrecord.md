@@ -130,5 +130,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[ConvertFrom-DfsrGuid](./ConvertFrom-DfsrGuid.md)
+[ConvertFrom-DfsrGuid](./convertfrom-dfsrguid.md)
+
 

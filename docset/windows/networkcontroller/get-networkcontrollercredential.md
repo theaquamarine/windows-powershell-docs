@@ -162,11 +162,12 @@ The output contains the following fields:
 
 ## RELATED LINKS
 
-[Install-NetworkController](./Install-NetworkController.md)
+[Install-NetworkController](./install-networkcontroller.md)
 
-[New-NetworkControllerCredential](./New-NetworkControllerCredential.md)
+[New-NetworkControllerCredential](./new-networkcontrollercredential.md)
 
-[Remove-NetworkControllerCredential](./Remove-NetworkControllerCredential.md)
+[Remove-NetworkControllerCredential](./remove-networkcontrollercredential.md)
 
-[Set-NetworkController](./Set-NetworkController.md)
+[Set-NetworkController](./set-networkcontroller.md)
+
 

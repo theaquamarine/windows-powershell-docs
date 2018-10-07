@@ -118,7 +118,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Restart-WebItem](./Restart-WebItem.md)
+[Restart-WebItem](./restart-webitem.md)
 
-[Start-WebItem](./Start-WebItem.md)
+[Start-WebItem](./start-webitem.md)
+
 

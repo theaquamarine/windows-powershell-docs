@@ -124,11 +124,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Disable-AdfsDeviceRegistration](./Disable-AdfsDeviceRegistration.md)
+[Disable-AdfsDeviceRegistration](./disable-adfsdeviceregistration.md)
 
-[Get-AdfsDeviceRegistration](./Get-AdfsDeviceRegistration.md)
+[Get-AdfsDeviceRegistration](./get-adfsdeviceregistration.md)
 
-[Initialize-ADDeviceRegistration](./Initialize-ADDeviceRegistration.md)
+[Initialize-ADDeviceRegistration](./initialize-addeviceregistration.md)
 
-[Set-AdfsDeviceRegistration](./Set-AdfsDeviceRegistration.md)
+[Set-AdfsDeviceRegistration](./set-adfsdeviceregistration.md)
+
 

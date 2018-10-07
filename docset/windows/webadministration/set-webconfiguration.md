@@ -55,7 +55,7 @@ This command replaces the existing bindings of the Web site named DemoSite with 
 Specifies the version of the .NET Framework in the form vn.n, such as v4.0 or v2.0.
 The default is v4.0.
 Specify this parameter only when the *PSPath* parameter is set to either Machine or Machine/Webroot.
-If *PSPath* is not set to one of these values and the *Clr* parameter is set, Windows PowerShell® ignores the value of *Clr* and returns a warning.
+If *PSPath* is not set to one of these values and the *Clr* parameter is set, Windows PowerShell?? ignores the value of *Clr* and returns a warning.
 
 ```yaml
 Type: String
@@ -225,15 +225,16 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-WebConfiguration](./Add-WebConfiguration.md)
+[Add-WebConfiguration](./add-webconfiguration.md)
 
-[Backup-WebConfiguration](./Backup-WebConfiguration.md)
+[Backup-WebConfiguration](./backup-webconfiguration.md)
 
-[Clear-WebConfiguration](./Clear-WebConfiguration.md)
+[Clear-WebConfiguration](./clear-webconfiguration.md)
 
-[Get-WebConfiguration](./Get-WebConfiguration.md)
+[Get-WebConfiguration](./get-webconfiguration.md)
 
-[Restore-WebConfiguration](./Restore-WebConfiguration.md)
+[Restore-WebConfiguration](./restore-webconfiguration.md)
 
-[Select-WebConfiguration](./Select-WebConfiguration.md)
+[Select-WebConfiguration](./select-webconfiguration.md)
+
 

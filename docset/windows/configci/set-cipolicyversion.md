@@ -96,7 +96,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Merge-CIPolicy](./Merge-CIPolicy.md)
+[Merge-CIPolicy](./merge-cipolicy.md)
 
-[New-CIPolicy](./New-CIPolicy.md)
+[New-CIPolicy](./new-cipolicy.md)
+
 

@@ -138,3 +138,4 @@ You can use the pipeline operator to pass a capability object to the *Name* para
 ## RELATED LINKS
 [Get-InsightsCapability](get-insightscapability.md)<br>
 [Enable-InsightsCapability](enable-insightscapability.md)
+

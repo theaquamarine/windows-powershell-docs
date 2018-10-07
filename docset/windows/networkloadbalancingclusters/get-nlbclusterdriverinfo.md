@@ -370,7 +370,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-NlbCluster](./Get-NlbCluster.md)
+[Get-NlbCluster](./get-nlbcluster.md)
 
-[Get-NlbClusterNode](./Get-NlbClusterNode.md)
+[Get-NlbClusterNode](./get-nlbclusternode.md)
+
 

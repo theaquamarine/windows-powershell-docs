@@ -272,9 +272,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-DfsrCloneState](./Get-DfsrCloneState.md)
+[Get-DfsrCloneState](./get-dfsrclonestate.md)
 
-[Import-DfsrClone](./Import-DfsrClone.md)
+[Import-DfsrClone](./import-dfsrclone.md)
 
-[Reset-DfsrCloneState](./Reset-DfsrCloneState.md)
+[Reset-DfsrCloneState](./reset-dfsrclonestate.md)
+
 

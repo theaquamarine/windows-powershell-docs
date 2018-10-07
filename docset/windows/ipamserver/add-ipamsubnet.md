@@ -359,7 +359,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -450,13 +450,14 @@ This cmdlet returns an object that represents an IP Subnet in IPAM Server.
 
 ## RELATED LINKS
 
-[Export-IpamSubnet](./Export-IpamSubnet.md)
+[Export-IpamSubnet](./export-ipamsubnet.md)
 
-[Get-IpamSubnet](./Get-IpamSubnet.md)
+[Get-IpamSubnet](./get-ipamsubnet.md)
 
-[Import-IpamSubnet](./Import-IpamSubnet.md)
+[Import-IpamSubnet](./import-ipamsubnet.md)
 
-[Remove-IpamSubnet](./Remove-IpamSubnet.md)
+[Remove-IpamSubnet](./remove-ipamsubnet.md)
 
-[Set-IpamSubnet](./Set-IpamSubnet.md)
+[Set-IpamSubnet](./set-ipamsubnet.md)
+
 

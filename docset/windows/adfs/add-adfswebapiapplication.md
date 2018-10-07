@@ -579,9 +579,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-AdfsWebApiApplication](./Get-AdfsWebApiApplication.md)
+[Get-AdfsWebApiApplication](./get-adfswebapiapplication.md)
 
-[Remove-AdfsWebApiApplication](./Remove-AdfsWebApiApplication.md)
+[Remove-AdfsWebApiApplication](./remove-adfswebapiapplication.md)
 
-[Set-AdfsWebApiApplication](./Set-AdfsWebApiApplication.md)
+[Set-AdfsWebApiApplication](./set-adfswebapiapplication.md)
+
 

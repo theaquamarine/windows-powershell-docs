@@ -24,109 +24,110 @@ ms.assetid: D4DCA601-168D-4943-9778-1975F870BAA9
 This reference provides cmdlet descriptions and syntax for all Server Message Block (SMB) Share-specific cmdlets. It lists the cmdlets in alphabetical order based on the verb at the beginning of the cmdlet.
 
 ## SmbShare Cmdlets
-### [Block-SmbShareAccess](./Block-SmbShareAccess.md)
+### [Block-SmbShareAccess](./block-smbshareaccess.md)
 Adds a deny ACE for a trustee to the security descriptor of the SMB share.
 
-### [Close-SmbOpenFile](./Close-SmbOpenFile.md)
+### [Close-SmbOpenFile](./close-smbopenfile.md)
 Closes a file that is open by one of the clients of the SMB server.
 
-### [Close-SmbSession](./Close-SmbSession.md)
+### [Close-SmbSession](./close-smbsession.md)
 Ends forcibly the SMB session.
 
-### [Disable-SmbDelegation](./Disable-SmbDelegation.md)
+### [Disable-SmbDelegation](./disable-smbdelegation.md)
 Disables a constrained delegation authorization for an SMB client and server.
 
-### [Enable-SmbDelegation](./Enable-SmbDelegation.md)
+### [Enable-SmbDelegation](./enable-smbdelegation.md)
 Enables a constrained delegation authorization for an SMB client and server.
 
-### [Get-SmbBandwidthLimit](./Get-SmbBandwidthLimit.md)
+### [Get-SmbBandwidthLimit](./get-smbbandwidthlimit.md)
 Gets the list of SMB bandwidth caps for each traffic category.
 
-### [Get-SmbClientConfiguration](./Get-SmbClientConfiguration.md)
+### [Get-SmbClientConfiguration](./get-smbclientconfiguration.md)
 Retrieves the SMB client configuration.
 
-### [Get-SmbClientNetworkInterface](./Get-SmbClientNetworkInterface.md)
+### [Get-SmbClientNetworkInterface](./get-smbclientnetworkinterface.md)
 Retrieves the network interfaces used by the SMB client.
 
-### [Get-SmbConnection](./Get-SmbConnection.md)
+### [Get-SmbConnection](./get-smbconnection.md)
 Retrieves the connections established from the SMB client to the SMB servers.
 
-### [Get-SmbDelegation](./Get-SmbDelegation.md)
+### [Get-SmbDelegation](./get-smbdelegation.md)
 Gets the constrained delegation authorizations for an SMB client.
 
-### [Get-SmbMapping](./Get-SmbMapping.md)
+### [Get-SmbMapping](./get-smbmapping.md)
 Retrieves the SMB client directory mappings created for a server.
 
-### [Get-SmbMultichannelConnection](./Get-SmbMultichannelConnection.md)
+### [Get-SmbMultichannelConnection](./get-smbmultichannelconnection.md)
 Retrieves the SMB connections made between the SMB client network interfaces and the SMB server network interfaces.
 
-### [Get-SmbMultichannelConstraint](./Get-SmbMultichannelConstraint.md)
+### [Get-SmbMultichannelConstraint](./get-smbmultichannelconstraint.md)
 Retrieves the constraints that define how the SMB client uses network interfaces to connect to the servers.
 
-### [Get-SmbOpenFile](./Get-SmbOpenFile.md)
+### [Get-SmbOpenFile](./get-smbopenfile.md)
 Retrieves basic information about the files that are open on behalf of the clients of the SMB server.
 
-### [Get-SmbServerConfiguration](./Get-SmbServerConfiguration.md)
+### [Get-SmbServerConfiguration](./get-smbserverconfiguration.md)
 Retrieves the SMB server configuration.
 
-### [Get-SmbServerNetworkInterface](./Get-SmbServerNetworkInterface.md)
+### [Get-SmbServerNetworkInterface](./get-smbservernetworkinterface.md)
 Retrieves the network interfaces used by the SMB server.
 
-### [Get-SmbSession](./Get-SmbSession.md)
+### [Get-SmbSession](./get-smbsession.md)
 Retrieves information about the SMB sessions that are currently established between the SMB server and the associated clients.
 
-### [Get-SmbShare](./Get-SmbShare.md)
+### [Get-SmbShare](./get-smbshare.md)
 Retrieves the SMB shares on the computer.
 
-### [Get-SmbShareAccess](./Get-SmbShareAccess.md)
+### [Get-SmbShareAccess](./get-smbshareaccess.md)
 Retrieves the ACL of the SMB share.
 
-### [Grant-SmbShareAccess](./Grant-SmbShareAccess.md)
+### [Grant-SmbShareAccess](./grant-smbshareaccess.md)
 Adds an allow ACE for a trustee to the security descriptor of the SMB share.
 
-### [New-SmbMapping](./New-SmbMapping.md)
+### [New-SmbMapping](./new-smbmapping.md)
 Creates an SMB mapping.
 
-### [New-SmbMultichannelConstraint](./New-SmbMultichannelConstraint.md)
+### [New-SmbMultichannelConstraint](./new-smbmultichannelconstraint.md)
 Creates an SMB multi-channel constraint for the specified server.
 
-### [New-SmbShare](./New-SmbShare.md)
+### [New-SmbShare](./new-smbshare.md)
 Creates an SMB share.
 
-### [Remove-SmbBandwidthLimit](./Remove-SmbBandwidthLimit.md)
+### [Remove-SmbBandwidthLimit](./remove-smbbandwidthlimit.md)
 Removes SMB bandwidth caps.
 
-### [Remove-SmbMapping](./Remove-SmbMapping.md)
+### [Remove-SmbMapping](./remove-smbmapping.md)
 Removes the SMB mapping to an SMB share.
 
-### [Remove-SmbMultichannelConstraint](./Remove-SmbMultichannelConstraint.md)
+### [Remove-SmbMultichannelConstraint](./remove-smbmultichannelconstraint.md)
 Removes SMB multi-channel constraints.
 
-### [Remove-SmbShare](./Remove-SmbShare.md)
+### [Remove-SmbShare](./remove-smbshare.md)
 Deletes the specified SMB shares.
 
-### [Revoke-SmbShareAccess](./Revoke-SmbShareAccess.md)
+### [Revoke-SmbShareAccess](./revoke-smbshareaccess.md)
 Removes all of the allow ACEs for a trustee from the security descriptor of the SMB share.
 
-### [Set-SmbBandwidthLimit](./Set-SmbBandwidthLimit.md)
+### [Set-SmbBandwidthLimit](./set-smbbandwidthlimit.md)
 Adds an SMB bandwidth cap.
 
-### [Set-SmbClientConfiguration](./Set-SmbClientConfiguration.md)
+### [Set-SmbClientConfiguration](./set-smbclientconfiguration.md)
 Sets the SMB client configuration.
 
-### [Set-SmbPathAcl](./Set-SmbPathAcl.md)
+### [Set-SmbPathAcl](./set-smbpathacl.md)
 Sets the ACL for the file system folder to match the ACL used by an SMB share.
 
-### [Set-SmbServerConfiguration](./Set-SmbServerConfiguration.md)
+### [Set-SmbServerConfiguration](./set-smbserverconfiguration.md)
 Sets the SMB Service configuration.
 
-### [Set-SmbShare](./Set-SmbShare.md)
+### [Set-SmbShare](./set-smbshare.md)
 Modifies the properties of the SMB share.
 
-### [Unblock-SmbShareAccess](./Unblock-SmbShareAccess.md)
+### [Unblock-SmbShareAccess](./unblock-smbshareaccess.md)
 Removes all of the deny ACEs for the trustee from the security descriptor of the SMB share.
 
-### [Update-SmbMultichannelConnection](./Update-SmbMultichannelConnection.md)
+### [Update-SmbMultichannelConnection](./update-smbmultichannelconnection.md)
 Forces the SMB client to update the multi-channel-related information.
+
 
 

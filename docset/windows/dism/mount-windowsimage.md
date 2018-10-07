@@ -303,11 +303,13 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Dismount-WindowsImage](./Dismount-WindowsImage.md)
+[Dismount-WindowsImage](./dismount-windowsimage.md)
 
-[Save-WindowsImage](./Save-WindowsImage.md)
+[Save-WindowsImage](./save-windowsimage.md)
 
-[Get-WindowsImage](./Get-WindowsImage.md)
+[Get-WindowsImage](./get-windowsimage.md)
 
-[Repair-WindowsImage](./Repair-WindowsImage.md)
+[Repair-WindowsImage](./repair-windowsimage.md)
+
+
 

@@ -160,7 +160,7 @@ Accept wildcard characters: False
 ```
 
 ### -DontSyncWindows8AppSettings
-Indicates that the cmdlet clears the setting for not synchronizing settings for Windows® 8 apps.
+Indicates that the cmdlet clears the setting for not synchronizing settings for Windows?? 8 apps.
 
 ```yaml
 Type: SwitchParameter
@@ -471,11 +471,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-UevConfiguration](./Get-UevConfiguration.md)
+[Get-UevConfiguration](./get-uevconfiguration.md)
 
-[Set-UevConfiguration](./Set-UevConfiguration.md)
+[Set-UevConfiguration](./set-uevconfiguration.md)
 
-[Import-UevConfiguration](./Import-UevConfiguration.md)
+[Import-UevConfiguration](./import-uevconfiguration.md)
 
-[Export-UevConfiguration](./Export-UevConfiguration.md)
+[Export-UevConfiguration](./export-uevconfiguration.md)
+
 

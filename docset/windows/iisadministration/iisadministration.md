@@ -19,105 +19,106 @@ ms.assetid: 72D9819C-2ADD-4886-8C37-019FB403EFDB
 This reference provides cmdlet descriptions and syntax for all IIS Administration specific cmdlets. It lists the cmdlets in alphabetical order based on the verb at the beginning of the cmdlet.
 
 ## IISAdministration Cmdlets
-### [Clear-IISCentralCertProvider](Clear-IISCentralCertProvider.md)
+### [Clear-IISCentralCertProvider](clear-iiscentralcertprovider.md)
 Removes configuration information from the IIS central certificate store.
 
-### [Clear-IISConfigCollection](Clear-IISConfigCollection.md)
+### [Clear-IISConfigCollection](clear-iisconfigcollection.md)
 Clears an IIS configuration collection.
 
-### [Disable-IISCentralCertProvider](Disable-IISCentralCertProvider.md)
+### [Disable-IISCentralCertProvider](disable-iiscentralcertprovider.md)
 Disables the IIS central certificate store.
 
-### [Disable-IISSharedConfig](Disable-IISSharedConfig.md)
+### [Disable-IISSharedConfig](disable-iissharedconfig.md)
 Disables IIS shared configuration.
 
-### [Enable-IISCentralCertProvider](Enable-IISCentralCertProvider.md)
+### [Enable-IISCentralCertProvider](enable-iiscentralcertprovider.md)
 Enables the IIS central certificate store.
 
-### [Enable-IISSharedConfig](Enable-IISSharedConfig.md)
+### [Enable-IISSharedConfig](enable-iissharedconfig.md)
 Enables shared configuration.
 
-### [Export-IISConfiguration](Export-IISConfiguration.md)
+### [Export-IISConfiguration](export-iisconfiguration.md)
 Exports the IIS configuration and machine keys.
 
-### [Get-IISAppPool](Get-IISAppPool.md)
+### [Get-IISAppPool](get-iisapppool.md)
 Gets configuration information for an IIS Application Pool.
 
-### [Get-IISCentralCertProvider](Get-IISCentralCertProvider.md)
+### [Get-IISCentralCertProvider](get-iiscentralcertprovider.md)
 Gets information about the IIS central certificate store.
 
-### [Get-IISConfigAttributeValue](Get-IISConfigAttributeValue.md)
+### [Get-IISConfigAttributeValue](get-iisconfigattributevalue.md)
 Gets a configuration attribute value from an IIS configuration section or configuration element attribute.
 
-### [Get-IISConfigCollection](Get-IISConfigCollection.md)
+### [Get-IISConfigCollection](get-iisconfigcollection.md)
 Gets a configuration collection object from an IIS configuration section or a configuration element.
 
-### [Get-IISConfigCollectionElement](Get-IISConfigCollectionElement.md)
+### [Get-IISConfigCollectionElement](get-iisconfigcollectionelement.md)
 Gets a configuration element object from an IIS configuration collection.
 
-### [Get-IISConfigElement](Get-IISConfigElement.md)
+### [Get-IISConfigElement](get-iisconfigelement.md)
 Gets a configuration element object from an IIS configuration section or a configuration element.
 
-### [Get-IISConfigSection](Get-IISConfigSection.md)
+### [Get-IISConfigSection](get-iisconfigsection.md)
 Gets a configuration section object to work further with the IIS Configuration Store.
 
-### [Get-IISServerManager](Get-IISServerManager.md)
+### [Get-IISServerManager](get-iisservermanager.md)
 Gets the IISAdministration view of IIS ServerManager.
 
-### [Get-IISSharedConfig](Get-IISSharedConfig.md)
+### [Get-IISSharedConfig](get-iissharedconfig.md)
 Gets IIS shared configuration status.
 
-### [Get-IISSite](Get-IISSite.md)
+### [Get-IISSite](get-iissite.md)
 Gets configuration information for an IIS website.
 
-### [Get-IISSiteBinding](Get-IISSiteBinding.md)
+### [Get-IISSiteBinding](get-iissitebinding.md)
 Gets configuration information for an IIS Website binding.
 
-### [New-IISConfigCollectionElement](New-IISConfigCollectionElement.md)
+### [New-IISConfigCollectionElement](new-iisconfigcollectionelement.md)
 Creates a new configuration element object in an IIS configuration collection.
 
-### [New-IISSite](New-IISSite.md)
+### [New-IISSite](new-iissite.md)
 Creates an IIS website.
 
-### [New-IISSiteBinding](New-IISSiteBinding.md)
+### [New-IISSiteBinding](new-iissitebinding.md)
 Creates an IIS website binding.
 
-### [Remove-IISConfigAttribute](Remove-IISConfigAttribute.md)
+### [Remove-IISConfigAttribute](remove-iisconfigattribute.md)
 Removes a configuration attribute from an IIS configuration section or configuration element attribute.
 
-### [Remove-IISConfigCollectionElement](Remove-IISConfigCollectionElement.md)
+### [Remove-IISConfigCollectionElement](remove-iisconfigcollectionelement.md)
 Removes a configuration element object from an IIS configuration collection.
 
-### [Remove-IISConfigElement](Remove-IISConfigElement.md)
+### [Remove-IISConfigElement](remove-iisconfigelement.md)
 Removes a specified configuration element.
 
-### [Remove-IISSite](Remove-IISSite.md)
+### [Remove-IISSite](remove-iissite.md)
 Removes a website from an IIS server.
 
-### [Remove-IISSiteBinding](Remove-IISSiteBinding.md)
+### [Remove-IISSiteBinding](remove-iissitebinding.md)
 Removes a website binding from a website.
 
-### [Reset-IISServerManager](Reset-IISServerManager.md)
+### [Reset-IISServerManager](reset-iisservermanager.md)
 Resets the IISAdministration view of the IIS ServerManager.
 
-### [Set-IISCentralCertProvider](Set-IISCentralCertProvider.md)
+### [Set-IISCentralCertProvider](set-iiscentralcertprovider.md)
 Sets property values for the IIS central certificate store.
 
-### [Set-IISCentralCertProviderCredential](Set-IISCentralCertProviderCredential.md)
+### [Set-IISCentralCertProviderCredential](set-iiscentralcertprovidercredential.md)
 Modifies the user account credentials for the IIS certificate store.
 
-### [Set-IISConfigAttributeValue](Set-IISConfigAttributeValue.md)
+### [Set-IISConfigAttributeValue](set-iisconfigattributevalue.md)
 Sets a configuration attribute value for an IIS configuration section or configuration element attribute.
 
-### [Start-IISCommitDelay](Start-IISCommitDelay.md)
+### [Start-IISCommitDelay](start-iiscommitdelay.md)
 Instructs the IIS configuration system to delay the commitment of changes.
 
-### [Start-IISSite](Start-IISSite.md)
+### [Start-IISSite](start-iissite.md)
 Starts an existing site on the IIS server.
 
-### [Stop-IISCommitDelay](Stop-IISCommitDelay.md)
+### [Stop-IISCommitDelay](stop-iiscommitdelay.md)
 Instructs the IIS configuration system to resume the commitment of changes.
 
-### [Stop-IISSite](Stop-IISSite.md)
+### [Stop-IISSite](stop-iissite.md)
 Stops an IIS website.
+
 

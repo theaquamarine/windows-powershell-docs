@@ -407,9 +407,10 @@ A subnet object that was retrieved by using the **Get-ADReplicationSubnet** cmdl
 
 ## RELATED LINKS
 
-[Get-ADReplicationSubnet](./Get-ADReplicationSubnet.md)
+[Get-ADReplicationSubnet](./get-adreplicationsubnet.md)
 
-[New-ADReplicationSubnet](./New-ADReplicationSubnet.md)
+[New-ADReplicationSubnet](./new-adreplicationsubnet.md)
 
-[Remove-ADReplicationSubnet](./Remove-ADReplicationSubnet.md)
+[Remove-ADReplicationSubnet](./remove-adreplicationsubnet.md)
+
 

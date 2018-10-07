@@ -92,5 +92,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Start-WebCommitDelay](./Start-WebCommitDelay.md)
+[Start-WebCommitDelay](./start-webcommitdelay.md)
+
 

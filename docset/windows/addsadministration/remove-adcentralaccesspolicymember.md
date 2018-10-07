@@ -259,7 +259,8 @@ By default, this cmdlet does not generate any output.
 
 ## RELATED LINKS
 
-[Add-ADCentralAccessPolicyMember](./Add-ADCentralAccessPolicyMember.md)
+[Add-ADCentralAccessPolicyMember](./add-adcentralaccesspolicymember.md)
 
 [AD DS Administration Cmdlets in Windows PowerShell](./activedirectory.md)
+
 

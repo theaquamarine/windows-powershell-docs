@@ -220,11 +220,13 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Save-WindowsImage](./Save-WindowsImage.md)
+[Save-WindowsImage](./save-windowsimage.md)
 
-[Repair-WindowsImage](./Repair-WindowsImage.md)
+[Repair-WindowsImage](./repair-windowsimage.md)
 
-[Mount-WindowsImage](./Mount-WindowsImage.md)
+[Mount-WindowsImage](./mount-windowsimage.md)
 
-[Get-WindowsImage](./Get-WindowsImage.md)
+[Get-WindowsImage](./get-windowsimage.md)
+
+
 

@@ -165,5 +165,7 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-WIMBootEntry](./Get-WIMBootEntry.md)
+[Get-WIMBootEntry](./get-wimbootentry.md)
+
+
 

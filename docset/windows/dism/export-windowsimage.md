@@ -306,21 +306,23 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Dismount-WindowsImage](./Dismount-WindowsImage.md)
+[Dismount-WindowsImage](./dismount-windowsimage.md)
 
-[Export-WindowsImage](./Export-WindowsImage.md)
+[Export-WindowsImage](./export-windowsimage.md)
 
-[Get-WindowsImage](./Get-WindowsImage.md)
+[Get-WindowsImage](./get-windowsimage.md)
 
-[Mount-WindowsImage](./Mount-WindowsImage.md)
+[Mount-WindowsImage](./mount-windowsimage.md)
 
-[New-WindowsImage](./New-WindowsImage.md)
+[New-WindowsImage](./new-windowsimage.md)
 
-[Remove-WindowsImage](./Remove-WindowsImage.md)
+[Remove-WindowsImage](./remove-windowsimage.md)
 
-[Repair-WindowsImage](./Repair-WindowsImage.md)
+[Repair-WindowsImage](./repair-windowsimage.md)
 
-[Save-WindowsImage](./Save-WindowsImage.md)
+[Save-WindowsImage](./save-windowsimage.md)
 
-[Split-WindowsImage](./Split-WindowsImage.md)
+[Split-WindowsImage](./split-windowsimage.md)
+
+
 

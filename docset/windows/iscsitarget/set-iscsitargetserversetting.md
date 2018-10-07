@@ -191,5 +191,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Set-IscsiTargetServerSetting](./Set-IscsiTargetServerSetting.md)
+[Set-IscsiTargetServerSetting](./set-iscsitargetserversetting.md)
+
 

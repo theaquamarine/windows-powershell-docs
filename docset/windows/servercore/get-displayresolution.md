@@ -29,7 +29,7 @@ Get-DisplayResolution [<CommonParameters>]
 ```
 
 ## DESCRIPTION
-The **Get-DisplayResolution** cmdlet shows the display resolution for Windows Server® 2012 in Server Core mode.
+The **Get-DisplayResolution** cmdlet shows the display resolution for Windows Server?? 2012 in Server Core mode.
 For a width of 1920 pixels and a height of 1080 pixels, the cmdlet displays 1920x1080.
 You can use the Set-DisplayResolution cmdlet to change the resolution.
 
@@ -58,5 +58,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Set-DisplayResolution](./Set-DisplayResolution.md)
+[Set-DisplayResolution](./set-displayresolution.md)
+
 

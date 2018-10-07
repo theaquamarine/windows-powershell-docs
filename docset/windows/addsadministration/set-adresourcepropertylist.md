@@ -392,9 +392,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-ADResourcePropertyList](./Get-ADResourcePropertyList.md)
+[Get-ADResourcePropertyList](./get-adresourcepropertylist.md)
 
-[New-ADResourcePropertyList](./New-ADResourcePropertyList.md)
+[New-ADResourcePropertyList](./new-adresourcepropertylist.md)
 
-[Remove-ADResourcePropertyList](./Remove-ADResourcePropertyList.md)
+[Remove-ADResourcePropertyList](./remove-adresourcepropertylist.md)
+
 

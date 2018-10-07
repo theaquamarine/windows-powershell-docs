@@ -58,7 +58,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Disable-Uev](./Disable-Uev.md)
+[Disable-Uev](./disable-uev.md)
 
-[Get-UevStatus](./Get-UevStatus.md)
+[Get-UevStatus](./get-uevstatus.md)
+
 

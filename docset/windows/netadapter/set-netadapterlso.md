@@ -47,7 +47,7 @@ Set-NetAdapterLso -InputObject <CimInstance[]> [-V1IPv4Enabled <Boolean>] [-IPv4
 
 ## DESCRIPTION
 The **Set-NetAdapterLso** cmdlet manages the large send offload property which can improve send side performance by having the network adapter distribute a large send request into smaller sizes that can be sent out by the network adapter.
-Without this setting Windows Server® 2012 and later would have to perform this work.
+Without this setting Windows Server?? 2012 and later would have to perform this work.
 The offload reduces the load on the processor, so that the processor can to do more application level work.
 If only setting the enabled state of LSO, then use the **Enable-NetAdapterLso** or **Disable-NetAdapterLso** cmdlets.
 
@@ -69,7 +69,7 @@ Use this parameter to run commands that take a long time to complete.
 You can continue to work in the session while the job completes.
 To manage the job, use the `*-Job` cmdlets.
 To get the job results, use the [Receive-Job](http://go.microsoft.com/fwlink/?LinkID=113372) cmdlet. 
- For more information about Windows PowerShell® background jobs, see [about_Jobs](http://go.microsoft.com/fwlink/?LinkID=113251).
+ For more information about Windows PowerShell?? background jobs, see [about_Jobs](http://go.microsoft.com/fwlink/?LinkID=113251).
 
 ```yaml
 Type: SwitchParameter
@@ -243,7 +243,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -308,9 +308,10 @@ The path after the pound sign (`#`) provides the namespace and class name for th
 
 ## RELATED LINKS
 
-[Disable-NetAdapterLso](./Disable-NetAdapterLso.md)
+[Disable-NetAdapterLso](./disable-netadapterlso.md)
 
-[Enable-NetAdapterLso](./Enable-NetAdapterLso.md)
+[Enable-NetAdapterLso](./enable-netadapterlso.md)
 
-[Get-NetAdapterLso](./Get-NetAdapterLso.md)
+[Get-NetAdapterLso](./get-netadapterlso.md)
+
 

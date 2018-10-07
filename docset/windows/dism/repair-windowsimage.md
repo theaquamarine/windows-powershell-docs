@@ -55,7 +55,7 @@ This operation will take several minutes.
 
 The *Source* parameter specifies the location of known good versions of files that can be used for the repair, such as a path to the root directory of a mounted image.
 
-*CheckHealth*, *ScanHealth*, *RestoreHealth*, *Source*, and *LimitAccess* can only be used when servicing images that are running at least Windows® 8 or Windows Server® 2012.
+*CheckHealth*, *ScanHealth*, *RestoreHealth*, *Source*, and *LimitAccess* can only be used when servicing images that are running at least Windows?? 8 or Windows Server?? 2012.
 
 ## EXAMPLES
 
@@ -100,7 +100,7 @@ Accept wildcard characters: False
 ### -LimitAccess
 Prevents DISM from contacting Windows Update (WU) when searching for the source files to repair an online image.
 
-*LimitAccess* can only be used when servicing images that are running at least Windows® 8, Windows Server® 2012, or Windows® Preinstallation Environment (Windows PE) 4.0.
+*LimitAccess* can only be used when servicing images that are running at least Windows?? 8, Windows Server?? 2012, or Windows?? Preinstallation Environment (Windows PE) 4.0.
 
 ```yaml
 Type: SwitchParameter
@@ -267,7 +267,7 @@ Separate source locations with a comma.
 If you do not specify a *Source*, the default location set by Group Policy is used.
 Windows Update (WU) is also used for online images.
 
-*Source* can only be used when servicing images that are running at least Windows® 8 or Windows Server® 2012.
+*Source* can only be used when servicing images that are running at least Windows?? 8 or Windows Server?? 2012.
 
 ```yaml
 Type: String[]
@@ -336,11 +336,13 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Mount-WindowsImage](./Mount-WindowsImage.md)
+[Mount-WindowsImage](./mount-windowsimage.md)
 
-[Dismount-WindowsImage](./Dismount-WindowsImage.md)
+[Dismount-WindowsImage](./dismount-windowsimage.md)
 
-[Get-WindowsImage](./Get-WindowsImage.md)
+[Get-WindowsImage](./get-windowsimage.md)
 
-[Save-WindowsImage](./Save-WindowsImage.md)
+[Save-WindowsImage](./save-windowsimage.md)
+
+
 

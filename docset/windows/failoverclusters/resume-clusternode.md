@@ -156,17 +156,18 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-ClusterNode](./Add-ClusterNode.md)
+[Add-ClusterNode](./add-clusternode.md)
 
-[Clear-ClusterNode](./Clear-ClusterNode.md)
+[Clear-ClusterNode](./clear-clusternode.md)
 
-[Get-ClusterNode](./Get-ClusterNode.md)
+[Get-ClusterNode](./get-clusternode.md)
 
-[Remove-ClusterNode](./Remove-ClusterNode.md)
+[Remove-ClusterNode](./remove-clusternode.md)
 
-[Start-ClusterNode](./Start-ClusterNode.md)
+[Start-ClusterNode](./start-clusternode.md)
 
-[Stop-ClusterNode](./Stop-ClusterNode.md)
+[Stop-ClusterNode](./stop-clusternode.md)
 
-[Suspend-ClusterNode](./Suspend-ClusterNode.md)
+[Suspend-ClusterNode](./suspend-clusternode.md)
+
 

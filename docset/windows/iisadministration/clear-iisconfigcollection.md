@@ -103,7 +103,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-IISConfigCollection](./Get-IISConfigCollection.md)
+[Get-IISConfigCollection](./get-iisconfigcollection.md)
 
 [IIS Administration Cmdlets for Windows PowerShell](./iisadministration.md)
+
 

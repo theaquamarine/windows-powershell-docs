@@ -299,7 +299,8 @@ To see parameters, run the following command: `Install-AdcsEnrollmentWebService 
 
 ## RELATED LINKS
 
-[Uninstall-AdcsEnrollmentWebService](./Uninstall-AdcsEnrollmentWebService.md)
+[Uninstall-AdcsEnrollmentWebService](./uninstall-adcsenrollmentwebservice.md)
 
 [Get-Credential](http://go.microsoft.com/fwlink/?LinkID=293936)
+
 

@@ -40,7 +40,7 @@ Stop-DtcDiagnosticResourceManager [[-InstanceId] <Guid>] [<CommonParameters>]
 ```
 
 ## DESCRIPTION
-The **Stop-DtcDiagnosticResourceManager** cmdlet stops and removes a **DiagnosticResourceManagerJob** that runs as a Windows PowerShell® background job.
+The **Stop-DtcDiagnosticResourceManager** cmdlet stops and removes a **DiagnosticResourceManagerJob** that runs as a Windows PowerShell?? background job.
 To stop the default Resource Manager, you must explicitly specify the name of the default Resource Manager.
 
 ## EXAMPLES
@@ -111,7 +111,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Join-DtcDiagnosticResourceManager](./Join-DtcDiagnosticResourceManager.md)
+[Join-DtcDiagnosticResourceManager](./join-dtcdiagnosticresourcemanager.md)
 
-[Start-DtcDiagnosticResourceManager](./Start-DtcDiagnosticResourceManager.md)
+[Start-DtcDiagnosticResourceManager](./start-dtcdiagnosticresourcemanager.md)
+
 

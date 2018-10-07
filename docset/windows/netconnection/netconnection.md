@@ -24,10 +24,11 @@ ms.assetid: DAAD0289-056C-4259-ADA4-2245C2EEE4AA
 This reference provides cmdlet descriptions and syntax for all Net Connection cmdlets. It lists the cmdlets in alphabetical order based on the verb at the beginning of the cmdlet.
 
 ## NetConnection Cmdlets
-### [Get-NetConnectionProfile](./Get-NetConnectionProfile.md)
+### [Get-NetConnectionProfile](./get-netconnectionprofile.md)
 Gets a connection profile.
 
-### [Set-NetConnectionProfile](./Set-NetConnectionProfile.md)
+### [Set-NetConnectionProfile](./set-netconnectionprofile.md)
 Changes the network category of a connection profile.
+
 
 

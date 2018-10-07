@@ -280,13 +280,14 @@ None by default; **Microsoft.HyperV.PowerShell.VirtualMachine** if *PassThru* is
 
 ## RELATED LINKS
 
-[Export-VMSnapshot](./Export-VMSnapshot.md)
+[Export-VMSnapshot](./export-vmsnapshot.md)
 
-[Get-VMSnapshot](./Get-VMSnapshot.md)
+[Get-VMSnapshot](./get-vmsnapshot.md)
 
-[Rename-VMSnapshot](./Rename-VMSnapshot.md)
+[Rename-VMSnapshot](./rename-vmsnapshot.md)
 
-[Restore-VMSnapshot](./Restore-VMSnapshot.md)
+[Restore-VMSnapshot](./restore-vmsnapshot.md)
 
-[Get-VM](./Get-VM.md)
+[Get-VM](./get-vm.md)
+
 

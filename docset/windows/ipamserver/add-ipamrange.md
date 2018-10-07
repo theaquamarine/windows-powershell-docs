@@ -562,7 +562,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -670,13 +670,14 @@ This cmdlet returns the IP address range object added to the IPAM data store.
 
 ## RELATED LINKS
 
-[Export-IpamRange](./Export-IpamRange.md)
+[Export-IpamRange](./export-ipamrange.md)
 
-[Get-IpamRange](./Get-IpamRange.md)
+[Get-IpamRange](./get-ipamrange.md)
 
-[Import-IpamRange](./Import-IpamRange.md)
+[Import-IpamRange](./import-ipamrange.md)
 
-[Remove-IpamRange](./Remove-IpamRange.md)
+[Remove-IpamRange](./remove-ipamrange.md)
 
-[Set-IpamRange](./Set-IpamRange.md)
+[Set-IpamRange](./set-ipamrange.md)
+
 

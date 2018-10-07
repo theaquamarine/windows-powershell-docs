@@ -186,9 +186,10 @@ Depending on the type of endpoint, you can enable or disable the endpoint or con
 
 ## RELATED LINKS
 
-[Disable-AdfsEndpoint](./Disable-AdfsEndpoint.md)
+[Disable-AdfsEndpoint](./disable-adfsendpoint.md)
 
-[Enable-AdfsEndpoint](./Enable-AdfsEndpoint.md)
+[Enable-AdfsEndpoint](./enable-adfsendpoint.md)
 
-[Get-AdfsEndpoint](./Get-AdfsEndpoint.md)
+[Get-AdfsEndpoint](./get-adfsendpoint.md)
+
 

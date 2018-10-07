@@ -311,7 +311,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -364,11 +364,12 @@ The DnsServerTrustAnchor object contains the following fields:
 
 ## RELATED LINKS
 
-[Get-DnsServerTrustAnchor](./Get-DnsServerTrustAnchor.md)
+[Get-DnsServerTrustAnchor](./get-dnsservertrustanchor.md)
 
-[Import-DnsServerTrustAnchor](./Import-DnsServerTrustAnchor.md)
+[Import-DnsServerTrustAnchor](./import-dnsservertrustanchor.md)
 
-[Remove-DnsServerTrustAnchor](./Remove-DnsServerTrustAnchor.md)
+[Remove-DnsServerTrustAnchor](./remove-dnsservertrustanchor.md)
 
-[Get-DnsServerResourceRecord](./Get-DnsServerResourceRecord.md)
+[Get-DnsServerResourceRecord](./get-dnsserverresourcerecord.md)
+
 

@@ -90,7 +90,8 @@ None.
 
 ## RELATED LINKS
 
-[Publish-WmsDesktop](./Publish-WmsDesktop.md)
+[Publish-WmsDesktop](./publish-wmsdesktop.md)
 
-[Show-WmsDesktop](./Show-WmsDesktop.md)
+[Show-WmsDesktop](./show-wmsdesktop.md)
+
 

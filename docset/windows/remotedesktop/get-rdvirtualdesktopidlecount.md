@@ -106,7 +106,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Set-RDVirtualDesktopIdleCount](./Set-RDVirtualDesktopIdleCount.md)
+[Set-RDVirtualDesktopIdleCount](./set-rdvirtualdesktopidlecount.md)
 
-[Get-RDVirtualDesktopCollectionConfiguration](./Get-RDVirtualDesktopCollectionConfiguration.md)
+[Get-RDVirtualDesktopCollectionConfiguration](./get-rdvirtualdesktopcollectionconfiguration.md)
+
 

@@ -145,7 +145,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-WebConfigurationLocation](./Get-WebConfigurationLocation.md)
+[Get-WebConfigurationLocation](./get-webconfigurationlocation.md)
 
-[Remove-WebConfigurationLocation](./Remove-WebConfigurationLocation.md)
+[Remove-WebConfigurationLocation](./remove-webconfigurationlocation.md)
+
 

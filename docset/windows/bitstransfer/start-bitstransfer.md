@@ -671,17 +671,18 @@ Once the BITS service is restarted, the file transfer job will recover and resum
 
 ## RELATED LINKS
 
-[Add-BitsFile](./Add-BitsFile.md)
+[Add-BitsFile](./add-bitsfile.md)
 
-[Complete-BitsTransfer](./Complete-BitsTransfer.md)
+[Complete-BitsTransfer](./complete-bitstransfer.md)
 
-[Get-BitsTransfer](./Get-BitsTransfer.md)
+[Get-BitsTransfer](./get-bitstransfer.md)
 
-[Remove-BitsTransfer](./Remove-BitsTransfer.md)
+[Remove-BitsTransfer](./remove-bitstransfer.md)
 
-[Resume-BitsTransfer](./Resume-BitsTransfer.md)
+[Resume-BitsTransfer](./resume-bitstransfer.md)
 
-[Set-BitsTransfer](./Set-BitsTransfer.md)
+[Set-BitsTransfer](./set-bitstransfer.md)
 
-[Suspend-BitsTransfer](./Suspend-BitsTransfer.md)
+[Suspend-BitsTransfer](./suspend-bitstransfer.md)
+
 

@@ -24,61 +24,62 @@ ms.assetid: 969AF3A6-0C60-4790-94D9-9E4920052551
 This reference provides cmdlet descriptions and syntax for all Scheduled Tasks cmdlets. It lists the cmdlets in alphabetical order based on the verb at the beginning of the cmdlet.
 
 ## ScheduledTasks Cmdlets
-### [Disable-ScheduledTask](./Disable-ScheduledTask.md)
+### [Disable-ScheduledTask](./disable-scheduledtask.md)
 Disables a scheduled task.
 
-### [Enable-ScheduledTask](./Enable-ScheduledTask.md)
+### [Enable-ScheduledTask](./enable-scheduledtask.md)
 Enables a scheduled task.
 
-### [Export-ScheduledTask](./Export-ScheduledTask.md)
+### [Export-ScheduledTask](./export-scheduledtask.md)
 Exports a scheduled task as an XML string.
 
-### [Get-ClusteredScheduledTask](./Get-ClusteredScheduledTask.md)
+### [Get-ClusteredScheduledTask](./get-clusteredscheduledtask.md)
 Gets clustered scheduled tasks for a failover cluster.
 
-### [Get-ScheduledTask](./Get-ScheduledTask.md)
+### [Get-ScheduledTask](./get-scheduledtask.md)
 Gets the task definition object of a scheduled task that is registered on the local computer.
 
-### [Get-ScheduledTaskInfo](./Get-ScheduledTaskInfo.md)
+### [Get-ScheduledTaskInfo](./get-scheduledtaskinfo.md)
 Gets run-time information for a scheduled task.
 
-### [New-ScheduledTask](./New-ScheduledTask.md)
+### [New-ScheduledTask](./new-scheduledtask.md)
 Creates a scheduled task instance.
 
-### [New-ScheduledTaskAction](./New-ScheduledTaskAction.md)
+### [New-ScheduledTaskAction](./new-scheduledtaskaction.md)
 Creates a scheduled task action.
 
-### [New-ScheduledTaskPrincipal](./New-ScheduledTaskPrincipal.md)
+### [New-ScheduledTaskPrincipal](./new-scheduledtaskprincipal.md)
 Creates an object that contains a scheduled task principal.
 
-### [New-ScheduledTaskSettingsSet](./New-ScheduledTaskSettingsSet.md)
+### [New-ScheduledTaskSettingsSet](./new-scheduledtasksettingsset.md)
 Creates a new scheduled task settings object.
 
-### [New-ScheduledTaskTrigger](./New-ScheduledTaskTrigger.md)
+### [New-ScheduledTaskTrigger](./new-scheduledtasktrigger.md)
 Creates a scheduled task trigger object.
 
-### [Register-ClusteredScheduledTask](./Register-ClusteredScheduledTask.md)
+### [Register-ClusteredScheduledTask](./register-clusteredscheduledtask.md)
 Registers a scheduled task on a failover cluster.
 
-### [Register-ScheduledTask](./Register-ScheduledTask.md)
+### [Register-ScheduledTask](./register-scheduledtask.md)
 Registers a scheduled task definition on a local computer.
 
-### [Set-ClusteredScheduledTask](./Set-ClusteredScheduledTask.md)
+### [Set-ClusteredScheduledTask](./set-clusteredscheduledtask.md)
 Changes settings for a clustered scheduled task.
 
-### [Set-ScheduledTask](./Set-ScheduledTask.md)
+### [Set-ScheduledTask](./set-scheduledtask.md)
 Modifies a scheduled task.
 
-### [Start-ScheduledTask](./Start-ScheduledTask.md)
+### [Start-ScheduledTask](./start-scheduledtask.md)
 Starts one or more instances of a scheduled task.
 
-### [Stop-ScheduledTask](./Stop-ScheduledTask.md)
+### [Stop-ScheduledTask](./stop-scheduledtask.md)
 Stops all running instances of a task.
 
-### [Unregister-ClusteredScheduledTask](./Unregister-ClusteredScheduledTask.md)
+### [Unregister-ClusteredScheduledTask](./unregister-clusteredscheduledtask.md)
 Removes a scheduled task from a failover cluster.
 
-### [Unregister-ScheduledTask](./Unregister-ScheduledTask.md)
+### [Unregister-ScheduledTask](./unregister-scheduledtask.md)
 Unregisters a scheduled task.
+
 
 

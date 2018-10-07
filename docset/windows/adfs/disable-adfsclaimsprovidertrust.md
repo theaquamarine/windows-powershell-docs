@@ -186,13 +186,14 @@ A class that represents a claims provider trust for the Federation Service.
 
 ## RELATED LINKS
 
-[Enable-AdfsClaimsProviderTrust](./Enable-AdfsClaimsProviderTrust.md)
+[Enable-AdfsClaimsProviderTrust](./enable-adfsclaimsprovidertrust.md)
 
-[Get-AdfsClaimsProviderTrust](./Get-AdfsClaimsProviderTrust.md)
+[Get-AdfsClaimsProviderTrust](./get-adfsclaimsprovidertrust.md)
 
-[Remove-AdfsClaimsProviderTrust](./Remove-AdfsClaimsProviderTrust.md)
+[Remove-AdfsClaimsProviderTrust](./remove-adfsclaimsprovidertrust.md)
 
-[Set-AdfsClaimsProviderTrust](./Set-AdfsClaimsProviderTrust.md)
+[Set-AdfsClaimsProviderTrust](./set-adfsclaimsprovidertrust.md)
 
-[Update-AdfsClaimsProviderTrust](./Update-AdfsClaimsProviderTrust.md)
+[Update-AdfsClaimsProviderTrust](./update-adfsclaimsprovidertrust.md)
+
 

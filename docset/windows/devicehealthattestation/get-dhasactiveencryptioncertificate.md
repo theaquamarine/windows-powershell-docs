@@ -58,5 +58,6 @@ This cmdlet returns the active encryption certificate thumbprint.
 
 ## RELATED LINKS
 
-[Set-DHASActiveEncryptionCertificate](./Set-DHASActiveEncryptionCertificate.md)
+[Set-DHASActiveEncryptionCertificate](./set-dhasactiveencryptioncertificate.md)
+
 

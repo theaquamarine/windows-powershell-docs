@@ -334,11 +334,12 @@ To get a list of all the properties of an **ADCentralAccessRule** object, use th
 
 ## RELATED LINKS
 
-[New-ADCentralAccessRule](./New-ADCentralAccessRule.md)
+[New-ADCentralAccessRule](./new-adcentralaccessrule.md)
 
-[Remove-ADCentralAccessRule](./Remove-ADCentralAccessRule.md)
+[Remove-ADCentralAccessRule](./remove-adcentralaccessrule.md)
 
-[Set-ADCentralAccessRule](./Set-ADCentralAccessRule.md)
+[Set-ADCentralAccessRule](./set-adcentralaccessrule.md)
 
 [AD DS Administration Cmdlets in Windows PowerShell](./activedirectory.md)
+
 

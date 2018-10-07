@@ -118,7 +118,7 @@ Specifies that the IPsec rule allows trusted intermediaries to override keying m
 When this parameter is set to True, then the trusted intermediaries are allowed to dictate the cryptographic keying material used with an IPsec security association (SA). 
 It is possible that when this parameter is set to True at both ends, the computers will perform arbitration through SA negotiation so that one end sets the key while the other end watches the key. 
 The default value is False. 
-This parameter is only supported on Windows Server® 2012.
+This parameter is only supported on Windows Server?? 2012.
 
 ```yaml
 Type: Boolean
@@ -303,7 +303,7 @@ Accept wildcard characters: False
 ### -GPOSession
 Specifies the network GPO from which to retrieve the rules to be created. 
 This parameter is used in the same way as the *PolicyStore* parameter.
-When modifying GPOs in Windows PowerShell®, each change to a GPO requires the entire GPO to be loaded, modified, and saved back.
+When modifying GPOs in Windows PowerShell??, each change to a GPO requires the entire GPO to be loaded, modified, and saved back.
 On a busy Domain Controller (DC), this can be a slow and resource-heavy operation.
 A GPO Session loads a domain GPO onto the local computer and makes all changes in a batch, before saving it back.
 This reduces the load on the DC and speeds up the Windows PowerShell cmdlets.
@@ -640,7 +640,7 @@ Accept wildcard characters: False
 ### -Platform
 Specifies which version of Windows the associated rule applies. 
 The acceptable format for this parameter is a number in the Major.Minor format. 
-The version number of 6.0 corresponds to Vista (firstref_vista), 6.1 corresponds to Win7 (Windows® 7 or nextref_server_7), and 6.2 corresponds to Win8 (Windows® 8 or Windows Server 2012). 
+The version number of 6.0 corresponds to Vista (firstref_vista), 6.1 corresponds to Win7 (Windows?? 7 or nextref_server_7), and 6.2 corresponds to Win8 (Windows?? 8 or Windows Server 2012). 
 If + is not specified, then only that version is associated. 
 If + is specified, then that version and later are associated. 
 Querying for rules with this parameter with the Get-NetIPsecRule cmdlet cannot be performed.
@@ -827,7 +827,7 @@ Specifies the IP address of the computer or gateway device that secures traffic 
 The traffic is being secured to this IP address to the device identified in the *LocalTunnelEndpoint* parameter.
 This parameter value must use the same type of IP address as the *LocalTunnelEndpoint* parameter, which is either IPv4 or IPv6. 
 Address keywords are not supported. 
-On Windows® 7, nextref_server_7, and Windows Server 2012, this value can also be Any.
+On Windows?? 7, nextref_server_7, and Windows Server 2012, this value can also be Any.
 When applied to a client computer, this option supports connection via a tunnel to a remote gateway or host regardless of the IP address or address type of the local computer.
 
 ```yaml
@@ -882,7 +882,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -947,29 +947,30 @@ The path after the pound sign (`#`) provides the namespace and class name for th
 
 ## RELATED LINKS
 
-[Get-NetFirewallAddressFilter](./Get-NetFirewallAddressFilter.md)
+[Get-NetFirewallAddressFilter](./get-netfirewalladdressfilter.md)
 
-[Get-NetFirewallInterfaceFilter](./Get-NetFirewallInterfaceFilter.md)
+[Get-NetFirewallInterfaceFilter](./get-netfirewallinterfacefilter.md)
 
-[Get-NetFirewallInterfaceTypeFilter](./Get-NetFirewallInterfaceTypeFilter.md)
+[Get-NetFirewallInterfaceTypeFilter](./get-netfirewallinterfacetypefilter.md)
 
-[Get-NetFirewallPortFilter](./Get-NetFirewallPortFilter.md)
+[Get-NetFirewallPortFilter](./get-netfirewallportfilter.md)
 
-[Get-NetIPsecRule](./Get-NetIPsecRule.md)
+[Get-NetIPsecRule](./get-netipsecrule.md)
 
 [New-NetIPsecPhase1AuthSet](./New-NetIPsecPhase1AuthSet.md)
 
 [New-NetIPsecPhase2AuthSet](./New-NetIPsecPhase2AuthSet.md)
 
-[New-NetIPsecQuickModeCryptoSet](./New-NetIPsecQuickModeCryptoSet.md)
+[New-NetIPsecQuickModeCryptoSet](./new-netipsecquickmodecryptoset.md)
 
-[Open-NetGPO](./Open-NetGPO.md)
+[Open-NetGPO](./open-netgpo.md)
 
-[Save-NetGPO](./Save-NetGPO.md)
+[Save-NetGPO](./save-netgpo.md)
 
-[Set-NetIPsecRule](./Set-NetIPsecRule.md)
+[Set-NetIPsecRule](./set-netipsecrule.md)
 
-[New-NetIPsecAuthProposal](./New-NetIPsecAuthProposal.md)
+[New-NetIPsecAuthProposal](./new-netipsecauthproposal.md)
 
-[New-NetIPsecQuickModeCryptoProposal](./New-NetIPsecQuickModeCryptoProposal.md)
+[New-NetIPsecQuickModeCryptoProposal](./new-netipsecquickmodecryptoproposal.md)
+
 

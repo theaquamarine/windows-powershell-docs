@@ -167,9 +167,10 @@ This cmdlet returns a structure containing the current configuration.
 
 ## RELATED LINKS
 
-[Disable-WmsScheduledUpdate](./Disable-WmsScheduledUpdate.md)
+[Disable-WmsScheduledUpdate](./disable-wmsscheduledupdate.md)
 
-[Get-WmsScheduledUpdate](./Get-WmsScheduledUpdate.md)
+[Get-WmsScheduledUpdate](./get-wmsscheduledupdate.md)
 
-[Set-WmsScheduledUpdate](./Set-WmsScheduledUpdate.md)
+[Set-WmsScheduledUpdate](./set-wmsscheduledupdate.md)
+
 

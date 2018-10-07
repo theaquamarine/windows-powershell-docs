@@ -65,7 +65,8 @@ AddtoCertificateOCSP | Boolean
 
 ## RELATED LINKS
 
-[Add-CAAuthorityInformationAccess](./Add-CAAuthorityInformationAccess.md)
+[Add-CAAuthorityInformationAccess](./add-caauthorityinformationaccess.md)
 
-[Remove-CAAuthorityInformationAccess](./Remove-CAAuthorityInformationAccess.md)
+[Remove-CAAuthorityInformationAccess](./remove-caauthorityinformationaccess.md)
+
 

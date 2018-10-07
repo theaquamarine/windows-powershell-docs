@@ -51,7 +51,7 @@ Otherwise, the network adapter enables the QoS features based on either the fact
 
 To configure traffic class bandwidth allocation and priority based flow control on the computer, you can use the New-NetQosTrafficClass and the **Enable-NetQosFlowControl** cmdlets.
 
-Some switches expect end stations, such as computers running Windows Server® 2012 or later, to accept configurations from the switches.
+Some switches expect end stations, such as computers running Windows Server?? 2012 or later, to accept configurations from the switches.
 If the switches detect a mismatched configuration through the data center bridging exchange (DCBX) protocol, then the switches disable the DCB functionalities.
 To overcome this limitation, users can disable DCBX on either the switches or the network adapters and manually configure the features on either end.
 
@@ -83,7 +83,7 @@ Use this parameter to run commands that take a long time to complete.
 You can continue to work in the session while the job completes.
 To manage the job, use the `*-Job` cmdlets.
 To get the job results, use the [Receive-Job](http://go.microsoft.com/fwlink/?LinkID=113372) cmdlet. 
- For more information about Windows PowerShell® background jobs, see [about_Jobs](http://go.microsoft.com/fwlink/?LinkID=113251).
+ For more information about Windows PowerShell?? background jobs, see [about_Jobs](http://go.microsoft.com/fwlink/?LinkID=113251).
 
 ```yaml
 Type: SwitchParameter
@@ -227,7 +227,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -280,9 +280,10 @@ The output object is returned only when the *PassThru* parameter is specified.
 
 ## RELATED LINKS
 
-[Disable-NetAdapterQos](./Disable-NetAdapterQos.md)
+[Disable-NetAdapterQos](./disable-netadapterqos.md)
 
-[Get-NetAdapter](./Get-NetAdapter.md)
+[Get-NetAdapter](./get-netadapter.md)
 
-[Get-NetAdapterQos](./Get-NetAdapterQos.md)
+[Get-NetAdapterQos](./get-netadapterqos.md)
+
 

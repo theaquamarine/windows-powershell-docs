@@ -130,7 +130,8 @@ There is only one parameter for this cmdlet, *Name*, and it can only accept a si
 
 ## RELATED LINKS
 
-[Get-CATemplate](./Get-CATemplate.md)
+[Get-CATemplate](./get-catemplate.md)
 
-[Remove-CATemplate](./Remove-CATemplate.md)
+[Remove-CATemplate](./remove-catemplate.md)
+
 

@@ -166,9 +166,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-NfsNetgroup](./Get-NfsNetgroup.md)
+[Get-NfsNetgroup](./get-nfsnetgroup.md)
 
-[Remove-NfsNetgroup](./Remove-NfsNetgroup.md)
+[Remove-NfsNetgroup](./remove-nfsnetgroup.md)
 
-[Set-NfsNetgroup](./Set-NfsNetgroup.md)
+[Set-NfsNetgroup](./set-nfsnetgroup.md)
+
 

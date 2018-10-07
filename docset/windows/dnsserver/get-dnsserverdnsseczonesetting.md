@@ -226,7 +226,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -349,7 +349,8 @@ DnsServerSigningKeyExtendedInformation
 
 ## RELATED LINKS
 
-[Set-DnsServerDnsSecZoneSetting](./Set-DnsServerDnsSecZoneSetting.md)
+[Set-DnsServerDnsSecZoneSetting](./set-dnsserverdnsseczonesetting.md)
 
-[Test-DnsServerDnsSecZoneSetting](./Test-DnsServerDnsSecZoneSetting.md)
+[Test-DnsServerDnsSecZoneSetting](./test-dnsserverdnsseczonesetting.md)
+
 

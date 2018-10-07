@@ -143,11 +143,12 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-VamtConfirmationId](./Get-VamtConfirmationId.md)
+[Get-VamtConfirmationId](./get-vamtconfirmationid.md)
 
-[Get-VamtProduct](./Get-VamtProduct.md)
+[Get-VamtProduct](./get-vamtproduct.md)
 
-[Export-VamtData](./Export-VamtData.md)
+[Export-VamtData](./export-vamtdata.md)
 
-[Initialize-VamtData](./Initialize-VamtData.md)
+[Initialize-VamtData](./initialize-vamtdata.md)
+
 

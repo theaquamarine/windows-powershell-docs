@@ -266,9 +266,10 @@ A subnet object is received by the *Identity* parameter.
 
 ## RELATED LINKS
 
-[New-ADReplicationSubnet](./New-ADReplicationSubnet.md)
+[New-ADReplicationSubnet](./new-adreplicationsubnet.md)
 
-[Remove-ADReplicationSubnet](./Remove-ADReplicationSubnet.md)
+[Remove-ADReplicationSubnet](./remove-adreplicationsubnet.md)
 
-[Set-ADReplicationSubnet](./Set-ADReplicationSubnet.md)
+[Set-ADReplicationSubnet](./set-adreplicationsubnet.md)
+
 

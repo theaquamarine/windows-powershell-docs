@@ -31,7 +31,7 @@ Publish-BCWebContent [-Path] <String[]> [-UseVersion <UInt32>] [-StageData] [-St
 ```
 
 ## DESCRIPTION
-The **Publish-BCWebContent** cmdlet creates hashes for web content when content servers are deployed that run Windows Server® 2012 with the Web Services (IIS) server role installed.
+The **Publish-BCWebContent** cmdlet creates hashes for web content when content servers are deployed that run Windows Server?? 2012 with the Web Services (IIS) server role installed.
 In addition, the web server must be configured as a BranchCache content server by installing the BranchCache feature.
 
 ## EXAMPLES
@@ -201,7 +201,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -219,7 +219,7 @@ Accept wildcard characters: False
 ### -UseVersion
 Specifies the version of the BranchCache hashing scheme to use.
 If the specified version is 1, the content information is generated according to the scheme used by Windows 7 clients.
-If the specified version is 2,  content information is generated according to the more efficient hashing scheme used by client computers that run operating systems later than Windows® 7.
+If the specified version is 2,  content information is generated according to the more efficient hashing scheme used by client computers that run operating systems later than Windows?? 7.
 
 ```yaml
 Type: UInt32
@@ -264,7 +264,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Disable-BC](./Disable-BC.md)
+[Disable-BC](./disable-bc.md)
 
-[Reset-BC](./Reset-BC.md)
+[Reset-BC](./reset-bc.md)
+
 

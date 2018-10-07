@@ -183,13 +183,14 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Clear-BgpRouteFlapDampening](./Clear-BgpRouteFlapDampening.md)
+[Clear-BgpRouteFlapDampening](./clear-bgprouteflapdampening.md)
 
-[Disable-BgpRouteFlapDampening](./Disable-BgpRouteFlapDampening.md)
+[Disable-BgpRouteFlapDampening](./disable-bgprouteflapdampening.md)
 
-[Get-BgpRouteFlapDampening](./Get-BgpRouteFlapDampening.md)
+[Get-BgpRouteFlapDampening](./get-bgprouteflapdampening.md)
 
-[Set-BgpRouteFlapDampening](./Set-BgpRouteFlapDampening.md)
+[Set-BgpRouteFlapDampening](./set-bgprouteflapdampening.md)
 
 [Remote Access Cmdlets](./remoteaccess.md)
+
 

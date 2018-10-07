@@ -128,7 +128,7 @@ PS C:\>Set-RemoteAccessLoadBalancer -Disable
 Confirm 
 Disabling loadbalancing will disable cluster configuration. Do you want to continue? 
  
-[Y] Yes  [N] No  [S] Suspend  [?] Help (default is ꞌYꞌ): Y
+[Y] Yes  [N] No  [S] Suspend  [?] Help (default is ???Y???): Y
 ```
 
 This example removes the NLB configuration.
@@ -348,7 +348,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -428,11 +428,12 @@ The list of nodes in the cluster and the following properties for each node:
 
 ## RELATED LINKS
 
-[Get-RemoteAccessLoadBalancer](./Get-RemoteAccessLoadBalancer.md)
+[Get-RemoteAccessLoadBalancer](./get-remoteaccessloadbalancer.md)
 
-[Remove-RemoteAccessLoadBalancerNode](./Remove-RemoteAccessLoadBalancerNode.md)
+[Remove-RemoteAccessLoadBalancerNode](./remove-remoteaccessloadbalancernode.md)
 
-[Set-DAServer](./Set-DAServer.md)
+[Set-DAServer](./set-daserver.md)
 
-[Set-RemoteAccessLoadBalancer](./Set-RemoteAccessLoadBalancer.md)
+[Set-RemoteAccessLoadBalancer](./set-remoteaccessloadbalancer.md)
+
 

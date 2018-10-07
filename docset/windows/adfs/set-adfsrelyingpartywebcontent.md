@@ -145,7 +145,7 @@ Accept wildcard characters: False
 
 ### -ErrorPageDeviceAuthenticationErrorMessage
 Specifies an error message to display for any device authentication errors that occur for a token request.
-Device authentication errors occur when the user presents an expired user@device certificate to Active Directory Federation Services (AD FS), a certificate that is not found in Active Directory® Domain Services, or a certificate that is disabled in Active Directory Domain Services.
+Device authentication errors occur when the user presents an expired user@device certificate to Active Directory Federation Services (AD FS), a certificate that is not found in Active Directory?? Domain Services, or a certificate that is disabled in Active Directory Domain Services.
 This string can be an HTML fragment.
 
 ```yaml
@@ -472,7 +472,8 @@ The object includes the following properties:
 
 ## RELATED LINKS
 
-[Get-AdfsRelyingPartyWebContent](./Get-AdfsRelyingPartyWebContent.md)
+[Get-AdfsRelyingPartyWebContent](./get-adfsrelyingpartywebcontent.md)
 
-[Remove-AdfsRelyingPartyWebContent](./Remove-AdfsRelyingPartyWebContent.md)
+[Remove-AdfsRelyingPartyWebContent](./remove-adfsrelyingpartywebcontent.md)
+
 

@@ -11,33 +11,34 @@ Locale: en-US
 This reference provides cmdlet descriptions and syntax for all Transport Layer Security (TLS) cmdlets. It lists the cmdlets in alphabetical order based on the verb at the beginning of the cmdlet.
 
 ## TLS Cmdlets
-### [Disable-TlsCipherSuite](Disable-TlsCipherSuite.md)
+### [Disable-TlsCipherSuite](disable-tlsciphersuite.md)
 Disables a TLS cipher suite.
 
-### [Disable-TlsEccCurve](Disable-TlsEccCurve.md)
+### [Disable-TlsEccCurve](disable-tlsecccurve.md)
 Disables TLS Ecc Curve.
 
-### [Disable-TlsSessionTicketKey](Disable-TlsSessionTicketKey.md)
+### [Disable-TlsSessionTicketKey](disable-tlssessionticketkey.md)
 Disables a TLS session ticket key.
 
-### [Enable-TlsEccCurve](Enable-TlsEccCurve.md)
+### [Enable-TlsEccCurve](enable-tlsecccurve.md)
 Enables TLS Ecc Curve.
 
-### [Enable-TlsCipherSuite](Enable-TlsCipherSuite.md)
+### [Enable-TlsCipherSuite](enable-tlsciphersuite.md)
 Enables a TLS cipher suite.
 
-### [Enable-TlsSessionTicketKey](Enable-TlsSessionTicketKey.md)
+### [Enable-TlsSessionTicketKey](enable-tlssessionticketkey.md)
 Configures a TLS server with a TLS session ticket key.
 
-### [Export-TlsSessionTicketKey](Export-TlsSessionTicketKey.md)
+### [Export-TlsSessionTicketKey](export-tlssessionticketkey.md)
 Exports a TLS session ticket key.
 
-### [Get-TlsCipherSuite](Get-TlsCipherSuite.md)
+### [Get-TlsCipherSuite](get-tlsciphersuite.md)
 Gets the list of cipher suites for TLS for a computer.
 
-### [Get-TlsEccCurve](Get-TlsEccCurve.md)
+### [Get-TlsEccCurve](get-tlsecccurve.md)
 Gets the status TLS Ecc Curve.
 
-### [New-TlsSessionTicketKey](New-TlsSessionTicketKey.md)
+### [New-TlsSessionTicketKey](new-tlssessionticketkey.md)
 Creates a TLS session ticket key configuration file.
+
 

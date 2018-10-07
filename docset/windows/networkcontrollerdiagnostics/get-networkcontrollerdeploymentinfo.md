@@ -123,5 +123,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-NetworkControllerReplica](./Get-NetworkControllerReplica.md)
+[Get-NetworkControllerReplica](./get-networkcontrollerreplica.md)
+
 

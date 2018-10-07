@@ -76,17 +76,18 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Add-WebConfiguration](./Add-WebConfiguration.md)
+[Add-WebConfiguration](./add-webconfiguration.md)
 
-[Clear-WebConfiguration](./Clear-WebConfiguration.md)
+[Clear-WebConfiguration](./clear-webconfiguration.md)
 
-[Get-WebConfigurationBackup](./Get-WebConfigurationBackup.md)
+[Get-WebConfigurationBackup](./get-webconfigurationbackup.md)
 
-[Remove-WebConfigurationBackup](./Remove-WebConfigurationBackup.md)
+[Remove-WebConfigurationBackup](./remove-webconfigurationbackup.md)
 
-[Restore-WebConfiguration](./Restore-WebConfiguration.md)
+[Restore-WebConfiguration](./restore-webconfiguration.md)
 
-[Select-WebConfiguration](./Select-WebConfiguration.md)
+[Select-WebConfiguration](./select-webconfiguration.md)
 
-[Set-WebConfiguration](./Set-WebConfiguration.md)
+[Set-WebConfiguration](./set-webconfiguration.md)
+
 

@@ -187,7 +187,8 @@ This cmdlet gets the following gateway pool parameters:
 
 ## RELATED LINKS
 
-[New-NetworkControllerGatewayPool](./New-NetworkControllerGatewayPool.md)
+[New-NetworkControllerGatewayPool](./new-networkcontrollergatewaypool.md)
 
-[Remove-NetworkControllerGatewayPool](./Remove-NetworkControllerGatewayPool.md)
+[Remove-NetworkControllerGatewayPool](./remove-networkcontrollergatewaypool.md)
+
 

@@ -52,7 +52,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Disable-IISSharedConfig](./Disable-IISSharedConfig.md)
+[Disable-IISSharedConfig](./disable-iissharedconfig.md)
 
-[Enable-IISSharedConfig](./Enable-IISSharedConfig.md)
+[Enable-IISSharedConfig](./enable-iissharedconfig.md)
+
 

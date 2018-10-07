@@ -24,70 +24,71 @@ ms.assetid: 8C40FD13-5AE8-4410-850F-839841C1B9DB
 This reference provides cmdlet descriptions and syntax for all print management cmdlets. It lists the cmdlets in alphabetical order.
 
 ## PrintManagement Cmdlets
-### [Add-Printer](./Add-Printer.md)
+### [Add-Printer](./add-printer.md)
 Adds a printer to the specified computer.
 
-### [Add-PrinterDriver](./Add-PrinterDriver.md)
+### [Add-PrinterDriver](./add-printerdriver.md)
 Installs a printer driver on the specified computer.
 
-### [Add-PrinterPort](./Add-PrinterPort.md)
+### [Add-PrinterPort](./add-printerport.md)
 Installs a printer port on the specified computer.
 
-### [Get-PrintConfiguration](./Get-PrintConfiguration.md)
+### [Get-PrintConfiguration](./get-printconfiguration.md)
 Gets the configuration information of a printer.
 
-### [Get-Printer](./Get-Printer.md)
+### [Get-Printer](./get-printer.md)
 Retrieves a list of printers installed on a computer.
 
-### [Get-PrinterDriver](./Get-PrinterDriver.md)
+### [Get-PrinterDriver](./get-printerdriver.md)
 Retrieves the list of printer drivers installed on the specified computer.
 
-### [Get-PrinterPort](./Get-PrinterPort.md)
+### [Get-PrinterPort](./get-printerport.md)
 Retrieves a list of printer ports installed on the specified computer.
 
-### [Get-PrinterProperty](./Get-PrinterProperty.md)
+### [Get-PrinterProperty](./get-printerproperty.md)
 Retrieves printer properties for the specified printer.
 
-### [Get-PrintJob](./Get-PrintJob.md)
+### [Get-PrintJob](./get-printjob.md)
 Retrieves a list of print jobs in the specified printer.
 
-### [Read-PrinterNfcTag](./Read-PrinterNfcTag.md)
+### [Read-PrinterNfcTag](./read-printernfctag.md)
 Reads information about printers from an NFC tag.
 
-### [Remove-Printer](./Remove-Printer.md)
+### [Remove-Printer](./remove-printer.md)
 Removes a printer from the specified computer.
 
-### [Remove-PrinterDriver](./Remove-PrinterDriver.md)
+### [Remove-PrinterDriver](./remove-printerdriver.md)
 Deletes printer driver from the specified computer.
 
-### [Remove-PrinterPort](./Remove-PrinterPort.md)
+### [Remove-PrinterPort](./remove-printerport.md)
 Removes the specified printer port from the specified computer.
 
-### [Remove-PrintJob](./Remove-PrintJob.md)
+### [Remove-PrintJob](./remove-printjob.md)
 Removes a print job on the specified printer.
 
-### [Rename-Printer](./Rename-Printer.md)
+### [Rename-Printer](./rename-printer.md)
 Renames the specified printer.
 
-### [Restart-PrintJob](./Restart-PrintJob.md)
+### [Restart-PrintJob](./restart-printjob.md)
 Restarts a print job on the specified printer.
 
-### [Resume-PrintJob](./Resume-PrintJob.md)
+### [Resume-PrintJob](./resume-printjob.md)
 Resumes a suspended print job.
 
-### [Set-PrintConfiguration](./Set-PrintConfiguration.md)
+### [Set-PrintConfiguration](./set-printconfiguration.md)
 Sets the configuration information for the specified printer.
 
-### [Set-Printer](./Set-Printer.md)
+### [Set-Printer](./set-printer.md)
 Updates the configuration of an existing printer.
 
-### [Set-PrinterProperty](./Set-PrinterProperty.md)
+### [Set-PrinterProperty](./set-printerproperty.md)
 Modifies the printer properties for the specified printer.
 
-### [Suspend-PrintJob](./Suspend-PrintJob.md)
+### [Suspend-PrintJob](./suspend-printjob.md)
 Suspends a print job on the specified printer.
 
-### [Write-PrinterNfcTag](./Write-PrinterNfcTag.md)
+### [Write-PrinterNfcTag](./write-printernfctag.md)
 Writes printer connection data to an NFC tag.
+
 
 

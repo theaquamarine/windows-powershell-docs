@@ -491,9 +491,10 @@ By default, this cmdlet does not generate any output.
 
 ## RELATED LINKS
 
-[Get-ADGroup](./Get-ADGroup.md)
+[Get-ADGroup](./get-adgroup.md)
 
-[Remove-ADGroup](./Remove-ADGroup.md)
+[Remove-ADGroup](./remove-adgroup.md)
 
-[Set-ADGroup](./Set-ADGroup.md)
+[Set-ADGroup](./set-adgroup.md)
+
 

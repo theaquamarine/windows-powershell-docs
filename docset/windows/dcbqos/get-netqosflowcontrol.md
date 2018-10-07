@@ -37,7 +37,7 @@ Get-NetQosFlowControl [[-Priority] <Byte[]>] [[-InterfaceIndex] <UInt32>] [-CimS
 ```
 
 ## DESCRIPTION
-The **Get-NetQosFlowControl** cmdlet gets the priority-based flow control (PFC) settings programmed in Windows Server® 2012 and later.
+The **Get-NetQosFlowControl** cmdlet gets the priority-based flow control (PFC) settings programmed in Windows Server?? 2012 and later.
 
 For more information about PFC, see the **Enable-NetQosFlowControl** cmdlet.
 
@@ -174,11 +174,12 @@ This cmdlet returns a **MSFT_NetQosFlowControlSettingData** object that contains
 
 ## RELATED LINKS
 
-[Enable-NetQosFlowControl](./Enable-NetQosFlowControl.md)
+[Enable-NetQosFlowControl](./enable-netqosflowcontrol.md)
 
-[Disable-NetQosFlowControl](./Disable-NetQosFlowControl.md)
+[Disable-NetQosFlowControl](./disable-netqosflowcontrol.md)
 
-[Set-NetQosDcbxSetting](./Set-NetQosDcbxSetting.md)
+[Set-NetQosDcbxSetting](./set-netqosdcbxsetting.md)
 
-[Set-NetQosFlowControl](./Set-NetQosFlowControl.md)
+[Set-NetQosFlowControl](./set-netqosflowcontrol.md)
+
 

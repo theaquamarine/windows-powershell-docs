@@ -162,5 +162,6 @@ None.
 
 ## RELATED LINKS
 
-[Show-WmsIdentifier](./Show-WmsIdentifier.md)
+[Show-WmsIdentifier](./show-wmsidentifier.md)
+
 

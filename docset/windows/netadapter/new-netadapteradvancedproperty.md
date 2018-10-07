@@ -40,7 +40,7 @@ New-NetAdapterAdvancedProperty -InterfaceDescription <String> -RegistryKeyword <
 
 ## DESCRIPTION
 The **New-NetAdapterAdvancedProperty** cmdlet creates an advanced property for the network adapter.
-The intention is that network adapter manufacturers can use this cmdlet to manage advanced properties that are not directly supported by Windows Server® 2012 and later.
+The intention is that network adapter manufacturers can use this cmdlet to manage advanced properties that are not directly supported by Windows Server?? 2012 and later.
 This cmdlet is the cmdlet in the network adapter family that creates a registry key.
 All other cmdlets read or modify existing registry entries.
 The use of wildcards in the network adapter identifier, either in the *Name* or *InterfaceDescription* parameters, is not supported.
@@ -84,7 +84,7 @@ Use this parameter to run commands that take a long time to complete.
 You can continue to work in the session while the job completes.
 To manage the job, use the `*-Job` cmdlets.
 To get the job results, use the [Receive-Job](http://go.microsoft.com/fwlink/?LinkID=113372) cmdlet. 
- For more information about Windows PowerShell® background jobs, see [about_Jobs](http://go.microsoft.com/fwlink/?LinkID=113251).
+ For more information about Windows PowerShell?? background jobs, see [about_Jobs](http://go.microsoft.com/fwlink/?LinkID=113251).
 
 ```yaml
 Type: SwitchParameter
@@ -249,7 +249,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -297,11 +297,12 @@ The path after the pound sign (`#`) provides the namespace and class name for th
 
 ## RELATED LINKS
 
-[Get-NetAdapterAdvancedProperty](./Get-NetAdapterAdvancedProperty.md)
+[Get-NetAdapterAdvancedProperty](./get-netadapteradvancedproperty.md)
 
-[Remove-NetAdapterAdvancedProperty](./Remove-NetAdapterAdvancedProperty.md)
+[Remove-NetAdapterAdvancedProperty](./remove-netadapteradvancedproperty.md)
 
-[Reset-NetAdapterAdvancedProperty](./Reset-NetAdapterAdvancedProperty.md)
+[Reset-NetAdapterAdvancedProperty](./reset-netadapteradvancedproperty.md)
 
-[Set-NetAdapterAdvancedProperty](./Set-NetAdapterAdvancedProperty.md)
+[Set-NetAdapterAdvancedProperty](./set-netadapteradvancedproperty.md)
+
 

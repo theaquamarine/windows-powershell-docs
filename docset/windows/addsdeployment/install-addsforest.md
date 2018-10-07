@@ -409,9 +409,10 @@ This helps assure that the IP address of the first domain controller is resolved
 
 [AD DS Simplified Administration](http://go.microsoft.com/fwlink/?LinkID=237244)
 
-[Install-ADDSDomain](./Install-ADDSDomain.md)
+[Install-ADDSDomain](./install-addsdomain.md)
 
-[Test-ADDSForestInstallation](./Test-ADDSForestInstallation.md)
+[Test-ADDSForestInstallation](./test-addsforestinstallation.md)
 
 [ConvertTo-SecureString](http://go.microsoft.com/fwlink/p/?LinkId=113291)
+
 

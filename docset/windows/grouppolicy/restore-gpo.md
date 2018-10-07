@@ -300,17 +300,18 @@ Therefore, when this cmdlet is run from a startup or shutdown script, the defaul
 
 ## RELATED LINKS
 
-[Backup-GPO](./Backup-GPO.md)
+[Backup-GPO](./backup-gpo.md)
 
-[Copy-GPO](./Copy-GPO.md)
+[Copy-GPO](./copy-gpo.md)
 
-[Get-GPO](./Get-GPO.md)
+[Get-GPO](./get-gpo.md)
 
-[Import-GPO](./Import-GPO.md)
+[Import-GPO](./import-gpo.md)
 
-[New-GPO](./New-GPO.md)
+[New-GPO](./new-gpo.md)
 
-[Remove-GPO](./Remove-GPO.md)
+[Remove-GPO](./remove-gpo.md)
 
-[Rename-GPO](./Rename-GPO.md)
+[Rename-GPO](./rename-gpo.md)
+
 

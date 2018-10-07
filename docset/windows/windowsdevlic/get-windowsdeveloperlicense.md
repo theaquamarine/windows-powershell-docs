@@ -60,7 +60,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 [Enable your device for development](https://msdn.microsoft.com/en-us/library/windows/apps/xaml/dn706236.aspx)
 
-[Unregister-WindowsDeveloperLicense](./Unregister-WindowsDeveloperLicense.md)
+[Unregister-WindowsDeveloperLicense](./unregister-windowsdeveloperlicense.md)
 
-[Show-WindowsDeveloperLicenseRegistration](./Show-WindowsDeveloperLicenseRegistration.md)
+[Show-WindowsDeveloperLicenseRegistration](./show-windowsdeveloperlicenseregistration.md)
+
 

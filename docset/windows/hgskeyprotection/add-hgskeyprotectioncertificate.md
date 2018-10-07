@@ -213,9 +213,10 @@ This cmdlet does not generate any output.
 
 ## RELATED LINKS
 
-[Get-HgsKeyProtectionCertificate](./Get-HgsKeyProtectionCertificate.md)
+[Get-HgsKeyProtectionCertificate](./get-hgskeyprotectioncertificate.md)
 
-[Remove-HgsKeyProtectionCertificate](./Remove-HgsKeyProtectionCertificate.md)
+[Remove-HgsKeyProtectionCertificate](./remove-hgskeyprotectioncertificate.md)
 
-[Set-HgsKeyProtectionCertificate](./Set-HgsKeyProtectionCertificate.md)
+[Set-HgsKeyProtectionCertificate](./set-hgskeyprotectioncertificate.md)
+
 

@@ -24,43 +24,44 @@ ms.assetid: 0ABD4E3E-8A9B-4AF3-9197-675EB828DD25
 This reference provides cmdlet descriptions and syntax for all Network Address Translation cmdlets. It lists the cmdlets in alphabetical order based on the verb at the beginning of the cmdlet.
 
 ## NetNat Cmdlets
-### [Add-NetNatExternalAddress](./Add-NetNatExternalAddress.md)
+### [Add-NetNatExternalAddress](./add-netnatexternaladdress.md)
 Adds an external address to a NAT instance.
 
-### [Add-NetNatStaticMapping](./Add-NetNatStaticMapping.md)
+### [Add-NetNatStaticMapping](./add-netnatstaticmapping.md)
 Adds a static mapping to a NAT instance.
 
-### [Get-NetNat](./Get-NetNat.md)
+### [Get-NetNat](./get-netnat.md)
 Gets NAT objects.
 
-### [Get-NetNatExternalAddress](./Get-NetNatExternalAddress.md)
+### [Get-NetNatExternalAddress](./get-netnatexternaladdress.md)
 Gets external addresses configured for NAT instances.
 
-### [Get-NetNatGlobal](./Get-NetNatGlobal.md)
+### [Get-NetNatGlobal](./get-netnatglobal.md)
 Retrieves global settings for all NAT instances on a computer.
 
-### [Get-NetNatSession](./Get-NetNatSession.md)
+### [Get-NetNatSession](./get-netnatsession.md)
 Gets all active NAT sessions.
 
-### [Get-NetNatStaticMapping](./Get-NetNatStaticMapping.md)
+### [Get-NetNatStaticMapping](./get-netnatstaticmapping.md)
 Gets static mappings configured on NAT instances.
 
-### [New-NetNat](./New-NetNat.md)
+### [New-NetNat](./new-netnat.md)
 Creates a NAT object.
 
-### [Remove-NetNat](./Remove-NetNat.md)
+### [Remove-NetNat](./remove-netnat.md)
 Removes NAT objects.
 
-### [Remove-NetNatExternalAddress](./Remove-NetNatExternalAddress.md)
+### [Remove-NetNatExternalAddress](./remove-netnatexternaladdress.md)
 Removes an external address from a NAT instance.
 
-### [Remove-NetNatStaticMapping](./Remove-NetNatStaticMapping.md)
+### [Remove-NetNatStaticMapping](./remove-netnatstaticmapping.md)
 Removes static mappings from a NAT instance.
 
-### [Set-NetNat](./Set-NetNat.md)
+### [Set-NetNat](./set-netnat.md)
 Modifies settings for NAT objects.
 
-### [Set-NetNatGlobal](./Set-NetNatGlobal.md)
+### [Set-NetNatGlobal](./set-netnatglobal.md)
 Modifies global settings for NAT instances on a computer.
+
 
 

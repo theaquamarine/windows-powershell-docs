@@ -253,5 +253,6 @@ This cmdlet does not generate any output.
 
 ## RELATED LINKS
 
-[Get-NetworkSwitchEthernetPort](./Get-NetworkSwitchEthernetPort.md)
+[Get-NetworkSwitchEthernetPort](./get-networkswitchethernetport.md)
+
 

@@ -282,7 +282,8 @@ Therefore, when this cmdlet is run from a startup or shutdown script, the defaul
 
 ## RELATED LINKS
 
-[Get-GPRegistryValue](./Get-GPRegistryValue.md)
+[Get-GPRegistryValue](./get-gpregistryvalue.md)
 
-[Set-GPRegistryValue](./Set-GPRegistryValue.md)
+[Set-GPRegistryValue](./set-gpregistryvalue.md)
+
 

@@ -30,7 +30,7 @@ Get-WBVssBackupOption [-Policy] <WBPolicy> [<CommonParameters>]
 
 ## DESCRIPTION
 The **Get-WBVSSBackupOption** cmdlet gets a setting that determines whether the backups created through the **WBPolicy** object are Volume Shadow Copy Service (VSS) copy backups or VSS full backups.
-For more information about VSS copy backups and VSS full backups, or to change this setting, refer to the [Set-WBVssBackupOption](./Set-WBVssBackupOption.md) cmdlet.
+For more information about VSS copy backups and VSS full backups, or to change this setting, refer to the [Set-WBVssBackupOption](./set-wbvssbackupoption.md) cmdlet.
 
 To use this cmdlet, you must be a member of the Administrators group or Backup Operators group.
 
@@ -44,7 +44,7 @@ PS C:\> Get-WBVssBackupOption -Policy $Policy
 
 This example gets the VSS setting, either VssCopyBackup or VssFullBackup.
 
-The first command stores the result of the [Get-WBPolicy](./Get-WBPolicy.md) cmdlet in the variable named $Policy.
+The first command stores the result of the [Get-WBPolicy](./get-wbpolicy.md) cmdlet in the variable named $Policy.
 
 The second command gets the VSS setting from the variable $Policy.
 
@@ -82,9 +82,10 @@ This cmdlet returns either a **VssCopyBackup** or **VssFullBackup** object, depe
 
 ## RELATED LINKS
 
-[Get-WBPolicy](./Get-WBPolicy.md)
+[Get-WBPolicy](./get-wbpolicy.md)
 
-[New-WBPolicy](./New-WBPolicy.md)
+[New-WBPolicy](./new-wbpolicy.md)
 
-[Set-WBVssBackupOption](./Set-WBVssBackupOption.md)
+[Set-WBVssBackupOption](./set-wbvssbackupoption.md)
+
 

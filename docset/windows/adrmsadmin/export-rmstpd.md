@@ -189,9 +189,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 [Using Windows PowerShell with AD RMS](http://go.microsoft.com/fwlink/?LinkId=136806)
 
-[Export-RmsTUD](./Export-RmsTUD.md)
+[Export-RmsTUD](./export-rmstud.md)
 
-[Import-RmsTPD](./Import-RmsTPD.md)
+[Import-RmsTPD](./import-rmstpd.md)
 
-[Import-RmsTUD](./Import-RmsTUD.md)
+[Import-RmsTUD](./import-rmstud.md)
+
 

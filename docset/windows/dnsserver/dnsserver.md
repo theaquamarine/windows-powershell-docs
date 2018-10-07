@@ -24,398 +24,399 @@ ms.assetid: 17943C3D-8F94-4892-A3A3-B1862A685756
 This reference provides cmdlet descriptions and syntax for all DNS Server cmdlets. It lists the cmdlets in alphabetical order based on the verb at the beginning of the cmdlet.
 
 ## DnsServer Cmdlets
-### [Add-DnsServerClientSubnet](./Add-DnsServerClientSubnet.md)
+### [Add-DnsServerClientSubnet](./add-dnsserverclientsubnet.md)
 Adds a client subnet to a DNS server.
 
-### [Add-DnsServerConditionalForwarderZone](./Add-DnsServerConditionalForwarderZone.md)
+### [Add-DnsServerConditionalForwarderZone](./add-dnsserverconditionalforwarderzone.md)
 Adds a conditional forwarder to a DNS server.
 
-### [Add-DnsServerDirectoryPartition](./Add-DnsServerDirectoryPartition.md)
+### [Add-DnsServerDirectoryPartition](./add-dnsserverdirectorypartition.md)
 Creates a DNS application directory partition.
 
-### [Add-DnsServerForwarder](./Add-DnsServerForwarder.md)
+### [Add-DnsServerForwarder](./add-dnsserverforwarder.md)
 Adds server level forwarders to a DNS server.
 
-### [Add-DnsServerPrimaryZone](./Add-DnsServerPrimaryZone.md)
+### [Add-DnsServerPrimaryZone](./add-dnsserverprimaryzone.md)
 Adds a primary zone to a DNS server.
 
-### [Add-DnsServerQueryResolutionPolicy](./Add-DnsServerQueryResolutionPolicy.md)
+### [Add-DnsServerQueryResolutionPolicy](./add-dnsserverqueryresolutionpolicy.md)
 Adds a policy for query resolution to a DNS server.
 
-### [Add-DnsServerRecursionScope](./Add-DnsServerRecursionScope.md)
+### [Add-DnsServerRecursionScope](./add-dnsserverrecursionscope.md)
 Adds a recursion scope on a DNS server.
 
-### [Add-DnsServerResourceRecord](./Add-DnsServerResourceRecord.md)
+### [Add-DnsServerResourceRecord](./add-dnsserverresourcerecord.md)
 Adds a resource record of a specified type to a specified DNS zone.
 
-### [Add-DnsServerResourceRecordA](./Add-DnsServerResourceRecordA.md)
+### [Add-DnsServerResourceRecordA](./add-dnsserverresourcerecorda.md)
 Adds a type A resource record to a DNS zone.
 
-### [Add-DnsServerResourceRecordAAAA](./Add-DnsServerResourceRecordAAAA.md)
+### [Add-DnsServerResourceRecordAAAA](./add-dnsserverresourcerecordaaaa.md)
 Adds a type AAAA resource record to a DNS server.
 
-### [Add-DnsServerResourceRecordCName](./Add-DnsServerResourceRecordCName.md)
+### [Add-DnsServerResourceRecordCName](./add-dnsserverresourcerecordcname.md)
 Adds a type CNAME resource record to a DNS  zone.
 
-### [Add-DnsServerResourceRecordDnsKey](./Add-DnsServerResourceRecordDnsKey.md)
+### [Add-DnsServerResourceRecordDnsKey](./add-dnsserverresourcerecorddnskey.md)
 Adds a type DNSKEY resource record to a DNS zone.
 
-### [Add-DnsServerResourceRecordDS](./Add-DnsServerResourceRecordDS.md)
+### [Add-DnsServerResourceRecordDS](./add-dnsserverresourcerecordds.md)
 Adds a type DS resource record to a DNS zone.
 
-### [Add-DnsServerResourceRecordMX](./Add-DnsServerResourceRecordMX.md)
+### [Add-DnsServerResourceRecordMX](./add-dnsserverresourcerecordmx.md)
 Adds an MX resource record to a DNS server.
 
-### [Add-DnsServerResourceRecordPtr](./Add-DnsServerResourceRecordPtr.md)
+### [Add-DnsServerResourceRecordPtr](./add-dnsserverresourcerecordptr.md)
 Adds a type PTR resource record to a DNS server.
 
-### [Add-DnsServerResponseRateLimitingExceptionlist](./Add-DnsServerResponseRateLimitingExceptionlist.md)
+### [Add-DnsServerResponseRateLimitingExceptionlist](./add-dnsserverresponseratelimitingexceptionlist.md)
 Adds an RRL exception list on the DNS server.
 
-### [Add-DnsServerRootHint](./Add-DnsServerRootHint.md)
+### [Add-DnsServerRootHint](./add-dnsserverroothint.md)
 Adds root hints on a DNS server.
 
-### [Add-DnsServerSecondaryZone](./Add-DnsServerSecondaryZone.md)
+### [Add-DnsServerSecondaryZone](./add-dnsserversecondaryzone.md)
 Adds a DNS server secondary zone.
 
-### [Add-DnsServerSigningKey](./Add-DnsServerSigningKey.md)
+### [Add-DnsServerSigningKey](./add-dnsserversigningkey.md)
 Adds a KSK or ZSK to a signed zone.
 
-### [Add-DnsServerStubZone](./Add-DnsServerStubZone.md)
+### [Add-DnsServerStubZone](./add-dnsserverstubzone.md)
 Adds a DNS stub zone.
 
-### [Add-DnsServerTrustAnchor](./Add-DnsServerTrustAnchor.md)
+### [Add-DnsServerTrustAnchor](./add-dnsservertrustanchor.md)
 Adds a trust anchor to a DNS server.
 
-### [Add-DnsServerVirtualizationInstance](./Add-DnsServerVirtualizationInstance.md)
+### [Add-DnsServerVirtualizationInstance](./add-dnsservervirtualizationinstance.md)
 Adds a virtualization instance.
 
-### [Add-DnsServerZoneDelegation](./Add-DnsServerZoneDelegation.md)
+### [Add-DnsServerZoneDelegation](./add-dnsserverzonedelegation.md)
 Adds a new delegated DNS zone to an existing zone.
 
-### [Add-DnsServerZoneScope](./Add-DnsServerZoneScope.md)
+### [Add-DnsServerZoneScope](./add-dnsserverzonescope.md)
 Adds a zone scope to an existing zone.
 
-### [Add-DnsServerZoneTransferPolicy](./Add-DnsServerZoneTransferPolicy.md)
+### [Add-DnsServerZoneTransferPolicy](./add-dnsserverzonetransferpolicy.md)
 Adds a zone transfer policy to a DNS server.
 
-### [Clear-DnsServerCache](./Clear-DnsServerCache.md)
+### [Clear-DnsServerCache](./clear-dnsservercache.md)
 Clears resource records from a cache on the DNS server.
 
-### [Clear-DnsServerStatistics](./Clear-DnsServerStatistics.md)
+### [Clear-DnsServerStatistics](./clear-dnsserverstatistics.md)
 Clears all DNS server statistics or statistics for zones.
 
-### [ConvertTo-DnsServerPrimaryZone](./ConvertTo-DnsServerPrimaryZone.md)
+### [ConvertTo-DnsServerPrimaryZone](./convertto-dnsserverprimaryzone.md)
 Converts a zone to a DNS primary zone.
 
-### [ConvertTo-DnsServerSecondaryZone](./ConvertTo-DnsServerSecondaryZone.md)
+### [ConvertTo-DnsServerSecondaryZone](./convertto-dnsserversecondaryzone.md)
 Converts a primary zone or stub zone to a secondary zone.
 
-### [Disable-DnsServerPolicy](./Disable-DnsServerPolicy.md)
+### [Disable-DnsServerPolicy](./disable-dnsserverpolicy.md)
 Disables DNS server policies.
 
-### [Disable-DnsServerSigningKeyRollover](./Disable-DnsServerSigningKeyRollover.md)
+### [Disable-DnsServerSigningKeyRollover](./disable-dnsserversigningkeyrollover.md)
 Disables key rollover on an input key.
 
-### [Enable-DnsServerPolicy](./Enable-DnsServerPolicy.md)
+### [Enable-DnsServerPolicy](./enable-dnsserverpolicy.md)
 Enables DNS server policies.
 
-### [Enable-DnsServerSigningKeyRollover](./Enable-DnsServerSigningKeyRollover.md)
+### [Enable-DnsServerSigningKeyRollover](./enable-dnsserversigningkeyrollover.md)
 Enables rollover on the input key.
 
-### [Export-DnsServerDnsSecPublicKey](./Export-DnsServerDnsSecPublicKey.md)
+### [Export-DnsServerDnsSecPublicKey](./export-dnsserverdnssecpublickey.md)
 Exports DS and DNSKEY information for a DNSSEC-signed zone.
 
-### [Export-DnsServerZone](./Export-DnsServerZone.md)
+### [Export-DnsServerZone](./export-dnsserverzone.md)
 Exports contents of a zone to a file.
 
-### [Get-DnsServer](./Get-DnsServer.md)
+### [Get-DnsServer](./get-dnsserver.md)
 Retrieves a DNS server configuration.
 
-### [Get-DnsServerCache](./Get-DnsServerCache.md)
+### [Get-DnsServerCache](./get-dnsservercache.md)
 Retrieves DNS server cache settings.
 
-### [Get-DnsServerClientSubnet](./Get-DnsServerClientSubnet.md)
+### [Get-DnsServerClientSubnet](./get-dnsserverclientsubnet.md)
 Gets client subnets for a DNS server.
 
-### [Get-DnsServerDiagnostics](./Get-DnsServerDiagnostics.md)
+### [Get-DnsServerDiagnostics](./get-dnsserverdiagnostics.md)
 Retrieves DNS event logging details.
 
-### [Get-DnsServerDirectoryPartition](./Get-DnsServerDirectoryPartition.md)
+### [Get-DnsServerDirectoryPartition](./get-dnsserverdirectorypartition.md)
 Gets a DNS application directory partition.
 
-### [Get-DnsServerDnsSecZoneSetting](./Get-DnsServerDnsSecZoneSetting.md)
+### [Get-DnsServerDnsSecZoneSetting](./get-dnsserverdnsseczonesetting.md)
 Gets DNSSEC settings for a zone.
 
-### [Get-DnsServerDsSetting](./Get-DnsServerDsSetting.md)
+### [Get-DnsServerDsSetting](./get-dnsserverdssetting.md)
 Retrieves DNS Server Active Directory settings
 
-### [Get-DnsServerEDns](./Get-DnsServerEDns.md)
+### [Get-DnsServerEDns](./get-dnsserveredns.md)
 Gets EDNS configuration settings on a DNS sever.
 
-### [Get-DnsServerForwarder](./Get-DnsServerForwarder.md)
+### [Get-DnsServerForwarder](./get-dnsserverforwarder.md)
 Gets forwarder configuration settings on a DNS server.
 
-### [Get-DnsServerGlobalNameZone](./Get-DnsServerGlobalNameZone.md)
+### [Get-DnsServerGlobalNameZone](./get-dnsserverglobalnamezone.md)
 Retrieves DNS server GlobalName zone configuration details.
 
-### [Get-DnsServerGlobalQueryBlockList](./Get-DnsServerGlobalQueryBlockList.md)
+### [Get-DnsServerGlobalQueryBlockList](./get-dnsserverglobalqueryblocklist.md)
 Gets a global query block list.
 
-### [Get-DnsServerQueryResolutionPolicy](./Get-DnsServerQueryResolutionPolicy.md)
+### [Get-DnsServerQueryResolutionPolicy](./get-dnsserverqueryresolutionpolicy.md)
 Gets policies for query resolution from a DNS server.
 
-### [Get-DnsServerRecursion](./Get-DnsServerRecursion.md)
+### [Get-DnsServerRecursion](./get-dnsserverrecursion.md)
 Retrieves DNS server recursion settings.
 
-### [Get-DnsServerRecursionScope](./Get-DnsServerRecursionScope.md)
+### [Get-DnsServerRecursionScope](./get-dnsserverrecursionscope.md)
 Gets the DNS server recursion scopes.
 
-### [Get-DnsServerResourceRecord](./Get-DnsServerResourceRecord.md)
+### [Get-DnsServerResourceRecord](./get-dnsserverresourcerecord.md)
 Gets resource records from a specified DNS zone.
 
-### [Get-DnsServerResponseRateLimiting](./Get-DnsServerResponseRateLimiting.md)
+### [Get-DnsServerResponseRateLimiting](./get-dnsserverresponseratelimiting.md)
 Displays the RRL settings on a DNS server.
 
-### [Get-DnsServerResponseRateLimitingExceptionlist](./Get-DnsServerResponseRateLimitingExceptionlist.md)
+### [Get-DnsServerResponseRateLimitingExceptionlist](./get-dnsserverresponseratelimitingexceptionlist.md)
 Enumerates the RRL exception lists on a DNS Server.
 
-### [Get-DnsServerRootHint](./Get-DnsServerRootHint.md)
+### [Get-DnsServerRootHint](./get-dnsserverroothint.md)
 Gets root hints on a DNS server.
 
-### [Get-DnsServerScavenging](./Get-DnsServerScavenging.md)
+### [Get-DnsServerScavenging](./get-dnsserverscavenging.md)
 Gets DNS aging and scavenging settings.
 
-### [Get-DnsServerSetting](./Get-DnsServerSetting.md)
+### [Get-DnsServerSetting](./get-dnsserversetting.md)
 Retrieves DNS server settings.
 
-### [Get-DnsServerSigningKey](./Get-DnsServerSigningKey.md)
+### [Get-DnsServerSigningKey](./get-dnsserversigningkey.md)
 Gets zone signing keys.
 
-### [Get-DnsServerStatistics](./Get-DnsServerStatistics.md)
+### [Get-DnsServerStatistics](./get-dnsserverstatistics.md)
 Retrieves DNS server statistics or statistics for zones.
 
-### [Get-DnsServerTrustAnchor](./Get-DnsServerTrustAnchor.md)
+### [Get-DnsServerTrustAnchor](./get-dnsservertrustanchor.md)
 Gets trust anchors on a DNS server.
 
-### [Get-DnsServerTrustPoint](./Get-DnsServerTrustPoint.md)
+### [Get-DnsServerTrustPoint](./get-dnsservertrustpoint.md)
 Gets trust points on a DNS server.
 
-### [Get-DnsServerVirtualizationInstance](./Get-DnsServerVirtualizationInstance.md)
+### [Get-DnsServerVirtualizationInstance](./get-dnsservervirtualizationinstance.md)
 Gets the virtualization instances on the DNS server.
 
-### [Get-DnsServerZone](./Get-DnsServerZone.md)
+### [Get-DnsServerZone](./get-dnsserverzone.md)
 Gets details of DNS zones on a DNS server.
 
-### [Get-DnsServerZoneAging](./Get-DnsServerZoneAging.md)
+### [Get-DnsServerZoneAging](./get-dnsserverzoneaging.md)
 Gets DNS aging settings for a zone.
 
-### [Get-DnsServerZoneDelegation](./Get-DnsServerZoneDelegation.md)
+### [Get-DnsServerZoneDelegation](./get-dnsserverzonedelegation.md)
 Gets the zone delegations of a DNS server zone.
 
-### [Get-DnsServerZoneScope](./Get-DnsServerZoneScope.md)
+### [Get-DnsServerZoneScope](./get-dnsserverzonescope.md)
 Gets the scopes of a zone on a DNS server.
 
-### [Get-DnsServerZoneTransferPolicy](./Get-DnsServerZoneTransferPolicy.md)
+### [Get-DnsServerZoneTransferPolicy](./get-dnsserverzonetransferpolicy.md)
 Gets the zone transfer policies on a DNS server.
 
-### [Import-DnsServerResourceRecordDS](./Import-DnsServerResourceRecordDS.md)
+### [Import-DnsServerResourceRecordDS](./import-dnsserverresourcerecordds.md)
 Imports DS resource record information from a file.
 
-### [Import-DnsServerRootHint](./Import-DnsServerRootHint.md)
+### [Import-DnsServerRootHint](./import-dnsserverroothint.md)
 Copies root hints from a DNS server.
 
-### [Import-DnsServerTrustAnchor](./Import-DnsServerTrustAnchor.md)
+### [Import-DnsServerTrustAnchor](./import-dnsservertrustanchor.md)
 Imports a trust anchor for a DNS server.
 
-### [Invoke-DnsServerSigningKeyRollover](./Invoke-DnsServerSigningKeyRollover.md)
+### [Invoke-DnsServerSigningKeyRollover](./invoke-dnsserversigningkeyrollover.md)
 Initiates rollover of signing keys for the zone.
 
-### [Invoke-DnsServerZoneSign](./Invoke-DnsServerZoneSign.md)
+### [Invoke-DnsServerZoneSign](./invoke-dnsserverzonesign.md)
 Signs a DNS server zone.
 
-### [Invoke-DnsServerZoneUnsign](./Invoke-DnsServerZoneUnsign.md)
+### [Invoke-DnsServerZoneUnsign](./invoke-dnsserverzoneunsign.md)
 Unsigns a DNS server zone.
 
-### [Register-DnsServerDirectoryPartition](./Register-DnsServerDirectoryPartition.md)
+### [Register-DnsServerDirectoryPartition](./register-dnsserverdirectorypartition.md)
 Registers a DNS server in a DNS application directory partition.
 
-### [Remove-DnsServerClientSubnet](./Remove-DnsServerClientSubnet.md)
+### [Remove-DnsServerClientSubnet](./remove-dnsserverclientsubnet.md)
 Removes a client subnet from a DNS server.
 
-### [Remove-DnsServerDirectoryPartition](./Remove-DnsServerDirectoryPartition.md)
+### [Remove-DnsServerDirectoryPartition](./remove-dnsserverdirectorypartition.md)
 Removes a DNS application directory partition.
 
-### [Remove-DnsServerForwarder](./Remove-DnsServerForwarder.md)
+### [Remove-DnsServerForwarder](./remove-dnsserverforwarder.md)
 Removes server level forwarders from a DNS server.
 
-### [Remove-DnsServerQueryResolutionPolicy](./Remove-DnsServerQueryResolutionPolicy.md)
+### [Remove-DnsServerQueryResolutionPolicy](./remove-dnsserverqueryresolutionpolicy.md)
 Removes a policy for query resolution from a DNS server.
 
-### [Remove-DnsServerRecursionScope](./Remove-DnsServerRecursionScope.md)
+### [Remove-DnsServerRecursionScope](./remove-dnsserverrecursionscope.md)
 Removes a recursion scope from a DNS server.
 
-### [Remove-DnsServerResourceRecord](./Remove-DnsServerResourceRecord.md)
+### [Remove-DnsServerResourceRecord](./remove-dnsserverresourcerecord.md)
 Removes specified DNS server resource records from a zone.
 
-### [Remove-DnsServerResponseRateLimitingExceptionlist](./Remove-DnsServerResponseRateLimitingExceptionlist.md)
+### [Remove-DnsServerResponseRateLimitingExceptionlist](./remove-dnsserverresponseratelimitingexceptionlist.md)
 Removes an RRL exception list from a DNS server.
 
-### [Remove-DnsServerRootHint](./Remove-DnsServerRootHint.md)
+### [Remove-DnsServerRootHint](./remove-dnsserverroothint.md)
 Removes root hints from a DNS server.
 
-### [Remove-DnsServerSigningKey](./Remove-DnsServerSigningKey.md)
+### [Remove-DnsServerSigningKey](./remove-dnsserversigningkey.md)
 Removes signing keys.
 
-### [Remove-DnsServerTrustAnchor](./Remove-DnsServerTrustAnchor.md)
+### [Remove-DnsServerTrustAnchor](./remove-dnsservertrustanchor.md)
 Removes a trust anchor from a DNS server.
 
-### [Remove-DnsServerVirtualizationInstance](./Remove-DnsServerVirtualizationInstance.md)
+### [Remove-DnsServerVirtualizationInstance](./remove-dnsservervirtualizationinstance.md)
 Removes a virtualization instance.
 
-### [Remove-DnsServerZone](./Remove-DnsServerZone.md)
+### [Remove-DnsServerZone](./remove-dnsserverzone.md)
 Removes a zone from a DNS server.
 
-### [Remove-DnsServerZoneDelegation](./Remove-DnsServerZoneDelegation.md)
+### [Remove-DnsServerZoneDelegation](./remove-dnsserverzonedelegation.md)
 Removes a name server or delegation from a DNS zone.
 
-### [Remove-DnsServerZoneScope](./Remove-DnsServerZoneScope.md)
+### [Remove-DnsServerZoneScope](./remove-dnsserverzonescope.md)
 Removes a zone scope from an existing zone.
 
-### [Remove-DnsServerZoneTransferPolicy](./Remove-DnsServerZoneTransferPolicy.md)
+### [Remove-DnsServerZoneTransferPolicy](./remove-dnsserverzonetransferpolicy.md)
 Removes a zone transfer policy from a DNS server.
 
-### [Reset-DnsServerZoneKeyMasterRole](./Reset-DnsServerZoneKeyMasterRole.md)
+### [Reset-DnsServerZoneKeyMasterRole](./reset-dnsserverzonekeymasterrole.md)
 Transfers the role of Key Master for a DNS zone.
 
-### [Restore-DnsServerPrimaryZone](./Restore-DnsServerPrimaryZone.md)
+### [Restore-DnsServerPrimaryZone](./restore-dnsserverprimaryzone.md)
 Restores primary DNS zone contents from Active Directory or from a file.
 
-### [Restore-DnsServerSecondaryZone](./Restore-DnsServerSecondaryZone.md)
+### [Restore-DnsServerSecondaryZone](./restore-dnsserversecondaryzone.md)
 Restores secondary zone information from its source.
 
-### [Resume-DnsServerZone](./Resume-DnsServerZone.md)
+### [Resume-DnsServerZone](./resume-dnsserverzone.md)
 Resumes name resolution on a suspended zone.
 
-### [Set-DnsServer](./Set-DnsServer.md)
+### [Set-DnsServer](./set-dnsserver.md)
 Overwrites a DNS server configuration.
 
-### [Set-DnsServerCache](./Set-DnsServerCache.md)
+### [Set-DnsServerCache](./set-dnsservercache.md)
 Modifies cache settings for a DNS server.
 
-### [Set-DnsServerClientSubnet](./Set-DnsServerClientSubnet.md)
+### [Set-DnsServerClientSubnet](./set-dnsserverclientsubnet.md)
 Updates the IP addresses in a client subnet.
 
-### [Set-DnsServerConditionalForwarderZone](./Set-DnsServerConditionalForwarderZone.md)
+### [Set-DnsServerConditionalForwarderZone](./set-dnsserverconditionalforwarderzone.md)
 Changes settings for a DNS conditional forwarder.
 
-### [Set-DnsServerDiagnostics](./Set-DnsServerDiagnostics.md)
+### [Set-DnsServerDiagnostics](./set-dnsserverdiagnostics.md)
 Sets debugging and logging parameters.
 
-### [Set-DnsServerDnsSecZoneSetting](./Set-DnsServerDnsSecZoneSetting.md)
+### [Set-DnsServerDnsSecZoneSetting](./set-dnsserverdnsseczonesetting.md)
 Changes settings for DNSSEC for a zone.
 
-### [Set-DnsServerDsSetting](./Set-DnsServerDsSetting.md)
+### [Set-DnsServerDsSetting](./set-dnsserverdssetting.md)
 Modifies DNS Active Directory settings.
 
-### [Set-DnsServerEDns](./Set-DnsServerEDns.md)
+### [Set-DnsServerEDns](./set-dnsserveredns.md)
 Changes EDNS settings on a DNS server.
 
-### [Set-DnsServerForwarder](./Set-DnsServerForwarder.md)
+### [Set-DnsServerForwarder](./set-dnsserverforwarder.md)
 Changes forwarder settings on a DNS server.
 
-### [Set-DnsServerGlobalNameZone](./Set-DnsServerGlobalNameZone.md)
+### [Set-DnsServerGlobalNameZone](./set-dnsserverglobalnamezone.md)
 Changes configuration settings for a GlobalNames zone.
 
-### [Set-DnsServerGlobalQueryBlockList](./Set-DnsServerGlobalQueryBlockList.md)
+### [Set-DnsServerGlobalQueryBlockList](./set-dnsserverglobalqueryblocklist.md)
 Changes settings of a global query block list.
 
-### [Set-DnsServerPrimaryZone](./Set-DnsServerPrimaryZone.md)
+### [Set-DnsServerPrimaryZone](./set-dnsserverprimaryzone.md)
 Changes settings for a DNS primary zone.
 
-### [Set-DnsServerQueryResolutionPolicy](./Set-DnsServerQueryResolutionPolicy.md)
+### [Set-DnsServerQueryResolutionPolicy](./set-dnsserverqueryresolutionpolicy.md)
 Updates settings of a query resolution policy on a DNS server.
 
-### [Set-DnsServerRecursion](./Set-DnsServerRecursion.md)
+### [Set-DnsServerRecursion](./set-dnsserverrecursion.md)
 Modifies recursion settings for a DNS server.
 
-### [Set-DnsServerRecursionScope](./Set-DnsServerRecursionScope.md)
+### [Set-DnsServerRecursionScope](./set-dnsserverrecursionscope.md)
 Modifies a recursion scope on a DNS server.
 
-### [Set-DnsServerResourceRecord](./Set-DnsServerResourceRecord.md)
+### [Set-DnsServerResourceRecord](./set-dnsserverresourcerecord.md)
 Changes a resource record in a DNS zone.
 
-### [Set-DnsServerResourceRecordAging](./Set-DnsServerResourceRecordAging.md)
+### [Set-DnsServerResourceRecordAging](./set-dnsserverresourcerecordaging.md)
 Begins aging of resource records in a specified DNS zone.
 
-### [Set-DnsServerResponseRateLimiting](./Set-DnsServerResponseRateLimiting.md)
+### [Set-DnsServerResponseRateLimiting](./set-dnsserverresponseratelimiting.md)
 Enables RRL on a DNS server.
 
-### [Set-DnsServerResponseRateLimitingExceptionlist](./Set-DnsServerResponseRateLimitingExceptionlist.md)
+### [Set-DnsServerResponseRateLimitingExceptionlist](./set-dnsserverresponseratelimitingexceptionlist.md)
 Updates the settings of an RRL exception list.
 
-### [Set-DnsServerRootHint](./Set-DnsServerRootHint.md)
+### [Set-DnsServerRootHint](./set-dnsserverroothint.md)
 Replaces a list of root hints.
 
-### [Set-DnsServerScavenging](./Set-DnsServerScavenging.md)
+### [Set-DnsServerScavenging](./set-dnsserverscavenging.md)
 Changes DNS server scavenging settings.
 
-### [Set-DnsServerSecondaryZone](./Set-DnsServerSecondaryZone.md)
+### [Set-DnsServerSecondaryZone](./set-dnsserversecondaryzone.md)
 Changes settings for a DNS secondary zone.
 
-### [Set-DnsServerSetting](./Set-DnsServerSetting.md)
+### [Set-DnsServerSetting](./set-dnsserversetting.md)
 Modifies DNS server settings.
 
-### [Set-DnsServerSigningKey](./Set-DnsServerSigningKey.md)
+### [Set-DnsServerSigningKey](./set-dnsserversigningkey.md)
 Changes settings of a signing key.
 
-### [Set-DnsServerStubZone](./Set-DnsServerStubZone.md)
+### [Set-DnsServerStubZone](./set-dnsserverstubzone.md)
 Changes settings for a DNS server stub zone.
 
-### [Set-DnsServerVirtualizationInstance](./Set-DnsServerVirtualizationInstance.md)
+### [Set-DnsServerVirtualizationInstance](./set-dnsservervirtualizationinstance.md)
 Updates the virtualization instance on the DNS server.
 
-### [Set-DnsServerZoneAging](./Set-DnsServerZoneAging.md)
+### [Set-DnsServerZoneAging](./set-dnsserverzoneaging.md)
 Configures DNS aging settings for a zone.
 
-### [Set-DnsServerZoneDelegation](./Set-DnsServerZoneDelegation.md)
+### [Set-DnsServerZoneDelegation](./set-dnsserverzonedelegation.md)
 Changes delegation settings for a child zone.
 
-### [Set-DnsServerZoneTransferPolicy](./Set-DnsServerZoneTransferPolicy.md)
+### [Set-DnsServerZoneTransferPolicy](./set-dnsserverzonetransferpolicy.md)
 Updates a zone transfer policy on a DNS server.
 
-### [Show-DnsServerCache](./Show-DnsServerCache.md)
+### [Show-DnsServerCache](./show-dnsservercache.md)
 Shows the records in a DNS Server Cache.
 
-### [Show-DnsServerKeyStorageProvider](./Show-DnsServerKeyStorageProvider.md)
+### [Show-DnsServerKeyStorageProvider](./show-dnsserverkeystorageprovider.md)
 Returns a list of key storage providers.
 
-### [Start-DnsServerScavenging](./Start-DnsServerScavenging.md)
+### [Start-DnsServerScavenging](./start-dnsserverscavenging.md)
 Notifies a DNS server to attempt a search for stale resource records.
 
-### [Start-DnsServerZoneTransfer](./Start-DnsServerZoneTransfer.md)
+### [Start-DnsServerZoneTransfer](./start-dnsserverzonetransfer.md)
 Starts a zone transfer for a secondary DNS zone from master servers.
 
-### [Step-DnsServerSigningKeyRollover](./Step-DnsServerSigningKeyRollover.md)
+### [Step-DnsServerSigningKeyRollover](./step-dnsserversigningkeyrollover.md)
 Rolls over a KSK that is waiting for a parent DS update.
 
-### [Suspend-DnsServerZone](./Suspend-DnsServerZone.md)
+### [Suspend-DnsServerZone](./suspend-dnsserverzone.md)
 Suspends a zone on a DNS server.
 
-### [Sync-DnsServerZone](./Sync-DnsServerZone.md)
+### [Sync-DnsServerZone](./sync-dnsserverzone.md)
 Checks the DNS server memory for changes, and writes them to persistent storage.
 
-### [Test-DnsServer](./Test-DnsServer.md)
+### [Test-DnsServer](./test-dnsserver.md)
 Tests that a specified computer is a functioning DNS server.
 
-### [Test-DnsServerDnsSecZoneSetting](./Test-DnsServerDnsSecZoneSetting.md)
+### [Test-DnsServerDnsSecZoneSetting](./test-dnsserverdnsseczonesetting.md)
 Validates DNSSEC settings for a zone.
 
-### [Unregister-DnsServerDirectoryPartition](./Unregister-DnsServerDirectoryPartition.md)
+### [Unregister-DnsServerDirectoryPartition](./unregister-dnsserverdirectorypartition.md)
 Deregisters a DNS server from a DNS application directory partition.
 
-### [Update-DnsServerTrustPoint](./Update-DnsServerTrustPoint.md)
+### [Update-DnsServerTrustPoint](./update-dnsservertrustpoint.md)
 Updates all trust points in a DNS trust anchor zone.
+
 
 
 

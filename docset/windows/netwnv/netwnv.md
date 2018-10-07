@@ -24,60 +24,61 @@ ms.assetid: BA0E9FC6-6949-4BF6-A231-B45FC76F66B9
 This reference provides cmdlet descriptions and syntax for all Network Virtualization cmdlets. It lists the cmdlets in alphabetical order based on the verb at the beginning of the cmdlet.
 
 ## NetWNV Cmdlets
-### [Get-NetVirtualizationCustomerRoute](./Get-NetVirtualizationCustomerRoute.md)
+### [Get-NetVirtualizationCustomerRoute](./get-netvirtualizationcustomerroute.md)
 Gets virtual network routes.
 
-### [Get-NetVirtualizationGlobal](./Get-NetVirtualizationGlobal.md)
+### [Get-NetVirtualizationGlobal](./get-netvirtualizationglobal.md)
 Gets per-host global information for a Network Virtualization module.
 
-### [Get-NetVirtualizationLookupRecord](./Get-NetVirtualizationLookupRecord.md)
+### [Get-NetVirtualizationLookupRecord](./get-netvirtualizationlookuprecord.md)
 Gets policy entries for virtual machines in a virtual network.
 
-### [Get-NetVirtualizationProviderAddress](./Get-NetVirtualizationProviderAddress.md)
+### [Get-NetVirtualizationProviderAddress](./get-netvirtualizationprovideraddress.md)
 Gets Provider Addresses.
 
-### [Get-NetVirtualizationProviderRoute](./Get-NetVirtualizationProviderRoute.md)
+### [Get-NetVirtualizationProviderRoute](./get-netvirtualizationproviderroute.md)
 Gets physical network routes for a virtualized network.
 
-### [New-NetVirtualizationCustomerRoute](./New-NetVirtualizationCustomerRoute.md)
+### [New-NetVirtualizationCustomerRoute](./new-netvirtualizationcustomerroute.md)
 Creates a virtual network route.
 
-### [New-NetVirtualizationLookupRecord](./New-NetVirtualizationLookupRecord.md)
+### [New-NetVirtualizationLookupRecord](./new-netvirtualizationlookuprecord.md)
 Creates a policy entry for an IP address in a virtual network.
 
-### [New-NetVirtualizationProviderAddress](./New-NetVirtualizationProviderAddress.md)
+### [New-NetVirtualizationProviderAddress](./new-netvirtualizationprovideraddress.md)
 Assigns a Provider Address to a network interface.
 
-### [New-NetVirtualizationProviderRoute](./New-NetVirtualizationProviderRoute.md)
+### [New-NetVirtualizationProviderRoute](./new-netvirtualizationproviderroute.md)
 Creates a Provider Route in a virtual network.
 
-### [Remove-NetVirtualizationCustomerRoute](./Remove-NetVirtualizationCustomerRoute.md)
+### [Remove-NetVirtualizationCustomerRoute](./remove-netvirtualizationcustomerroute.md)
 Removes virtual network routes.
 
-### [Remove-NetVirtualizationLookupRecord](./Remove-NetVirtualizationLookupRecord.md)
+### [Remove-NetVirtualizationLookupRecord](./remove-netvirtualizationlookuprecord.md)
 Removes policy entries for IP addresses in a virtual network.
 
-### [Remove-NetVirtualizationProviderAddress](./Remove-NetVirtualizationProviderAddress.md)
+### [Remove-NetVirtualizationProviderAddress](./remove-netvirtualizationprovideraddress.md)
 Deletes Provider Addresses.
 
-### [Remove-NetVirtualizationProviderRoute](./Remove-NetVirtualizationProviderRoute.md)
+### [Remove-NetVirtualizationProviderRoute](./remove-netvirtualizationproviderroute.md)
 Removes physical network routes for a virtualized network.
 
-### [Select-NetVirtualizationNextHop](./Select-NetVirtualizationNextHop.md)
+### [Select-NetVirtualizationNextHop](./select-netvirtualizationnexthop.md)
 Selects the next hop MAC address.
 
-### [Set-NetVirtualizationCustomerRoute](./Set-NetVirtualizationCustomerRoute.md)
+### [Set-NetVirtualizationCustomerRoute](./set-netvirtualizationcustomerroute.md)
 Changes the metric value for virtual routes.
 
-### [Set-NetVirtualizationGlobal](./Set-NetVirtualizationGlobal.md)
+### [Set-NetVirtualizationGlobal](./set-netvirtualizationglobal.md)
 Changes per-host global settings of a Network Virtualization module.
 
-### [Set-NetVirtualizationLookupRecord](./Set-NetVirtualizationLookupRecord.md)
+### [Set-NetVirtualizationLookupRecord](./set-netvirtualizationlookuprecord.md)
 Changes settings for policy entries that belong to a virtual network.
 
-### [Set-NetVirtualizationProviderAddress](./Set-NetVirtualizationProviderAddress.md)
+### [Set-NetVirtualizationProviderAddress](./set-netvirtualizationprovideraddress.md)
 Changes a VLAN ID or prefix length for a Provider Address.
 
-### [Set-NetVirtualizationProviderRoute](./Set-NetVirtualizationProviderRoute.md)
+### [Set-NetVirtualizationProviderRoute](./set-netvirtualizationproviderroute.md)
 Updates the metric for a Provider Route.
+
 

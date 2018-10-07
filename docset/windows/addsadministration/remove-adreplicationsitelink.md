@@ -208,9 +208,10 @@ A site link object is received by the *Identity* parameter.
 
 ## RELATED LINKS
 
-[Get-ADReplicationSiteLink](./Get-ADReplicationSiteLink.md)
+[Get-ADReplicationSiteLink](./get-adreplicationsitelink.md)
 
-[New-ADReplicationSiteLink](./New-ADReplicationSiteLink.md)
+[New-ADReplicationSiteLink](./new-adreplicationsitelink.md)
 
-[Set-ADReplicationSiteLink](./Set-ADReplicationSiteLink.md)
+[Set-ADReplicationSiteLink](./set-adreplicationsitelink.md)
+
 

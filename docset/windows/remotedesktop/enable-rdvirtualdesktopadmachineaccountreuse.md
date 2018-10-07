@@ -71,7 +71,8 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Disable-RDVirtualDesktopADMachineAccountReuse](./Disable-RDVirtualDesktopADMachineAccountReuse.md)
+[Disable-RDVirtualDesktopADMachineAccountReuse](./disable-rdvirtualdesktopadmachineaccountreuse.md)
 
-[Test-RDVirtualDesktopADMachineAccountReuse](./Test-RDVirtualDesktopADMachineAccountReuse.md)
+[Test-RDVirtualDesktopADMachineAccountReuse](./test-rdvirtualdesktopadmachineaccountreuse.md)
+
 

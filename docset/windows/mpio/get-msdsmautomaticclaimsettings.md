@@ -68,9 +68,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-MSDSMSupportedHW](./Get-MSDSMSupportedHW.md)
+[Get-MSDSMSupportedHW](./get-msdsmsupportedhw.md)
 
-[Disable-MSDSMAutomaticClaim](./Disable-MSDSMAutomaticClaim.md)
+[Disable-MSDSMAutomaticClaim](./disable-msdsmautomaticclaim.md)
 
-[Enable-MSDSMAutomaticClaim](./Enable-MSDSMAutomaticClaim.md)
+[Enable-MSDSMAutomaticClaim](./enable-msdsmautomaticclaim.md)
+
 

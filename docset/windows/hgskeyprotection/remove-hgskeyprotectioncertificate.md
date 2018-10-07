@@ -143,9 +143,10 @@ This cmdlet does not generate any output.
 
 ## RELATED LINKS
 
-[Add-HgsKeyProtectionCertificate](./Add-HgsKeyProtectionCertificate.md)
+[Add-HgsKeyProtectionCertificate](./add-hgskeyprotectioncertificate.md)
 
-[Get-HgsKeyProtectionCertificate](./Get-HgsKeyProtectionCertificate.md)
+[Get-HgsKeyProtectionCertificate](./get-hgskeyprotectioncertificate.md)
 
-[Set-HgsKeyProtectionCertificate](./Set-HgsKeyProtectionCertificate.md)
+[Set-HgsKeyProtectionCertificate](./set-hgskeyprotectioncertificate.md)
+
 

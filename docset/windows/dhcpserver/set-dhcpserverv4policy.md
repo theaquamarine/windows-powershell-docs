@@ -39,7 +39,7 @@ If the *CircuitId*, *ClientId*, *Fqdn*, *MACAddress*, *RelayAgent*, *RemoteId*, 
 
 If the *VendorClass* parameter is specified and the policy being modified already has conditions for the *VendorClass* parameter value, the existing *VendorClass* parameter value is removed and the new *VendorClass* parameter value is added.
 
-However, if the policy being modified has conditions for the *MacAddress* parameter value, the *MacAddress* parameter value is not changed and is logically combined (ORꞌd) or differenced (ANDꞌd) with the *VendorClass*-based conditions.
+However, if the policy being modified has conditions for the *MacAddress* parameter value, the *MacAddress* parameter value is not changed and is logically combined (OR???d) or differenced (AND???d) with the *VendorClass*-based conditions.
 
 The same applies to any of the *CircuitId*, *ClientId*, *Fqdn*, *MACAddress*, *RelayAgent*, *RemoteId*, *SubscriberId*, *UserClass*, or *VendorClass* parameters that are used in the conditions.
 
@@ -59,7 +59,7 @@ PS C:\> Set-DhcpServerv4Policy -Name "PhysicalMachinesPolicy" -Condition OR -Mac
 
 This example modifies the conditions of the server level policy for non-Hyper-V clients.
 If the policy had an existing MAC address based condition, the same condition is replaced with the condition specified in this cmdlet.
-However, if the policy had conditions based on other fields, such as the *VendorClass*, *UserClass*, *ClientId*, or *RelayAgent* parameters, those is retained and logically combined (ORꞌd) with the newly added MAC address based condition.
+However, if the policy had conditions based on other fields, such as the *VendorClass*, *UserClass*, *ClientId*, or *RelayAgent* parameters, those is retained and logically combined (OR???d) with the newly added MAC address based condition.
 
 ### Example 3: Modify the conditions of the server level policy for non-Hyper-V clients
 ```
@@ -85,7 +85,7 @@ The cmdlet immediately returns an object that represents the job and then displa
 You can continue to work in the session while the job completes.
 To manage the job, use the `*-Job` cmdlets.
 To get the job results, use the [Receive-Job](http://go.microsoft.com/fwlink/?LinkID=113372) cmdlet. 
-For more information about Windows PowerShell® background jobs, see [about_Jobs](http://go.microsoft.com/fwlink/?LinkID=113251).
+For more information about Windows PowerShell?? background jobs, see [about_Jobs](http://go.microsoft.com/fwlink/?LinkID=113251).
 
 ```yaml
 Type: SwitchParameter
@@ -149,9 +149,9 @@ The values can be followed by another comparator, EQ or NE, which is followed by
 The input format is a hexadecimal string with or without hyphen separation.
 The output format is a hexadecimal string with hyphen separation.
 
-The values following the EQ operator is treated as multiple assertions which are logically combined (ORꞌd).
+The values following the EQ operator is treated as multiple assertions which are logically combined (OR???d).
 
-The values following the NE operator is treated as multiple assertions which are logically differenced (ANDꞌd).
+The values following the NE operator is treated as multiple assertions which are logically differenced (AND???d).
 
 An example of the format is: `EQ, 00-11-22-33-44-55, AA-BB-CC-DD-EE*`.
 
@@ -299,9 +299,9 @@ The input format is a hexadecimal string with or without hyphen separation.
 A trailing wildcard character can be used to indicate partial match.
 The output format is a hexadecimal string with hyphen separation.
 
-The values following the EQ operator is treated as multiple assertions which are logically combined (ORꞌd).
+The values following the EQ operator is treated as multiple assertions which are logically combined (OR???d).
 
-The values following the NE operator is treated as multiple assertions which are logically differenced (ANDꞌd).
+The values following the NE operator is treated as multiple assertions which are logically differenced (AND???d).
 
 An example of the format is: `00-1F-3B-7C-B7-89, 00-1F-3B-7C-B7-*, 001F3B7CB789`.
 
@@ -463,7 +463,7 @@ Accept wildcard characters: False
 
 ### -ThrottleLimit
 Specifies the maximum number of concurrent operations that can be established to run the cmdlet.
-If this parameter is omitted or a value of `0` is entered, then Windows PowerShell® calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
+If this parameter is omitted or a value of `0` is entered, then Windows PowerShell?? calculates an optimum throttle limit for the cmdlet based on the number of CIM cmdlets that are running on the computer.
 The throttle limit applies only to the current cmdlet, not to the session or to the computer.
 
 ```yaml
@@ -490,9 +490,9 @@ The values to be specified must be the user class names that already exist on th
 
 The format of the value should be a hexadecimal string starting with `0x`.
 
-The values following the EQ operator are treated as multiple assertions which are logically combined (ORꞌd).
+The values following the EQ operator are treated as multiple assertions which are logically combined (OR???d).
 
-The values following the NE operator are treated as multiple assertions which are logically differenced (ANDꞌd).
+The values following the NE operator are treated as multiple assertions which are logically differenced (AND???d).
 
 ```yaml
 Type: String[]
@@ -519,9 +519,9 @@ The values to be specified must be the vendor class names that already exist on 
 
 The format of the value should be a hexadecimal string starting with `0x`.
 
-The values following the EQ operator are treated as multiple assertions which are logically combined (ORꞌd).
+The values following the EQ operator are treated as multiple assertions which are logically combined (OR???d).
 
-The values following the NE operator are treated as multiple assertions which are logically differenced (ANDꞌd).
+The values following the NE operator are treated as multiple assertions which are logically differenced (AND???d).
 
 ```yaml
 Type: String[]
@@ -585,4 +585,5 @@ The path after the pound sign (`#`) provides the namespace and class name for th
 [Remove-DhcpServerv4Policy](./Remove-DhcpServerv4Policy.md)
 
 [Remove-DhcpServerv4PolicyIPRange](./Remove-DhcpServerv4PolicyIPRange.md)
+
 
